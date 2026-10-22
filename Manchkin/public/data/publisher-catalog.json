@@ -1,0 +1,2111 @@
+{
+  "source": "https://munchkin.game/products/games/munchkin/",
+  "retrieved": "2026-10-22",
+  "sets": [
+    {
+      "id": "munchkin-4-the-need-for-steed",
+      "name": "Munchkin 4 – The Need For Steed",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-4-the-need-for-steed/",
+      "groups": [
+        {
+          "section": "Doors (78)",
+          "names": [
+            "Alarm Clock",
+            "Armored",
+            "Bard",
+            "Bard Hireling",
+            "Big Fat Hairy Dale",
+            "Big Joe",
+            "Bipolar Bear",
+            "Blank Dog",
+            "Budget Hireling",
+            "Catboi Hireling",
+            "Cheat!",
+            "Chicken Steed",
+            "Cleric",
+            "Cleric Hireling",
+            "Curse! Everything Is Relative!",
+            "Curse! Flatulent Steed",
+            "Curse! Flypaper Floors!",
+            "Curse! Payroll Tax",
+            "Curse! Rations Spoiled",
+            "Dragon Steed",
+            "Dwarf",
+            "Dwarf Hireling",
+            "Eagle Steed",
+            "Egg",
+            "Elf",
+            "Elf Hireling",
+            ". . . From Hell",
+            "Ghost Writer",
+            "Giant Mutant Gerbil Steed",
+            "Gnome",
+            "Gnome Hireling",
+            "Grape Jelly",
+            "Hair Elemental",
+            "Hairy Potter",
+            "Half a . . .",
+            "Half-Breed",
+            "Halfling",
+            "Halfling Hireling",
+            "Henchwench Hireling",
+            "Itsy Bitsy Spider",
+            "Katrina",
+            "Knight of the Living Dead",
+            "Magic Resistant",
+            "Mighty Warhorse",
+            "Misplacer Beast",
+            "Monster Truck",
+            "Munchkin Sphinx",
+            "Ninja Giant",
+            "Ooze with Uzi",
+            "Orc",
+            "Orc Hireling",
+            "Owl Bare",
+            "Pirate Sheep",
+            "Plushy Skull",
+            "Polly Hedron",
+            "Raptor Steed",
+            "Ravenous",
+            "Saber-Toothed",
+            "Shade",
+            "Stealthy",
+            "Super Munchkin",
+            "The Ether Bunny",
+            "The Evil Eye",
+            "The Fairy Godfather",
+            "Thief",
+            "Thief Hireling",
+            "Tiger Steed",
+            "Turtle Steed",
+            "Wandering Monster",
+            "Warrior",
+            "Warrior Hireling",
+            ". . . With Bagpipes",
+            "Wizard",
+            "Wizard Hireling",
+            "Wolf Steed",
+            "Yak Yak Yak",
+            "Zombees"
+          ]
+        },
+        {
+          "section": "Treasures (34)",
+          "names": [
+            ". . . A-Matic",
+            "Arm-y Helmet",
+            "Bi-Sickle",
+            "Board of Education",
+            "Budget Armor",
+            "Chemical Mace",
+            "Costume As Your Character (GUAL)",
+            "Cross Bow",
+            "Duck of Earl",
+            "Feet Worse Than Death",
+            "Fire-Breathing Bridle",
+            "Helm of Terror",
+            "Hot Rod",
+            "Kill a Hireling (GUAL)",
+            "Kill a Steed (GUAL)",
+            "Kill Some Nazis (GUAL)",
+            "Loaded Die",
+            "Loot Your Own Temple",
+            "Lurina Steed Chow",
+            "Mating Call",
+            "MBA in Management",
+            "Mean Medicine",
+            ". . . of Destiny",
+            "Press-On Wings",
+            "Sex Change Potion",
+            "Shiny",
+            "Shrinking Powder",
+            "Smart Pills",
+            "Spudded Leather Armor",
+            "Steal a Hireling",
+            "Talking Potion",
+            "Trick Riding Boots",
+            "Trigger Volcano Beneath Enemy Town (GUAL)",
+            "Wishing Ring"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-5-de-ranged",
+      "name": "Munchkin 5 — De-Ranged",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-5-de-ranged/",
+      "groups": [
+        {
+          "section": "Doors (60)",
+          "names": [
+            "Anubis",
+            "Blobgoblin",
+            "Budget Steed",
+            "Cheat!",
+            "Cockatrice",
+            "Curse! Arbitrary Game Balance",
+            "Curse! Bag of Holding",
+            "Curse! I Got a Rock",
+            "Curse! Lose Your Lucky Die",
+            "Curse! Magic Limp",
+            "Curse! Magic Lump",
+            "Curse! Rain of Weasels",
+            "Curse! Typecast",
+            "Curse! Voodoo Doll",
+            "Cyclops",
+            "Dice Lice",
+            "Druid",
+            "Dwarf",
+            "Elf",
+            "Flying Carpet",
+            "Ghost in the Shell",
+            "Glass Jaw",
+            "GM's Ex-Girlfriend",
+            "Gnome",
+            "Grinning",
+            "Half-Breed",
+            "Halfling",
+            "Inflatable",
+            "Knight Owl",
+            "Lightning Bug",
+            "Minor God",
+            "Monster Under the Bed",
+            "Mud Wrestler",
+            "Orc",
+            "Orc of the Covenant",
+            "Oxymoron",
+            "Politically Correct",
+            "Poultrygeist",
+            "Ranger",
+            "Salaad",
+            "Spider Steed",
+            "Super Munchkin",
+            "Telemarketer",
+            "The Brothers Grimm",
+            "The Hand of Fate",
+            "The Snerks",
+            "The Three Munchketeers",
+            "The Wraith of Khan",
+            "Tooth Fairy",
+            "Torchbearer Hireling",
+            "Two-Headed",
+            "Undead Clowns",
+            "Used Steed Salesman",
+            "Wandering Monster"
+          ]
+        },
+        {
+          "section": "Treasures (52)",
+          "names": [
+            "Baron Munchkinhausen",
+            "Bear Feet",
+            "Blessing",
+            "Bow of Grossly Unbalanced Combat",
+            "Bungee Cord",
+            "Canteen of Spleen",
+            "Carbonated Holy Water",
+            "Critical Hit",
+            "Dead Ringer",
+            "Death Rattle",
+            "Diadem of Demented Dexterity",
+            "Exorcise Wheel",
+            "Find The Secret Door (GUAL)",
+            "Fire Arms",
+            "Flaming",
+            "Funny-Shaped",
+            "Grave Error",
+            "Grow Two Feet",
+            "Gullible New GM (GUAL)",
+            "Guy Wire",
+            "Hag of Bolding",
+            "Holy Rollers",
+            "Horse Shoes",
+            "Human Shield",
+            "Invisible Helmet",
+            "Iron Rations",
+            "Junk Mail",
+            "Kill The Conversation (GUAL)",
+            "Laugh At GM's Monty Python Routine (GUAL)",
+            "Loaded Die",
+            "Make The GM Laugh (GUAL)",
+            "Make The GM Snort Soda Out His Nose (GUAL)",
+            "Oil of Olé",
+            "Paper Plate Mail",
+            "Philosopher's Scone",
+            "Pike",
+            "Plastic Nun",
+            "Racing Stripes",
+            "Random Axe of Kindness",
+            "Redwood Staff",
+            "Rod of Lardly Meat",
+            "Scary Helmet",
+            "Short Sword",
+            "Sledgehammer of Smackdown",
+            "Spandex Chainmail",
+            "Spiky Top",
+            "There Can Be Only One, And It's Me",
+            "Three-Handed Sword",
+            "Vanity Plates",
+            "Wishing Ring",
+            "Write Your Character's Life Story (GUAL)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-6-demented-dungeons",
+      "name": "Munchkin 6 — Demented Dungeons",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-6-demented-dungeons/",
+      "groups": [
+        {
+          "section": "Doors (16)",
+          "names": [
+            "All Roads Lead To Rome",
+            "Cave-In!",
+            "Cleared the Dungeon!",
+            "Narrow Passage",
+            "Secret Door",
+            "Teleport!",
+            "The Gods Reward Lameness",
+            "Walking In Circles"
+          ]
+        },
+        {
+          "section": "Special Cards",
+          "names": [
+            "Dungeon of Cinematic Encumbrance Limits",
+            "Dungeon of Comprehensive Curses",
+            "Dungeon of Deadly Deathful Death",
+            "Dungeon of Elvish Excess",
+            "Dungeon of Even More Rampant Cheating Than Usual",
+            "Dungeon of Extra Effort",
+            "Dungeon of Feeble Foes",
+            "Dungeon of Foul Filthy Flypaper Floors",
+            "Dungeon of Gender Bending",
+            "Dungeon of GM-ly Generosity",
+            "Dungeon of Lavish Loot",
+            "Dungeon of Mandatory Murder",
+            "Dungeon of Manga Wrangling",
+            "Dungeon of Militant Monsters",
+            "Dungeon of Ridiculous Races",
+            "Dungeon of Stupendous Skills",
+            "Dungeon of Ubiquitous Undead",
+            "Dungeon of Unexpected Epicness",
+            "Dungeon of Utter Uncharitability",
+            "Joe's Discount Dungeon"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-6.5-terrible-tombs",
+      "name": "Munchkin 6.5 — Terrible Tombs",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-6.5-terrible-tombs/",
+      "groups": [
+        {
+          "section": "Doors (16)",
+          "names": [
+            "Mirror Portal",
+            "Mortal Portal",
+            "Portal of Cavortal",
+            "Portal of Riotous Reunion",
+            "Rip-Snortal Portal",
+            "Short Portal",
+            "Sport Portal",
+            "Suspiciously Simple Portal"
+          ]
+        },
+        {
+          "section": "Special Cards",
+          "names": [
+            "Beverly Hells",
+            "Catacombs",
+            "Chamber of Secretions",
+            "Cheshire Cavern",
+            "City-State of the Invisible Underwear",
+            "Dead Pool",
+            "Dung Eon",
+            "Dungeon of Double Trouble",
+            "Dungeon of Effulgent Equity",
+            "Dungeon of Enforced Holiday Cheer",
+            "Dungeon of False Pride and Chicken Salad",
+            "Dungeon of Sartorial Splendiferousness",
+            "Dungeon of Sdrawkcab",
+            "Harm Pit",
+            "Sneak Peak",
+            "The Burning Deck",
+            "The House of Cards",
+            "The Monkey House",
+            "The World of Munchkin",
+            "Wight Club"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-7-cheat-with-both-hands",
+      "name": "Munchkin 7 — Cheat With Both Hands",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-7-cheat-with-both-hands/",
+      "groups": [
+        {
+          "section": "Doors (70)",
+          "names": [
+            "﻿1/3-Breed",
+            "1/3-Breed",
+            "Amazingly",
+            "Armor-Plated",
+            "Astoundingly",
+            "Bad Smell",
+            "Bedridden",
+            "Buffed",
+            "Cheat!",
+            "Chimera",
+            "Curse! Don't Call Me Shirley!",
+            "Curse! GM Enforces Rules!",
+            "Dire",
+            "Direct To Video Sequel",
+            "Dirty Laundry",
+            "Disgustingly",
+            "Dogpile",
+            "Drunk",
+            "Epic Junior",
+            "Exploding",
+            "Extremely",
+            "Footprints",
+            "Fries",
+            "Game Store Manager",
+            "Graffiti",
+            "Green Army Men",
+            "Hairy",
+            "Half-Breed",
+            "Large Economy Size",
+            "Mind-Bogglingly",
+            "Monster Mash",
+            ". . . Of Love",
+            "Old Edition",
+            "Smiley Face",
+            "Sneaky",
+            "Sock Puppet",
+            "Standie",
+            "Super Duper Munchkin",
+            "Super Munchkin",
+            "Television",
+            "Toothless",
+            "Ultra Munchkin",
+            "Ultra-Rare",
+            "Unbelievably",
+            "Undead",
+            "Wandering Monster",
+            ". . . With Extra Cheese"
+          ]
+        },
+        {
+          "section": "Treasures (42)",
+          "names": [
+            "Air-Cooled",
+            "Armor-Piercing",
+            "Cheat Like There's No Tomorrow",
+            "Cheat With Both Hands",
+            "Extra Feat",
+            "Extra-Loud",
+            "Feed GM's Dice Habit (GUAL)",
+            "Gold-Plated",
+            "Hurt GM's Brain (GUAL)",
+            "Inflatable Munchkin",
+            "Loaded Die",
+            "Lucky Penny",
+            "Lucky Talisman",
+            "Magic Blessed DNA Potion",
+            "Mighty Tome of Skillz",
+            "Mine Goes To 11!",
+            "Peek At The Scenario (GUAL)",
+            "Portable Hole",
+            "Potion of Ridiculous Size",
+            "Reincarnate Without Dying First (GUAL)",
+            "Reinforced",
+            "Revealing Costume",
+            "Scroll Of Debuffination",
+            "Self-Cleaning",
+            "Sell Your Mother",
+            "Spike-Heeled",
+            "Spring-Mounted",
+            "Steel-Toed",
+            "Teflon-Coated",
+            "Theme Music",
+            "Trained Moths!",
+            "Valuable Coupon",
+            "With Spiky Bits",
+            "You'll Take Away My Toy When You Pry It From My Cold, Dead Hands"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-8-half-horse-will-travel",
+      "name": "Munchkin 8 — Half Horse, Will Travel",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-8-half-horse-will-travel/",
+      "groups": [
+        {
+          "section": "Doors (77)",
+          "names": [
+            "A Cute Angel",
+            "Barbaric",
+            "Bridle Shower",
+            "Centaur",
+            "Centaur Hireling",
+            "Centaurpede",
+            "Cheat!",
+            "Chocolate Bunny",
+            "Compulsive",
+            "Curse! Bad Steed Feed",
+            "Curse! Butterfingers",
+            "Curse! Call of the Wild",
+            "Curse! Clumsy",
+            "Curse! De-Cap-itation",
+            "Curse! Gender Blender",
+            "Curse! Genetic Drift",
+            "Curse! Impending DOOM!",
+            "Curse! Inept",
+            "Curse! Misplace Your Race",
+            "Curse! Snail Mail",
+            "Curse! Sock Full of Bees",
+            "Curse! Uncorked",
+            "Curse! You're Not So Special!",
+            "Elder",
+            "Elite",
+            "Elmer",
+            "Escape Goat",
+            "Frog Prince",
+            "Gator Aides",
+            "Grouchy",
+            "Half-Breed",
+            "Headless Norseman",
+            "Jockey",
+            "Knight Mare",
+            "Legendary",
+            "Lizard Guy",
+            "Lizard Guy Hireling",
+            "Lord Tennis Anyone",
+            "Lounge Lizards",
+            "Meanderthal",
+            "Midgard Serpent",
+            "Newt",
+            "Obsessive",
+            "Obtuse Angel",
+            "Phoenix Steed",
+            "Pinball Lizard",
+            "Psychic Hireling",
+            "Ram Steed",
+            "Right Angel",
+            "Roc Star",
+            "Salamander",
+            "Snakes on a Bus",
+            "Speed Steed",
+            "Super Munchkin",
+            "That Gecko on the Telly",
+            "Tikbalang",
+            "Tranquil",
+            "Unicorn Steed"
+          ]
+        },
+        {
+          "section": "Treasures (35)",
+          "names": [
+            "Afterburner",
+            "Avatar",
+            "Barding",
+            "Betray the Party (GUAL)",
+            "Blanket of Invisibility",
+            "Blinders",
+            "Buy the GM New Miniatures (GUAL)",
+            "Censer of Censoring",
+            "Christmas Sweater",
+            "Croc Pot",
+            "Fan Club",
+            "Fishing Ring",
+            "Half Horse, Will Travel (GUAL)",
+            "Halo",
+            "Holy Round Spiky Thing",
+            "Horse Caller",
+            "Horse Feathers",
+            "Horseshoe Crabs",
+            "Horsewhip",
+            "Loaded Die",
+            "Mammalskin Boots",
+            "Matching Equipment Set",
+            "Meeple Syrup",
+            "Morningstar",
+            "Nightstick",
+            "Plumber's Snake",
+            "Poisonberry Syrup",
+            "Reloaded Die",
+            "Saddle Horn",
+            "Scaly Armor",
+            "Show Up Early for the Game (GUAL)",
+            "Spear and Magic Helmet",
+            "Take the Good with the Bad (GUAL)",
+            "Watch Japanese Monster Movies (GUAL)",
+            "Wishing Ring"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-the-guild",
+      "name": "Munchkin The Guild",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-the-guild/",
+      "groups": [
+        {
+          "section": "Doors (8)",
+          "names": [
+            "Curse! Lecture Your Party In Awkward, Repetitive Sentences That Are Filled With Digressions and Irrelevancies and Bore Everyone Like Some Repetitive Boring Thing",
+            "Curse! School'd!",
+            "Elected Guild Leader!",
+            "Rules Are For Losers!",
+            "Tall Hot Girl",
+            "The Kevinator",
+            "Unplugged!",
+            "Zaboo's Mom"
+          ]
+        },
+        {
+          "section": "Treasures (7)",
+          "names": [
+            "+5 to Sexterity",
+            "Commodity Exchange",
+            "Midnight Munchkin Madness",
+            "Munchkin Armor",
+            "Out-Of-Game Benefits",
+            "Pep Talk From Your Avatar (GUAL)",
+            "Sell Game T-Shirts"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-skullkickers",
+      "name": "Munchkin Skullkickers",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-skullkickers/",
+      "groups": [
+        {
+          "section": "Doors (7)",
+          "names": [
+            "Ape With Horns",
+            "Concealed Weapon",
+            "Corpse Giant",
+            "Curse! Kick Yourself In The Ass",
+            "Murder Faeries",
+            "Nutski the Squirrel",
+            "Pot-Bellied Werewolf"
+          ]
+        },
+        {
+          "section": "Treasures (8)",
+          "names": [
+            "Axes of Evil",
+            "Dramatic Sound Effect!",
+            "Justice Pie",
+            "Kick 'Em While They're Down",
+            "Panic The Villagers",
+            "Skull Kick!",
+            "Sneaky-Sneak",
+            "Squashed By A Bad Dwarf's Bottom"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-penny-arcade",
+      "name": "Munchkin Penny Arcade",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-penny-arcade/",
+      "groups": [
+        {
+          "section": "Doors (11)",
+          "names": [
+            "But There's Still No Cake",
+            "Call BS On GM",
+            "Curse! PAX Pox",
+            "Deep Crow",
+            "Laser Squid Nemesis",
+            "Orc Mathguard",
+            "Shouldn’t Have Looked",
+            "The Fleshreaper",
+            "Unholy Metamorphosis",
+            "You Killed It, You Eat It",
+            "Zombie GM"
+          ]
+        },
+        {
+          "section": "Treasures (4)",
+          "names": [
+            "Dire Teddy Bear",
+            "Hat of the Hotstepper",
+            "Inferior Boots",
+            "Sinistine, Bow of the Black Maiden"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-fairy-dust",
+      "name": "Munchkin Fairy Dust",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-fairy-dust/",
+      "groups": [
+        {
+          "section": "Doors (1)",
+          "names": [
+            "Sparkly Good Fairy"
+          ]
+        },
+        {
+          "section": "Special Cards",
+          "names": [
+            "Brownie In Motion",
+            "Calamity-Canceling Crawdad",
+            "Charmed Circle",
+            "Fairy Favor",
+            "Fairy Fortune",
+            "Fairy Unfairness",
+            "Handbag of Holding",
+            "Hanshee",
+            "Pet Monster",
+            "Pixie Potion",
+            "Ring of Respiration",
+            "Second Chance Sparkles",
+            "Sparkler",
+            "Sylph Preservation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkinomicon",
+      "name": "Munchkinomicon",
+      "source": "https://munchkin.game/products/games/munchkin/munchkinomicon/",
+      "groups": [
+        {
+          "section": "Treasures (1)",
+          "names": [
+            "Munchkinomicon"
+          ]
+        },
+        {
+          "section": "Special Cards",
+          "names": [
+            "Bookmark",
+            "Contagious Glory",
+            "Eldritch Cleaver",
+            "Monster, Come Forth!",
+            "Power Through Fear",
+            "Reanimate",
+            "Spell of Slurping",
+            "Summon Horde",
+            "Summon the Book",
+            "The Slippery Swap",
+            "The Vaults of Omigoshgolli",
+            "Throwing Yourself Into It",
+            "United I Stand",
+            "Unnatural Compulsion"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-monster-enhancers",
+      "name": "Munchkin Monster Enhancers",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-monster-enhancers/",
+      "groups": [
+        {
+          "section": "Doors (15)",
+          "names": [
+            ". . . And Its Little Friends",
+            "Curse! Lead Paint!",
+            "Curse! Warranty Expires!",
+            "Generic",
+            "Hollywood",
+            "Invisible",
+            "Lethal",
+            "Level-Draining",
+            "Really, Really",
+            "Savage",
+            "Seductive",
+            "Switcheroo",
+            "Ultimate",
+            "Unspeakably"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-reloaded",
+      "name": "Munchkin Reloaded",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-reloaded/",
+      "groups": [
+        {
+          "section": "Doors (10)",
+          "names": [
+            "Dark",
+            "High",
+            "Master",
+            "Narrow-Minded"
+          ]
+        },
+        {
+          "section": "Treasures (5)",
+          "names": [
+            "Reloaded Die",
+            "Rocks Fall, Everyone Dies"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-gets-promoted",
+      "name": "Munchkin Gets Promoted",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-gets-promoted/",
+      "groups": [
+        {
+          "section": "Doors (12)",
+          "names": [
+            "Billiard Ball of Nonexistence",
+            "Curse! Zombification",
+            "Cut in Line",
+            "Henchmonster",
+            "John of the Dead",
+            "Mug the Shopkeeper",
+            "Ranger Hireling",
+            "Stacked Deck",
+            "Step-And-A-Half",
+            "The Last Laugh",
+            "Whim of the Elder Gods",
+            "Zombie Santa"
+          ]
+        },
+        {
+          "section": "Treasures (3)",
+          "names": [
+            "Get A Head",
+            "Get Promoted",
+            "Love Thy Neighbor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-gets-promoted-2",
+      "name": "Munchkin Gets Promoted 2",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-gets-promoted-2/",
+      "groups": [
+        {
+          "section": "Doors (8)",
+          "names": [
+            "Angry Bards",
+            "Boa Constructor",
+            "Book Wyrm",
+            "Ear Worm",
+            "Game Mechanic",
+            "Oil Derek",
+            "Pub Knight",
+            "Rollback"
+          ]
+        },
+        {
+          "section": "Treasures (7)",
+          "names": [
+            "Cloak of Anonymity",
+            "Club of Fighting",
+            "Deodorant Stick",
+            "Go Down a Level",
+            "Go Up a Level",
+            "Lightning Bolt",
+            "Wand of Dousing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-easter-eggs",
+      "name": "Munchkin Easter Eggs",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-easter-eggs/",
+      "groups": [
+        {
+          "section": "Doors (8)",
+          "names": [
+            "Chocolate",
+            "Curse! Fake Grass",
+            "Hard-Boiled",
+            "Hollow",
+            "Ice Cream Coney",
+            "Little Bunny 'Thulhu",
+            "Peter Cottonmouth",
+            "Quantum Lepus"
+          ]
+        },
+        {
+          "section": "Treasures (7)",
+          "names": [
+            "Basket Case",
+            "Bunny Ears",
+            "Bunny Slippers",
+            "Cascarones",
+            "Rotten Eggs",
+            "Sundae Dress",
+            "Tie Die"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-dragons",
+      "name": "Munchkin Dragons",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-dragons/",
+      "groups": [
+        {
+          "section": "Doors (12)",
+          "names": [
+            "Can of Wyrms",
+            "Dragon Ass",
+            "Dragon Claus",
+            "Dragonfly",
+            "Dragon Queen",
+            "Dragon Racer",
+            "Dragula",
+            "Flatwyrm",
+            "Hireling: Lance",
+            "Hydrogen Dragon",
+            "Magic Dragon",
+            "Smog"
+          ]
+        },
+        {
+          "section": "Treasures (3)",
+          "names": [
+            "Dragon Balls",
+            "Dragon Flagon",
+            "Your Feet Are Dragon"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-dragons-trike",
+      "name": "Munchkin Dragon's Trike",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-dragons-trike/",
+      "groups": [
+        {
+          "section": "Doors (11)",
+          "names": [
+            "Bone Dragon",
+            "Curse! Drag On . . . and On . . . and On . . .",
+            "Double Dragon",
+            "Dragonne With the Wind",
+            "Dragoon",
+            "Dr. Jekyll and Mr. Hydra",
+            "Failcor",
+            "Fairy Dragon",
+            "Hatchling",
+            "Heart Wyrm",
+            "Inch Wyrm"
+          ]
+        },
+        {
+          "section": "Treasures (4)",
+          "names": [
+            "Dragon Borne (GUAL)",
+            "Dragon Scale Armor",
+            "Dragon's Trike",
+            "Wyrm Hole"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-tricky-treats",
+      "name": "Munchkin Tricky Treats",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-tricky-treats/",
+      "groups": [
+        {
+          "section": "Doors (8)",
+          "names": [
+            "Curse! Covered in T.P.",
+            "Curse! Healthy Snacks",
+            "Harecrow",
+            "Mopey Girl",
+            "Sparkly Vampire",
+            "Teen Werewolf",
+            "The Prim Reaper",
+            "Trick-or-Treater"
+          ]
+        },
+        {
+          "section": "Treasures (7)",
+          "names": [
+            "CANDY!!!! (GUAL)",
+            "Favorite Machete",
+            "Helmet of Overprotection",
+            "Jack o' Lanterns",
+            "Swiss Army Glove",
+            "Witch's Brew",
+            "Zombie Costume"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-princesses",
+      "name": "Munchkin Princesses",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-princesses/",
+      "groups": [
+        {
+          "section": "Doors (9)",
+          "names": [
+            "Beautiful Stepsister",
+            "Curse! Stolen by Fairies",
+            "Overly Helpful Woodland Creatures",
+            "Prince Charmless",
+            "Princess",
+            "The Eighth Dwarf",
+            "Ugly Stepsister",
+            "Wicked"
+          ]
+        },
+        {
+          "section": "Treasures (6)",
+          "names": [
+            "Genetically Modified Apple",
+            "Glass Sneakers",
+            "Hoop Skirt",
+            "I Toad You So!",
+            "Rescue Yourself (GUAL)",
+            "Tiara of Blinding"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-love-shark-baby",
+      "name": "Munchkin Love Shark Baby",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-love-shark-baby/",
+      "groups": [
+        {
+          "section": "Doors (7)",
+          "names": [
+            "Cupid",
+            "Curse! Stupid Is as Cupid Does",
+            "Lonely",
+            "Love Shark",
+            "Romanticore",
+            "Smothering",
+            "Wingman"
+          ]
+        },
+        {
+          "section": "Treasures (8)",
+          "names": [
+            "A Single Perfect Rose",
+            "Amour Armour",
+            "Bouquet of Roses",
+            "Box of Expired Candy",
+            "Chocolate-Covered Cherry Bombs",
+            "Cupid's Bow",
+            "Find the Perfect Gift (GUAL)",
+            "Lover Loafers"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-kobolds-ate-my-baby",
+      "name": "Munchkin Kobolds Ate My Baby",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-kobolds-ate-my-baby/",
+      "groups": [
+        {
+          "section": "Doors (9)",
+          "names": [
+            "All Hail King Torg!",
+            "Chicken With Attitude",
+            "Curse! Pants on Fire!",
+            "Curse! Random Horrible Death",
+            "Curse! Taste Like Baby",
+            "Foul-Smelling",
+            "Innocent Villagers",
+            "King Torg",
+            ". . . With Extra Padding"
+          ]
+        },
+        {
+          "section": "Treasures (6)",
+          "names": [
+            "Baby Food",
+            "Beer Barrel Armor",
+            "Codex of Tabriz the Arcane",
+            "Iron Skillet",
+            "Kobold Drinking Song (GUAL)",
+            "Kobold Soliloquy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-undead",
+      "name": "Munchkin Undead",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-undead/",
+      "groups": [
+        {
+          "section": "Doors (12)",
+          "names": [
+            "Curse! Abra-Cadaver!",
+            "Curse! Grave Mistake!",
+            "Ghast from the Past",
+            "Ghosts on the Half Shell",
+            "Grim Keeper",
+            "Hampire",
+            "Hireling: Buster",
+            "Moldering",
+            "Post Mortem",
+            "Soul Train",
+            "Skeleton Key",
+            "Team Spirit"
+          ]
+        },
+        {
+          "section": "Treasures (3)",
+          "names": [
+            "Death Mints",
+            "The Wight Stuff",
+            "Visit the Necropolis (GUAL)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-kittens",
+      "name": "Munchkin Kittens",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-kittens/",
+      "groups": [
+        {
+          "section": "Doors (21)",
+          "names": [
+            "Adjudicat",
+            "Cat Got Your Tongue!",
+            "Cat-a-pillar",
+            "Cataphract",
+            "Crazy Cat Lady",
+            "Curse! Catastrophe!",
+            "Curse! MewTube",
+            "Curse! Schrödinger's Catbox",
+            "Duck-Billed Catapuss",
+            "Duplicat",
+            "Exploding",
+            "Fat Cat",
+            "Great Cathulhu",
+            "Grumpy",
+            "Hellcat",
+            "Hireling: Personal Assistant",
+            "Kitten Caboodle",
+            "Kitten Whiskers",
+            "Mewsical Act",
+            "Munchkin Cat",
+            "Tortoiseshell Cat"
+          ]
+        },
+        {
+          "section": "Treasures (9)",
+          "names": [
+            "Achieve Purrfection (GUAL)",
+            "Cat o' Nine Heads",
+            "Cat-a-tonic",
+            "Cat's Paw",
+            "Catapult",
+            "Caterwall",
+            "Catnip",
+            "Kitten Mittens",
+            "Paws Button"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-puppies",
+      "name": "Munchkin Puppies",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-puppies/",
+      "groups": [
+        {
+          "section": "Doors (20)",
+          "names": [
+            "Afghan Hound",
+            "Ankle Biters",
+            "Australian Shepherd",
+            "Bearded Collie",
+            "Bird Dog",
+            "Border Terrier",
+            "Boxer",
+            "Bull Dog",
+            "Cavalier King Charles Spaniel",
+            "Curse! Dog Tired",
+            "Curse! Sometimes You're the Hydrant",
+            "Doge",
+            "Dogs of War",
+            "Hound Dog",
+            "Junkyard Dog",
+            "Paw Prince",
+            "Pointer",
+            "Prairie Dog",
+            "Salty Dog",
+            "Sick Puppy"
+          ]
+        },
+        {
+          "section": "Treasures (10)",
+          "names": [
+            "Aviator's Cap",
+            "Blue Wheelers",
+            "Bone of Contention",
+            "Doggy Bag",
+            "Dog Paddle",
+            "Every Dog Has Its Day (GUAL)",
+            "Mixed Breed",
+            "Poodle Skirt",
+            "Puppy Kisses (GUAL)",
+            "Sometimes You're the Dog (GUAL)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-hipsters",
+      "name": "Munchkin Hipsters",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-hipsters/",
+      "groups": [
+        {
+          "section": "Doors (14)",
+          "names": [
+            "Curse! Bitten by a Caffeinated Hipster",
+            "Curse! Sold Out",
+            "Free-Range",
+            "Gluten-Filled",
+            "Hipster",
+            "Hopster",
+            "Indie Band",
+            "Lumberjerk",
+            "Obscure",
+            "Poseur",
+            "Pretentious",
+            "The Man"
+          ]
+        },
+        {
+          "section": "Treasures (16)",
+          "names": [
+            "Argyle Sweater Vest",
+            "Artisanal",
+            "Chunky Black Glasses",
+            "Craft Ale",
+            "Fixed Gear Bicycle",
+            "Hand-Sewn Leather Mocs",
+            "Knit Cap",
+            "Locally Sourced",
+            "Nonfat Soy No-Whip Skinny Half-Caf Fair Trade Ventitré Mocha Latte",
+            "Organic Health Potion",
+            "Reject the Conventional (GUAL)",
+            "Shop at the Thrift Store",
+            "Sustainable Vlogging (GUAL)",
+            "Skinny Denim Jeans",
+            "Vintage",
+            "Visit Farmer's Market (GUAL)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-knights",
+      "name": "Munchkin Knights",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-knights/",
+      "groups": [
+        {
+          "section": "Doors (11)",
+          "names": [
+            "1,001 Arabian Knights",
+            "Boogie Knight",
+            "Fly-By Knight",
+            "Fort Knight",
+            "Knight Crawler",
+            "Knight Train",
+            "Late Knight",
+            "Ladies' Knight",
+            "Lance-A-Lot",
+            "Long Knight",
+            "Sir Acha"
+          ]
+        },
+        {
+          "section": "Treasures (4)",
+          "names": [
+            "Knight Cap",
+            "Knight Stand",
+            "Knight Sweats",
+            "Knight Watch"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-marked-for-death",
+      "name": "Munchkin Marked for Death",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-marked-for-death/",
+      "groups": [
+        {
+          "section": "Doors (9)",
+          "names": [
+            "Cheat!",
+            "Curse! Marked for Death!",
+            "Elf",
+            "Joan d'Orc",
+            "Miniature",
+            "Playground Bully",
+            "Rabid",
+            "Soap Golem",
+            "Warrior"
+          ]
+        },
+        {
+          "section": "Treasures (8)",
+          "names": [
+            "Anvil",
+            "Boots of Two-Stepping",
+            "Cat o' One Tail",
+            "Lawn Mower",
+            "Polish Your Equipment (GUAL)",
+            "Potion of Inappropriate Eructation",
+            "Recalculate Your XP (GUAL)",
+            "Retroactive Continuity Potion"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-curses",
+      "name": "Munchkin Curses",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-curses/",
+      "groups": [
+        {
+          "section": "Doors (15)",
+          "names": [
+            "Curse! All Thumbs",
+            "Curse Disperse",
+            "Curse! Dug Too Deep!",
+            "Curse! Flat Feet",
+            "Curse Magnet!",
+            "Curse Reverse",
+            "Curse! Ripped Off",
+            "Curse-stacean",
+            "Curse of Verse!",
+            "Curse! Too Big for Your Britches",
+            "Cursor",
+            "Mildy Irritating Curse",
+            "Mystery Curse!",
+            "Truth or CURSE-quences",
+            "Written in CURSE-ive!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-valentines",
+      "name": "Munchkin Valentines",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-valentines/",
+      "groups": [
+        {
+          "section": "Doors (2)",
+          "names": [
+            "Heartbreaker",
+            "ValenTINY"
+          ]
+        },
+        {
+          "section": "Treasures (2)",
+          "names": [
+            "Love Potion #8 1/2",
+            "Write a Poem"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-clowns",
+      "name": "Munchkin Clowns",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-clowns/",
+      "groups": [
+        {
+          "section": "Doors (9)",
+          "names": [
+            "B0-Z0",
+            "Clownfish",
+            "Curse! Coulrophobia!",
+            ". . . In a Clown Car",
+            "Kart Jester",
+            "Mime Sweeper",
+            "Poundfoolish",
+            "Pugliacci",
+            "The Ringmaster"
+          ]
+        },
+        {
+          "section": "Treasures (6)",
+          "names": [
+            "Automated Pie Launcher",
+            "Big Red Nose",
+            "Big Red Shoes",
+            "Pound Cake",
+            "Spritzing Daisy",
+            "Whipped Cream Pie"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-dragons-four-more",
+      "name": "Munchkin Dragons: Four More",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-dragons-four-more/",
+      "groups": [
+        {
+          "section": "Doors (4)",
+          "names": [
+            "Drake",
+            "Gummy Wyrm",
+            "Pen Dragdon",
+            "Poof"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-halloween-pack",
+      "name": "Munchkin Halloween Pack",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-halloween-pack/",
+      "groups": [
+        {
+          "section": "Doors (2)",
+          "names": [
+            "Curse! Born Under a Full Moon",
+            "Minor League Vampire"
+          ]
+        },
+        {
+          "section": "Treasures (2)",
+          "names": [
+            "Bob For Apples (GUAL)",
+            "Hand-Me-Down Costume"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-cheats",
+      "name": "Munchkin Cheats",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-cheats/",
+      "groups": [
+        {
+          "section": "Doors (19)",
+          "names": [
+            "Blatantly Cheat!",
+            "Cheat!",
+            "Cheat! Free Form Fashion!",
+            "Cheat! Hands-Free!",
+            "Cheat! Hyperutility!",
+            "Cheat! My Turn!",
+            "Cheat! Time Out!",
+            "Cheating Hart",
+            "Cheetah",
+            "Curse! De-Cheated!",
+            "Lawful Cranky",
+            "The Lawgibbon"
+          ]
+        },
+        {
+          "section": "Treasures (11)",
+          "names": [
+            "Cheat With Both Hands",
+            "Cheat! History Repeats!",
+            "Cheat! Stolen Glory!",
+            "Cheat! Two-Timer",
+            "Cheat! What's Yours Is Mine",
+            "Quick Cheat!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-fowl-play",
+      "name": "Munchkin Fowl Play",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-fowl-play/",
+      "groups": [
+        {
+          "section": "Doors (9)",
+          "names": [
+            "Chicken Out",
+            "Curse! Quack of Doom!",
+            "Curse! Quackmire!",
+            "Dead Duck",
+            "Duck of Boom",
+            "Little Goose Girl",
+            "Mandrake",
+            "Quackpot",
+            "Turkey With Stuffing"
+          ]
+        },
+        {
+          "section": "Treasures (6)",
+          "names": [
+            "Down in Flames",
+            "Duck and Cover",
+            "Fowl Play",
+            "Get Your Ducks in a Row",
+            "Molotov Cocktail",
+            "Visit the Kwak-E-Mart"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-the-red-dragon-inn",
+      "name": "Munchkin: The Red Dragon Inn",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-the-red-dragon-inn/",
+      "groups": [
+        {
+          "section": "Doors (9)",
+          "names": [
+            "Amundyr the Cursed",
+            "Baron von Vlazlo",
+            "Curse! Forgot the Main Ingredient!",
+            "Curse! Hot Potato!",
+            "Daareka the Mindbreaker",
+            "Pooky the Vicious",
+            "The Lich King",
+            "The Wench",
+            "Torglesnarf Duncleton"
+          ]
+        },
+        {
+          "section": "Treasures (20)",
+          "names": [
+            "Angel Tears",
+            "Chieftain's Ice Beer",
+            "Cracked Firebomb",
+            "Dragon Breath Ale",
+            "Dwarven Firewater",
+            "Elven Wine",
+            "Gleaming Gem of Inebriation",
+            "Gnomish Inspirational Ale",
+            "Loopy Straw",
+            "Monster Eyeball",
+            "Needle of Sleeping",
+            "Omni-Sight Goggles",
+            "One-Foot Pole",
+            "Orcish Rotgut",
+            "Phrenk's Special Stuff",
+            "Spitfire Spinner",
+            "Talisman of Temperance",
+            "The Basilisk's Gaze",
+            "Twinpopper",
+            "Unicorn Blood"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-side-quests",
+      "name": "Munchkin Side Quests",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-side-quests/",
+      "groups": [
+        {
+          "section": "Special Cards",
+          "names": [
+            "#1 With a Bullet",
+            "A Rising Tide Lifts Two Boats",
+            "Abundance of Riches",
+            "Bad Beat",
+            "Beat the Boss",
+            "Big Spender",
+            "Blitzkrieg",
+            "Born Winner",
+            "Cheaters Always Win",
+            "Copycat",
+            "Double Tap",
+            "Fleet-Footed",
+            "Fully Equipped",
+            "Lowest of the Low",
+            "Much of a Munchness",
+            "Overkill",
+            "Overpowered",
+            "Power Lifter",
+            "Protean",
+            "Round up a Posse",
+            "Self-Promotion",
+            "Shoot the Moon",
+            "Skin of Your Teeth",
+            "Total Jerk",
+            "Traitor!",
+            "Triple Play",
+            "Untimely Demise",
+            "Windfall",
+            "Yes, It Blends",
+            "You're All Heart"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-9-jurassic-snark",
+      "name": "Munchkin 9 — Jurassic Snark",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-9-jurassic-snark/",
+      "groups": [
+        {
+          "section": "Doors (67)",
+          "names": [
+            "Anachronistic Mammal",
+            "Ankylowattosaurus",
+            "Baby Dinos",
+            "Bard",
+            "Bronto Steed",
+            "Centaur",
+            "Cheat!",
+            "Chorus Saurus",
+            "Cleric",
+            "Curse! Little Tiny Arms!",
+            "Curse! Prehysteria!",
+            "Curse! Saur Loser!",
+            "Curse! Surrounded!",
+            "Curse! Tar Pit!",
+            "Curse! Tree Too Short!",
+            "Curse! Volcano!",
+            "Dino Hireling",
+            "Dino Vine",
+            "Docile Fossil",
+            "Duck-Billed Dinosaur",
+            "Dwarf",
+            "Early Bird",
+            "Elf",
+            "Elvisaurus",
+            "Erratasaurus",
+            "Gnome",
+            "Hairbivore",
+            "Half-Breed",
+            "Halfling",
+            "Hineysaur",
+            "Hostile Fossil",
+            "Humongosaur Steed",
+            "Inflatable Dino",
+            "Junior Paleontologist Hireling",
+            "Lizard Guy",
+            "Meano Dino",
+            "Munchkinivorous",
+            "Necrosaurus",
+            "Orc",
+            "Paleontologist Hireling",
+            "Plushiesaurus",
+            "Pterana Don",
+            "Ptero Steed",
+            "Ranger",
+            "Raptor Steed",
+            "Rexy",
+            "Rhinosaur",
+            "Roarosaurus",
+            "Spiky Steed",
+            "Spiny Diny",
+            "Spykeosaurus",
+            "Super Munchkin",
+            "Thief",
+            "Tinysaurus Rex",
+            "Tour Guide Hireling",
+            "Unknown to Science",
+            "Velocirapper",
+            "Very Junior Paleontologist Hireling",
+            "Wandering Monster",
+            "Warrior",
+            "Wino Dino",
+            ". . . With a Brain the Size of a Walnut",
+            ". . . With Horns",
+            ". . . With Pterodactyl Wings",
+            ". . . With Tail Spikes",
+            "Wizard"
+          ]
+        },
+        {
+          "section": "Treasures (45)",
+          "names": [
+            "Amber",
+            "Backbone Bow",
+            "Backtrackers",
+            "Bitey Dino Head",
+            "Cammo Armor",
+            "Coprolites",
+            "Cute",
+            "Dino Colada",
+            "Dino Disguise",
+            "Dino Eggs",
+            "Dino Tooth Dagger",
+            "Dino Tracks",
+            "Dino-Myte",
+            "Dinosaur Wishbone",
+            "Dire Fire",
+            "Discover a New Species",
+            "Escape Claws",
+            "Escape Extinction",
+            "Fossil Stilts",
+            "Fossilizing Fluid",
+            "Graaaaar!",
+            "Hit 'Em With a Comet!",
+            "Huge Head Helmet",
+            "Jurassic Snark",
+            "Loaded Die",
+            "Pachy Helmet",
+            "Paleo Pail",
+            "Plastic Dinosaurs",
+            "Pteriyaki",
+            "Rapid Evolution",
+            "Reloaded Die",
+            "Skull Mace",
+            "Smallifying Glass",
+            "Spiky Pink",
+            "Stego Armor",
+            "Stompy Bronto Feet",
+            "Stone Bone",
+            "Tail Club",
+            "Talons",
+            "Thagomizer",
+            "The Big Book of Dinos",
+            "Tricera Top Hat",
+            "Wishing Ring"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-party-pack",
+      "name": "Munchkin Party Pack",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-party-pack/",
+      "groups": [
+        {
+          "section": "Doors (14)",
+          "names": [
+            "Curse! Party Fowl!",
+            "Curse! Total Party Buzzkill",
+            "Death of the Party",
+            "It's My Party",
+            "Life of the Party",
+            "Party Crasher",
+            "Party Pooper",
+            "Surprise Party!",
+            "Curse! Party out of Bounds (Promo)",
+            "Faux Party (Promo)"
+          ]
+        },
+        {
+          "section": "Treasures (16)",
+          "names": [
+            "Party Dress",
+            "Party Favors",
+            "Party Hat",
+            "Party Shoes",
+            "Party Streamers",
+            "T Party",
+            "Total Party WIN!",
+            "Killer Party, Dude (Promo)",
+            "Porta-Party (Promo)",
+            "Search Party (Promo)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-unicorns",
+      "name": "Munchkin Unicorns",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-unicorns/",
+      "groups": [
+        {
+          "section": "Doors (12)",
+          "names": [
+            "Candicorn",
+            "Choo Choo-nicorn",
+            "Kettle Corn",
+            "Lunacorn",
+            "Monoceratops",
+            "Narwhal",
+            "Nullicorn",
+            "The Least Unicorn",
+            "Unicycle",
+            "Uniduck",
+            "Violet Anthropophage",
+            "Virginal"
+          ]
+        },
+        {
+          "section": "Treasures (3)",
+          "names": [
+            "Alicorn",
+            "Budget Unicorn Costume",
+            "Unicorn Milk"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-knights-four-more",
+      "name": "Munchkin Knights: Four More",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-knights-four-more/",
+      "groups": [
+        {
+          "section": "Doors (4)",
+          "names": [
+            "One Knight in Bangkok",
+            "Silent Knight",
+            "Sir Plus",
+            "Weak Knight"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-something-fishy",
+      "name": "Munchkin Something Fishy",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-something-fishy/",
+      "groups": [
+        {
+          "section": "Doors (41)",
+          "names": [
+            "Angelfish",
+            "Anglerfish",
+            "Baby Shark",
+            "Batfish",
+            "Bluetooth Enabled",
+            "Bonefish",
+            "Bonnet Shark",
+            "Bull Shark",
+            "C Monster",
+            "Cheat!",
+            "Curse! Geoduck of Gooey Doom",
+            "Curse! Oh, Carp",
+            "Curse! Sharkicane!",
+            "Curse! Something Fishy",
+            "Curse! You Smelt It",
+            "Curse! You're All Wet",
+            "Devilfish",
+            "Dragonfish",
+            "Fintastic",
+            "Get Schooled",
+            "Ghostly Whale",
+            "Giant Clam",
+            "Hairy Hairy Herring",
+            "Hermit Crab",
+            "Holy Mackerel",
+            "Lemon Shark",
+            "Leopard Shark",
+            "Lime Shark",
+            "Looney Tuna",
+            "Marlin Brando",
+            "Nefarious Porpoises",
+            "Odd Cod",
+            "Orc-a",
+            "Rainbow Trout",
+            "Salmon Chase",
+            "Sharkthulhu",
+            "Sturgeon General",
+            "The One That Got Away",
+            "Triggerfish",
+            "Wandering Monster"
+          ]
+        },
+        {
+          "section": "Treasures (15)",
+          "names": [
+            "Carp Diem",
+            "Fish Bowl",
+            "Fish Sauce",
+            "Fish Stick",
+            "Fisherman's Ruler",
+            "Flounder",
+            "Go Fish!",
+            "Net Profit",
+            "Razorfish",
+            "Scale Armor",
+            "Spear Gun",
+            "Swordtail",
+            "Throwing Starfish",
+            "Visit a Choral Reef",
+            "Win One for the Kipper"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-black-friday",
+      "name": "Munchkin Black Friday",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-black-friday/",
+      "groups": [
+        {
+          "section": "Doors (3)",
+          "names": [
+            "﻿Curse! Mall Madness",
+            "Curse! No Parking Place",
+            "Bargain Hunter"
+          ]
+        },
+        {
+          "section": "Treasures (2)",
+          "names": [
+            "BOGO",
+            "Super Exclusive Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-enhancers",
+      "name": "Munchkin Enhancers",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-enhancers/",
+      "groups": [
+        {
+          "section": "Doors (30)",
+          "names": [
+            "﻿Curse! . . . In Demand",
+            "Curse! De-hanced",
+            "Expert",
+            "Fallen",
+            "Paragon",
+            "Killer",
+            "Underpowered",
+            "Athletic",
+            "Fowl-Mouthed",
+            "Frosty",
+            "Stuffed",
+            "Vampiric",
+            "Impressively",
+            "Terrifyingly",
+            "Handy",
+            "Copycat",
+            "Collectible",
+            "Form-Fitting",
+            "Invisible",
+            "Silver",
+            "Well-Balanced",
+            "Wheelie",
+            ". . . With Cup Holders",
+            "Adaptable"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-bosses",
+      "name": "Munchkin Bosses",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-bosses/",
+      "groups": [
+        {
+          "section": "Special Cards",
+          "names": [
+            "﻿Curse! Debossed",
+            "Curse! Embossed",
+            "Curse! Boss of All Bossess",
+            "You’re a Boss!",
+            "You’re a Megaboss!",
+            "Weak Sauce Boss",
+            ". . . From the Deepest Depths",
+            "Inescapable",
+            "Unfair Trader",
+            "Back for Vengeance",
+            "Diabolical",
+            "Preternatural",
+            "Omnivalent",
+            "Strifelord",
+            "Two-Faced",
+            "Thick-Skinned",
+            "Astral",
+            "Corrupted",
+            "Your Genetically Enhanced Clone",
+            "Charming",
+            "Dicey",
+            "Eeeeeeevil",
+            ". . . With Sufficiently Advanced Magic",
+            "Brittle",
+            "Unbalanced",
+            ". . . From the Boss Dimension",
+            "Pointy-Haired",
+            "Illuminated",
+            "Insanely Huge",
+            "The Biggest Bad"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "munchkin-petting-zoo",
+      "name": "Munchkin Petting Zoo",
+      "source": "https://munchkin.game/products/games/munchkin/munchkin-petting-zoo/",
+      "groups": [
+        {
+          "section": "Doors (18)",
+          "names": [
+            "Curse! Pesting Zoo",
+            "Curse! Petty Zoo",
+            "Curse! Pudding Zoo",
+            "Curse! Putting Zoo",
+            "Curse! Slobber",
+            "Curse! Wedding Zoo",
+            "Bartering Ram",
+            "Goat of All Time",
+            "Mostly Harmless Snake",
+            "Not So Ugly Duckling",
+            "Guard Giraffe",
+            "Quokka",
+            "3,872 Porcs",
+            "Attack Squirrel",
+            "Careful Chameleon",
+            "Padded Pangolin",
+            "Fuzzy Bunny",
+            "Hog Wild"
+          ]
+        },
+        {
+          "section": "Treasures (12)",
+          "names": [
+            "Feed Bucket",
+            "Hay Bale",
+            "Indestructible Overalls",
+            "Put-Upon Pony",
+            "Old Gray Mare",
+            "Turkey Steed",
+            "Pack Alpaca",
+            "Chicken Wire",
+            "Giant Tortoise Steed",
+            "Catch a Goldfish",
+            "Obligatory Tiger Photo",
+            "Pet All the Things!"
+          ]
+        }
+      ]
+    }
+  ],
+  "notImported": [
+    {
+      "path": "/products/games/munchkin/munchkin-not-my-monkeys/",
+      "name": "Munchkin: Not My Monkeys",
+      "skip": "no public card list"
+    },
+    {
+      "path": "/products/games/munchkin/munchkin-warm-fuzzies/",
+      "name": "Munchkin Warm Fuzzies",
+      "skip": "no public card list"
+    },
+    {
+      "path": "/products/games/munchkin/munchkin-dead-and-deader/",
+      "name": "Munchkin Dead & Deader",
+      "skip": "no public card list"
+    },
+    {
+      "path": "/products/games/munchkin/munchkin-taken-for-granite/",
+      "name": "Munchkin: Taken for Granite",
+      "skip": "no public card list"
+    },
+    {
+      "path": "/products/games/munchkin/munchkin-the-floor-is-larva/",
+      "name": "Munchkin: The Floor is Larva",
+      "skip": "no public card list"
+    },
+    {
+      "path": "/products/games/munchkin/munchkin-pony-excess/",
+      "name": "Munchkin Pony Excess",
+      "skip": "no public card list"
+    },
+    {
+      "path": "/products/games/munchkin/exclusive-warehouse-23-munchkin-booster-2013/",
+      "name": "Exclusive Warehouse 23 Munchkin Booster 2013",
+      "skip": "no public card list"
+    },
+    {
+      "path": "/products/games/munchkin/exclusive-warehouse-23-munchkin-booster-2014/",
+      "name": "Exclusive Warehouse 23 Munchkin Booster 2014",
+      "skip": "no public card list"
+    },
+    {
+      "path": "/products/games/munchkin/exclusive-warehouse-23-munchkin-booster-2010/",
+      "name": "Exclusive Warehouse 23 Munchkin Booster 2010",
+      "skip": "no public card list"
+    },
+    {
+      "path": "/products/games/munchkin/exclusive-warehouse-23-munchkin-booster-2012/",
+      "name": "Exclusive Warehouse 23 Munchkin Booster 2012",
+      "skip": "no public card list"
+    },
+    {
+      "path": "/products/games/munchkin/exclusive-warehouse-23-munchkin-booster-2011/",
+      "name": "Exclusive Warehouse 23 Munchkin Booster 2011",
+      "skip": "no public card list"
+    },
+    {
+      "path": "/products/games/munchkin/munchkin-goats/",
+      "name": "Munchkin Goats",
+      "skip": "no public card list"
+    },
+    {
+      "path": "/products/games/munchkin/munchkin-turtle-carnage/",
+      "name": "Munchkin Turtle Carnage",
+      "skip": "no public card list"
+    },
+    {
+      "path": "/products/games/munchkin/munchkin-10-time-warp/",
+      "name": "Munchkin 10 – Time Warp",
+      "skip": "no public card list"
+    },
+    {
+      "path": "/products/games/munchkin/munchkin-cows/",
+      "name": "Munchkin Cows",
+      "skip": "no public card list"
+    },
+    {
+      "path": "/products/games/munchkin/munchkin-deathly-pail/",
+      "name": "Munchkin Deathly Pail",
+      "skip": "no public card list"
+    },
+    {
+      "path": "/products/games/munchkin/munchkin-druids/",
+      "name": "Munchkin Druids",
+      "skip": "no public card list"
+    },
+    {
+      "path": "/products/games/munchkin/munchkin-side-quests-2/",
+      "name": "Munchkin Side Quests 2",
+      "skip": "no public card list"
+    },
+    {
+      "path": "/products/games/munchkin/munchkin-witches/",
+      "name": "Munchkin Witches",
+      "skip": "no public card list"
+    },
+    {
+      "path": "/products/games/munchkin/munchkin-squids/",
+      "name": "Munchkin Squids",
+      "skip": "no public card list"
+    },
+    {
+      "path": "/products/games/munchkin/munchkin-witches-promo-pack/",
+      "name": "Munchkin Witches Promo Pack",
+      "skip": "no public card list"
+    },
+    {
+      "path": "/products/games/munchkin/munchkin-rats/",
+      "name": "Munchkin Rats",
+      "skip": "no public card list"
+    },
+    {
+      "path": "/products/games/munchkin/munchkin-snakes/",
+      "name": "Munchkin Snakes",
+      "skip": "no public card list"
+    },
+    {
+      "path": "/products/games/munchkin/munchkin-tournament-rules/",
+      "name": "Munchkin Tournament Rules",
+      "skip": "no public card list"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="ru">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#174b3e"><title>Дурак — карты на стол</title><link rel="stylesheet" href="style.css"></head>
+<body>
+<header><a class="brand" href="/" aria-label="Дурак, главная"><span class="brand-mark">♠</span> дурак<span class="brand-dot">.</span></a><span class="header-note">СТАРАЯ ДОБРАЯ КАРТОЧНАЯ ИГРА</span><button id="rules-open" class="text-button">Как играть <span>↗</span></button></header>
+<main>
+<div class="intro"><div><div class="eyebrow">НЕМНОГО АЗАРТА. НИЧЕГО ЛИШНЕГО.</div><h1>Карты на стол.</h1><p>Вы, соперник и удача. Сыграем?</p></div><button class="new-game" id="new-game"><span>↻</span> Новая партия</button></div>
+<div class="game-layout">
+<section class="table" aria-label="Игровой стол">
+<div class="table-top"><span class="mode"><i></i> ПОДКИДНОЙ ДУРАК</span><span class="round" id="round"></span></div>
+<div class="opponent"><div class="avatar">♟</div><div><strong>Соперник</strong><span id="opponent-info"></span></div><span class="role" id="opponent-role"></span></div>
+<div class="opponent-hand" id="opponent-hand" aria-label="Карты соперника"></div>
+<div class="deck-area" id="deck-area"></div>
+<div class="battle" id="battle"></div>
+<div class="status" id="status" role="status" aria-live="polite"></div>
+<div class="table-bottom"><span id="trump-label"></span><span id="discard-label"></span></div>
+</section>
+<aside>
+<div class="aside-title"><span class="small-symbol">✦</span> Ваша партия</div>
+<div class="turn-panel"><span class="eyebrow">СЕЙЧАС НА СТОЛЕ</span><h2 id="turn-title"></h2><p id="turn-help"></p><div class="actions"><button id="finish" class="primary"></button><button id="take" class="secondary">Забрать карты</button></div></div>
+<div class="stats"><div><span>В колоде</span><strong id="deck-count"></strong></div><div><span>В отбое</span><strong id="discard-count"></strong></div><div><span>Козырь</span><strong id="trump-stat"></strong></div></div>
+<div class="tip"><span>☞</span><div><strong>Маленькая подсказка</strong><p id="tip-text">Берегите козыри. Иногда выгоднее взять карты, чем потратить последний.</p></div></div>
+<div class="aside-footer">36 карт <span>·</span> Один на один <span>·</span> Без спешки</div>
+</aside>
+</div>
+<section class="player-area"><div class="hand-heading"><div><strong>Ваши карты</strong> <span id="hand-count"></span></div><span id="hand-hint">Нажмите на карту, чтобы сыграть</span></div><div class="player-hand" id="player-hand"></div></section>
+<footer><span>Хорошая компания — уже половина победы.</span><span>Сделано для приятной партии <span class="footer-suit">♣</span></span></footer>
+</main>
+<dialog id="rules"><div class="dialog-top"><span class="eyebrow">ПАМЯТКА ЗА СТОЛОМ</span><button id="rules-close" aria-label="Закрыть">×</button></div><h2>Всё просто. Почти.</h2><p>Подкидной дурак · 36 карт · два игрока</p><ol><li>Каждому по 6 карт. Открытая карта под колодой задаёт козырную масть. Первым ходит обладатель младшего козыря.</li><li>Отбивайте карту старшей той же масти или козырем. Козырь можно побить только старшим козырем.</li><li>Подкидывайте карты того же достоинства, что уже лежат на столе, включая карты защиты. Не более 6 атакующих карт и не более числа карт у защитника в начале хода.</li><li>Отбились? Атакующий нажимает «Бито», карты уходят в отбой, ход переходит защитнику. Не можете отбиться — заберите весь стол. Соперник может подкинуть ещё и ходит снова.</li><li>После хода добирают до 6 карт: сначала атакующий, затем защитник. Открытый козырь берут последним.</li><li>Когда колода закончилась, избавьтесь от всех карт. Последний с картами — дурак. Если карты закончились у обоих одновременно — ничья.</li></ol><p class="rules-source">В этой партии лимит с первого хода — 6 карт. <a href="https://crazypanda.helpshift.com/hc/ru/20-durak/faq/687-basic-rules-of-throw-in-fool/?f=what-do-i-need-achievements-for&l=ru&p=android&s=game-process" target="_blank" rel="noreferrer">Подробнее о правилах ↗</a></p></dialog>
+<script type="module" src="app.js"></script>
+</body></html>

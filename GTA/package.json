@@ -1,0 +1,10 @@
+{
+  "name": "vice-drive",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A local, dependency-free 3D driving game inspired by the neon coast of the 1980s",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node tests/smoke.cjs"
+  }
+}
