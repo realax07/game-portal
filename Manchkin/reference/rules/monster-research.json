@@ -1,0 +1,222 @@
+{
+  "notes": "Сверка печатных карт, не предположения по названиям. Где статус partial, неизвестные части нельзя выдавать за оригинальные. Краткие русские пересказы первичных текстов карт; часть самих карт воспроизведена в исследовательских PDF.",
+  "cards": [
+    {
+      "en": "Potted Plant",
+      "status": "verified-card-image",
+      "power": 1,
+      "reward": 1,
+      "levels": 1,
+      "automaticEscape": true,
+      "treasureBonus": {
+        "identity": "Elf",
+        "amount": 1
+      },
+      "badStuff": "Нет: от растения можно уйти автоматически.",
+      "source": "https://www.ebay.com/itm/354639341282",
+      "image": "https://i.ebayimg.com/00/s/MTYwMFgxMDk2/z/9UIAAOSwrFVkCyjt/%24_57.JPG?set_id=880000500F"
+    },
+    {
+      "en": "Drooling Slime",
+      "status": "verified-card-image-and-publisher-rules",
+      "power": 1,
+      "reward": 1,
+      "levels": 1,
+      "modifiers": [
+        {
+          "identity": "Elf",
+          "amount": 4
+        }
+      ],
+      "badStuff": {
+        "loseSlot": "feet",
+        "ifAbsentLoseLevels": 1
+      },
+      "source": "https://www.ebay.com/itm/354639343149",
+      "image": "https://i.ebayimg.com/images/g/7~YAAOSw96FkCyt~/s-l1600.jpg",
+      "publisherConfirmation": "https://munchkin.game/site-munchkin/assets/files/1317/munchkin_deluxe_rules_18thp.pdf"
+    },
+    {
+      "en": "Plutonium Dragon",
+      "status": "verified-card-image",
+      "power": 20,
+      "reward": 5,
+      "levels": 2,
+      "noPursueLevel": 5,
+      "badStuff": {
+        "death": true
+      },
+      "source": "https://repositorio.unb.br/bitstream/10482/38936/1/2020_HudsonCogoMoreira.pdf",
+      "locator": "Figura 4.3"
+    },
+    {
+      "en": "Net Troll",
+      "status": "verified-publisher-card",
+      "power": 10,
+      "reward": 3,
+      "levels": 1,
+      "modifiers": [],
+      "badStuff": {
+        "highestLevelPlayersTakeOneItemEach": true
+      },
+      "source": "https://hobbygames.ru/download/rules/munchkin-base-start-list.pdf",
+      "locator": "page 1"
+    },
+    {
+      "en": "Hydrant",
+      "status": "verified-card-image",
+      "power": 15,
+      "reward": 4,
+      "levels": 2,
+      "soloModifier": 5,
+      "noPursueLevel": 2,
+      "badStuff": {
+        "loseLevelsDie": true
+      },
+      "source": "https://bdm.unb.br/bitstream/10483/6723/6/2011_JuliaCamposMMaia.pdf",
+      "locator": "page 49 (i)"
+    },
+    {
+      "en": "Tentacle Demon",
+      "status": "verified-localized-card-image",
+      "power": 15,
+      "modifiers": [
+        {
+          "identity": "Cleric",
+          "amount": 5
+        }
+      ],
+      "reward": 4,
+      "levels": 2,
+      "badStuff": {
+        "death": true
+      },
+      "source": "https://www.tradeinn.com/kidinn/es/edge-studio-juego-de-cartas-munchkin-2%3A-hacha-descomunal/139790548/p",
+      "note": "Прочитан текст испанской карты Demonio Tentaculado: 15, +5 Cleric, не преследует <=3, смерть,2уровня,4сокровища.",
+      "noPursueLevel": 3,
+      "image": "https://www.tradeinn.com/f/13979/139790548_2/edge-studio-juego-de-cartas-munchkin-2%3A-hacha-descomunal.webp"
+    },
+    {
+      "en": "Teddy Bear",
+      "status": "publisher-image-with-transcription",
+      "power": 5,
+      "reward": 2,
+      "levels": 1,
+      "modifiers": [
+        {
+          "identity": "Orc",
+          "amount": 5
+        }
+      ],
+      "badStuff": {
+        "discardWholeHand": true,
+        "ifDiscardedMoreThanOneDrawTreasure": 1
+      },
+      "source": "https://munchkin.game/site-munchkin/assets/files/1320/munchkin_2_rules_30p.pdf",
+      "note": "В официальном PDF видны 5уровень,+5Orc, сброс руки и выдача1сокровищаеслисброшено>1; частьстрокприкрытаGrassyGnoll. Полная транскрипция https://forum.mafiascum.net/viewtopic.php?f=63&t=14085 совпадает с видимымистроками.",
+      "locator": "page1, растровая картинка верхней левой части, извлекается черезpypdf images[0]"
+    },
+    {
+      "en": "Grassy Gnoll",
+      "status": "verified-card-image",
+      "power": 7,
+      "reward": 2,
+      "levels": 1,
+      "modifiers": [
+        {
+          "human": true,
+          "amount": 5
+        }
+      ],
+      "badStuff": {
+        "loseLevels": 3,
+        "recoverOnePerPotionDiscarded": true
+      },
+      "source": "https://bdm.unb.br/bitstream/10483/6723/6/2011_JuliaCamposMMaia.pdf",
+      "locator": "page 45 (c)",
+      "publisherConfirmation": "https://munchkin.game/site-munchkin/assets/files/1320/munchkin_2_rules_30p.pdf"
+    },
+    {
+      "en": "Tequila Mockingbird",
+      "status": "verified-publisher-card",
+      "power": 1,
+      "reward": 1,
+      "levels": 1,
+      "modifiers": [
+        {
+          "identity": "Bard",
+          "amount": 5
+        }
+      ],
+      "badStuff": {
+        "discardFromHand": 2,
+        "choice": "victim"
+      },
+      "source": "https://munchkin.game/site-munchkin/assets/files/1320/munchkin_2_rules_30p.pdf",
+      "locator": "page 1. Несмотря на имя файла, PDF содержит эту карту и Stab-A-Matic."
+    },
+    {
+      "en": "Bad Ass",
+      "status": "verified-card-image",
+      "power": 5,
+      "reward": 2,
+      "levels": 1,
+      "modifiers": [
+        {
+          "identity": "Orc",
+          "amount": 5
+        }
+      ],
+      "badStuff": {
+        "revealHand": true,
+        "discardHandTypes": [
+          "monster",
+          "enhancer"
+        ]
+      },
+      "source": "https://bdm.unb.br/bitstream/10483/6723/6/2011_JuliaCamposMMaia.pdf",
+      "locator": "page 35"
+    },
+    {
+      "en": "Auntie Paladin",
+      "status": "verified-card-image",
+      "power": 18,
+      "reward": 4,
+      "levels": 2,
+      "modifiers": [
+        {
+          "identity": "Cleric",
+          "amount": 5
+        },
+        {
+          "sex": "male",
+          "amount": 5
+        }
+      ],
+      "badStuff": {
+        "loseSlot": "body",
+        "loseLevels": 3
+      },
+      "source": "https://bdm.unb.br/bitstream/10483/6723/6/2011_JuliaCamposMMaia.pdf",
+      "locator": "page 61 (m)"
+    },
+    {
+      "en": "Hydrogen Dragon",
+      "status": "verified-publisher-faq-partial",
+      "autoDefeatWithFireFlameItem": true,
+      "source": "https://munchkin.game/gameplay/faq/",
+      "locator": "Dragons mini-expansion",
+      "note": "Это исключение из обычного иммунитета драконов к огню; награды и непотребство отдельно не подтверждены."
+    },
+    {
+      "en": "Sparkly Good Fairy",
+      "status": "verified-publisher-faq-partial",
+      "reward": 4,
+      "additionalFairyDust": 2,
+      "charmAlsoAwardsFairyDust": true,
+      "source": "https://munchkin.game/gameplay/faq/",
+      "locator": "Game Changers",
+      "note": "Текущий каталог неверно даёт 3 сокровища. Остальной текст карты отдельно не подтверждён."
+    }
+  ]
+}

@@ -1,0 +1,767 @@
+{
+  "researched": "2026-10-22",
+  "notes": "Непроверенные поля не следует выдумывать. verified_partial подтверждает только названные поля; прочие параметры каталога остаются адаптацией.",
+  "entries": [
+    {
+      "en": "Rat on a Stick",
+      "bonus": 1,
+      "hands": 1,
+      "gold": 0,
+      "effect": {
+        "escape": "discard_from_play",
+        "maxMonsterLevel": 8
+      },
+      "sources": [
+        "https://www.munchkin.game/gameplay/faq/changelog.html/",
+        "https://munchkin.fandom.com/wiki/Rat_on_a_Stick"
+      ],
+      "status": "verified_partial",
+      "note": "Официальный changelog подтверждает +1 и сброс даже ненадетой карты из игры ради смывки; порог 8 и отсутствие цены подтверждены текстом вторичного справочника."
+    },
+    {
+      "en": "Boots of Butt-Kicking",
+      "bonus": 2,
+      "gold": 400,
+      "slot": "feet",
+      "sources": [
+        "https://munchkin.game/site-munchkin/assets/files/3915/munchkin_big_box_rules-2.pdf"
+      ],
+      "status": "verified",
+      "effect": null,
+      "note": "Дополнительных специальных действий нет; +2 и обувка — весь эффект."
+    },
+    {
+      "en": "Horny Helmet",
+      "bonus": 1,
+      "conditionalBonus": {
+        "identity": "Elf",
+        "total": 3
+      },
+      "gold": 600,
+      "slot": "head",
+      "sources": [
+        "https://hobbygames.ru/download/rules/munchkin-base-start-list.pdf"
+      ],
+      "status": "verified"
+    },
+    {
+      "en": "Staff of Napalm",
+      "bonus": 5,
+      "hands": 1,
+      "gold": 800,
+      "requires": [
+        "Wizard"
+      ],
+      "fire": true,
+      "sources": [
+        "https://hobbygames.ru/download/rules/munchkin-base-start-list.pdf"
+      ],
+      "status": "verified_partial",
+      "note": "Бонус/руки/цена/требование Wizard проверены официальным PDF. Fire/flame следует названию, но отдельную fire маркировку не прочёл."
+    },
+    {
+      "en": "Chainsaw of Bloody Dismemberment",
+      "bonus": 3,
+      "hands": 2,
+      "big": true,
+      "gold": 600,
+      "sources": [
+        "https://www.sjgames.com/ill/img/retailerimages/Munchkin%20OTD/Game%20Support/Munchkin/Munchkin_Rigged_Demo.pdf"
+      ],
+      "status": "verified"
+    },
+    {
+      "en": "Potion of Idiotic Bravery",
+      "bonus": 2,
+      "gold": 100,
+      "oneShot": true,
+      "target": "either_side",
+      "sources": [
+        "https://www.sjgames.com/ill/img/retailerimages/Munchkin%20OTD/Game%20Support/Munchkin/Munchkin_Rigged_Demo.pdf"
+      ],
+      "status": "verified"
+    },
+    {
+      "en": "Unnatural Axe",
+      "bonus": 5,
+      "hands": 1,
+      "big": true,
+      "gold": 800,
+      "requires": [
+        "Warrior"
+      ],
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-vz3etek0gv/images/stencil/1200w/products/64653/90146/sjg1410_web_1contents_1__30647.1740332754.jpg",
+        "https://www.funtrivia.com/quiz/hobbies/munchkin-2-unnatural-axe-348401.html"
+      ],
+      "status": "verified",
+      "note": "Прочитана печатная карта на промо-рендере издателя, распространённом дистрибьютором ACD."
+    },
+    {
+      "en": "Spiked Codpiece",
+      "bonus": 2,
+      "conditionalBonus": {
+        "sex": "male",
+        "total": 4
+      },
+      "gold": 600,
+      "slot": "none",
+      "sources": [
+        "https://forum.mafiascum.net/viewtopic.php?sid=4ac6ecca575cbb05e5efa12e02393831&t=11317"
+      ],
+      "status": "secondary_only",
+      "note": "Текст старой карты процитирован в партии. Первичный скан пока не найден. НЕ Armor: отдельный предмет без слота."
+    },
+    {
+      "en": "Potion of Flight",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Chainmail Bikini",
+      "bonus": 3,
+      "gold": 600,
+      "slot": "body",
+      "sources": [
+        "https://warehouse23.com/cdn/shop/products/samples.jpg?v=1722501722&width=515"
+      ],
+      "status": "verified",
+      "note": "Прочитан официальный sample: нет ограничения по полу."
+    },
+    {
+      "en": "Stab-A-Matic",
+      "bonus": 0,
+      "hands": 1,
+      "gold": 400,
+      "effect": {
+        "backstab": 2,
+        "thiefBackstab": 3
+      },
+      "sources": [
+        "https://munchkin.game/site-munchkin/assets/files/1320/munchkin_2_rules_30p.pdf",
+        "https://munchkin.game/gameplay/faq/"
+      ],
+      "status": "verified",
+      "note": "Не даёт +4 силы! Даёт особое действие подрезки."
+    },
+    {
+      "en": "Dragon Steed",
+      "bonus": 5,
+      "gold": 1000,
+      "big": true,
+      "slot": "steed",
+      "runAway": 1,
+      "fire": true,
+      "noSteedEnhancers": true,
+      "sources": [
+        "https://warehouse23.com/products/munchkin-4-the-need-for-steed"
+      ],
+      "status": "verified",
+      "note": "Официальный gallery sample, локальная исследовательская копия /tmp/munchkin-samples/munchkin-4-the-need-for-steed-2.jpg; +5, Big, 1000gold, +1 побег, огонь, не действует Steed Enhancer."
+    },
+    {
+      "en": "Tiger Steed",
+      "effect": {
+        "returnToHandOnKilled": true
+      },
+      "sources": [
+        "https://munchkin.game/gameplay/faq/"
+      ],
+      "status": "verified_partial",
+      "note": "FAQ исключает возврат при потере лишнего скакуна, значит важен триггер именно убийства; полный текст карточки пока не прочитан."
+    },
+    {
+      "en": "Warrior Hireling",
+      "effect": {
+        "sacrificeEscapeOne": true
+      },
+      "sources": [
+        "https://www.munchkin.game/gameplay/faq/changelog.html/"
+      ],
+      "status": "verified_partial",
+      "note": "Общее правило Hireling: сбрось наёмника с его вещью для авто-смывки от одного монстра. Классовые дополнительные свойства не проверены."
+    },
+    {
+      "en": "Budget Armor",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Trick Riding Boots",
+      "extraSteeds": 1,
+      "sources": [
+        "https://munchkin.game/gameplay/faq/"
+      ],
+      "status": "verified_partial",
+      "note": "FAQ явно подтверждает возможность двух скакунов с этими сапогами; остальные параметры не проверены."
+    },
+    {
+      "en": "Invisible Helmet",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Spandex Chainmail",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Short Sword",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Potion of Ridiculous Size",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Unicorn Steed",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Phoenix Steed",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Scaly Armor",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Mammalskin Boots",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Bronto Steed",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Dino Hireling",
+      "effect": {
+        "sacrificeEscapeOne": true
+      },
+      "sources": [
+        "https://www.munchkin.game/gameplay/faq/changelog.html/"
+      ],
+      "status": "verified_partial"
+    },
+    {
+      "en": "Stego Armor",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Dino Tooth Dagger",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Munchkin Armor",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Axes of Evil",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Justice Pie",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Hat of the Hotstepper",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Inferior Boots",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Pixie Potion",
+      "effect": {
+        "rollAfterCombat": true,
+        "recoverPossible": true
+      },
+      "sources": [
+        "https://munchkin.game/gameplay/faq/"
+      ],
+      "status": "verified_partial",
+      "note": "Бросок восстановления делается после завершения боя, повторно играть ту же карту в текущем бою нельзя. Порог броска не найден."
+    },
+    {
+      "en": "Sparkler",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Munchkinomicon",
+      "effect": {
+        "startOnTopTreasureDeck": true,
+        "equipImmediately": true,
+        "discardReturnsToTopTreasureDeck": true,
+        "noRedrawSameTurnAfterDiscard": true,
+        "drawSpellOnAcquisitionExceptTrade": 1,
+        "drawSpellAtOwnTurnStart": 1,
+        "lureCostCards": 3,
+        "lureCostLevels": 1,
+        "lureOnSuccessfulCurse": true,
+        "lureOnDeath": true,
+        "separateSpellDeck": true
+      },
+      "sources": [
+        "https://munchkin.game/gameplay/faq/",
+        "https://munchkin.game/site-munchkin/assets/files/1381/munchkinomicon_rules.pdf",
+        "https://munchkin.game/site-munchkin/assets/files/1381/mnomcard1.jpg"
+      ],
+      "status": "verified",
+      "note": "Полная отдельная подсистема: 14 Spells со своей колодой и сбросом; может быть отложена целиком, нельзя выдавать за обычное оружие.",
+      "bonus": 5,
+      "gold": 666,
+      "slot": "none"
+    },
+    {
+      "en": "Eldritch Cleaver",
+      "status": "verified_partial",
+      "sources": [
+        "https://munchkin.game/products/games/munchkin/munchkinomicon/"
+      ],
+      "actualType": "spell",
+      "deck": "spells",
+      "note": "Официальный список: это Spell, не зелье/обычное сокровище. Требуется подсистема Манчкиномикона. Эффект не проверен."
+    },
+    {
+      "en": "Power Through Fear",
+      "status": "verified_partial",
+      "sources": [
+        "https://munchkin.game/products/games/munchkin/munchkinomicon/"
+      ],
+      "actualType": "spell",
+      "deck": "spells",
+      "note": "Официальный список: это Spell, не зелье/обычное сокровище. Требуется подсистема Манчкиномикона. Эффект не проверен."
+    },
+    {
+      "en": "Master",
+      "bonus": 0,
+      "requiresClassCard": true,
+      "sources": [
+        "https://munchkin.game/gameplay/faq/"
+      ],
+      "status": "verified_partial",
+      "note": "Это усиление класса, играется как класс, не обычная шмотка; полный текст эффекта пока не прочитан."
+    },
+    {
+      "en": "Dark",
+      "bonus": 0,
+      "requiresRaceCard": true,
+      "effect": {
+        "levelOnSabotagedCombatLoss": 1,
+        "winningLevelOnlyIfVictimDies": true
+      },
+      "sources": [
+        "https://munchkin.game/gameplay/faq/",
+        "https://munchkin.game/site-munchkin/assets/files/1383/reloadedcards.jpg"
+      ],
+      "status": "verified",
+      "note": "Официальная карта: сбрасывается с прикреплённой расой; победный уровень разрешён только при смерти игрока-цели.",
+      "deck": "doors"
+    },
+    {
+      "en": "Reloaded Die",
+      "status": "verified_partial",
+      "sources": [
+        "https://www.sjgames.com/ill/img/2005/dicecards.jpg",
+        "https://munchkin.game/gameplay/faq/",
+        "https://munchkin.game/site-munchkin/assets/files/1383/reloaded_rules.pdf"
+      ],
+      "oneShot": true,
+      "bonus": 0,
+      "effect": {
+        "afterOtherPlayerDieRoll": true,
+        "setDieToChosenValue": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "canOverrideLoadedAndReloaded": true,
+        "latestPlayedWins": true
+      },
+      "note": "Прочитана карта на официальном изображении2005. Rules2010 утверждают единственное изменение: добавлена цена, поэтому эффект тот же. Цену пока не выяснил."
+    },
+    {
+      "en": "Ranger Hireling",
+      "effect": {
+        "sacrificeEscapeOne": true
+      },
+      "sources": [
+        "https://www.munchkin.game/gameplay/faq/changelog.html/"
+      ],
+      "status": "verified_partial"
+    },
+    {
+      "en": "Club of Fighting",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Bunny Ears",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Bunny Slippers",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Your Feet Are Dragon",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Dragon Scale Armor",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Dragon's Trike",
+      "fire": true,
+      "sources": [
+        "https://munchkin.game/gameplay/faq/"
+      ],
+      "status": "verified_partial",
+      "note": "Официальный FAQ: огненная атака, не действует против драконов."
+    },
+    {
+      "en": "Favorite Machete",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Helmet of Overprotection",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Glass Sneakers",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Tiara of Blinding",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Amour Armour",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Cupid's Bow",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Beer Barrel Armor",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Iron Skillet",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Hireling: Buster",
+      "effect": {
+        "sacrificeEscapeOne": true
+      },
+      "sources": [
+        "https://www.munchkin.game/gameplay/faq/changelog.html/"
+      ],
+      "status": "verified_partial"
+    },
+    {
+      "en": "Death Mints",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Catapult",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Kitten Mittens",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Aviator's Cap",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Bone of Contention",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Knit Cap",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Skinny Denim Jeans",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Organic Health Potion",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Knight Cap",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Boots of Two-Stepping",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Lawn Mower",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Love Potion #8 1/2",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Big Red Nose",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Big Red Shoes",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Hand-Me-Down Costume",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Quick Cheat!",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Molotov Cocktail",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Dragon Breath Ale",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Omni-Sight Goggles",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Party Hat",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Party Dress",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Party Shoes",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Budget Unicorn Costume",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Unicorn Milk",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Scale Armor",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Spear Gun",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Super Exclusive Promo",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Giant Tortoise Steed",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Indestructible Overalls",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Archimedes’ Screw",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Philosopher’s Stone",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Ming Vase",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Monkey Suit",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Bunchucks",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Fur Cloak",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Talismantle",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Hex-Ray Specs",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Ectoplasma Rifle",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Hard Hat",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Automatic Chisel",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Wasp Spray",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Centaur of Attention",
+      "bonus": 2,
+      "gold": 400,
+      "slot": "steed",
+      "effect": {
+        "sacrificeEscapeAll": true,
+        "requiresMultipleMonsters": true
+      },
+      "sources": [
+        "https://warehouse23.com/products/munchkin-pony-excess"
+      ],
+      "status": "verified",
+      "note": "Прочитан официальный sample: пожертвуй при бое с несколькими монстрами для автоматической смывки от всех. Локально /tmp/munchkin-samples/munchkin-pony-excess-1.png."
+    },
+    {
+      "en": "Lucky Horseshoe",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "More Hair Coat",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Hot Rock",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Death Cap",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Cuttle Bone",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Nautilus Shelm",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Squid Pro Quo",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Weapon of Mouse Destruction",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Boa and Arrow",
+      "status": "unknown",
+      "sources": []
+    },
+    {
+      "en": "Asp-rin",
+      "status": "unknown",
+      "sources": []
+    }
+  ]
+}

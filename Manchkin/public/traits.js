@@ -3,7 +3,7 @@ export const has=(p,en)=>p.equipment.some(c=>c.en===en||c.id===en.toLowerCase())
 export const handLimit=p=>has(p,'Dwarf')?6:5;
 export const emptyHands=p=>Math.max(0,2-p.equipment.filter(c=>c.slot==='hand').reduce((n,c)=>n+(c.hands||1),0));
 export const traitBonus=p=>has(p,'Gnome')?p.equipment.filter(c=>c.type==='item'&&/^[gn]/i.test(c.en||'')).length:0;
-export const escapeBonus=(p,m)=>(has(p,'Elf')?1:0)+(has(p,'Lizard Guy')?(m.power>=16?2:m.power>=10?1:0):0);
+export const escapeBonus=(p,m)=>p.equipment.reduce((n,c)=>n+(c.runAway||0),0)+(has(p,'Elf')?1:0)+(has(p,'Lizard Guy')?(m.power>=16?2:m.power>=10?1:0):0);
 export const TRAITS={
  Warrior:'В ничьей побеждает сторона воина. Ярость: сбрось до 3 карт за бой, каждая даёт +1.',
  Cleric:'Против нежити: до 3 сбросов за бой, каждый даёт +3. Воскрешение: вместо открытой двери возьми верхнюю карту сброса дверей, заплатив картой из руки.',
@@ -21,3 +21,5 @@ export const TRAITS={
  'Lizard Guy':'Смывка: +1 против монстров 10–15 уровня и +2 против 16+. Одноразовое зелье, сыгранное в пользу монстров, действует вдвое сильнее.',
  Bug:'Подбирает только что сброшенную расу или класс: сбрось 2 карты и забери её в руку. Окно действует до следующего игрового действия.'
 };
+
+export function recordSabotage(g,actor){if(actor===g.turn||actor===g.helper)return;g.saboteurs??=[];if(!g.saboteurs.includes(actor))g.saboteurs.push(actor);const p=g.players[g.turn];if(p.bot){p.aiMemory??={};p.aiMemory[actor]=(p.aiMemory[actor]||0)+1}}

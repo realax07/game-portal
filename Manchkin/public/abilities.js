@@ -1,40 +1,42 @@
-import {has,emptyHands,traitBonus} from './traits.js';
+import {characterPower,itemUsable} from './card-effects.js';
+import {has,emptyHands,traitBonus,recordSabotage} from './traits.js';
 import {discard,takeTreasure} from './decks.js';
 import {combatMonsters,combatRewards,reactingPlayer} from './combat.js';
-const basePower=p=>p.level+p.equipment.reduce((n,c)=>n+(c.bonus||0),0)+traitBonus(p);
-export function combatStrength(g){if(g.forcedHelper&&g.players[g.turn].level+combatRewards(g).levels>=10){g.helper=null;g.forcedHelper=false}let n=basePower(g.players[g.turn])+(g.boost||0);if(g.helper!==null){const h=g.players[g.helper];n+=basePower(h)+(has(h,'Ranger')?2:0)}return n}
+const basePower=characterPower;
+export function combatStrength(g){if(g.forcedHelper&&g.players[g.turn].level+combatRewards(g).levels>=10){g.helper=null;g.forcedHelper=false}let n=basePower(g.players[g.turn],g)+(g.boost||0);if(g.helper!==null){const h=g.players[g.helper];n+=basePower(h,g)+(has(h,'Ranger')?2:0)}return n}
 const used=(g,k)=>g.abilityUses?.[k]||0;
-export const abilityCosts=p=>[...p.hand,...p.equipment.filter(c=>!['class','race','multiclass','multirace'].includes(c.type))];
+export const abilityCosts=(p,key=null)=>[...p.hand,...p.equipment.filter(c=>!['class','race','multiclass','multirace'].includes(c.type)&&!(key==='backstab'&&!has(p,'Thief')&&c.grantsBackstab))];
 export function abilityOptions(g,actor){
  const p=g.players[actor];if(!p)return[];const own=actor===g.turn,combat=g.phase==='combat',fighter=combat&&(own||actor===g.helper),canAct=!p.dead&&g.winner===null&&(g.reaction?reactingPlayer(g)===actor:own);const out=[];
- const add=(key,identity,name,cost,enabled,targets=[],extra={})=>{if(has(p,identity))out.push({key,identity,name,cost,enabled:canAct&&enabled,targets,...extra})};
+ const add=(key,identity,name,cost,enabled,targets=[],extra={})=>{if(has(p,identity)||key==='backstab'&&p.equipment.some(c=>c.grantsBackstab&&itemUsable(p,c)))out.push({key,identity,name,cost,enabled:canAct&&enabled,targets,...extra})};
  const monsters=combatMonsters(g).map(m=>({uid:m.uid,name:m.name}));
  add('berserk','Warrior','Ярость · +1',1,fighter&&used(g,`${actor}:berserk`)<3);
  add('turn','Cleric','Изгнать нежить · +3',1,fighter&&combatMonsters(g).some(m=>m.undead)&&used(g,`${actor}:turn`)<3);
  add('resurrect','Cleric','Воскресить дверь',1,own&&g.phase==='door'&&!!g.discards?.doors.length,[],{handOnly:true});
  add('charm','Wizard','Зачаровать монстра',p.hand.length,own&&combat&&p.hand.length>=3,monsters,{wholeHand:true});
  add('backstab','Thief','Подрезать · −2',1,combat&&!fighter,[g.turn,g.helper].filter(i=>i!==null&&i!==actor&&!used(g,`${actor}:backstab:${i}`)).map(i=>({uid:i,name:g.players[i].name})));
- const theft=g.players.flatMap((x,i)=>i===actor?[]:x.equipment.filter(c=>c.type==='item'&&!c.big).map(c=>({uid:c.uid,name:`${x.name}: ${c.name}`})));
+ const theft=g.players.flatMap((x,i)=>i===actor?[]:x.equipment.filter(c=>c.type==='item'&&!c.big&&!c.tamed).map(c=>({uid:c.uid,name:`${x.name}: ${c.name}`})));
  add('steal','Thief','Украсть шмотку · кубик 4–6',1,!combat&&own,theft);
  add('enthrall','Bard','Заворожить помощника',1,own&&combat&&g.helper===null&&g.players[g.turn].level+combatRewards(g).levels<10,g.players.flatMap((x,i)=>i!==actor&&!x.dead&&!used(g,`${actor}:enthrall:${i}`)?[{uid:i,name:x.name}]:[]));
  add('tame','Ranger','Приручить монстра',null,own&&combat,monsters,{monsterCost:true});
  add('claws','Druid',`Кошачьи когти · +${emptyHands(p)*3}`,1,fighter&&emptyHands(p)>0&&!used(g,`${actor}:claws`));
  add('illusion','Gnome','Создать иллюзию',0,own&&combat&&g.helper===null&&!used(g,`${actor}:illusion`),p.hand.filter(c=>c.type==='monster').map(c=>({uid:c.uid,name:`${c.name} · +${c.printedPower??c.power}`})));
  const top=g.discards?.doors.at(-1);add('scavenge','Bug','Подобрать расу / класс',2,!!top&&top.uid===g.lastDiscard&&['class','race'].includes(top.type),[],{handOnly:false});
- return out.map(a=>({...a,enabled:a.enabled&&(!['backstab','steal','enthrall','illusion','charm','tame'].includes(a.key)||a.targets.length>0)&&(a.cost===null||a.cost<=(a.handOnly||a.wholeHand?p.hand:abilityCosts(p)).length)}));
+ return out.map(a=>({...a,enabled:a.enabled&&(!['backstab','steal','enthrall','illusion','charm','tame'].includes(a.key)||a.targets.length>0)&&(a.cost===null||a.cost<=(a.handOnly||a.wholeHand?p.hand:abilityCosts(p,a.key)).length)}));
 }
 export function useAbility(g,actor,key,{costUids=[],targetUid=null,rollDie=()=>1+Math.floor(Math.random()*6)}={}){
  const p=g.players[actor],option=abilityOptions(g,actor).find(a=>a.key===key);if(!option?.enabled)return{ok:false,reason:'Способность сейчас недоступна.'};
  if(option.targets.length&&!option.targets.some(t=>t.uid===targetUid))return{ok:false,reason:'Выбери доступную цель.'};
  const m=combatMonsters(g).find(m=>m.uid===targetUid),cost=key==='tame'?m.reward:option.cost;
- const allowed=option.handOnly||option.wholeHand?p.hand:abilityCosts(p),uids=option.wholeHand?p.hand.map(c=>c.uid):costUids;
+ const allowed=option.handOnly||option.wholeHand?p.hand:abilityCosts(p,key),uids=option.wholeHand?p.hand.map(c=>c.uid):costUids;
  if(new Set(uids).size!==uids.length||uids.length!==cost||!uids.every(uid=>allowed.some(c=>c.uid===uid))||key==='tame'&&uids.some(uid=>p.equipment.some(c=>c.uid===uid&&c.slot==='steed')))return{ok:false,reason:`Выбери ровно ${cost} карт в оплату.`};
  // The reclaimed card must be captured before paying the discard cost.
  const reclaimed=key==='resurrect'||key==='scavenge'?g.discards.doors.pop():null;
+ const stabPenalty=has(p,'Thief')&&p.equipment.some(c=>c.grantsBackstab&&itemUsable(p,c))?3:2;
  const spent=allowed.filter(c=>uids.includes(c.uid));p.hand=p.hand.filter(c=>!uids.includes(c.uid));p.equipment=p.equipment.filter(c=>!uids.includes(c.uid));discard(g,spent);g.lastDiscard=null;
  g.abilityUses??={};const counter=`${actor}:${key}`;g.abilityUses[counter]=used(g,counter)+1;let text=`${p.name}: ${option.name}.`,faceUp=null;
  if(key==='berserk'||key==='turn'||key==='claws')g.boost+=(key==='berserk'?1:key==='turn'?3:emptyHands(p)*3);
- if(key==='backstab'){g.abilityUses[`${counter}:${targetUid}`]=1;g.boost-=has(p,'Thief')&&p.equipment.some(c=>c.en==='Stab-A-Matic')?3:2}
+ if(key==='backstab'){recordSabotage(g,actor);g.abilityUses[`${counter}:${targetUid}`]=1;g.boost-=stabPenalty}
  if(key==='illusion'){const illusion=p.hand.find(c=>c.uid===targetUid);p.hand=p.hand.filter(c=>c.uid!==targetUid);g.illusionBonus=illusion.printedPower??illusion.power;g.boost+=g.illusionBonus;discard(g,illusion)}
  if(key==='resurrect')faceUp=reclaimed;
  if(key==='scavenge')p.hand.push(reclaimed);
