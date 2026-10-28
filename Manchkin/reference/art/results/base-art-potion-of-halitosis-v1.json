@@ -1,0 +1,11 @@
+{
+  "id": "base-art-potion-of-halitosis",
+  "en": "Potion of Halitosis",
+  "name": "Зелье дурного дыхания",
+  "alt": "Зелье дурного дыхания выдохнуло облако-нос, даже чеснок надел противогаз.",
+  "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384 by 384 pixels. Funny expressive caricature, bold clean ink outlines, loose watercolor and gouache on warm parchment, colorful accents. One obvious visual joke, simple chunky shapes, minimal background, centered large subject with comfortable margins. Modest detail, no intricate scenery. No text, letters, digits, logos, watermark, border or card frame. Clear anatomy, no extra limbs. Subject: One small green potion bottle exhales a curly cloud shaped like an enormous smug nose, while a tiny garlic bulb nearby wears a miniature gas mask. Funny bad-breath magic, no text or logos.",
+  "file": "assets/illustrations/base-art-potion-of-halitosis-v1.jpg",
+  "date": "2026-10-26",
+  "status": "generated",
+  "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-9ea79897-6dab-4aea-b2e0-3bb1977292f3.png"
+}

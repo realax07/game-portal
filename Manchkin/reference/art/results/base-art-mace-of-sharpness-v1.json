@@ -1,0 +1,11 @@
+{
+  "id": "base-art-mace-of-sharpness",
+  "en": "Mace of Sharpness",
+  "name": "Острая булава",
+  "alt": "Острую булаву наточили так старательно, что рядом осталась точилка.",
+  "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384 by 384 pixels. Funny expressive caricature, bold clean ink outlines, loose watercolor and gouache on warm parchment, colorful accents. One obvious visual joke, simple chunky shapes, minimal background, centered large subject with comfortable margins. Modest detail, no intricate scenery. No text, letters, digits, logos, watermark, border or card frame. Clear anatomy, no extra limbs. Subject: A chunky medieval mace whose metal head is covered in absurdly sharp little triangular pencil points, with a tiny wooden pencil sharpener hanging from its handle. Distinctive blue-gray steel, leather grip, readable single weapon.",
+  "file": "assets/illustrations/base-art-mace-of-sharpness-v1.jpg",
+  "date": "2026-10-26",
+  "status": "generated",
+  "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-16c2f84c-3445-426a-8409-9bd4586aa6e7.png"
+}

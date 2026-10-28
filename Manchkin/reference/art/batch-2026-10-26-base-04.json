@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-26",
+  "status": "completed",
+  "tool": "image_gen.imagegen (built-in)",
+  "jobs": [
+    {
+      "id": "base-amazon",
+      "en": "Amazon",
+      "name": "Амазонка",
+      "alt": "Грозная амазонка гордо держит щит с уморительно маленькой уточкой вместо герба.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game. Funny expressive caricature, bold ink outlines, loose watercolor and gouache on warm parchment, colorful accents. Clear chunky silhouette, centered with generous margins, one obvious visual joke. Simple forms and minimal backdrop, modest detail sufficient for a small card. No words, letters, digits, logos, watermark or card border. A confident muscular adult woman fantasy warrior in practical bronze armor, red cape and boots strikes an exaggerated heroic pose, holding an enormous round shield whose magnificent crest is a ridiculously tiny yellow rubber duck. Tall spear, big windswept braid, amused raised eyebrow, whole figure, no sexualization.",
+      "file": "assets/illustrations/base-amazon-v1.jpg",
+      "date": "2026-10-26",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-b6481416-917e-4b60-a789-ebd8096d7048.png"
+    },
+    {
+      "id": "base-crabs",
+      "en": "Crabs",
+      "name": "Крабсы",
+      "alt": "Три самоуверенных краба тащат один рыцарский ботинок, никак не поделив шнурок.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game. Funny expressive caricature, bold ink outlines, loose watercolor and gouache on warm parchment, colorful accents. Clear chunky silhouette, centered with generous margins, one obvious visual joke. Simple forms and minimal backdrop, modest detail sufficient for a small card. No words, letters, digits, logos, watermark or card border. Three round bright-red fantasy crabs with huge mismatched pincers proudly drag one oversized abandoned knight boot, all tugging the same long shoelace in different directions and looking indignant at one another. Tiny shell helmets, compact silly group silhouette, no injury.",
+      "file": "assets/illustrations/base-crabs-v1.jpg",
+      "date": "2026-10-26",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-fffc87d5-aa24-4624-a834-461fbce35666.png"
+    },
+    {
+      "id": "base-insurance-salesman",
+      "en": "Insurance Salesman",
+      "name": "Страховой агент",
+      "alt": "Зубастый страховой агент разворачивает договор, который длиннее самого подземелья.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game. Funny expressive caricature, bold ink outlines, loose watercolor and gouache on warm parchment, colorful accents. Clear chunky silhouette, centered with generous margins, one obvious visual joke. Simple forms and minimal backdrop, modest detail sufficient for a small card. No words, letters, digits, logos, watermark or card border. A slick little purple horned fantasy demon insurance salesman in an ill-fitting emerald suit presents an absurdly long blank parchment contract that rolls into a tangled pile around his polished shoes. Huge toothy salesman's grin, quill held like a magic wand, no writing on the parchment, humorous dungeon bureaucracy.",
+      "file": "assets/illustrations/base-insurance-salesman-v1.jpg",
+      "date": "2026-10-26",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-21dd9079-fdf4-4bbe-a1c3-a72611d6b351.png"
+    },
+    {
+      "id": "base-lame-goblin-fixed",
+      "en": "Lame Goblin",
+      "name": "Непутёвый гоблин",
+      "alt": "Гоблин запутался в башмаках: одна рука на поясе, другая держит деревянный меч.",
+      "prompt": "Use case: precise-object-edit. Repair the arm anatomy of this exact goblin illustration. Redraw BOTH arms completely in a simple clear pose, including their shoulders and orange tunic sleeves. The goblin must have exactly TWO arms and TWO hands. On the LEFT side of the image, one complete arm emerges naturally from the LEFT shoulder sleeve, bends down at the elbow and rests its hand on the belt at the LEFT hip. On the RIGHT side of the image, one complete arm emerges naturally from the RIGHT shoulder sleeve, extends slightly sideways with a visible elbow and forearm, and its hand grips the wooden sword. REMOVE the hand touching the chin and ALL of that former bent arm. No hand near the face. No arms crossing the chest. No extra hands, floating limbs, duplicated elbows or empty severed sleeves. Each shoulder must visibly connect to just one arm. Keep the same goblin face, puzzled downward gaze, head, helmet, ears, backpack, orange patched tunic, belt, legs and tangled oversized boots, wooden sword, parchment background, square framing, ink outlines and watercolor style. Keep everything else unchanged.",
+      "file": "assets/illustrations/base-lame-goblin-fixed-v2.jpg",
+      "date": "2026-10-26",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-bc9ef313-3dd9-4abb-8418-70d66c89da2c.png",
+      "editReference": "reference/art/originals/base-lame-goblin-fixed-v1.png",
+      "archivedOriginal": "reference/art/originals/base-lame-goblin-fixed-v2.png"
+    },
+    {
+      "id": "base-angry-chicken",
+      "en": "Large Angry Chicken",
+      "name": "Большая сердитая курица",
+      "alt": "Огромная сердитая курица высиживает крошечный рыцарский шлем, как яйцо.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game. Funny expressive caricature, bold ink outlines, loose watercolor and gouache on warm parchment, colorful accents. Clear chunky silhouette, centered with generous margins, one obvious visual joke. Simple forms and minimal backdrop, modest detail sufficient for a small card. No words, letters, digits, logos, watermark or card border. An enormous round furious chicken with ruffled golden feathers and a gigantic red comb sits protectively on a tiny abandoned knight helmet as though it were her precious egg. Wings on hips, scandalized angry eyebrows, tiny nest, ridiculous oversized broody fantasy monster, no violence.",
+      "file": "assets/illustrations/base-angry-chicken-v1.jpg",
+      "date": "2026-10-26",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-25cf4be8-f4ae-41d0-b292-ff336460763f.png"
+    },
+    {
+      "id": "base-lawyers",
+      "en": "Lawyers",
+      "name": "Адвокаты",
+      "alt": "Два акульих адвоката делят единственный свиток и каждый тянет его на себя.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game. Funny expressive caricature, bold ink outlines, loose watercolor and gouache on warm parchment, colorful accents. Clear chunky silhouette, centered with generous margins, one obvious visual joke. Simple forms and minimal backdrop, modest detail sufficient for a small card. No words, letters, digits, logos, watermark or card border. Two pompous anthropomorphic shark fantasy lawyers in black court robes and tiny white curled wigs stand upright, each solemnly pulling the opposite end of one blank parchment scroll. Long toothy snouts, smug competitive eyebrows, absurd legal tug of war, no writing, no gore.",
+      "file": "assets/illustrations/base-lawyers-v1.jpg",
+      "date": "2026-10-26",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-b976205b-88a4-46b1-ab7b-a713cce1ea94.png"
+    },
+    {
+      "id": "base-leperchaun",
+      "en": "Leperchaun",
+      "name": "Лепрекон",
+      "alt": "Подозрительный лепрекон спрятал золотой горшок в шляпе и теперь не может её поднять.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game. Funny expressive caricature, bold ink outlines, loose watercolor and gouache on warm parchment, colorful accents. Clear chunky silhouette, centered with generous margins, one obvious visual joke. Simple forms and minimal backdrop, modest detail sufficient for a small card. No words, letters, digits, logos, watermark or card border. A little grumpy magical leprechaun in a very patched green coat and copper-buckled boots has hidden a small pot of gold inside his enormous green top hat and now struggles to lift the much-too-heavy hat off the ground. Red beard, huge nose, coins peeking under brim, humorous fantasy trickster, no disease imagery.",
+      "file": "assets/illustrations/base-leperchaun-v1.jpg",
+      "date": "2026-10-26",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-a2f65c25-fab8-400c-bb42-43a5f9c21b3f.png"
+    },
+    {
+      "id": "base-maul-rat",
+      "en": "Maul Rat",
+      "name": "Крыса с молотом",
+      "alt": "Крыса с огромным молотом деловито несёт покупки и смотрит на пустую мышеловку.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game. Funny expressive caricature, bold ink outlines, loose watercolor and gouache on warm parchment, colorful accents. Clear chunky silhouette, centered with generous margins, one obvious visual joke. Simple forms and minimal backdrop, modest detail sufficient for a small card. No words, letters, digits, logos, watermark or card border. A chunky gray fantasy rat carrying an absurdly oversized wooden mallet over one shoulder and two little colorful shopping bags in the other paw eyes a tiny empty mousetrap skeptically. Smug shopping-mall swagger, big round ears, purple little waistcoat, funny rodent monster with clear readable silhouette.",
+      "file": "assets/illustrations/base-maul-rat-v1.jpg",
+      "date": "2026-10-26",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-6556ac94-5695-4639-b616-d81ab9784903.png"
+    },
+    {
+      "id": "base-mr-bones",
+      "en": "Mr. Bones",
+      "name": "Мистер Кости",
+      "alt": "Мистер Кости нарядился на бал и пытается прикрутить себе отвалившуюся коленную чашечку.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game. Funny expressive caricature, bold ink outlines, loose watercolor and gouache on warm parchment, colorful accents. Clear chunky silhouette, centered with generous margins, one obvious visual joke. Simple forms and minimal backdrop, modest detail sufficient for a small card. No words, letters, digits, logos, watermark or card border. A polite lanky ivory skeleton gentleman wearing an enormous purple bow tie and tiny black top hat prepares for a dance, carefully trying to fasten a loose round kneecap back in place using a big shiny button. Expressive puzzled eye sockets, crossed bony legs, friendly non-scary undead slapstick, no gore.",
+      "file": "assets/illustrations/base-mr-bones-v1.jpg",
+      "date": "2026-10-26",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-da7d04c4-1f92-4b31-98d1-aef3a0ad099e.png"
+    },
+    {
+      "id": "base-magic-lamp",
+      "en": "Magic Lamp",
+      "name": "Волшебная лампа",
+      "alt": "Пузатый джинн с трудом вылезает из слишком маленькой волшебной лампы.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game. Funny expressive caricature, bold ink outlines, loose watercolor and gouache on warm parchment, colorful accents. Clear chunky silhouette, centered with generous margins, one obvious visual joke. Simple forms and minimal backdrop, modest detail sufficient for a small card. No words, letters, digits, logos, watermark or card border. An ornate little brass oil lamp with a curved spout releases a very plump turquoise genie who has become awkwardly stuck halfway out of the tiny spout. Folded muscular arms, little gold earrings, embarrassed indignant face, swirling purple-blue magical smoke, lamp prominently visible, funny original fantasy magic item.",
+      "file": "assets/illustrations/base-magic-lamp-v1.jpg",
+      "date": "2026-10-26",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-64f81c0b-5b61-4bc1-9e1d-129cfb513042.png"
+    },
+    {
+      "id": "base-loaded-die",
+      "en": "Loaded Die",
+      "name": "Заряженный кубик",
+      "alt": "Подозрительно тяжёлый кубик прячет за спиной крошечную гирю.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game. Funny expressive caricature, bold ink outlines, loose watercolor and gouache on warm parchment, colorful accents. Clear chunky silhouette, centered with generous margins, one obvious visual joke. Simple forms and minimal backdrop, modest detail sufficient for a small card. No words, letters, digits, logos, watermark or card border. A mischievous large ivory six-sided die with black round pips, sly cartoon eyes and little gloved hands tries to hide a tiny heavy brass weight behind its back. One corner sinks into a soft little cushion under its absurd weight. Readable cubical geometry and dot pips, no digits or lettering, funny cheating magical item.",
+      "file": "assets/illustrations/base-loaded-die-v1.jpg",
+      "date": "2026-10-26",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-45632cfa-3361-4ffd-be66-a55b0d4caed5.png"
+    },
+    {
+      "id": "base-singing-dancing-sword",
+      "en": "Singing & Dancing Sword",
+      "name": "Поющий и пляшущий меч",
+      "alt": "Поющий меч танцует на кончике, а его ножны отбивают чечётку рядом.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game. Funny expressive caricature, bold ink outlines, loose watercolor and gouache on warm parchment, colorful accents. Clear chunky silhouette, centered with generous margins, one obvious visual joke. Simple forms and minimal backdrop, modest detail sufficient for a small card. No words, letters, digits, logos, watermark or card border. A lively shiny steel fantasy sword with a smiling singing face on its blade balances proudly on its blunt tip like a dancing performer, hilt arms outstretched. Its empty red leather scabbard next to it wears tiny tap-dancing shoes. A few simple floating music-note symbols, no lyrics or words, joyful magical weapon caricature.",
+      "file": "assets/illustrations/base-singing-dancing-sword-v1.jpg",
+      "date": "2026-10-26",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-b45eec15-28f4-4143-ac5d-a75532497dbc.png"
+    }
+  ]
+}

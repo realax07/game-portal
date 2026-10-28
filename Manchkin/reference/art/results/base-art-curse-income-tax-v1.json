@@ -1,0 +1,11 @@
+{
+  "id": "base-art-curse-income-tax",
+  "en": "Curse! Income Tax",
+  "name": "Проклятие! Подоходный налог",
+  "alt": "Гоблин-сборщик налогов вытряхивает из огромного кошелька последнюю монетку.",
+  "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384 by 384 pixels. Funny expressive caricature, bold clean ink outlines, loose watercolor and gouache on warm parchment, colorful accents. One obvious visual joke, simple chunky shapes, minimal background, centered large subject with comfortable margins. Modest detail, no intricate scenery. No text, letters, digits, logos, watermark, border or card frame. Clear anatomy, no extra limbs. Subject: A smug little goblin tax collector in a green waistcoat holds an enormous empty coin purse upside down while a single tiny gold coin drops into his enormous accounting chest. Exactly two arms, blank parchment ledger under one foot, no writing.",
+  "file": "assets/illustrations/base-art-curse-income-tax-v1.jpg",
+  "date": "2026-10-26",
+  "status": "generated",
+  "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-a5412e4e-8e40-4271-9b34-d60b0bfd5ec2.png"
+}

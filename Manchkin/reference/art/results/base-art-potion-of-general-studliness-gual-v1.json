@@ -1,0 +1,12 @@
+{
+  "id": "base-art-potion-of-general-studliness-gual",
+  "en": "Potion of General Studliness (GUAL)",
+  "name": "Зелье всеобщей крутизны",
+  "alt": "Зелье всеобщей крутизны отрастило роскошные усы и надело геройский плащ.",
+  "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384 by 384 pixels. Funny expressive caricature, bold clean ink outlines, loose watercolor and gouache on warm parchment, colorful accents. One obvious visual joke, simple chunky shapes, minimal background, centered large subject with comfortable margins. Modest detail, no intricate scenery. No text, letters, digits, logos, watermark, border or card frame. Clear anatomy, no extra limbs. Subject: A sparkling golden potion flask in a purple velvet pouch has grown an enormous magnificent curled moustache and a tiny heroic cape. One proud potion bottle posing like a champion, simple glamorous sparkles, no writing.",
+  "file": "assets/illustrations/base-art-potion-of-general-studliness-gual-v1.jpg",
+  "date": "2026-10-26",
+  "status": "generated",
+  "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-72e67dc1-63ab-4534-82f2-8f6aba275063.png",
+  "recoveryNote": "Generated before the queue was stopped; recovered by direct visual comparison with its planned scene."
+}

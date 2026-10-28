@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-27",
+  "tool": "Built-in imagegen",
+  "batches": [
+    "batch-2026-10-27-base-06.json",
+    "batch-2026-10-27-base-07.json"
+  ],
+  "scope": "Images only, final nine base illustrations.",
+  "method": "Viewed all nine separately at 384 pixels; checked anatomy, hands, readability, distinct subjects, cropping and absence of text.",
+  "accepted": [
+    "Curse! Lose a Small Item",
+    "Curse! Lose the Armor You Are Wearing",
+    "Curse! Lose the Footgear You Are Wearing",
+    "Curse! Lose the Headgear You Are Wearing",
+    "Curse! Lose Two Cards",
+    "Curse! Lose Your Class",
+    "Curse! Lose Your Race",
+    "Curse! Malign Mirror",
+    "Truly Obnoxious Curse!"
+  ],
+  "repairs": [
+    {
+      "en": "Curse! Lose the Armor You Are Wearing",
+      "issue": "Duplicate breastplate on hero torso",
+      "resolution": "Targeted edit removes torso breastplate; fully clothed tunic and running breastplate preserved. Original draft archived."
+    }
+  ],
+  "needsRepair": [],
+  "browserCheck": {
+    "url": "http://localhost:4387/base-art.html",
+    "baseReady": 147,
+    "baseTotal": 147,
+    "pending": 0,
+    "lastBatchDisplayed": 4,
+    "allFourImagesLoaded": true,
+    "screenshot": "reference/qa/base-art-completed-2026-10-27.png"
+  }
+}

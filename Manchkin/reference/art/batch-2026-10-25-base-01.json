@@ -1,0 +1,97 @@
+{
+  "status": "completed",
+  "date": "2026-10-25",
+  "tool": "image_gen.imagegen (built-in)",
+  "jobs": [
+    {
+      "id": "rat",
+      "en": "Rat on a Stick",
+      "alt": "Крыса на палочке чувствует себя королевой и держится за палку, как за трон.",
+      "prompt": "Use case: illustration-story. One square illustration for an original humorous fantasy card game. Playful caricature, bold expressive ink outlines, loose watercolor/gouache, warm parchment background with a grounding shadow, distinct color accents. Centered chunky readable silhouette, exaggerated expression, comfortable margins, minimal background, modest detail sufficient for a small card. No text, letters, logos, frame or watermark. A fat smug gray rat perched on the tip of a rough wooden stick, clutching it like a royal throne, holding a stolen tiny cheese wedge and wearing an improvised bottlecap crown. Funny ridiculous fantasy weapon, no injury, no gore.",
+      "file": "assets/illustrations/rat-v1.jpg",
+      "date": "2026-10-25",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-816407df-456a-4619-8a93-5cd12ddfac79.png"
+    },
+    {
+      "id": "napalm",
+      "en": "Staff of Napalm",
+      "alt": "Посох напалма с драконьей головой поджаривает маршмеллоу и самодовольно дымится.",
+      "prompt": "Use case: illustration-story. One square illustration for an original humorous fantasy card game. Playful caricature, bold expressive ink outlines, loose watercolor/gouache, warm parchment background with a grounding shadow, distinct color accents. Centered chunky readable silhouette, exaggerated expression, comfortable margins, minimal background, modest detail sufficient for a small card. No text, letters, logos, frame or watermark. A crooked wooden magic staff with an expressive carved dragon head at the tip spits a small orange flame, toasting a single marshmallow on a twig. The staff's carved face looks incredibly smug about this modest achievement, purple magical sparks.",
+      "file": "assets/illustrations/napalm-v1.jpg",
+      "date": "2026-10-25",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-29028bae-dccf-4d61-95b8-f248e8d91613.png"
+    },
+    {
+      "id": "saw",
+      "en": "Chainsaw of Bloody Dismemberment",
+      "alt": "Грозная фэнтезийная бензопила распилила колбасу на аккуратные ломтики.",
+      "prompt": "Use case: illustration-story. One square illustration for an original humorous fantasy card game. Playful caricature, bold expressive ink outlines, loose watercolor/gouache, warm parchment background with a grounding shadow, distinct color accents. Centered chunky readable silhouette, exaggerated expression, comfortable margins, minimal background, modest detail sufficient for a small card. No text, letters, logos, frame or watermark. A ridiculously oversized fantasy chainsaw with a fierce face engraved on the steel blade housing and an ornate red leather handle has been used to neatly slice a little salami into perfect sandwich slices on a small chopping block. Absurd fantasy weapon, no blood, no gore, safe comic still life.",
+      "file": "assets/illustrations/saw-v1.jpg",
+      "date": "2026-10-25",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-45f618f9-0193-4393-b683-617ab8489520.png"
+    },
+    {
+      "id": "curse",
+      "en": "Lose a Level",
+      "alt": "Проклятый герой провалился сквозь ступеньку лестницы и завис с обиженным видом.",
+      "prompt": "Use case: illustration-story. One square illustration for an original humorous fantasy card game. Playful caricature, bold expressive ink outlines, loose watercolor/gouache, warm parchment background with a grounding shadow, distinct color accents. Centered chunky readable silhouette, exaggerated expression, comfortable margins, minimal background, modest detail sufficient for a small card. No text, letters, logos, frame or watermark. A little cocky armored adventurer stepping up a tiny wooden staircase has fallen through one broken step and is now stuck waist-deep with boots dangling, purple curse cloud chuckling above him. Expressive offended face, harmless slapstick losing progress, no numbers or text.",
+      "file": "assets/illustrations/curse-v1.jpg",
+      "date": "2026-10-25",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-88e60bc8-05c6-4cd4-8acd-8846843ac62b.png"
+    },
+    {
+      "id": "level",
+      "en": "Go Up a Level",
+      "alt": "Герой торжественно поднимается на одну ступеньку, пока его шлем едва не сдувает фейерверк.",
+      "prompt": "Use case: illustration-story. One square illustration for an original humorous fantasy card game. Playful caricature, bold expressive ink outlines, loose watercolor/gouache, warm parchment background with a grounding shadow, distinct color accents. Centered chunky readable silhouette, exaggerated expression, comfortable margins, minimal background, modest detail sufficient for a small card. No text, letters, logos, frame or watermark. A tiny proud fantasy adventurer in oversized helmet steps triumphantly onto one wooden podium step as a small golden magical star and confetti shower above him, plume blown wildly sideways. Funny ridiculously grand celebration of a very small achievement, no lettering or numbers.",
+      "file": "assets/illustrations/level-v1.jpg",
+      "date": "2026-10-25",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-e112c0f7-b195-4e5a-9fa4-78c5ff3732c1.png"
+    },
+    {
+      "id": "potion",
+      "en": "Potion of Idiotic Bravery",
+      "alt": "Зелье храбрости заставило крохотного рыцаря хвастаться перед собственной огромной тенью.",
+      "prompt": "Use case: illustration-story. One square illustration for an original humorous fantasy card game. Playful caricature, bold expressive ink outlines, loose watercolor/gouache, warm parchment background with a grounding shadow, distinct color accents. Centered chunky readable silhouette, exaggerated expression, comfortable margins, minimal background, modest detail sufficient for a small card. No text, letters, logos, frame or watermark. A tiny armored knight holding a round red potion flask with a wooden stopper flexes heroically at his own enormous intimidating shadow on a simple parchment background. Ridiculous overconfidence, wide silly grin, red bubbling liquid, clear comic fantasy potion scene.",
+      "file": "assets/illustrations/potion-v1.jpg",
+      "date": "2026-10-25",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-cfafa667-ae62-4394-9981-3808b93064ad.png"
+    },
+    {
+      "id": "super-munchkin",
+      "en": "Super Munchkin",
+      "alt": "Суперманчкин пытается одновременно размахивать мечом, колдовать и играть на лютне.",
+      "prompt": "Use case: illustration-story. One square illustration for an original humorous fantasy card game. Playful caricature, bold expressive ink outlines, loose watercolor/gouache, warm parchment background with a grounding shadow, distinct color accents. Centered chunky readable silhouette, exaggerated expression, comfortable margins, minimal background, modest detail sufficient for a small card. No text, letters, logos, frame or watermark. A self-important fantasy adventurer trying to be several classes at once: half steel knight helmet and half purple wizard hat on his head, one hand wields a tiny sword, another holds a crooked staff, a lute dangles awkwardly across his armor. Two arms only, juggling mismatched equipment in an impossibly confident pose, playful readable caricature.",
+      "file": "assets/illustrations/super-munchkin-v1.jpg",
+      "date": "2026-10-25",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-242d81ee-06c4-46e7-9a12-7f412fb3189d.png"
+    },
+    {
+      "id": "half-breed",
+      "en": "Half-Breed",
+      "alt": "Полукровка примеряет шлем с дыркой для эльфийского уха и расчёсывает дварфскую бороду.",
+      "prompt": "Use case: illustration-story. One square illustration for an original humorous fantasy card game. Playful caricature, bold expressive ink outlines, loose watercolor/gouache, warm parchment background with a grounding shadow, distinct color accents. Centered chunky readable silhouette, exaggerated expression, comfortable margins, minimal background, modest detail sufficient for a small card. No text, letters, logos, frame or watermark. One short broad fantasy adventurer combining a huge square ginger dwarf beard and enormous pointy elf ears, carefully combing his beard while trying on a too-small helmet with ear holes. Single original hybrid character, warm comic expression, green and copper accents.",
+      "file": "assets/illustrations/half-breed-v1.jpg",
+      "date": "2026-10-25",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-e27ffa04-4be9-4aee-9ffe-d52c0fa46d40.png"
+    },
+    {
+      "id": "wandering-base",
+      "en": "Wandering Monster",
+      "alt": "Заблудившийся монстр читает карту вверх ногами и случайно входит в чужое подземелье.",
+      "prompt": "Use case: illustration-story. One square illustration for an original humorous fantasy card game. Playful caricature, bold expressive ink outlines, loose watercolor/gouache, warm parchment background with a grounding shadow, distinct color accents. Centered chunky readable silhouette, exaggerated expression, comfortable margins, minimal background, modest detail sufficient for a small card. No text, letters, logos, frame or watermark. A round lime-green shaggy fantasy monster with little horns, a tiny traveler backpack and walking stick consults an obviously upside-down blank parchment map while stepping through a small dungeon doorway. Puzzled apologetic face, comic accidental encounter; map has only abstract squiggles, no text.",
+      "file": "assets/illustrations/wandering-base-v1.jpg",
+      "date": "2026-10-25",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-3a4d2c83-bf77-482e-bb3e-afa144e94c48.png"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "base-art-yuppie-water",
+  "en": "Yuppie Water",
+  "name": "Эльфийская водичка",
+  "alt": "Эльфийскую водичку подают в хрустальном бокале с невероятно важным видом.",
+  "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384 by 384 pixels. Funny expressive caricature, bold clean ink outlines, loose watercolor and gouache on warm parchment, colorful accents. One obvious visual joke, simple chunky shapes, minimal background, centered large subject with comfortable margins. Modest detail, no intricate scenery. No text, letters, digits, logos, watermark, border or card frame. Clear anatomy, no extra limbs. Subject: A delicate pale-green potion bottle decorated with one leaf and a tiny gold cap is being fussily served in a miniature crystal goblet by a well-groomed elf mouse. Elegant absurdly posh water, no labels.",
+  "file": "assets/illustrations/base-art-yuppie-water-v1.jpg",
+  "date": "2026-10-26",
+  "status": "generated",
+  "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-6bb99bb8-8424-467c-a1fd-75366c17871f.png"
+}

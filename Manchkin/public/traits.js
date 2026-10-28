@@ -1,9 +1,16 @@
 // Identity checks are shared by equipment, combat and the ability UI.
-export const has=(p,en)=>p.equipment.some(c=>c.en===en||c.id===en.toLowerCase());
+export function has(p,en){
+ if(en==='Human'){
+  const races=p.equipment.filter(c=>c.type==='race').length;
+  const limit=p.equipment.find(c=>c.slot==='race-mod')?.limit||1;
+  return races===0||races<limit;
+ }
+ return p.equipment.some(c=>c.en===en||c.id===en.toLowerCase());
+}
 export const handLimit=p=>has(p,'Dwarf')?6:5;
-export const emptyHands=p=>Math.max(0,2-p.equipment.filter(c=>c.slot==='hand').reduce((n,c)=>n+(c.hands||1),0));
+export const emptyHands=p=>Math.max(0,2-p.equipment.filter(c=>c.slot==='hand'&&!c.cheatCard&&!(c.hirelingUid&&p.equipment.some(h=>h.uid===c.hirelingUid))).reduce((n,c)=>n+(c.hands||1),0));
 export const traitBonus=p=>has(p,'Gnome')?p.equipment.filter(c=>c.type==='item'&&/^[gn]/i.test(c.en||'')).length:0;
-export const escapeBonus=(p,m)=>p.equipment.reduce((n,c)=>n+(c.runAway||0),0)+(has(p,'Elf')?1:0)+(has(p,'Lizard Guy')?(m.power>=16?2:m.power>=10?1:0):0);
+export const escapeBonus=(p,m)=>(m.escapeModifier||0)+p.equipment.reduce((n,c)=>n+(c.runAway||0),0)+(has(p,'Elf')?1:0)+(has(p,'Lizard Guy')?(m.power>=16?2:m.power>=10?1:0):0);
 export const TRAITS={
  Warrior:'В ничьей побеждает сторона воина. Ярость: сбрось до 3 карт за бой, каждая даёт +1.',
  Cleric:'Против нежити: до 3 сбросов за бой, каждый даёт +3. Воскрешение: вместо открытой двери возьми верхнюю карту сброса дверей, заплатив картой из руки.',
@@ -15,7 +22,7 @@ export const TRAITS={
  Elf:'+1 к смывке. За помощь получает по уровню за каждого убитого монстра; так можно победить!',
  Dwarf:'Можно оставить 6 карт в руке в конце хода. Ограничения на большие шмотки сняты.',
  Halfling:'Первую выбранную шмотку за ход можно продать вдвое дороже. После неудачной смывки можно сбросить карту и перебросить кубик.',
- Orc:'Если побеждает без помощника с перевесом больше 10, получает дополнительный уровень.',
+ Orc:'Может отменить направленное на него проклятие потерей 1 уровня, кроме первого. Если побеждает без помощника с перевесом больше 10, получает дополнительный уровень.',
  Gnome:'Иллюзия в одиночном бою: монстр из руки даёт бонус, равный его уровню, до конца боя. +1 за каждую надетую шмотку с английским названием на G или N.',
  Centaur:'Может одновременно носить две обувки и любое количество скакунов.',
  'Lizard Guy':'Смывка: +1 против монстров 10–15 уровня и +2 против 16+. Одноразовое зелье, сыгранное в пользу монстров, действует вдвое сильнее.',

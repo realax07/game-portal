@@ -2,10 +2,14 @@
   "name": "game-portal",
   "version": "1.0.0",
   "private": true,
-  "description": "Локальный игровой портал: Манчкин, Vice Drive, Velvet Poker, Танки и Дурак",
-  "engines": { "node": ">=20" },
+  "description": "Локальный игровой портал: Эволюция, Манчкин, Vice Drive, Velvet Poker, Танки и Дурак",
+  "engines": {
+    "node": ">=22"
+  },
   "scripts": {
     "start": "node game-hub/server.mjs",
-    "test": "npm test --prefix Durak && npm test --prefix GTA && node Poker/velvet-poker/test-engine.cjs && node Poker/velvet-poker/test-coach.cjs && npm test --prefix Manchkin"
+    "test": "npm test --prefix Durak && npm test --prefix GTA && node Poker/velvet-poker/test-engine.cjs && node Poker/velvet-poker/test-coach.cjs && npm test --prefix Manchkin && npm run check --prefix evolution && npm test --prefix evolution",
+    "services:start": "node game-hub/services.mjs start",
+    "services:stop": "node game-hub/services.mjs stop"
   }
 }

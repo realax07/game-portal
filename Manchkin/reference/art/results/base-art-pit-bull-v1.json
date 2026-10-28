@@ -1,0 +1,11 @@
+{
+  "id": "base-art-pit-bull",
+  "en": "Pit Bull",
+  "name": "Питбуль",
+  "alt": "Суровый питбуль в помятом шлеме принёс длиннющий посох, как обычную палку.",
+  "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384 by 384 pixels. Funny expressive caricature, bold clean ink outlines, loose watercolor and gouache on warm parchment, colorful accents. One obvious visual joke, simple chunky shapes, minimal background, centered large subject with comfortable margins. Modest detail, no intricate scenery. No text, letters, digits, logos, watermark, border or card frame. Clear anatomy, no extra limbs. Subject: A squat grumpy fantasy bulldog wearing a dented knight helmet stands guard over a tiny excavation pit, proudly carrying a ridiculously long wooden wizard staff like a fetched stick. His huge cheeks and tiny legs make a compact hilarious silhouette.",
+  "file": "assets/illustrations/base-art-pit-bull-v1.jpg",
+  "date": "2026-10-26",
+  "status": "generated",
+  "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-5c12a34d-d1ca-4934-85a0-b65498a891ce.png"
+}

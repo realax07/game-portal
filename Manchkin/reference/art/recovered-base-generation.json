@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-26",
+  "note": "Already completed images recovered after queue cancellation. Each inspected and unambiguously matched to its prewritten scene. No additional generation requests.",
+  "entries": [
+    {
+      "index": 1,
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-e0612eeb-ae87-467f-b94f-2ab8238c91ee.png",
+      "preview": "/tmp/munchkin-art-review/recovered-1.jpg",
+      "en": "Instant Wall",
+      "id": "base-art-instant-wall",
+      "visuallyChecked": true
+    },
+    {
+      "index": 2,
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-1bc5e314-5e5e-414c-8de8-b58cc5b2bbce.png",
+      "preview": "/tmp/munchkin-art-review/recovered-2.jpg",
+      "en": "Out to Lunch",
+      "id": "base-art-out-to-lunch",
+      "visuallyChecked": true
+    },
+    {
+      "index": 3,
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-9969eabf-bc59-4f17-95f5-f20e2ebda2fd.png",
+      "preview": "/tmp/munchkin-art-review/recovered-3.jpg",
+      "en": "Steal a Level",
+      "id": "base-art-steal-a-level",
+      "visuallyChecked": true
+    },
+    {
+      "index": 4,
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-d925038a-6840-49fa-a021-0b0e3fed27f2.png",
+      "preview": "/tmp/munchkin-art-review/recovered-4.jpg",
+      "en": "1,000 Gold Pieces (GUAL)",
+      "id": "base-art-1-000-gold-pieces-gual",
+      "visuallyChecked": true
+    },
+    {
+      "index": 5,
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-d3e011db-3e52-4167-9024-e47af94f0506.png",
+      "preview": "/tmp/munchkin-art-review/recovered-5.jpg",
+      "en": "Boil an Anthill (GUAL)",
+      "id": "base-art-boil-an-anthill-gual",
+      "visuallyChecked": true
+    },
+    {
+      "index": 6,
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-ebd28890-c0d5-4d32-a1d0-f38ef52c41d8.png",
+      "preview": "/tmp/munchkin-art-review/recovered-6.jpg",
+      "en": "Bribe GM With Food (GUAL)",
+      "id": "base-art-bribe-gm-with-food-gual",
+      "visuallyChecked": true
+    },
+    {
+      "index": 7,
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-11f49291-7b9c-4ac8-9307-3dffb67701c5.png",
+      "preview": "/tmp/munchkin-art-review/recovered-7.jpg",
+      "en": "Convenient Addition Error (GUAL)",
+      "id": "base-art-convenient-addition-error-gual",
+      "visuallyChecked": true
+    },
+    {
+      "index": 8,
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-77ee1aa7-f0ac-49db-bcf3-d0ec04bd6be5.png",
+      "preview": "/tmp/munchkin-art-review/recovered-8.jpg",
+      "en": "Invoke Obscure Rules (GUAL)",
+      "id": "base-art-invoke-obscure-rules-gual",
+      "visuallyChecked": true
+    },
+    {
+      "index": 9,
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-5c76132b-c424-431e-b52e-d402869d65d8.png",
+      "preview": "/tmp/munchkin-art-review/recovered-9.jpg",
+      "en": "Kill the Hireling (GUAL)",
+      "id": "base-art-kill-the-hireling-gual",
+      "visuallyChecked": true
+    },
+    {
+      "index": 10,
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-bca886de-c4cb-4c02-b88b-388ee7f6ed28.png",
+      "preview": "/tmp/munchkin-art-review/recovered-10.jpg",
+      "en": "Mutilate the Bodies (GUAL)",
+      "id": "base-art-mutilate-the-bodies-gual",
+      "visuallyChecked": true
+    },
+    {
+      "index": 11,
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-72e67dc1-63ab-4534-82f2-8f6aba275063.png",
+      "preview": "/tmp/munchkin-art-review/recovered-11.jpg",
+      "en": "Potion of General Studliness (GUAL)",
+      "id": "base-art-potion-of-general-studliness-gual",
+      "visuallyChecked": true
+    }
+  ]
+}

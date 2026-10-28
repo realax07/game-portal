@@ -1,0 +1,11 @@
+{
+  "id": "base-art-tuba-of-charm",
+  "en": "Tuba of Charm",
+  "name": "Чарующая дуда",
+  "alt": "Из чарующей дуды выглядывает совершенно очарованная змейка.",
+  "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384 by 384 pixels. Funny expressive caricature, bold clean ink outlines, loose watercolor and gouache on warm parchment, colorful accents. One obvious visual joke, simple chunky shapes, minimal background, centered large subject with comfortable margins. Modest detail, no intricate scenery. No text, letters, digits, logos, watermark, border or card frame. Clear anatomy, no extra limbs. Subject: A big warm brass tuba releases a stream of tiny pink musical-note-like sparkles shaped as hearts, charming a little green snake who peeks out of its bell wearing a blissful smile. No written musical symbols or text.",
+  "file": "assets/illustrations/base-art-tuba-of-charm-v1.jpg",
+  "date": "2026-10-26",
+  "status": "generated",
+  "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-1fbfae44-a71b-44a5-bb13-7138b39588ed.png"
+}

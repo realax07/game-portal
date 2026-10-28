@@ -1,0 +1,11 @@
+{
+  "id": "base-art-baby",
+  "en": "Baby",
+  "name": "Маленький",
+  "alt": "Маленький монстр устроился в шлеме с соской и игрушечной дубинкой.",
+  "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384 by 384 pixels. Funny expressive caricature, bold clean ink outlines, loose watercolor and gouache on warm parchment, colorful accents. One obvious visual joke, simple chunky shapes, minimal background, centered large subject with comfortable margins. Modest detail, no intricate scenery. No text, letters, digits, logos, watermark, border or card frame. Clear anatomy, no extra limbs. Subject: An adorable round baby dungeon monster with tiny horns sits in an enormous empty knight helmet, sucking a jewel-shaped pacifier and holding a miniature wooden club. Big innocent eyes, clothed little bib, no writing.",
+  "file": "assets/illustrations/base-art-baby-v1.jpg",
+  "date": "2026-10-26",
+  "status": "generated",
+  "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-3c7bab8d-ae1c-485e-a5cb-bcacc5a63529.png"
+}

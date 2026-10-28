@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-27",
+  "status": "completed",
+  "tool": "image_gen.imagegen (built-in)",
+  "scope": "Remaining base card art only; visually inspect and apply each small batch.",
+  "jobs": [
+    {
+      "id": "base-art-curse-lose-a-small-item",
+      "en": "Curse! Lose a Small Item",
+      "name": "Проклятие! Потеря мелкой шмотки",
+      "alt": "Дварф ищет маленькое кольцо в кошельке, а оно укатилось под сапог.",
+      "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384 by 384 pixels. Funny expressive caricature, bold clean ink outlines, loose watercolor and gouache on warm parchment, colorful accents. One obvious visual joke, simple chunky shapes, minimal background, centered large subject with comfortable margins. Modest detail, no intricate scenery. No text, letters, digits, logos, watermark, border or card frame. Clear anatomy, no extra limbs. Subject: An adult fantasy dwarf searches through an enormous open coin purse with a magnifying glass while a tiny shiny ring rolls away beneath his boot. Two clear hands, one purse, one ring, simple lost-small-treasure joke.",
+      "file": "assets/illustrations/base-art-curse-lose-a-small-item-v1.jpg",
+      "date": "2026-10-27",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-35989755-6841-4081-9356-bf33bd037da5.png"
+    },
+    {
+      "id": "base-art-curse-lose-the-armor-you-are-wearing",
+      "en": "Curse! Lose the Armor You Are Wearing",
+      "name": "Проклятие! Потеря броника",
+      "alt": "Броник раскрылся и убежал на маленьких металлических ножках.",
+      "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384 by 384 pixels. Funny expressive caricature, bold clean ink outlines, loose watercolor and gouache on warm parchment, colorful accents. One obvious visual joke, simple chunky shapes, minimal background, centered large subject with comfortable margins. Modest detail, no intricate scenery. No text, letters, digits, logos, watermark, border or card frame. Clear anatomy, no extra limbs. Subject: A modestly dressed adult fantasy adventurer in a full brown tunic and trousers looks surprised as his steel breastplate springs open like a clamshell and hops away on two tiny metal feet. Exactly two human arms, no nudity. Correction: Remove only the duplicate steel breastplate from the human torso; replace with fully closed plain brown tunic. Preserve everything else, exactly one breastplate, the running one.",
+      "file": "assets/illustrations/base-art-curse-lose-the-armor-you-are-wearing-v1.jpg",
+      "date": "2026-10-27",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-6470cd0f-559d-401b-902a-3ce92786edc0.png",
+      "editReference": "reference/art/originals/base-art-curse-lose-the-armor-you-are-wearing-draft-duplicate-armor.png",
+      "originalPrompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384 by 384 pixels. Funny expressive caricature, bold clean ink outlines, loose watercolor and gouache on warm parchment, colorful accents. One obvious visual joke, simple chunky shapes, minimal background, centered large subject with comfortable margins. Modest detail, no intricate scenery. No text, letters, digits, logos, watermark, border or card frame. Clear anatomy, no extra limbs. Subject: A modestly dressed adult fantasy adventurer in a full brown tunic and trousers looks surprised as his steel breastplate springs open like a clamshell and hops away on two tiny metal feet. Exactly two human arms, no nudity."
+    },
+    {
+      "id": "base-art-curse-lose-the-footgear-you-are-wearing",
+      "en": "Curse! Lose the Footgear You Are Wearing",
+      "name": "Проклятие! Потеря обувки",
+      "alt": "Тяжёлые башмаки сбежали сами, оставив искателя в полосатых носках.",
+      "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384 by 384 pixels. Funny expressive caricature, bold clean ink outlines, loose watercolor and gouache on warm parchment, colorful accents. One obvious visual joke, simple chunky shapes, minimal background, centered large subject with comfortable margins. Modest detail, no intricate scenery. No text, letters, digits, logos, watermark, border or card frame. Clear anatomy, no extra limbs. Subject: A surprised adult fantasy knight in full clothing stands in brightly striped socks while a matching pair of heavy boots runs away on its own with jaunty little dust puffs. Human feet remain clearly in socks, two separate boots.",
+      "file": "assets/illustrations/base-art-curse-lose-the-footgear-you-are-wearing-v1.jpg",
+      "date": "2026-10-27",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-31851f99-11bd-4df4-ad38-664288646ab5.png"
+    },
+    {
+      "id": "base-art-curse-lose-the-headgear-you-are-wearing",
+      "en": "Curse! Lose the Headgear You Are Wearing",
+      "name": "Проклятие! Потеря головняка",
+      "alt": "Головняк отрастил крылья и улетел, оставив причёску в форме шлема.",
+      "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384 by 384 pixels. Funny expressive caricature, bold clean ink outlines, loose watercolor and gouache on warm parchment, colorful accents. One obvious visual joke, simple chunky shapes, minimal background, centered large subject with comfortable margins. Modest detail, no intricate scenery. No text, letters, digits, logos, watermark, border or card frame. Clear anatomy, no extra limbs. Subject: A knight's oversized steel helmet suddenly has two small feathered wings and flies upward like a startled pigeon, leaving a surprised adult adventurer with a comically flat helmet-shaped hairstyle. Exactly two hands held at his sides.",
+      "file": "assets/illustrations/base-art-curse-lose-the-headgear-you-are-wearing-v1.jpg",
+      "date": "2026-10-27",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-30169b51-fa19-49bd-a274-b10714862fd0.png"
+    },
+    {
+      "id": "base-art-curse-lose-two-cards",
+      "en": "Curse! Lose Two Cards",
+      "name": "Проклятие! Потеря двух карт",
+      "alt": "Две карты превратились в бумажных птиц и улетают в разные стороны.",
+      "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384 by 384 pixels. Funny expressive caricature, bold clean ink outlines, loose watercolor and gouache on warm parchment, colorful accents. One obvious visual joke, simple chunky shapes, minimal background, centered large subject with comfortable margins. Modest detail, no intricate scenery. No text, letters, digits, logos, watermark, border or card frame. Clear anatomy, no extra limbs. Subject: An adult fantasy adventurer looks aghast as two blank-backed playing cards turn into little paper birds and fly away in opposite directions. His two hands reach after them, exactly two cards and two arms, no writing or visible card faces.",
+      "file": "assets/illustrations/base-art-curse-lose-two-cards-v1.jpg",
+      "date": "2026-10-27",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-64ec1803-e0cf-4d28-9c00-c5ab1f08d832.png"
+    }
+  ]
+}

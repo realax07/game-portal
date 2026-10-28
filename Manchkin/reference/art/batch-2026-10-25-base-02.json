@@ -1,0 +1,140 @@
+{
+  "date": "2026-10-25",
+  "status": "completed",
+  "tool": "image_gen.imagegen (built-in)",
+  "jobs": [
+    {
+      "id": "base-orc-horde",
+      "en": "3,872 Orcs",
+      "name": "3872 орка",
+      "alt": "Тесная толпа орков пытается пройти в одну дверь, а последний проталкивает огромный чемодан.",
+      "prompt": "Use case: illustration-story. One square illustration for a humorous fantasy card game, original design. Playful funny caricature, bold expressive ink outlines, loose watercolor and gouache on warm parchment, rich distinct color accents. Large readable chunky silhouette, exaggerated expression, centered comfortably inside image with margins, simple background, modest detail sufficient for small cards. No text, letters, digits, card frame, logos or watermark. A compact absurdly crowded horde of funny green orcs trying to squeeze through one ridiculously tiny dungeon doorway. Six expressive orc faces visible, more tiny silhouettes behind; the last orc pushes a huge luggage trunk. Grumpy crowded queue, mismatched medieval helmets, silly wooden clubs, no combat or injury.",
+      "file": "assets/illustrations/base-orc-horde-v1.jpg",
+      "date": "2026-10-25",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-43313518-0cd1-43b7-9255-63c975a356e7.png"
+    },
+    {
+      "id": "base-bigfoot",
+      "en": "Bigfoot",
+      "name": "Снежный человек",
+      "alt": "Снежный человек с огромными ступнями примеряет крошечный ботинок.",
+      "prompt": "Use case: illustration-story. One square illustration for a humorous fantasy card game, original design. Playful funny caricature, bold expressive ink outlines, loose watercolor and gouache on warm parchment, rich distinct color accents. Large readable chunky silhouette, exaggerated expression, centered comfortably inside image with margins, simple background, modest detail sufficient for small cards. No text, letters, digits, card frame, logos or watermark. A shaggy gentle brown bigfoot with enormous feet sits on a little rock, trying with puzzled concentration to squeeze one gigantic furry foot into a ridiculously tiny polished boot. Broad rounded silhouette, cross-eyed focus, simple snowy patch under the rock.",
+      "file": "assets/illustrations/base-bigfoot-v1.jpg",
+      "date": "2026-10-25",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-11393593-f86c-4429-88af-9f8662e1cfb3.png"
+    },
+    {
+      "id": "base-bullrog",
+      "en": "Bullrog",
+      "name": "Буллрог",
+      "alt": "Рогатый огненный бык-демон обжёгся о собственный огненный кнут.",
+      "prompt": "Use case: illustration-story. One square illustration for a humorous fantasy card game, original design. Playful funny caricature, bold expressive ink outlines, loose watercolor and gouache on warm parchment, rich distinct color accents. Large readable chunky silhouette, exaggerated expression, centered comfortably inside image with margins, simple background, modest detail sufficient for small cards. No text, letters, digits, card frame, logos or watermark. A chunky bull-headed fantasy demon with short red horns, little bat wings, orange ember mane and big bovine nose holds a fiery whip at arm's length and blows on one singed fingertip, looking sheepishly offended by his own fire. Harmless slapstick, bold crimson and amber silhouette.",
+      "file": "assets/illustrations/base-bullrog-v1.jpg",
+      "date": "2026-10-25",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-d374bce7-318a-45bb-9f2a-098b07c83f63.png"
+    },
+    {
+      "id": "base-face-sucker",
+      "en": "Face Sucker",
+      "name": "Лицехват",
+      "alt": "Лицехват присосался к закрытому рыцарскому забралу и никак не может добраться до лица.",
+      "prompt": "Use case: illustration-story. One square illustration for a humorous fantasy card game, original design. Playful funny caricature, bold expressive ink outlines, loose watercolor and gouache on warm parchment, rich distinct color accents. Large readable chunky silhouette, exaggerated expression, centered comfortably inside image with margins, simple background, modest detail sufficient for small cards. No text, letters, digits, card frame, logos or watermark. A silly purple octopus-like fantasy face-sucking monster has plastered its broad suction-cup body and short tentacles over the closed steel visor of an empty knight helmet. Its one visible cartoon eye looks frustrated because the visor will not open. Single funny monster and helmet, no pain or violence.",
+      "file": "assets/illustrations/base-face-sucker-v1.jpg",
+      "date": "2026-10-25",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-1feeba0c-10c7-41d6-9b20-54259ab9b6bd.png"
+    },
+    {
+      "id": "base-floating-nose",
+      "en": "Floating Nose",
+      "name": "Летающий нос",
+      "alt": "Огромный летающий нос чихает и сам улетает назад от своего чиха.",
+      "prompt": "Use case: illustration-story. One square illustration for a humorous fantasy card game, original design. Playful funny caricature, bold expressive ink outlines, loose watercolor and gouache on warm parchment, rich distinct color accents. Large readable chunky silhouette, exaggerated expression, centered comfortably inside image with margins, simple background, modest detail sufficient for small cards. No text, letters, digits, card frame, logos or watermark. A gigantic floating peach-colored cartoon nose with tiny bat-like wings, thick curled mustache and a pair of expressive eyes above the bridge sneezes a harmless puff of sparkling purple dust, propelling itself backward. Ridiculous original fantasy monster, lively S-shaped motion, no gross mucus.",
+      "file": "assets/illustrations/base-floating-nose-v1.jpg",
+      "date": "2026-10-25",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-574b8f6a-068e-4d32-b3f4-4272b0d4f07c.png"
+    },
+    {
+      "id": "base-flying-frogs",
+      "en": "Flying Frogs",
+      "name": "Летающие лягушки",
+      "alt": "Три лягушки с крошечными крыльями пытаются взлететь, а самая толстая держится за остальных.",
+      "prompt": "Use case: illustration-story. One square illustration for a humorous fantasy card game, original design. Playful funny caricature, bold expressive ink outlines, loose watercolor and gouache on warm parchment, rich distinct color accents. Large readable chunky silhouette, exaggerated expression, centered comfortably inside image with margins, simple background, modest detail sufficient for small cards. No text, letters, digits, card frame, logos or watermark. Three plump bright emerald frogs with ridiculously tiny dragonfly wings trying to fly together. Two smaller frogs strain upward while the huge lazy middle frog dangles between them, holding their feet and looking pleased. Expressive faces, compact clear group silhouette, simple fantasy slapstick.",
+      "file": "assets/illustrations/base-flying-frogs-v1.jpg",
+      "date": "2026-10-25",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-768f4c8b-c718-4279-9c28-ecbc263c50d1.png"
+    },
+    {
+      "id": "base-gazebo",
+      "en": "Gazebo",
+      "name": "Беседка",
+      "alt": "Очень грозная беседка подкрадывается на деревянных ножках к брошенному рыцарскому шлему.",
+      "prompt": "Use case: illustration-story. One square illustration for a humorous fantasy card game, original design. Playful funny caricature, bold expressive ink outlines, loose watercolor and gouache on warm parchment, rich distinct color accents. Large readable chunky silhouette, exaggerated expression, centered comfortably inside image with margins, simple background, modest detail sufficient for small cards. No text, letters, digits, card frame, logos or watermark. An ornate little wooden garden gazebo has become an absurd fantasy dungeon monster: roof ridge shaped like angry eyebrows, entrance like a snarling mouth, four wooden pillar legs sneaking on tiptoe toward a tiny abandoned knight helmet. Clearly recognizable whole gazebo with a pointed roof, expressive anthropomorphic architecture, no people.",
+      "file": "assets/illustrations/base-gazebo-v1.jpg",
+      "date": "2026-10-25",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-52528b58-e2b2-4029-9207-bcf9565d58b2.png"
+    },
+    {
+      "id": "base-gelatinous-octahedron",
+      "en": "Gelatinous Octahedron",
+      "name": "Желатиновый восьмигранник",
+      "alt": "Прозрачный желатиновый восьмигранник проглотил вилку и задумчиво смотрит на ложку.",
+      "prompt": "Use case: illustration-story. One square illustration for a humorous fantasy card game, original design. Playful funny caricature, bold expressive ink outlines, loose watercolor and gouache on warm parchment, rich distinct color accents. Large readable chunky silhouette, exaggerated expression, centered comfortably inside image with margins, simple background, modest detail sufficient for small cards. No text, letters, digits, card frame, logos or watermark. A transparent lime-green gelatinous monster shaped like an unmistakable eight-faced crystal: two square pyramids joined base-to-base, top and bottom points. Cute confused eyes on a triangular face, a tiny fork suspended inside the jelly and a spoon on the floor outside. Faceted octahedral silhouette, not a cube or round blob, funny magical jelly.",
+      "file": "assets/illustrations/base-gelatinous-octahedron-v1.jpg",
+      "date": "2026-10-25",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-b8d73dda-b3ba-4b16-906f-10e505eeb91b.png"
+    },
+    {
+      "id": "base-ghoulfiends",
+      "en": "Ghoulfiends",
+      "name": "Упыри",
+      "alt": "Два нелепых упыря торжественно делят одну крошечную печеньку.",
+      "prompt": "Use case: illustration-story. One square illustration for a humorous fantasy card game, original design. Playful funny caricature, bold expressive ink outlines, loose watercolor and gouache on warm parchment, rich distinct color accents. Large readable chunky silhouette, exaggerated expression, centered comfortably inside image with margins, simple background, modest detail sufficient for small cards. No text, letters, digits, card frame, logos or watermark. Two goofy lanky undead ghoul friends in tattered purple and teal formal coats solemnly negotiate over one tiny cookie on a little plate, using oversized silver forks. Pale mint skin, bony angular silhouettes, fussy pompous expressions, harmless comic undead tea party, no gore.",
+      "file": "assets/illustrations/base-ghoulfiends-v1.jpg",
+      "date": "2026-10-26",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-e2986e9e-6741-4c37-9f41-23ef03e4215b.png"
+    },
+    {
+      "id": "base-harpies",
+      "en": "Harpies",
+      "name": "Гарпии",
+      "alt": "Две пернатые гарпии спорят за расчёску, пока перья их причёсок торчат во все стороны.",
+      "prompt": "Use case: illustration-story. One square illustration for a humorous fantasy card game, original design. Playful funny caricature, bold expressive ink outlines, loose watercolor and gouache on warm parchment, rich distinct color accents. Large readable chunky silhouette, exaggerated expression, centered comfortably inside image with margins, simple background, modest detail sufficient for small cards. No text, letters, digits, card frame, logos or watermark. Two ridiculous fully clothed feathery harpies with humanlike expressive faces, bird wings and clawed bird feet bicker over one tiny hair comb. Outrageous messy head feathers like bad hairstyles, one orange-red and one turquoise, broad comic faces, readable group silhouette, no nudity or violence.",
+      "file": "assets/illustrations/base-harpies-v1.jpg",
+      "date": "2026-10-26",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-d1e02cc1-8dad-4def-911b-88a236892fe0.png"
+    },
+    {
+      "id": "base-hippogriff",
+      "en": "Hippogriff",
+      "name": "Гиппогриф",
+      "alt": "Гиппогриф пытается гордо лететь, пока его лошадиная половина лениво сидит на земле.",
+      "prompt": "Use case: illustration-story. One square illustration for a humorous fantasy card game, original design. Playful funny caricature, bold expressive ink outlines, loose watercolor and gouache on warm parchment, rich distinct color accents. Large readable chunky silhouette, exaggerated expression, centered comfortably inside image with margins, simple background, modest detail sufficient for small cards. No text, letters, digits, card frame, logos or watermark. A chubby hippogriff fantasy creature, eagle head and front talons with feathered wings joined to a horse's hind body and hooves, desperately flaps its tiny wings while its heavy horse rear remains stubbornly seated on the ground. Proud gold beak, ruffled purple feathers, comic offended expression, clear hybrid anatomy.",
+      "file": "assets/illustrations/base-hippogriff-v1.jpg",
+      "date": "2026-10-26",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-4a8ab119-f723-41f6-aaf4-c48df906e745.png"
+    },
+    {
+      "id": "base-king-tut",
+      "en": "King Tut",
+      "name": "Царь Тут",
+      "alt": "Величественная мумия фараона запуталась в собственных бинтах и сердито держит скипетр.",
+      "prompt": "Use case: illustration-story. One square illustration for a humorous fantasy card game, original design. Playful funny caricature, bold expressive ink outlines, loose watercolor and gouache on warm parchment, rich distinct color accents. Large readable chunky silhouette, exaggerated expression, centered comfortably inside image with margins, simple background, modest detail sufficient for small cards. No text, letters, digits, card frame, logos or watermark. A short plump mummy pharaoh wearing an oversized blue-and-gold striped Egyptian headdress and a little royal collar tries to pose majestically with a crook scepter, but his loose linen bandages have wrapped around both feet and one sandal has fallen off. Grumpy glowing blue eyes, funny original fantasy mummy, no gore.",
+      "file": "assets/illustrations/base-king-tut-v1.jpg",
+      "date": "2026-10-26",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-91287393-6879-45e1-be4c-04890a432016.png"
+    }
+  ],
+  "resumedAt": "2026-10-26"
+}

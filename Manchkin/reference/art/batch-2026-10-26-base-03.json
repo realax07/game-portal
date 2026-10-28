@@ -1,0 +1,139 @@
+{
+  "date": "2026-10-26",
+  "status": "completed",
+  "tool": "image_gen.imagegen (built-in)",
+  "jobs": [
+    {
+      "id": "base-bad-ass-bandana",
+      "en": "Bad-Ass Bandana",
+      "name": "Крутая бандана",
+      "alt": "Крутая красная бандана превратила крошечного мышонка в очень важного разбойника.",
+      "prompt": "Use case: illustration-story. One square original illustration for a funny fantasy card game. Playful caricature, bold expressive ink outlines, loose watercolor and gouache, warm parchment backdrop and soft grounding shadow. Clear chunky silhouette, exaggerated expression and one easy visual joke, centered with comfortable margins. Modest detail for a small card, minimal background. No text, letters, digits, logos, watermarks or card frames. A ridiculously tiny gray mouse wearing an enormous knotted red bandana strikes a tough outlaw pose with paws on hips and a curled tail, trying to look fearsome while the giant bandana knot keeps tipping its head sideways. Focus on the extravagant red fantasy headwear, cute comic swagger.",
+      "file": "assets/illustrations/base-bad-ass-bandana-v1.jpg",
+      "date": "2026-10-26",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-7a3001db-04b0-4bdb-9ee3-c2ba473ab4cd.png"
+    },
+    {
+      "id": "base-running-boots",
+      "en": "Boots of Running Really Fast",
+      "name": "Башмаки очень быстрого бега",
+      "alt": "Волшебные башмаки так спешат, что выскочили из-под ног хозяина.",
+      "prompt": "Use case: illustration-story. One square original illustration for a funny fantasy card game. Playful caricature, bold expressive ink outlines, loose watercolor and gouache, warm parchment backdrop and soft grounding shadow. Clear chunky silhouette, exaggerated expression and one easy visual joke, centered with comfortable margins. Modest detail for a small card, minimal background. No text, letters, digits, logos, watermarks or card frames. A pair of animated blue leather fantasy boots with tiny gold wing buckles sprints furiously on their own, leaving a baffled tiny sock standing upright behind them. Exaggerated bent boot soles, little dust puffs, energetic readable composition, no motion-blurred details.",
+      "file": "assets/illustrations/base-running-boots-v1.jpg",
+      "date": "2026-10-26",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-545be241-f1c5-4393-a487-8f54e4ff7194.png"
+    },
+    {
+      "id": "base-bow-with-ribbons",
+      "en": "Bow with Ribbons",
+      "name": "Лук с бантиками",
+      "alt": "Грозный боевой лук смущённо увешан розовыми бантиками, а стрела завязана подарком.",
+      "prompt": "Use case: illustration-story. One square original illustration for a funny fantasy card game. Playful caricature, bold expressive ink outlines, loose watercolor and gouache, warm parchment backdrop and soft grounding shadow. Clear chunky silhouette, exaggerated expression and one easy visual joke, centered with comfortable margins. Modest detail for a small card, minimal background. No text, letters, digits, logos, watermarks or card frames. A tall powerful carved wooden fantasy bow is absurdly covered in enormous pink satin ribbons and neat little bows. One arrow next to it is wrapped like a festive gift with a fluffy pink bow instead of intimidating fletching. The wood grain subtly makes a grumpy embarrassed face. Funny contrasting weapon still life.",
+      "file": "assets/illustrations/base-bow-with-ribbons-v1.jpg",
+      "date": "2026-10-26",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-b1d156b9-3b1b-48d5-969e-6a76987065cf.png"
+    },
+    {
+      "id": "base-broad-sword",
+      "en": "Broad Sword",
+      "name": "Широкий меч",
+      "alt": "Меч настолько широкий, что его ножны выглядят как крошечная сумочка.",
+      "prompt": "Use case: illustration-story. One square original illustration for a funny fantasy card game. Playful caricature, bold expressive ink outlines, loose watercolor and gouache, warm parchment backdrop and soft grounding shadow. Clear chunky silhouette, exaggerated expression and one easy visual joke, centered with comfortable margins. Modest detail for a small card, minimal background. No text, letters, digits, logos, watermarks or card frames. A ridiculously wide steel fantasy sword with an enormous paddle-like blade and a tiny fancy leather scabbard beside it that looks like a narrow handbag, clearly far too small to fit. Polished silver, turquoise hilt, blade engraving forms a smug broad smiling face; clear humorous weapon still life.",
+      "file": "assets/illustrations/base-broad-sword-v1.jpg",
+      "date": "2026-10-26",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-c3025d61-5c5a-4965-9178-77a09a80ad5f.png"
+    },
+    {
+      "id": "base-buckler",
+      "en": "Buckler of Swashing",
+      "name": "Щит для лихого фехтования",
+      "alt": "Крошечный щит с пером надувает щёки, стараясь выглядеть огромным.",
+      "prompt": "Use case: illustration-story. One square original illustration for a funny fantasy card game. Playful caricature, bold expressive ink outlines, loose watercolor and gouache, warm parchment backdrop and soft grounding shadow. Clear chunky silhouette, exaggerated expression and one easy visual joke, centered with comfortable margins. Modest detail for a small card, minimal background. No text, letters, digits, logos, watermarks or card frames. An absurdly tiny round steel buckler with a fancy brass rim and a huge sweeping purple feather, its raised central boss shaped like a smug mustached swashbuckler face puffing out its cheeks to look bigger. Leaning proudly against a harmless blunt wooden practice sword much larger than itself, funny small defensive item.",
+      "file": "assets/illustrations/base-buckler-v1.jpg",
+      "date": "2026-10-26",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-3554690f-21a3-4bd4-9661-729d9fc98f9a.png"
+    },
+    {
+      "id": "base-cheese-grater",
+      "en": "Cheese Grater of Peace",
+      "name": "Тёрка мира",
+      "alt": "Боевая тёрка с оливковой веточкой соседствует с сыром и невозмутимым голубем.",
+      "prompt": "Use case: illustration-story. One square original illustration for a funny fantasy card game. Playful caricature, bold expressive ink outlines, loose watercolor and gouache, warm parchment backdrop and soft grounding shadow. Clear chunky silhouette, exaggerated expression and one easy visual joke, centered with comfortable margins. Modest detail for a small card, minimal background. No text, letters, digits, logos, watermarks or card frames. A polished metal kitchen cheese grater reimagined as an absurd fantasy mace with a wrapped wooden handle. An olive branch tied at the handle, a little round wheel of cheese beside it now full of grater-shaped dents, one tiny peaceful white dove perches on top looking smug. Clear funny magical weapon still life.",
+      "file": "assets/illustrations/base-cheese-grater-v1.jpg",
+      "date": "2026-10-26",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-322ab863-c6a5-4f8c-8d0d-0efbf7a948e9.png"
+    },
+    {
+      "id": "base-cloak-obscurity",
+      "en": "Cloak of Obscurity",
+      "name": "Плащ незаметности",
+      "alt": "Плащ незаметности спрятал героя, но оставил снаружи огромный нос и ботинки.",
+      "prompt": "Use case: illustration-story. One square original illustration for a funny fantasy card game. Playful caricature, bold expressive ink outlines, loose watercolor and gouache, warm parchment backdrop and soft grounding shadow. Clear chunky silhouette, exaggerated expression and one easy visual joke, centered with comfortable margins. Modest detail for a small card, minimal background. No text, letters, digits, logos, watermarks or card frames. A huge flowing midnight-purple magical cloak hangs mysteriously in a proud sneaking pose, completely hiding a tiny adventurer except for a comically enormous nose sticking out of the hood and two bright orange oversized boots underneath. Little questioning eyes deep in hood, shadowy edge wisps, clear humorous stealth item.",
+      "file": "assets/illustrations/base-cloak-obscurity-v1.jpg",
+      "date": "2026-10-26",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-ae1d0f79-9a60-455b-98b7-7f24905fd6cf.png"
+    },
+    {
+      "id": "base-dagger-treachery",
+      "en": "Dagger of Treachery",
+      "name": "Кинжал предательства",
+      "alt": "Кинжал с хитрой ухмылкой делает вид, что он безобидный нож для масла.",
+      "prompt": "Use case: illustration-story. One square original illustration for a funny fantasy card game. Playful caricature, bold expressive ink outlines, loose watercolor and gouache, warm parchment backdrop and soft grounding shadow. Clear chunky silhouette, exaggerated expression and one easy visual joke, centered with comfortable margins. Modest detail for a small card, minimal background. No text, letters, digits, logos, watermarks or card frames. A shiny short fantasy dagger with a curled sly grin subtly engraved on the steel blade and a jeweled green handle lies innocently on a small breakfast plate next to a tiny pat of butter. A folded black masquerade eye mask tied to its hilt gives away its sneaky intentions, comic treacherous weapon still life.",
+      "file": "assets/illustrations/base-dagger-treachery-v1.jpg",
+      "date": "2026-10-26",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-cadd4661-5b00-4a61-b912-39c0b80b9346.png"
+    },
+    {
+      "id": "base-eleven-foot-pole",
+      "en": "Eleven-Foot Pole",
+      "name": "Одиннадцатифутовый шест",
+      "alt": "Очень длинный шест изогнулся дугой, лишь бы целиком поместиться в подземелье.",
+      "prompt": "Use case: illustration-story. One square original illustration for a funny fantasy card game. Playful caricature, bold expressive ink outlines, loose watercolor and gouache, warm parchment backdrop and soft grounding shadow. Clear chunky silhouette, exaggerated expression and one easy visual joke, centered with comfortable margins. Modest detail for a small card, minimal background. No text, letters, digits, logos, watermarks or card frames. An absurdly long wooden dungeon probing pole bent into a huge awkward looping arch to fit inside a tiny stone doorway, a single little leather glove at its lower end suggesting a baffled unseen owner. Clear focus on oversized continuous wooden pole, no measurements, letters or digits, funny practical adventure equipment.",
+      "file": "assets/illustrations/base-eleven-foot-pole-v1.jpg",
+      "date": "2026-10-26",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-61fe5629-7155-4b38-8ded-f2ea8b708d74.png"
+    },
+    {
+      "id": "base-flaming-armor",
+      "en": "Flaming Armor",
+      "name": "Пылающий доспех",
+      "alt": "Пылающий доспех поджаривает хлеб на собственной наплечной пластине.",
+      "prompt": "Use case: illustration-story. One square original illustration for a funny fantasy card game. Playful caricature, bold expressive ink outlines, loose watercolor and gouache, warm parchment backdrop and soft grounding shadow. Clear chunky silhouette, exaggerated expression and one easy visual joke, centered with comfortable margins. Modest detail for a small card, minimal background. No text, letters, digits, logos, watermarks or card frames. A stocky empty suit of steel fantasy armor glowing with friendly orange flames around its shoulder plates and boots, proudly toasting a little slice of bread on one burning shoulder like a breakfast grill. Helmet visor forms a smug smiling face, a little butter dish on the ground, harmless comic magical armor.",
+      "file": "assets/illustrations/base-flaming-armor-v1.jpg",
+      "date": "2026-10-26",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-da7172e1-8220-459e-88b1-6d2c5fb93738.png"
+    },
+    {
+      "id": "base-kneecap-hammer",
+      "en": "Hammer of Kneecapping",
+      "name": "Молот коленодробления",
+      "alt": "Огромный молот целится в крошечный тренировочный манекен на очень коротких ножках.",
+      "prompt": "Use case: illustration-story. One square original illustration for a funny fantasy card game. Playful caricature, bold expressive ink outlines, loose watercolor and gouache, warm parchment backdrop and soft grounding shadow. Clear chunky silhouette, exaggerated expression and one easy visual joke, centered with comfortable margins. Modest detail for a small card, minimal background. No text, letters, digits, logos, watermarks or card frames. An enormous chunky square-headed fantasy warhammer with brass bands and a short leather handle leans next to a ridiculously tiny straw training dummy whose little knees are protected by absurdly oversized padded kneecaps. The dummy's face looks suspiciously offended; humorous weapon still life, no impact, injury or violence.",
+      "file": "assets/illustrations/base-kneecap-hammer-v1.jpg",
+      "date": "2026-10-26",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-ecebb10e-c708-43af-aedc-1000ab163e7c.png"
+    },
+    {
+      "id": "base-helm-courage",
+      "en": "Helm of Courage",
+      "name": "Шлем отваги",
+      "alt": "Шлем отваги закрывает глаза забралом, но храбро выставляет вперёд крошечный подбородок.",
+      "prompt": "Use case: illustration-story. One square original illustration for a funny fantasy card game. Playful caricature, bold expressive ink outlines, loose watercolor and gouache, warm parchment backdrop and soft grounding shadow. Clear chunky silhouette, exaggerated expression and one easy visual joke, centered with comfortable margins. Modest detail for a small card, minimal background. No text, letters, digits, logos, watermarks or card frames. A shiny oversized gold-trimmed fantasy knight helmet on a little stand with a huge proud red plume. Its hinged eye visor is firmly shut in fear while its tiny chin guard juts heroically forward; a little harmless rubber spider on the floor has caused this ridiculous show of bravery. Expressive personified helmet, simple funny headwear illustration.",
+      "file": "assets/illustrations/base-helm-courage-v1.jpg",
+      "date": "2026-10-26",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-311e09bc-5283-412b-a072-313b7da62d85.png"
+    }
+  ]
+}

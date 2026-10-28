@@ -1,0 +1,117 @@
+{
+  "status": "completed",
+  "date": "2026-10-25",
+  "tool": "image_gen.imagegen (built-in)",
+  "jobs": [
+    {
+      "id": "warrior",
+      "en": "Warrior",
+      "alt": "Воин в огромных латах с крошечным мечом победно позирует перед тренировочным манекеном.",
+      "subject": "A cocky stocky warrior in comically oversized steel armor flexes proudly, holding a ridiculously tiny sword. A small straw training dummy beside him looks completely unimpressed. Red plume, broad square silhouette, raised chin, comic confidence.",
+      "prompt": "Use case: illustration-story. Asset: a single square illustration for a humorous fantasy card game. Original playful caricature, bold expressive ink outlines and loose watercolor/gouache, warm parchment background with a soft grounding shadow, jewel color accents. Simple readable chunky silhouette, exaggerated expression, centered full character, comfortably inside square with margins. Sufficient for a small card; modest detail, minimal background. No text, letters, card borders, logos or watermark. A cocky stocky warrior in comically oversized steel armor flexes proudly, holding a ridiculously tiny sword. A small straw training dummy beside him looks completely unimpressed. Red plume, broad square silhouette, raised chin, comic confidence.",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-e659c0dd-dce4-47ba-9078-c1da95458ba3.png",
+      "date": "2026-10-25",
+      "file": "assets/illustrations/warrior-v1.jpg",
+      "status": "ready"
+    },
+    {
+      "id": "wizard",
+      "en": "Wizard",
+      "alt": "Волшебник в огромной фиолетовой шляпе колдует, а из посоха вылетают испуганные резиновые утки.",
+      "subject": "An elderly wizard with wild white beard and enormous floppy purple pointed hat looks astonished as three yellow rubber ducks burst from his crooked magic staff instead of a spell. Long purple robe, triangular silhouette, joyful slapstick magic.",
+      "prompt": "Use case: illustration-story. One square image for a humorous fantasy game card. An elderly wizard with wild white beard and enormous floppy purple pointed hat looks astonished as three yellow rubber ducks burst from his crooked magic staff instead of a spell. Long purple robe, triangular silhouette. Original playful caricature, bold ink outlines, loose watercolor/gouache, warm parchment background, simple expressive chunky forms. Centered full figure with comfortable margins, minimal detail, readable on a small card. No text, lettering, border, logo or watermark.",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-71322e84-63a7-4623-91fa-37f755dae06a.png",
+      "date": "2026-10-25",
+      "file": "assets/illustrations/wizard-v1.jpg",
+      "status": "ready"
+    },
+    {
+      "id": "cleric-class",
+      "en": "Cleric",
+      "alt": "Клирик с сияющей кадильницей изгоняет маленького привидения, которое зажимает нос.",
+      "subject": "A round cheerful cleric with gold-trimmed ivory robe, little steel helmet and oversized incense censer is enthusiastically chasing away one tiny mischievous ghost. The translucent ghost holds its nose from the incense. Broad round silhouette, warm golden glow, benign comic fantasy.",
+      "prompt": "Use case: illustration-story. Asset: a single square illustration for a humorous fantasy card game. Original playful caricature, bold expressive ink outlines and loose watercolor/gouache, warm parchment background with a soft grounding shadow, jewel color accents. Simple readable chunky silhouette, exaggerated expression, centered full character, comfortably inside square with margins. Sufficient for a small card; modest detail, minimal background. No text, letters, card borders, logos or watermark. A round cheerful cleric with gold-trimmed ivory robe, little steel helmet and oversized incense censer is enthusiastically chasing away one tiny mischievous ghost. The translucent ghost holds its nose from the incense. Broad round silhouette, warm golden glow, benign comic fantasy.",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-7bfad740-965b-46d1-a10b-926fd6cb2b7e.png",
+      "date": "2026-10-25",
+      "file": "assets/illustrations/cleric-class-v1.jpg",
+      "status": "ready"
+    },
+    {
+      "id": "thief",
+      "en": "Thief",
+      "alt": "Вор крадётся с мешком добычи, не замечая, что из дырки сыплются монеты.",
+      "subject": "A lanky sneaky thief in teal hood and dark leather tiptoes smugly with a bulging loot sack over one shoulder, oblivious to gold coins falling through a hole in the sack behind him. Exaggerated tiptoe posture, long nose, bent angular silhouette, funny self-defeating stealth.",
+      "prompt": "Use case: illustration-story. Asset: a single square illustration for a humorous fantasy card game. Original playful caricature, bold expressive ink outlines and loose watercolor/gouache, warm parchment background with a soft grounding shadow, jewel color accents. Simple readable chunky silhouette, exaggerated expression, centered full character, comfortably inside square with margins. Sufficient for a small card; modest detail, minimal background. No text, letters, card borders, logos or watermark. A lanky sneaky thief in teal hood and dark leather tiptoes smugly with a bulging loot sack over one shoulder, oblivious to gold coins falling through a hole in the sack behind him. Exaggerated tiptoe posture, long nose, bent angular silhouette, funny self-defeating stealth.",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-374f1acd-507d-42c0-8527-882c2eb03196.png",
+      "date": "2026-10-25",
+      "file": "assets/illustrations/thief-v1.jpg",
+      "status": "ready"
+    },
+    {
+      "id": "bard",
+      "en": "Bard",
+      "alt": "Самодовольный бард берёт ноту, от которой у его лютни встают дыбом струны.",
+      "subject": "A flamboyant grinning bard in bright magenta puffed sleeves, feathered cap and curled shoes sings an outrageously dramatic note while playing a pear-shaped lute whose strings spring loose in shock. One expressive character, theatrical wide stance, funny musical catastrophe.",
+      "prompt": "Use case: illustration-story. Asset: a single square illustration for a humorous fantasy card game. Original playful caricature, bold expressive ink outlines and loose watercolor/gouache, warm parchment background with a soft grounding shadow, jewel color accents. Simple readable chunky silhouette, exaggerated expression, centered full character, comfortably inside square with margins. Sufficient for a small card; modest detail, minimal background. No text, letters, card borders, logos or watermark. A flamboyant grinning bard in bright magenta puffed sleeves, feathered cap and curled shoes sings an outrageously dramatic note while playing a pear-shaped lute whose strings spring loose in shock. One expressive character, theatrical wide stance, funny musical catastrophe.",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-90c7f006-3330-4ffd-bd9d-73a62cdeb13c.png",
+      "date": "2026-10-25",
+      "file": "assets/illustrations/bard-v1.jpg",
+      "status": "ready"
+    },
+    {
+      "id": "dwarf",
+      "en": "Dwarf",
+      "alt": "Дварф с квадратной бородой взгромоздился на сундук и пересчитывает монеты огромным молотом.",
+      "subject": "A squat extremely broad dwarf with huge square ginger beard, steel helmet and green tunic guards a little treasure chest, using his absurdly oversized hammer to delicately push one gold coin into a neat pile. Tiny legs, rectangular heavy silhouette, suspicious side-eye, comic obsessive treasure counting.",
+      "prompt": "Use case: illustration-story. Asset: a single square illustration for a humorous fantasy card game. Original playful caricature, bold expressive ink outlines and loose watercolor/gouache, warm parchment background with a soft grounding shadow, jewel color accents. Simple readable chunky silhouette, exaggerated expression, centered full character, comfortably inside square with margins. Sufficient for a small card; modest detail, minimal background. No text, letters, card borders, logos or watermark. A squat extremely broad dwarf with huge square ginger beard, steel helmet and green tunic guards a little treasure chest, using his absurdly oversized hammer to delicately push one gold coin into a neat pile. Tiny legs, rectangular heavy silhouette, suspicious side-eye, comic obsessive treasure counting.",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-adc0a6e3-67bf-4890-a197-21d8bfdc155b.png",
+      "date": "2026-10-25",
+      "file": "assets/illustrations/dwarf-v1.jpg",
+      "status": "ready"
+    },
+    {
+      "id": "elf",
+      "en": "Elf",
+      "alt": "Изящный эльф любуется собой в зеркальце, пока его лук запутывается в собственном плаще.",
+      "subject": "A very tall slender elegant elf with enormous pointed ears and emerald outfit admires his perfect hair in a tiny hand mirror while his ornate bow gets hopelessly tangled in his own flowing green cloak. Narrow graceful curved silhouette, smug expression, harmless fashion mishap.",
+      "prompt": "Use case: illustration-story. Asset: a single square illustration for a humorous fantasy card game. Original playful caricature, bold expressive ink outlines and loose watercolor/gouache, warm parchment background with a soft grounding shadow, jewel color accents. Simple readable chunky silhouette, exaggerated expression, centered full character, comfortably inside square with margins. Sufficient for a small card; modest detail, minimal background. No text, letters, card borders, logos or watermark. A very tall slender elegant elf with enormous pointed ears and emerald outfit admires his perfect hair in a tiny hand mirror while his ornate bow gets hopelessly tangled in his own flowing green cloak. Narrow graceful curved silhouette, smug expression, harmless fashion mishap.",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-f0d1fd00-6248-4d13-a33b-47a392f9d9af.png",
+      "date": "2026-10-25",
+      "file": "assets/illustrations/elf-v1.jpg",
+      "status": "ready"
+    },
+    {
+      "id": "gnome",
+      "en": "Gnome",
+      "alt": "Гном-иллюзионист пугает игрушечного дракона огромной иллюзией самого себя.",
+      "subject": "A tiny mischievous gnome illusionist in orange oversized pointed cap stands beside a much larger translucent glowing blue illusion of his own head making a ridiculous scary face at a tiny toy-like dragon. Short white beard, big nose, compact silhouette, obvious playful magical prank.",
+      "prompt": "Use case: illustration-story. Asset: a single square illustration for a humorous fantasy card game. Original playful caricature, bold expressive ink outlines and loose watercolor/gouache, warm parchment background with a soft grounding shadow, jewel color accents. Simple readable chunky silhouette, exaggerated expression, centered full character, comfortably inside square with margins. Sufficient for a small card; modest detail, minimal background. No text, letters, card borders, logos or watermark. A tiny mischievous gnome illusionist in orange oversized pointed cap stands beside a much larger translucent glowing blue illusion of his own head making a ridiculous scary face at a tiny toy-like dragon. Short white beard, big nose, compact silhouette, obvious playful magical prank.",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-2b178f9b-7934-4b5c-8859-2eb05039fa14.png",
+      "date": "2026-10-25",
+      "file": "assets/illustrations/gnome-v1.jpg",
+      "status": "ready"
+    },
+    {
+      "id": "halfling",
+      "en": "Halfling",
+      "alt": "Хафлинг с огромными босыми ступнями торгуется за пирог, пряча второй за спиной.",
+      "subject": "A plump cheerful halfling with giant furry bare feet, curly hair, mustard waistcoat and round belly haggles theatrically over a pie on a small stool while hiding another pie behind his back. Rounded low silhouette, greedy endearing grin, simple humorous fantasy.",
+      "prompt": "Use case: illustration-story. Asset: a single square illustration for a humorous fantasy card game. Original playful caricature, bold expressive ink outlines and loose watercolor/gouache, warm parchment background with a soft grounding shadow, jewel color accents. Simple readable chunky silhouette, exaggerated expression, centered full character, comfortably inside square with margins. Sufficient for a small card; modest detail, minimal background. No text, letters, card borders, logos or watermark. A plump cheerful halfling with giant furry bare feet, curly hair, mustard waistcoat and round belly haggles theatrically over a pie on a small stool while hiding another pie behind his back. Rounded low silhouette, greedy endearing grin, simple humorous fantasy.",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-46d7c619-db29-427b-93aa-e47b7f57922b.png",
+      "date": "2026-10-25",
+      "file": "assets/illustrations/halfling-v1.jpg",
+      "status": "ready"
+    },
+    {
+      "id": "orc",
+      "en": "Orc",
+      "alt": "Зелёный орк с огромной дубиной пытается аккуратно выпить чай из крошечной чашечки.",
+      "subject": "A huge muscular green orc with little tusks, torn brown leather armor and an enormous wooden club sits in a dainty pose trying very carefully to sip tea from a ridiculously tiny porcelain cup, little finger extended. Massive top-heavy silhouette, puzzled concentrated expression, gentle comic contrast.",
+      "prompt": "Use case: illustration-story. Asset: a single square illustration for a humorous fantasy card game. Original playful caricature, bold expressive ink outlines and loose watercolor/gouache, warm parchment background with a soft grounding shadow, jewel color accents. Simple readable chunky silhouette, exaggerated expression, centered full character, comfortably inside square with margins. Sufficient for a small card; modest detail, minimal background. No text, letters, card borders, logos or watermark. A huge muscular green orc with little tusks, torn brown leather armor and an enormous wooden club sits in a dainty pose trying very carefully to sip tea from a ridiculously tiny porcelain cup, little finger extended. Massive top-heavy silhouette, puzzled concentrated expression, gentle comic contrast.",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-1c933d00-b18e-4a10-bfb0-e8e342bb5d16.png",
+      "date": "2026-10-25",
+      "file": "assets/illustrations/orc-v1.jpg",
+      "status": "ready"
+    }
+  ]
+}

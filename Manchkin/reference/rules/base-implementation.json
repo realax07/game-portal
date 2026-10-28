@@ -1,0 +1,1324 @@
+{
+  "updated": "2026-10-26",
+  "expectedUnique": 147,
+  "implementedDefinitions": 147,
+  "physicalInstances": 168,
+  "missing": [],
+  "rows": [
+    {
+      "id": "plant",
+      "en": "Potted Plant",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "verified",
+      "source": "https://www.ebay.com/itm/354639341282"
+    },
+    {
+      "id": "slime",
+      "en": "Drooling Slime",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "verified",
+      "source": "https://hobbygames.ru/download/rules/munchkin-base-start-list.pdf"
+    },
+    {
+      "id": "rat",
+      "en": "Rat on a Stick",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "verified",
+      "source": "https://www.munchkin.game/gameplay/faq/changelog.html/"
+    },
+    {
+      "id": "dragon",
+      "en": "Plutonium Dragon",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "verified",
+      "source": "https://repositorio.unb.br/bitstream/10482/38936/1/2020_HudsonCogoMoreira.pdf"
+    },
+    {
+      "id": "troll",
+      "en": "Net Troll",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "verified",
+      "source": "https://hobbygames.ru/download/rules/munchkin-base-start-list.pdf"
+    },
+    {
+      "id": "boots",
+      "en": "Boots of Butt-Kicking",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "verified",
+      "source": "https://munchkin.game/site-munchkin/assets/files/3915/munchkin_big_box_rules-2.pdf"
+    },
+    {
+      "id": "helmet",
+      "en": "Horny Helmet",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "verified",
+      "source": "https://hobbygames.ru/download/rules/munchkin-base-start-list.pdf"
+    },
+    {
+      "id": "napalm",
+      "en": "Staff of Napalm",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "verified",
+      "source": "https://hobbygames.ru/download/rules/munchkin-base-start-list.pdf"
+    },
+    {
+      "id": "saw",
+      "en": "Chainsaw of Bloody Dismemberment",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "verified",
+      "source": "https://www.sjgames.com/ill/img/retailerimages/Munchkin%20OTD/Game%20Support/Munchkin/Munchkin_Rigged_Demo.pdf"
+    },
+    {
+      "id": "warrior",
+      "en": "Warrior",
+      "type": "class",
+      "deck": "doors",
+      "copies": 3,
+      "source": null
+    },
+    {
+      "id": "elf",
+      "en": "Elf",
+      "type": "race",
+      "deck": "doors",
+      "copies": 3,
+      "source": null
+    },
+    {
+      "id": "curse",
+      "en": "Lose a Level",
+      "type": "curse",
+      "deck": "doors",
+      "copies": 2,
+      "source": null
+    },
+    {
+      "id": "potion",
+      "en": "Potion of Idiotic Bravery",
+      "type": "potion",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "verified",
+      "source": "https://www.sjgames.com/ill/img/retailerimages/Munchkin%20OTD/Game%20Support/Munchkin/Munchkin_Rigged_Demo.pdf"
+    },
+    {
+      "id": "super-munchkin",
+      "en": "Super Munchkin",
+      "type": "multiclass",
+      "deck": "doors",
+      "copies": 2,
+      "source": null
+    },
+    {
+      "id": "half-breed",
+      "en": "Half-Breed",
+      "type": "multirace",
+      "deck": "doors",
+      "copies": 2,
+      "source": null
+    },
+    {
+      "id": "wizard",
+      "en": "Wizard",
+      "type": "class",
+      "deck": "doors",
+      "copies": 3,
+      "source": null
+    },
+    {
+      "id": "cleric-class",
+      "en": "Cleric",
+      "type": "class",
+      "deck": "doors",
+      "copies": 3,
+      "source": null
+    },
+    {
+      "id": "thief",
+      "en": "Thief",
+      "type": "class",
+      "deck": "doors",
+      "copies": 3,
+      "source": null
+    },
+    {
+      "id": "dwarf",
+      "en": "Dwarf",
+      "type": "race",
+      "deck": "doors",
+      "copies": 3,
+      "source": null
+    },
+    {
+      "id": "halfling",
+      "en": "Halfling",
+      "type": "race",
+      "deck": "doors",
+      "copies": 3,
+      "source": null
+    },
+    {
+      "id": "base-curse-duck-of-doom",
+      "en": "Curse! Duck of Doom",
+      "type": "curse",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-curse-lose-a-big-item",
+      "en": "Curse! Lose a Big Item",
+      "type": "curse",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-curse-lose-a-small-item",
+      "en": "Curse! Lose a Small Item",
+      "type": "curse",
+      "deck": "doors",
+      "copies": 2,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-curse-lose-the-armor-you-are-wearing",
+      "en": "Curse! Lose the Armor You Are Wearing",
+      "type": "curse",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-curse-lose-the-footgear-you-are-wearing",
+      "en": "Curse! Lose the Footgear You Are Wearing",
+      "type": "curse",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-curse-lose-the-headgear-you-are-wearing",
+      "en": "Curse! Lose the Headgear You Are Wearing",
+      "type": "curse",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-curse-lose-your-class",
+      "en": "Curse! Lose Your Class",
+      "type": "curse",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-curse-lose-your-race",
+      "en": "Curse! Lose Your Race",
+      "type": "curse",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-curse-change-class",
+      "en": "Curse! Change Class",
+      "type": "curse",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-curse-change-race",
+      "en": "Curse! Change Race",
+      "type": "curse",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-curse-change-sex",
+      "en": "Curse! Change Sex",
+      "type": "curse",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-curse-chicken-on-your-head",
+      "en": "Curse! Chicken on Your Head",
+      "type": "curse",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-curse-malign-mirror",
+      "en": "Curse! Malign Mirror",
+      "type": "curse",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-truly-obnoxious-curse",
+      "en": "Truly Obnoxious Curse!",
+      "type": "curse",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-curse-lose-two-cards",
+      "en": "Curse! Lose Two Cards",
+      "type": "curse",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-curse-income-tax",
+      "en": "Curse! Income Tax",
+      "type": "curse",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-bad-ass-bandana",
+      "en": "Bad-Ass Bandana",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-boots-of-running-really-fast",
+      "en": "Boots of Running Really Fast",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-bow-with-ribbons",
+      "en": "Bow with Ribbons",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-broad-sword",
+      "en": "Broad Sword",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-buckler-of-swashing",
+      "en": "Buckler of Swashing",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-cheese-grater-of-peace",
+      "en": "Cheese Grater of Peace",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-cloak-of-obscurity",
+      "en": "Cloak of Obscurity",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-dagger-of-treachery",
+      "en": "Dagger of Treachery",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-eleven-foot-pole",
+      "en": "Eleven-Foot Pole",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-flaming-armor",
+      "en": "Flaming Armor",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-gentleman-s-club",
+      "en": "Gentleman's Club",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-hammer-of-kneecapping",
+      "en": "Hammer of Kneecapping",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-helm-of-courage",
+      "en": "Helm of Courage",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-huge-rock",
+      "en": "Huge Rock",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-leather-armor",
+      "en": "Leather Armor",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-mace-of-sharpness",
+      "en": "Mace of Sharpness",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-mithril-armor",
+      "en": "Mithril Armor",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-pantyhose-of-giant-strength",
+      "en": "Pantyhose of Giant Strength",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-pointy-hat-of-power",
+      "en": "Pointy Hat of Power",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-rapier-of-unfairness",
+      "en": "Rapier of Unfairness",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://munchkin.fandom.com/wiki/Rapier_of_Unfairness"
+    },
+    {
+      "id": "base-sandals-of-protection",
+      "en": "Sandals of Protection",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-limburger-and-anchovy-sandwich",
+      "en": "Limburger and Anchovy Sandwich",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-shield-of-ubiquity",
+      "en": "Shield of Ubiquity",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-short-wide-armor",
+      "en": "Short Wide Armor",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-singing-dancing-sword",
+      "en": "Singing & Dancing Sword",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://munchkin.fandom.com/wiki/Singing_%26_Dancing_Sword"
+    },
+    {
+      "id": "base-slimy-armor",
+      "en": "Slimy Armor",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-spiky-knees",
+      "en": "Spiky Knees",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-stepladder",
+      "en": "Stepladder",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-swiss-army-polearm",
+      "en": "Swiss Army Polearm",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-wishing-ring",
+      "en": "Wishing Ring",
+      "type": "special",
+      "deck": "treasures",
+      "copies": 2,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-1-000-gold-pieces-gual",
+      "en": "1,000 Gold Pieces (GUAL)",
+      "type": "level",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-boil-an-anthill-gual",
+      "en": "Boil an Anthill (GUAL)",
+      "type": "level",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-bribe-gm-with-food-gual",
+      "en": "Bribe GM With Food (GUAL)",
+      "type": "level",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-convenient-addition-error-gual",
+      "en": "Convenient Addition Error (GUAL)",
+      "type": "level",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-invoke-obscure-rules-gual",
+      "en": "Invoke Obscure Rules (GUAL)",
+      "type": "level",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-potion-of-general-studliness-gual",
+      "en": "Potion of General Studliness (GUAL)",
+      "type": "level",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-ancient",
+      "en": "Ancient",
+      "type": "enhancer",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-baby",
+      "en": "Baby",
+      "type": "enhancer",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-enraged",
+      "en": "Enraged",
+      "type": "enhancer",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-humongous",
+      "en": "Humongous",
+      "type": "enhancer",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-intelligent",
+      "en": "Intelligent",
+      "type": "enhancer",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-cotion-of-ponfusion",
+      "en": "Cotion of Ponfusion",
+      "type": "potion",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-electric-radioactive-acid-potion",
+      "en": "Electric Radioactive Acid Potion",
+      "type": "potion",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-flaming-poison-potion",
+      "en": "Flaming Poison Potion",
+      "type": "potion",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-freezing-explosive-potion",
+      "en": "Freezing Explosive Potion",
+      "type": "potion",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-magic-missile",
+      "en": "Magic Missile",
+      "type": "potion",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-nasty-tasting-sports-drink",
+      "en": "Nasty-Tasting Sports Drink",
+      "type": "potion",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-pretty-balloons",
+      "en": "Pretty Balloons",
+      "type": "potion",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-sleep-potion",
+      "en": "Sleep Potion",
+      "type": "potion",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-yuppie-water",
+      "en": "Yuppie Water",
+      "type": "potion",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-really-impressive-title",
+      "en": "Really Impressive Title",
+      "type": "title",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-sneaky-bastard-sword",
+      "en": "Sneaky Bastard Sword",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-tuba-of-charm",
+      "en": "Tuba of Charm",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://hobbygames.ru/download/rules/munchkin-base-new-2026-rules.pdf"
+    },
+    {
+      "id": "base-mate",
+      "en": "Mate",
+      "type": "mate",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-doppleganger",
+      "en": "Doppleganger",
+      "type": "special",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-whine-at-the-gm-gual",
+      "en": "Whine at the GM (GUAL)",
+      "type": "level",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-mutilate-the-bodies-gual",
+      "en": "Mutilate the Bodies (GUAL)",
+      "type": "level",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-kill-the-hireling-gual",
+      "en": "Kill the Hireling (GUAL)",
+      "type": "level",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-steal-a-level",
+      "en": "Steal a Level",
+      "type": "special",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-out-to-lunch",
+      "en": "Out to Lunch",
+      "type": "special",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-magic-lamp",
+      "en": "Magic Lamp",
+      "type": "special",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-pollymorph-potion",
+      "en": "Pollymorph Potion",
+      "type": "special",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-friendship-potion",
+      "en": "Friendship Potion",
+      "type": "special",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1"
+    },
+    {
+      "id": "base-loaded-die",
+      "en": "Loaded Die",
+      "type": "special",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://munchkin.game/gameplay/errata/"
+    },
+    {
+      "id": "base-cheat",
+      "en": "Cheat!",
+      "type": "special",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://munchkin.game/gameplay/faq/"
+    },
+    {
+      "id": "base-divine-intervention",
+      "en": "Divine Intervention",
+      "type": "special",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://munchkin.game/gameplay/faq/"
+    },
+    {
+      "id": "base-help-me-out-here",
+      "en": "Help Me Out Here!",
+      "type": "special",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://munchkin.game/gameplay/faq/"
+    },
+    {
+      "id": "base-illusion",
+      "en": "Illusion",
+      "type": "special",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://munchkin.game/gameplay/faq/"
+    },
+    {
+      "id": "base-hireling",
+      "en": "Hireling",
+      "type": "hireling",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://munchkin.game/gameplay/faq/"
+    },
+    {
+      "id": "base-hoard",
+      "en": "Hoard!",
+      "type": "special",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://munchkin.game/gameplay/faq/"
+    },
+    {
+      "id": "base-flask-of-glue",
+      "en": "Flask of Glue",
+      "type": "special",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://munchkin.game/gameplay/faq/"
+    },
+    {
+      "id": "base-instant-wall",
+      "en": "Instant Wall",
+      "type": "special",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://munchkin.game/gameplay/faq/"
+    },
+    {
+      "id": "base-invisibility-potion",
+      "en": "Invisibility Potion",
+      "type": "special",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://munchkin.game/gameplay/faq/"
+    },
+    {
+      "id": "base-kneepads-of-allure",
+      "en": "Kneepads of Allure",
+      "type": "item",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://munchkin.game/gameplay/faq/"
+    },
+    {
+      "id": "base-potion-of-halitosis",
+      "en": "Potion of Halitosis",
+      "type": "potion",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://munchkin.game/gameplay/faq/"
+    },
+    {
+      "id": "base-transferral-potion",
+      "en": "Transferral Potion",
+      "type": "special",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://munchkin.game/gameplay/faq/"
+    },
+    {
+      "id": "base-wand-of-dowsing",
+      "en": "Wand of Dowsing",
+      "type": "special",
+      "deck": "treasures",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://munchkin.game/gameplay/faq/"
+    },
+    {
+      "id": "base-amazon",
+      "en": "Amazon",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://munchkin.game/gameplay/faq/"
+    },
+    {
+      "id": "base-floating-nose",
+      "en": "Floating Nose",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://gamegloriously.wordpress.com/2016/06/11/munchkin-deluxe-a-game-gloriously-review-part-1/"
+    },
+    {
+      "id": "base-lawyers",
+      "en": "Lawyers",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://munchkin.fandom.com/wiki/Lawyers"
+    },
+    {
+      "id": "base-pit-bull",
+      "en": "Pit Bull",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://munchkin.game/site-munchkin/assets/files/1157/xmaslite_rules.pdf"
+    },
+    {
+      "id": "base-stoned-golem",
+      "en": "Stoned Golem",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://munchkin.game/gameplay/faq/"
+    },
+    {
+      "id": "base-tongue-demon",
+      "en": "Tongue Demon",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://gamegloriously.wordpress.com/2016/06/11/munchkin-deluxe-a-game-gloriously-review-part-1/"
+    },
+    {
+      "id": "base-wannabe-vampire",
+      "en": "Wannabe Vampire",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://gamegloriously.wordpress.com/2016/06/11/munchkin-deluxe-a-game-gloriously-review-part-1/"
+    },
+    {
+      "id": "base-hippogriff",
+      "en": "Hippogriff",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1/doors"
+    },
+    {
+      "id": "base-insurance-salesman",
+      "en": "Insurance Salesman",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1/doors"
+    },
+    {
+      "id": "base-leperchaun",
+      "en": "Leperchaun",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://repositorio.unb.br/bitstream/10482/38936/1/2020_HudsonCogoMoreira.pdf"
+    },
+    {
+      "id": "base-platycore",
+      "en": "Platycore",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://repositorio.unb.br/bitstream/10482/38936/1/2020_HudsonCogoMoreira.pdf"
+    },
+    {
+      "id": "base-snails-on-speed",
+      "en": "Snails on Speed",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1/doors"
+    },
+    {
+      "id": "base-3-872-orcs",
+      "en": "3,872 Orcs",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1/doors"
+    },
+    {
+      "id": "base-bigfoot",
+      "en": "Bigfoot",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1/doors"
+    },
+    {
+      "id": "base-bullrog",
+      "en": "Bullrog",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1/doors"
+    },
+    {
+      "id": "base-crabs",
+      "en": "Crabs",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1/doors"
+    },
+    {
+      "id": "base-face-sucker",
+      "en": "Face Sucker",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1/doors"
+    },
+    {
+      "id": "base-flying-frogs",
+      "en": "Flying Frogs",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1/doors"
+    },
+    {
+      "id": "base-gazebo",
+      "en": "Gazebo",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1/doors"
+    },
+    {
+      "id": "base-gelatinous-octahedron",
+      "en": "Gelatinous Octahedron",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1/doors"
+    },
+    {
+      "id": "base-ghoulfiends",
+      "en": "Ghoulfiends",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://munchkin.game/gameplay/faq/"
+    },
+    {
+      "id": "base-harpies",
+      "en": "Harpies",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1/doors"
+    },
+    {
+      "id": "base-king-tut",
+      "en": "King Tut",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1/doors"
+    },
+    {
+      "id": "base-lame-goblin",
+      "en": "Lame Goblin",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1/doors"
+    },
+    {
+      "id": "base-large-angry-chicken",
+      "en": "Large Angry Chicken",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1/doors"
+    },
+    {
+      "id": "base-maul-rat",
+      "en": "Maul Rat",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1/doors"
+    },
+    {
+      "id": "base-mr-bones",
+      "en": "Mr. Bones",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1/doors"
+    },
+    {
+      "id": "base-pukachu",
+      "en": "Pukachu",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1/doors"
+    },
+    {
+      "id": "base-shrieking-geek",
+      "en": "Shrieking Geek",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1/doors"
+    },
+    {
+      "id": "base-squidzilla",
+      "en": "Squidzilla",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1/doors"
+    },
+    {
+      "id": "base-undead-horse",
+      "en": "Undead Horse",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1/doors"
+    },
+    {
+      "id": "base-unspeakably-awful-indescribable-horror",
+      "en": "Unspeakably Awful Indescribable Horror",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1/doors"
+    },
+    {
+      "id": "base-wight-brothers",
+      "en": "Wight Brothers",
+      "type": "monster",
+      "deck": "doors",
+      "copies": 1,
+      "status": "partial",
+      "source": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1/doors"
+    },
+    {
+      "id": "wandering-base",
+      "en": "Wandering Monster",
+      "type": "wandering",
+      "deck": "doors",
+      "copies": 3,
+      "source": null
+    }
+  ],
+  "aliases": {
+    "Curse! Lose a Level": "Lose a Level"
+  }
+}

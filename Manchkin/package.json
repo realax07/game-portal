@@ -1,1 +1,16 @@
-{"name":"munchkin-tavern","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"node server.mjs","start":"node server.mjs","test":"node --test tests/*.test.mjs"}}
+{
+  "name": "munchkin-tavern",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "cards:audit": "node scripts/gameplay-audit.mjs",
+    "cards:check": "node scripts/gameplay-audit.mjs --check",
+    "art:sync": "node scripts/art-inventory.mjs",
+    "art:check": "node scripts/art-inventory.mjs --check",
+    "art:import": "node scripts/import-art-batch.mjs"
+  }
+}

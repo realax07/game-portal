@@ -1,0 +1,12 @@
+{
+  "id": "base-art-convenient-addition-error-gual",
+  "en": "Convenient Addition Error (GUAL)",
+  "name": "Удобная ошибка в подсчётах",
+  "alt": "Довольный счетовод считает на абаке, где все костяшки превратились в золотые монетки.",
+  "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384 by 384 pixels. Funny expressive caricature, bold clean ink outlines, loose watercolor and gouache on warm parchment, colorful accents. One obvious visual joke, simple chunky shapes, minimal background, centered large subject with comfortable margins. Modest detail, no intricate scenery. No text, letters, digits, logos, watermark, border or card frame. Clear anatomy, no extra limbs. Subject: A smug adult fantasy accountant in a tiny green visor balances a giant gold coin on a wooden abacus whose beads have become round smiling little gold faces. Blank parchment on desk, exactly two hands, comic dubious arithmetic, no numbers or symbols.",
+  "file": "assets/illustrations/base-art-convenient-addition-error-gual-v1.jpg",
+  "date": "2026-10-26",
+  "status": "generated",
+  "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-11f49291-7b9c-4ac8-9307-3dffb67701c5.png",
+  "recoveryNote": "Generated before the queue was stopped; recovered by direct visual comparison with its planned scene."
+}

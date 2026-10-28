@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-26",
+  "status": "completed",
+  "tool": "image_gen.imagegen (built-in)",
+  "scope": "Eight base cards only. Apply and visually check before any further generation.",
+  "jobs": [
+    {
+      "id": "base-art-whine-at-the-gm-gual",
+      "en": "Whine at the GM (GUAL)",
+      "name": "Поплакаться мастеру",
+      "alt": "Искатель жалобно строит мастеру щенячьи глаза и протягивает поникший цветочек.",
+      "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384 by 384 pixels. Funny expressive caricature, bold clean ink outlines, loose watercolor and gouache on warm parchment, colorful accents. One obvious visual joke, simple chunky shapes, minimal background, centered large subject with comfortable margins. Modest detail, no intricate scenery. No text, letters, digits, logos, watermark, border or card frame. Clear anatomy, no extra limbs. Subject: A small adult armored fantasy adventurer with exaggerated puppy-dog eyes offers one tiny sad wilted flower toward a stern dungeon master screen. One huge hopeful tear-shaped sparkle, no actual distress or text, two clear hands.",
+      "file": "assets/illustrations/base-art-whine-at-the-gm-gual-v1.jpg",
+      "date": "2026-10-26",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-0ad2f1f6-a649-4b5d-922b-84501275b92a.png"
+    },
+    {
+      "id": "base-art-curse-change-class",
+      "en": "Curse! Change Class",
+      "name": "Проклятие! Смена класса",
+      "alt": "Воин внезапно обнаружил вместо шлема волшебную шляпу, а вместо меча — палочку.",
+      "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384 by 384 pixels. Funny expressive caricature, bold clean ink outlines, loose watercolor and gouache on warm parchment, colorful accents. One obvious visual joke, simple chunky shapes, minimal background, centered large subject with comfortable margins. Modest detail, no intricate scenery. No text, letters, digits, logos, watermark, border or card frame. Clear anatomy, no extra limbs. Subject: A bewildered adult fantasy warrior's simple steel helmet is turning into an oversized purple wizard hat in a puff of magic while he looks at the unexpected wooden wand in one hand. Other hand on hip, exactly two arms, clearly clothed character.",
+      "file": "assets/illustrations/base-art-curse-change-class-v1.jpg",
+      "date": "2026-10-26",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-07bd4340-c8fd-4691-96b4-ca630343b8ba.png"
+    },
+    {
+      "id": "base-art-curse-change-race",
+      "en": "Curse! Change Race",
+      "name": "Проклятие! Смена расы",
+      "alt": "Дварф рассматривает выросшие эльфийские уши, но расстаться с большими сапогами не готов.",
+      "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384 by 384 pixels. Funny expressive caricature, bold clean ink outlines, loose watercolor and gouache on warm parchment, colorful accents. One obvious visual joke, simple chunky shapes, minimal background, centered large subject with comfortable margins. Modest detail, no intricate scenery. No text, letters, digits, logos, watermark, border or card frame. Clear anatomy, no extra limbs. Subject: An adult bearded fantasy dwarf looks at his unexpectedly long pointed elf ears in a little hand mirror while his oversized boots remain stubbornly dwarven. One hand holds mirror, other touches one ear, exactly two arms. Friendly identity-changing magic, no mockery.",
+      "file": "assets/illustrations/base-art-curse-change-race-v1.jpg",
+      "date": "2026-10-26",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-00faeb12-f4ae-4052-8168-6773d7e282b3.png"
+    },
+    {
+      "id": "base-art-curse-change-sex",
+      "en": "Curse! Change Sex",
+      "name": "Проклятие! Смена пола",
+      "alt": "Зачарованное зеркало меняет облик искателя, а доспехи остаются прежними.",
+      "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384 by 384 pixels. Funny expressive caricature, bold clean ink outlines, loose watercolor and gouache on warm parchment, colorful accents. One obvious visual joke, simple chunky shapes, minimal background, centered large subject with comfortable margins. Modest detail, no intricate scenery. No text, letters, digits, logos, watermark, border or card frame. Clear anatomy, no extra limbs. Subject: A surprised adult fantasy adventurer in modest practical armor looks into an oval enchanted mirror; on one side a male face with a curled moustache, in the reflection a female face with a long braid, both equally confident and amused. Mirror transformation framed as harmless magical wardrobe confusion; no nudity, no sexualization, no anatomy changes exposed, two hands holding mirror.",
+      "file": "assets/illustrations/base-art-curse-change-sex-v1.jpg",
+      "date": "2026-10-26",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-08339141-fa3e-4206-8739-3befce444857.png"
+    },
+    {
+      "id": "base-art-curse-chicken-on-your-head",
+      "en": "Curse! Chicken on Your Head",
+      "name": "Проклятие! Курица на голове",
+      "alt": "Самодовольная курица устроила гнездо прямо на рыцарском шлеме.",
+      "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384 by 384 pixels. Funny expressive caricature, bold clean ink outlines, loose watercolor and gouache on warm parchment, colorful accents. One obvious visual joke, simple chunky shapes, minimal background, centered large subject with comfortable margins. Modest detail, no intricate scenery. No text, letters, digits, logos, watermark, border or card frame. Clear anatomy, no extra limbs. Subject: A bewildered adult fantasy knight stands with exactly one very smug fluffy hen nesting on top of his dented helmet. The hen has tucked a tiny straw nest around the helmet horns. Knight's two hands on hips, clear comic silhouette.",
+      "file": "assets/illustrations/base-art-curse-chicken-on-your-head-v1.jpg",
+      "date": "2026-10-26",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-3e63e360-9fbb-44f4-a1c5-5a359934a164.png"
+    },
+    {
+      "id": "base-art-curse-duck-of-doom",
+      "en": "Curse! Duck of Doom",
+      "name": "Проклятие! Утка рока",
+      "alt": "Уточка рока величественно плывёт в огромном грозном облаке магии.",
+      "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384 by 384 pixels. Funny expressive caricature, bold clean ink outlines, loose watercolor and gouache on warm parchment, colorful accents. One obvious visual joke, simple chunky shapes, minimal background, centered large subject with comfortable margins. Modest detail, no intricate scenery. No text, letters, digits, logos, watermark, border or card frame. Clear anatomy, no extra limbs. Subject: A tiny yellow rubber duck floats serenely inside an enormous swirling purple magical storm cloud, wearing a miniature dark crown and looking absurdly important. Funny ominous magic versus harmless bath toy, no text.",
+      "file": "assets/illustrations/base-art-curse-duck-of-doom-v1.jpg",
+      "date": "2026-10-26",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-c8602792-6965-4b1f-8139-8649872c9b0e.png"
+    },
+    {
+      "id": "base-art-curse-income-tax",
+      "en": "Curse! Income Tax",
+      "name": "Проклятие! Подоходный налог",
+      "alt": "Гоблин-сборщик налогов вытряхивает из огромного кошелька последнюю монетку.",
+      "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384 by 384 pixels. Funny expressive caricature, bold clean ink outlines, loose watercolor and gouache on warm parchment, colorful accents. One obvious visual joke, simple chunky shapes, minimal background, centered large subject with comfortable margins. Modest detail, no intricate scenery. No text, letters, digits, logos, watermark, border or card frame. Clear anatomy, no extra limbs. Subject: A smug little goblin tax collector in a green waistcoat holds an enormous empty coin purse upside down while a single tiny gold coin drops into his enormous accounting chest. Exactly two arms, blank parchment ledger under one foot, no writing.",
+      "file": "assets/illustrations/base-art-curse-income-tax-v1.jpg",
+      "date": "2026-10-26",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-a5412e4e-8e40-4271-9b34-d60b0bfd5ec2.png"
+    },
+    {
+      "id": "base-art-curse-lose-a-big-item",
+      "en": "Curse! Lose a Big Item",
+      "name": "Проклятие! Потеря большой шмотки",
+      "alt": "Огромный топор уносит невероятно маленький розовый шарик.",
+      "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384 by 384 pixels. Funny expressive caricature, bold clean ink outlines, loose watercolor and gouache on warm parchment, colorful accents. One obvious visual joke, simple chunky shapes, minimal background, centered large subject with comfortable margins. Modest detail, no intricate scenery. No text, letters, digits, logos, watermark, border or card frame. Clear anatomy, no extra limbs. Subject: A tiny adult fantasy adventurer stares in disbelief as an enormous two-handed axe floats away attached to one absurdly small pink balloon. Adventurer two empty hands raised clearly apart, weapon much larger than character.",
+      "file": "assets/illustrations/base-art-curse-lose-a-big-item-v1.jpg",
+      "date": "2026-10-26",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-9e0c6d3f-90e1-40d1-8cac-ea0018135891.png"
+    }
+  ]
+}

@@ -47,6 +47,6 @@ $('#reset').onclick=()=>{$('#search').value='';filter='Все';document.querySel
 $('#back').onclick=()=>{history.replaceState(null,'',location.pathname+location.search);closeGame()};
 $('#fullscreen').onclick=async()=>{try{if(document.fullscreenElement)await document.exitFullscreen();else{await $('#player').requestFullscreen();$('#game-frame').focus()}}catch{$('#game-frame').focus()}};
 document.addEventListener('keydown',e=>{if(e.key==='/'&&$('#player').hidden&&!['INPUT','TEXTAREA'].includes(document.activeElement.tagName)){e.preventDefault();$('#search').focus()}});
-$('#game-frame').addEventListener('load',()=>{try{const frame=$('#game-frame');if(frame.contentWindow.location.pathname==='/'){frame.contentWindow.location.replace('/games/durak/');return}if(!$('#player').hidden)frame.contentWindow.focus()}catch{}});
+$('#game-frame').addEventListener('load',()=>{const frame=$('#game-frame');try{if(frame.contentWindow.location.origin===location.origin&&frame.contentWindow.location.pathname==='/'){frame.contentWindow.location.replace('/games/durak/');return}}catch{}if(!$('#player').hidden)frame.contentWindow.focus()});
 window.addEventListener('hashchange',route);
 try{const response=await fetch('/api/games');if(!response.ok)throw Error('load');games=await response.json();render();if(location.hash)route()}catch{$('#error').hidden=false;$('#empty').hidden=true}

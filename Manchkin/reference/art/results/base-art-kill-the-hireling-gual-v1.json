@@ -1,0 +1,12 @@
+{
+  "id": "base-art-kill-the-hireling-gual",
+  "en": "Kill the Hireling (GUAL)",
+  "name": "Убить наёмника",
+  "alt": "Наёмничек оставил шлем и рюкзак и сбегает в отпуск с маленьким чемоданом.",
+  "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384 by 384 pixels. Funny expressive caricature, bold clean ink outlines, loose watercolor and gouache on warm parchment, colorful accents. One obvious visual joke, simple chunky shapes, minimal background, centered large subject with comfortable margins. Modest detail, no intricate scenery. No text, letters, digits, logos, watermark, border or card frame. Clear anatomy, no extra limbs. Subject: An adult fantasy squire's enormous empty helmet and overstuffed backpack sit abandoned beside a little door, while the happily liberated squire in plain clothes tiptoes away holding a tiny holiday suitcase. Nonviolent resignation gag, no injury or death imagery, two arms.",
+  "file": "assets/illustrations/base-art-kill-the-hireling-gual-v1.jpg",
+  "date": "2026-10-26",
+  "status": "generated",
+  "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-5c76132b-c424-431e-b52e-d402869d65d8.png",
+  "recoveryNote": "Generated before the queue was stopped; recovered by direct visual comparison with its planned scene."
+}

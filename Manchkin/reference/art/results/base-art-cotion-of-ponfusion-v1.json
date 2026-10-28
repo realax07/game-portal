@@ -1,0 +1,11 @@
+{
+  "id": "base-art-cotion-of-ponfusion",
+  "en": "Cotion of Ponfusion",
+  "name": "Путаница в бутылке",
+  "alt": "Пробки двух зелий перепутались, а лягушонок надел шляпу задом наперёд.",
+  "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384 by 384 pixels. Funny expressive caricature, bold clean ink outlines, loose watercolor and gouache on warm parchment, colorful accents. One obvious visual joke, simple chunky shapes, minimal background, centered large subject with comfortable margins. Modest detail, no intricate scenery. No text, letters, digits, logos, watermark, border or card frame. Clear anatomy, no extra limbs. Subject: Two squat potion bottles, one purple and one turquoise, have tangled corks and little colored bubbles spiraling around each other. One confused tiny frog between them wears its wizard hat backward. No labels, no letters.",
+  "file": "assets/illustrations/base-art-cotion-of-ponfusion-v1.jpg",
+  "date": "2026-10-26",
+  "status": "generated",
+  "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-6fa5c768-ca54-4ed8-8ed5-151432b5b9a1.png"
+}

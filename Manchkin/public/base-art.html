@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="ru">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#191421"><title>Оригинальный Манчкин — альбом иллюстраций</title><link rel="stylesheet" href="base-art.css"><link rel="stylesheet" href="selects.css"></head>
+<body>
+<main>
+  <nav><a href="/">← В таверну</a><span>ИЛЛЮСТРИРУЕМ ОРИГИНАЛ</span></nav>
+  <header><div><p class="eyebrow">МАНЧКИН · БАЗОВЫЙ НАБОР</p><h1>Сначала — классика.</h1><p class="intro">Вся базовая коробка в одном альбоме. Монстры, сокровища и немного сомнительных решений.</p></div><div class="seal" aria-hidden="true">⚔<small>СОВЕСТЬ<br>В КОМПЛЕКТ НЕ ВХОДИТ</small></div></header>
+  <section class="progress-panel" aria-label="Прогресс иллюстраций"><div><strong id="ready-count"></strong><span>иллюстраций готово</span></div><div><strong id="remaining-count"></strong><span>ещё ждут своего часа</span></div><p>168 карт в коробке → 147 разных названий.<br>Повторы используют один рисунок.</p><progress id="art-progress" max="147" value="0" aria-label="Готовые иллюстрации"></progress></section>
+  <section class="filters" aria-label="Фильтры альбома"><label>Найти карту<input type="search" id="art-search" placeholder="Беседка, нос, дракон…"></label><label>Показать<select id="art-status"><option value="latest">Последняя серия</option><option value="ready">Все готовые</option><option value="all">Весь оригинал</option><option value="pending">Ещё без рисунка</option></select></label><label>Колода<select id="art-deck"><option value="all">Двери и сокровища</option><option value="doors">Двери</option><option value="treasures">Сокровища</option></select></label></section>
+  <p id="shown-count" class="shown" role="status" aria-live="polite"></p><section id="art-grid" class="art-grid" aria-label="Иллюстрации карт"></section>
+  <p id="empty" hidden>Ничего не нашлось. Даже проклятие поиска нас сегодня пощадило.</p>
+  <footer><p>Все 147 названий базового набора участвуют в игре. Повторные экземпляры используют один рисунок.</p><p>Оригинальные карикатуры созданы для этой игры. <a href="https://munchkin.game/products/games/munchkin/" target="_blank" rel="noreferrer">Список карт издателя ↗</a></p></footer>
+</main><script type="module" src="base-art.js"></script>
+</body></html>

@@ -1,0 +1,13 @@
+{
+  "id": "base-art-curse-lose-the-armor-you-are-wearing",
+  "en": "Curse! Lose the Armor You Are Wearing",
+  "name": "Проклятие! Потеря броника",
+  "alt": "Броник раскрылся и убежал на маленьких металлических ножках.",
+  "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384 by 384 pixels. Funny expressive caricature, bold clean ink outlines, loose watercolor and gouache on warm parchment, colorful accents. One obvious visual joke, simple chunky shapes, minimal background, centered large subject with comfortable margins. Modest detail, no intricate scenery. No text, letters, digits, logos, watermark, border or card frame. Clear anatomy, no extra limbs. Subject: A modestly dressed adult fantasy adventurer in a full brown tunic and trousers looks surprised as his steel breastplate springs open like a clamshell and hops away on two tiny metal feet. Exactly two human arms, no nudity. Correction: Remove only the duplicate steel breastplate from the human torso; replace with fully closed plain brown tunic. Preserve everything else, exactly one breastplate, the running one.",
+  "file": "assets/illustrations/base-art-curse-lose-the-armor-you-are-wearing-v1.jpg",
+  "date": "2026-10-27",
+  "status": "generated",
+  "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-6470cd0f-559d-401b-902a-3ce92786edc0.png",
+  "editReference": "reference/art/originals/base-art-curse-lose-the-armor-you-are-wearing-draft-duplicate-armor.png",
+  "originalPrompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384 by 384 pixels. Funny expressive caricature, bold clean ink outlines, loose watercolor and gouache on warm parchment, colorful accents. One obvious visual joke, simple chunky shapes, minimal background, centered large subject with comfortable margins. Modest detail, no intricate scenery. No text, letters, digits, logos, watermark, border or card frame. Clear anatomy, no extra limbs. Subject: A modestly dressed adult fantasy adventurer in a full brown tunic and trousers looks surprised as his steel breastplate springs open like a clamshell and hops away on two tiny metal feet. Exactly two human arms, no nudity."
+}

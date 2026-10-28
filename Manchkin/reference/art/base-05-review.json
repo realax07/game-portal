@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-26",
+  "tool": "Built-in imagegen",
+  "batch": "batch-2026-10-26-base-05.json",
+  "scope": "Image inspection only; batch limited to eight cards.",
+  "method": "Viewed each separate 384 by 384 preview. Checked clear anatomy, hands, limbs, cropping, distinct subjects, text and suitability for card size.",
+  "accepted": [
+    "Whine at the GM (GUAL)",
+    "Curse! Change Class",
+    "Curse! Change Race",
+    "Curse! Change Sex",
+    "Curse! Chicken on Your Head",
+    "Curse! Duck of Doom",
+    "Curse! Income Tax",
+    "Curse! Lose a Big Item"
+  ],
+  "needsRepair": [],
+  "browserCheck": {
+    "url": "http://localhost:4387/base-art.html",
+    "baseReady": 138,
+    "baseTotal": 147,
+    "lastBatchDisplayed": 8,
+    "allEightImagesLoaded": true,
+    "screenshot": "reference/qa/base-art-batch-05-2026-10-26.png"
+  }
+}

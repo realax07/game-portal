@@ -1,0 +1,11 @@
+{
+  "id": "base-art-hoard",
+  "en": "Hoard!",
+  "name": "Клад!",
+  "alt": "Из маленького сундука высыпалась гора золота и одна неожиданная уточка.",
+  "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384 by 384 pixels. Funny expressive caricature, bold clean ink outlines, loose watercolor and gouache on warm parchment, colorful accents. One obvious visual joke, simple chunky shapes, minimal background, centered large subject with comfortable margins. Modest detail, no intricate scenery. No text, letters, digits, logos, watermark, border or card frame. Clear anatomy, no extra limbs. Subject: A small treasure chest has burst open into an absurd overflowing mountain of gold coins, crowns and one unexpected rubber duck, with the tiny lid balancing on top. Treasure dominates, clear simple shapes, no numbers or text.",
+  "file": "assets/illustrations/base-art-hoard-v1.jpg",
+  "date": "2026-10-26",
+  "status": "generated",
+  "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-b64f6bd9-b0c7-46bc-a379-06f89d0f641f.png"
+}

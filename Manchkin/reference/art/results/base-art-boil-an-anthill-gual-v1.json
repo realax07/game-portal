@@ -1,0 +1,12 @@
+{
+  "id": "base-art-boil-an-anthill-gual",
+  "en": "Boil an Anthill (GUAL)",
+  "name": "Заварить муравейник",
+  "alt": "Маг вскипятил чайник и теперь поит чаем целую очередь муравьёв.",
+  "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384 by 384 pixels. Funny expressive caricature, bold clean ink outlines, loose watercolor and gouache on warm parchment, colorful accents. One obvious visual joke, simple chunky shapes, minimal background, centered large subject with comfortable margins. Modest detail, no intricate scenery. No text, letters, digits, logos, watermark, border or card frame. Clear anatomy, no extra limbs. Subject: A tiny fantasy wizard in a blue robe proudly serves steaming tea from a miniature kettle to a neat queue of comically tiny ants beside a little anthill. Warm nonviolent reinterpretation, one clear wizard with two arms, no harmed insects.",
+  "file": "assets/illustrations/base-art-boil-an-anthill-gual-v1.jpg",
+  "date": "2026-10-26",
+  "status": "generated",
+  "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-d3e011db-3e52-4167-9024-e47af94f0506.png",
+  "recoveryNote": "Generated before the queue was stopped; recovered by direct visual comparison with its planned scene."
+}

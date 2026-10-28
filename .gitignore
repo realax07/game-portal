@@ -8,3 +8,7 @@ __pycache__/
 *.pyc
 *.log
 coverage/
+
+# Local server state (room credentials, saved games, process IDs)
+.data/
+.runtime/

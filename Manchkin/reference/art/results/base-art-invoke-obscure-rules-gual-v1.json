@@ -1,0 +1,12 @@
+{
+  "id": "base-art-invoke-obscure-rules-gual",
+  "en": "Invoke Obscure Rules (GUAL)",
+  "name": "Сослаться на туманные правила",
+  "alt": "Маг торжественно нашёл туманное правило в книге, полной путаных закорючек.",
+  "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384 by 384 pixels. Funny expressive caricature, bold clean ink outlines, loose watercolor and gouache on warm parchment, colorful accents. One obvious visual joke, simple chunky shapes, minimal background, centered large subject with comfortable margins. Modest detail, no intricate scenery. No text, letters, digits, logos, watermark, border or card frame. Clear anatomy, no extra limbs. Subject: An adult tiny bespectacled wizard points triumphantly at a comically enormous open rulebook, but every page is covered only with confusing spaghetti-like decorative squiggles and one tiny sleeping snail. No letters or readable writing, two clear hands.",
+  "file": "assets/illustrations/base-art-invoke-obscure-rules-gual-v1.jpg",
+  "date": "2026-10-26",
+  "status": "generated",
+  "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-77ee1aa7-f0ac-49db-bcf3-d0ec04bd6be5.png",
+  "recoveryNote": "Generated before the queue was stopped; recovered by direct visual comparison with its planned scene."
+}

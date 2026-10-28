@@ -1,0 +1,11 @@
+{
+  "id": "base-art-enraged",
+  "en": "Enraged",
+  "name": "Разъярённый",
+  "alt": "Разъярённый монстрик негодует из-за размокшего печенья.",
+  "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384 by 384 pixels. Funny expressive caricature, bold clean ink outlines, loose watercolor and gouache on warm parchment, colorful accents. One obvious visual joke, simple chunky shapes, minimal background, centered large subject with comfortable margins. Modest detail, no intricate scenery. No text, letters, digits, logos, watermark, border or card frame. Clear anatomy, no extra limbs. Subject: A furious little red horned fantasy monster with round cheeks has puffed itself up over a teacup containing one soggy biscuit. Steam puffs from its ears, huge comic eyebrows, exactly two fists, harmless tantrum.",
+  "file": "assets/illustrations/base-art-enraged-v1.jpg",
+  "date": "2026-10-26",
+  "status": "generated",
+  "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-9cfc55be-3f36-4c7d-aec2-88fccaaa8a60.png"
+}

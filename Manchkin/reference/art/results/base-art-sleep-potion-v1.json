@@ -1,0 +1,11 @@
+{
+  "id": "base-art-sleep-potion",
+  "en": "Sleep Potion",
+  "name": "Сонное зелье",
+  "alt": "Сонное зелье само уснуло на подушке под маленьким ночным колпаком.",
+  "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384 by 384 pixels. Funny expressive caricature, bold clean ink outlines, loose watercolor and gouache on warm parchment, colorful accents. One obvious visual joke, simple chunky shapes, minimal background, centered large subject with comfortable margins. Modest detail, no intricate scenery. No text, letters, digits, logos, watermark, border or card frame. Clear anatomy, no extra limbs. Subject: A round indigo potion bottle sleeps on a tiny pillow under a miniature nightcap. Its cork slumps sideways and three little fireflies doze nearby. Cozy moon-shaped highlight, no written sleep symbols.",
+  "file": "assets/illustrations/base-art-sleep-potion-v1.jpg",
+  "date": "2026-10-26",
+  "status": "generated",
+  "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-42048f86-21e5-4e7b-8eff-b3cf6a65fe63.png"
+}

@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-25",
+  "status": "completed",
+  "tool": "image_gen.imagegen (built-in)",
+  "jobs": [
+    {
+      "id": "dragon-steed",
+      "en": "Dragon Steed",
+      "alt": "Пузатый дракон-скакун гордо носит крошечное седло, явно не рассчитанное на рыцаря.",
+      "prompt": "Use case: illustration-story. Asset: one square illustration for a humorous fantasy card game, original character design. Playful caricature, bold expressive ink outlines, loose watercolor and gouache, warm parchment backdrop, colorful accents. Centered readable chunky silhouette, exaggerated expression, simple shapes, minimal background, comfortable margins. Modest detail suitable for a small card. No text, lettering, frame, logo or watermark. A chubby crimson dragon posing proudly as a riding mount, wearing a ridiculously tiny leather saddle and stirrups on its huge belly. A miniature jousting lance stuck on the saddle, stubby wings, smug smile, funny oversized riding pony posture.",
+      "file": "assets/illustrations/dragon-steed-v1.jpg",
+      "date": "2026-10-25",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-676464f2-7d08-4aa3-a614-ef8727360f56.png"
+    },
+    {
+      "id": "bipolar-bear",
+      "en": "Bipolar Bear",
+      "alt": "Двухполюсный медведь застрял между льдиной и пляжным зонтиком.",
+      "prompt": "Use case: illustration-story. Asset: one square illustration for a humorous fantasy card game, original character design. Playful caricature, bold expressive ink outlines, loose watercolor and gouache, warm parchment backdrop, colorful accents. Centered readable chunky silhouette, exaggerated expression, simple shapes, minimal background, comfortable margins. Modest detail suitable for a small card. No text, lettering, frame, logo or watermark. A round white polar bear caught between two absurd vacation climates: left paw on a tiny ice floe and right paw holding a tropical beach umbrella, wearing orange swimming trunks and a scarf together. He looks comically confused, tongue out; humorous wordplay on two poles, no psychological stereotypes.",
+      "file": "assets/illustrations/bipolar-bear-v1.jpg",
+      "date": "2026-10-25",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-58895cd5-6fd3-4b62-adee-0e4b0e7edcf9.png"
+    },
+    {
+      "id": "bronto-steed",
+      "en": "Bronto Steed",
+      "alt": "Бронтозавр-скакун смотрит на крошечное седло у себя на спине; к седлу ведёт верёвочная лестница.",
+      "prompt": "Use case: illustration-story. Asset: one square illustration for a humorous fantasy card game, original character design. Playful caricature, bold expressive ink outlines, loose watercolor and gouache, warm parchment backdrop, colorful accents. Centered readable chunky silhouette, exaggerated expression, simple shapes, minimal background, comfortable margins. Modest detail suitable for a small card. No text, lettering, frame, logo or watermark. A squat turquoise brontosaurus riding mount with a comically long looping neck, looking backward puzzled at a tiny leather saddle and stirrups high on its back. A dangling rope ladder for the rider, friendly clumsy smile, dinosaur fantasy caricature.",
+      "file": "assets/illustrations/bronto-steed-v1.jpg",
+      "date": "2026-10-25",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-33ec36e6-45da-4369-8bf2-1f5bebb9c2a8.png"
+    },
+    {
+      "id": "bone-dragon",
+      "en": "Bone Dragon",
+      "alt": "Костяной дракон чихнул и теперь ловит собственную отлетевшую челюсть.",
+      "prompt": "Use case: illustration-story. Asset: one square illustration for a humorous fantasy card game, original character design. Playful caricature, bold expressive ink outlines, loose watercolor and gouache, warm parchment backdrop, colorful accents. Centered readable chunky silhouette, exaggerated expression, simple shapes, minimal background, comfortable margins. Modest detail suitable for a small card. No text, lettering, frame, logo or watermark. A goofy skeletal dragon in ivory bones sneezes a puff of purple magic and desperately reaches to catch his detached lower jaw bouncing in front of him. Stubby bony wings, expressive glowing blue eye sockets, playful non-scary undead slapstick.",
+      "file": "assets/illustrations/bone-dragon-v1.jpg",
+      "date": "2026-10-25",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-e9ec10d4-1e42-4316-90b6-1b0fd5434f0b.png"
+    },
+    {
+      "id": "catapult",
+      "en": "Catapult",
+      "alt": "Котапульта запускает упитанного кота, который считает это королевским развлечением.",
+      "prompt": "Use case: illustration-story. Asset: one square illustration for a humorous fantasy card game, original character design. Playful caricature, bold expressive ink outlines, loose watercolor and gouache, warm parchment backdrop, colorful accents. Centered readable chunky silhouette, exaggerated expression, simple shapes, minimal background, comfortable margins. Modest detail suitable for a small card. No text, lettering, frame, logo or watermark. A compact wooden medieval catapult whose launching spoon is occupied by a very fat smug orange cat reclining like a king with a fish in his paws. Cat paws on the wooden frame, bent spring rope, funny cat-themed fantasy weapon, no injury.",
+      "file": "assets/illustrations/catapult-v1.jpg",
+      "date": "2026-10-25",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-8edf37a1-4921-4bc0-8306-32d4f9317fd8.png"
+    },
+    {
+      "id": "dogs-of-war",
+      "en": "Dogs of War",
+      "alt": "Три пса войны в кастрюлях-шлемах маршируют за сосиской на копье.",
+      "prompt": "Use case: illustration-story. Asset: one square illustration for a humorous fantasy card game, original character design. Playful caricature, bold expressive ink outlines, loose watercolor and gouache, warm parchment backdrop, colorful accents. Centered readable chunky silhouette, exaggerated expression, simple shapes, minimal background, comfortable margins. Modest detail suitable for a small card. No text, lettering, frame, logo or watermark. Three silly stocky dogs as medieval soldiers, wearing oversized cooking-pot helmets and mismatched tiny armor, marching in an uneven line following a sausage attached to the leader's wooden spear. Bulldog, dachshund, little terrier, exaggerated determined faces, chunky clear group silhouette.",
+      "file": "assets/illustrations/dogs-of-war-v1.jpg",
+      "date": "2026-10-25",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-ce197e20-092a-4f21-ac27-e9a71cd3a176.png"
+    },
+    {
+      "id": "baphomet",
+      "en": "Baphomet",
+      "alt": "Козлиный демон с грозными рогами обнаружил, что его плащ уже съеден.",
+      "prompt": "Use case: illustration-story. Asset: one square illustration for a humorous fantasy card game, original character design. Playful caricature, bold expressive ink outlines, loose watercolor and gouache, warm parchment backdrop, colorful accents. Centered readable chunky silhouette, exaggerated expression, simple shapes, minimal background, comfortable margins. Modest detail suitable for a small card. No text, lettering, frame, logo or watermark. A ridiculous plump goat-headed fantasy demon with enormous curved horns, dark purple ceremonial robe and tiny bat wings has absentmindedly chewed through his own robe hem. Sheepish guilty expression, fabric hanging from his mouth, harmless theatrical comic villain.",
+      "file": "assets/illustrations/baphomet-v1.jpg",
+      "date": "2026-10-25",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-77b60f76-4a03-48a5-9ac5-df3924c9a55b.png"
+    },
+    {
+      "id": "death-cap",
+      "en": "Death Cap",
+      "alt": "Грибная шляпа настолько ядовито важная, что даже череп на пряжке косится на неё.",
+      "prompt": "Use case: illustration-story. Asset: one square illustration for a humorous fantasy card game, original character design. Playful caricature, bold expressive ink outlines, loose watercolor and gouache, warm parchment backdrop, colorful accents. Centered readable chunky silhouette, exaggerated expression, simple shapes, minimal background, comfortable margins. Modest detail suitable for a small card. No text, lettering, frame, logo or watermark. An absurdly large greenish mushroom cap used as a fantasy wizard hat, resting on a tiny grumpy goblin head that is almost completely hidden underneath. A decorative skull buckle looks sideways suspiciously; exaggerated mushroom gills, poisonous purple bubbles, silly wearable magic item.",
+      "file": "assets/illustrations/death-cap-v1.jpg",
+      "date": "2026-10-25",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-a92488b3-5fc3-4bb9-ab14-70346407a3c1.png"
+    },
+    {
+      "id": "boa-and-arrow",
+      "en": "Boa and Arrow",
+      "alt": "Удав свернулся луком и с недоумением смотрит на стрелу у собственного носа.",
+      "prompt": "Use case: illustration-story. Asset: one square illustration for a humorous fantasy card game, original character design. Playful caricature, bold expressive ink outlines, loose watercolor and gouache, warm parchment backdrop, colorful accents. Centered readable chunky silhouette, exaggerated expression, simple shapes, minimal background, comfortable margins. Modest detail suitable for a small card. No text, lettering, frame, logo or watermark. A long bright emerald boa snake has coiled itself into the shape of a medieval bow, with bowstring between two loops and a wooden arrow balanced across the curve. The snake's little head at the upper tip looks scandalized at this ridiculous arrangement, funny original fantasy weapon.",
+      "file": "assets/illustrations/boa-and-arrow-v1.jpg",
+      "date": "2026-10-25",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-a6d82279-836a-433b-8e40-4118c279399f.png"
+    },
+    {
+      "id": "beer-barrel-armor",
+      "en": "Beer Barrel Armor",
+      "alt": "Герой в бочке-доспехе гордо позирует, пока из краника течёт пена.",
+      "prompt": "Use case: illustration-story. Asset: one square illustration for a humorous fantasy card game, original character design. Playful caricature, bold expressive ink outlines, loose watercolor and gouache, warm parchment backdrop, colorful accents. Centered readable chunky silhouette, exaggerated expression, simple shapes, minimal background, comfortable margins. Modest detail suitable for a small card. No text, lettering, frame, logo or watermark. A short boastful fantasy adventurer wears a huge wooden beer barrel as body armor, his small arms and boots poking out, pot helmet on head. Foam spurts from a little tap on the barrel while he strikes a heroic pose with a wooden spoon as sword. Warm amber and steel accents.",
+      "file": "assets/illustrations/beer-barrel-armor-v1.jpg",
+      "date": "2026-10-25",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-cec84ac4-dcd1-4811-a916-389309dc89be.png"
+    },
+    {
+      "id": "budget-unicorn-costume",
+      "en": "Budget Unicorn Costume",
+      "alt": "Бюджетный единорог: ослик с морковкой вместо рога и гордым видом.",
+      "prompt": "Use case: illustration-story. Asset: one square illustration for a humorous fantasy card game, original character design. Playful caricature, bold expressive ink outlines, loose watercolor and gouache, warm parchment backdrop, colorful accents. Centered readable chunky silhouette, exaggerated expression, simple shapes, minimal background, comfortable margins. Modest detail suitable for a small card. No text, lettering, frame, logo or watermark. A scruffy gray donkey proudly wears a hilariously cheap unicorn costume: a carrot tied to his forehead for a horn, a white bedsheet draped over his body, uneven rainbow yarn tail. The donkey looks magnificently self-important, original funny fantasy mount disguise.",
+      "file": "assets/illustrations/budget-unicorn-costume-v1.jpg",
+      "date": "2026-10-25",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-398e1e63-40e3-4640-8eb4-21330e802921.png"
+    },
+    {
+      "id": "deep-crow",
+      "en": "Deep Crow",
+      "alt": "Мрачный глубинный ворон в шахтёрском шлеме охраняет блестящую ложку.",
+      "prompt": "Use case: illustration-story. Asset: one square illustration for a humorous fantasy card game, original character design. Playful caricature, bold expressive ink outlines, loose watercolor and gouache, warm parchment backdrop, colorful accents. Centered readable chunky silhouette, exaggerated expression, simple shapes, minimal background, comfortable margins. Modest detail suitable for a small card. No text, lettering, frame, logo or watermark. An enormous round midnight-purple cave crow with tiny wings and a miner's helmet carrying a glowing crystal lamp guards a ridiculous shiny teaspoon as if it were a great treasure. Huge beak, bushy eyebrows, grumpy suspicious stare, little cave rock beneath feet, simple funny fantasy monster.",
+      "file": "assets/illustrations/deep-crow-v1.jpg",
+      "date": "2026-10-25",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-e8f5487f-c606-4445-b84e-95b3074d4118.png"
+    }
+  ]
+}

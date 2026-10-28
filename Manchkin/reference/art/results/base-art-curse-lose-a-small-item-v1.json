@@ -1,0 +1,11 @@
+{
+  "id": "base-art-curse-lose-a-small-item",
+  "en": "Curse! Lose a Small Item",
+  "name": "Проклятие! Потеря мелкой шмотки",
+  "alt": "Дварф ищет маленькое кольцо в кошельке, а оно укатилось под сапог.",
+  "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384 by 384 pixels. Funny expressive caricature, bold clean ink outlines, loose watercolor and gouache on warm parchment, colorful accents. One obvious visual joke, simple chunky shapes, minimal background, centered large subject with comfortable margins. Modest detail, no intricate scenery. No text, letters, digits, logos, watermark, border or card frame. Clear anatomy, no extra limbs. Subject: An adult fantasy dwarf searches through an enormous open coin purse with a magnifying glass while a tiny shiny ring rolls away beneath his boot. Two clear hands, one purse, one ring, simple lost-small-treasure joke.",
+  "file": "assets/illustrations/base-art-curse-lose-a-small-item-v1.jpg",
+  "date": "2026-10-27",
+  "status": "generated",
+  "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-35989755-6841-4081-9356-bf33bd037da5.png"
+}

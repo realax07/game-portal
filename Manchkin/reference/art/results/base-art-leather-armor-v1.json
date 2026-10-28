@@ -1,0 +1,11 @@
+{
+  "id": "base-art-leather-armor",
+  "en": "Leather Armor",
+  "name": "Кожаный броник",
+  "alt": "Кожаный броник залатан ремнями и цветочком, но выглядит ужасно уверенно.",
+  "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384 by 384 pixels. Funny expressive caricature, bold clean ink outlines, loose watercolor and gouache on warm parchment, colorful accents. One obvious visual joke, simple chunky shapes, minimal background, centered large subject with comfortable margins. Modest detail, no intricate scenery. No text, letters, digits, logos, watermark, border or card frame. Clear anatomy, no extra limbs. Subject: A squat little leather fantasy breastplate on a wooden stand has been patched with an absurdly large leather belt buckle and one tiny flower-shaped patch. Thick brown leather, goofy sturdy proportions, simple full armor item.",
+  "file": "assets/illustrations/base-art-leather-armor-v1.jpg",
+  "date": "2026-10-26",
+  "status": "generated",
+  "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-285db471-2911-415b-85a9-60519a6531f5.png"
+}
