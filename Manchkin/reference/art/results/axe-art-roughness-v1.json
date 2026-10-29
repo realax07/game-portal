@@ -1,0 +1,11 @@
+{
+  "id": "axe-art-roughness",
+  "en": "Unnecessary Roughness (GUAL)",
+  "name": "Излишняя грубость",
+  "alt": "Варвар расколол орех огромной кувалдой и удивился результату.",
+  "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One broad adult barbarian in green tunic and fur boots with exactly two arms and two legs, holding ONE enormous wooden mallet with both hands after striking a tiny walnut on a stone. Scattered walnut shells and a cartoon dust puff, no harm to creatures. Sheepish surprised face at the ludicrous overkill, clear tool construction and full figure.",
+  "file": "assets/illustrations/axe-art-roughness-v1.jpg",
+  "date": "2026-10-29",
+  "status": "generated",
+  "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-172be554-7c40-45b0-8d2f-2169a50a9d00.png"
+}

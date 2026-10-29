@@ -1696,6 +1696,816 @@
       "height": 384,
       "origin": "Original image generated with built-in imagegen",
       "date": "2026-10-27"
+    },
+    {
+      "en": "Cat Girl",
+      "file": "assets/illustrations/axe-art-cat-girl-v1.jpg",
+      "alt": "Взрослая рыжая девушка-кошка в зелёном костюме плутовки угрожает смешной метёлкой.",
+      "bytes": 58124,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Crawling Hand",
+      "file": "assets/illustrations/axe-art-crawling-hand-v1.jpg",
+      "alt": "Ползучая синеватая рука с пятью пальцами заманивает искателя золотым кольцом.",
+      "bytes": 67240,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Frost Giant",
+      "file": "assets/illustrations/axe-art-frost-giant-v1.jpg",
+      "alt": "Огромный морозный великан зябко держит крошечную чашку рядом с маленькой свечой.",
+      "bytes": 81055,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Fungus",
+      "file": "assets/illustrations/axe-art-fungus-v1.jpg",
+      "alt": "Фиолетовый гриб-богатырь гордо тренируется с нелепо маленькой деревянной гантелью.",
+      "bytes": 68695,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Giant Cockroach",
+      "file": "assets/illustrations/axe-art-giant-cockroach-v1.jpg",
+      "alt": "Гигантский таракан в маленькой каске похитил рыцарский шлем и гордится добычей.",
+      "bytes": 69422,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Giant Skunk",
+      "file": "assets/illustrations/axe-art-giant-skunk-v1.jpg",
+      "alt": "Пухлый гигантский скунс восседает на брошенных доспехах, разгоняя всех зелёными завитками запаха.",
+      "bytes": 67854,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Jabberwock",
+      "file": "assets/illustrations/axe-art-jabberwock-v1.jpg",
+      "alt": "Бирюзовый зубастый бармаглот в маленькой волшебной шляпе обиженно разглядывает сломанный тренировочный меч.",
+      "bytes": 61163,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Judge Fredd",
+      "file": "assets/illustrations/axe-art-judge-fredd-v1.jpg",
+      "alt": "Суровый судья-рыцарь в огромном белом парике несёт молоток и конфискованный сундук.",
+      "bytes": 69881,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "M.T. Suit",
+      "file": "assets/illustrations/axe-art-mt-suit-v1.jpg",
+      "alt": "Пустой деловой костюм шагает сам по себе, а галстук изображает язык.",
+      "bytes": 66252,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Lust Monster",
+      "file": "assets/illustrations/axe-art-lust-monster-v1.jpg",
+      "alt": "Розовый рогатый монстр обнимает мешок золота и протягивает ему цветок.",
+      "bytes": 69832,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Monster The GM Made Up Himself",
+      "file": "assets/illustrations/axe-art-gm-monster-v1.jpg",
+      "alt": "Нелепый зелёный монстр собран из несовместимых частей и гордится собой.",
+      "bytes": 56910,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Moon Maidens",
+      "file": "assets/illustrations/axe-art-moon-maidens-v1.jpg",
+      "alt": "Две лунные волшебницы в серебристых мантиях сердито чистят месяц метёлками.",
+      "bytes": 81772,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Piñata",
+      "file": "assets/illustrations/axe-art-pinata-v1.jpg",
+      "alt": "Радужная пиньята-ослик воинственно размахивает своей палкой, рассыпая конфеты.",
+      "bytes": 67987,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Plague Rats",
+      "file": "assets/illustrations/axe-art-plague-rats-v1.jpg",
+      "alt": "Три чумные крысы в лоскутных капюшонах торжественно везут зловонный кусок сыра.",
+      "bytes": 74252,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Psycho Squirrel",
+      "file": "assets/illustrations/axe-art-psycho-squirrel-v1.jpg",
+      "alt": "Взъерошенная белка в шлеме из скорлупы защищает желудь огромной деревянной ложкой.",
+      "bytes": 78253,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Pterodactyl",
+      "file": "assets/illustrations/axe-art-pterodactyl-v1.jpg",
+      "alt": "Бирюзовый птеродактиль в лётных очках запутался клювом в носке.",
+      "bytes": 65306,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Santa",
+      "file": "assets/illustrations/axe-art-santa-v1.jpg",
+      "alt": "Сердитый Санта в красной шубе проверяет пустой мешок и выставляет уголь вместо подарков.",
+      "bytes": 62567,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Scary Clowns",
+      "file": "assets/illustrations/axe-art-scary-clowns-v1.jpg",
+      "alt": "Два клоуна-скелета с нелепыми причёсками и пищащим резиновым цыплёнком.",
+      "bytes": 72643,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Snot Elemental",
+      "file": "assets/illustrations/axe-art-snot-elemental-v1.jpg",
+      "alt": "Зелёный сопливый элементаль сморкается в крошечный платочек.",
+      "bytes": 64017,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "The Mighty Germ",
+      "file": "assets/illustrations/axe-art-mighty-germ-v1.jpg",
+      "alt": "Крошечный усатый микроб в плаще силача поднимает пуговицу как штангу.",
+      "bytes": 63733,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "The Shadow Nose",
+      "file": "assets/illustrations/axe-art-shadow-nose-v1.jpg",
+      "alt": "Призрачный фиолетовый летающий нос со светящимися глазами преследует монету.",
+      "bytes": 68460,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Thing With A Name So Long There's No Room For A Picture On the Card",
+      "file": "assets/illustrations/axe-art-long-name-thing-v1.jpg",
+      "alt": "Огромное мохнатое нечто прячется за бесконечно длинным пустым свитком.",
+      "bytes": 55414,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Were-Turtle",
+      "file": "assets/illustrations/axe-art-were-turtle-v1.jpg",
+      "alt": "Черепаха-оборотень с клыками и пушистыми бакенбардами воет на крошечную луну.",
+      "bytes": 64390,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Funny-Looking Sword",
+      "file": "assets/illustrations/axe-art-funny-looking-sword-v1.jpg",
+      "alt": "Нелепый орочий меч с кривым волнистым клинком и смешным набалдашником.",
+      "bytes": 55355,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Slug Thrower",
+      "file": "assets/illustrations/axe-art-slug-thrower-v1.jpg",
+      "alt": "Деревянный слизнемёт выпускает довольного слизня в кожаном лётном шлеме.",
+      "bytes": 53502,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Tweezers of Terror",
+      "file": "assets/illustrations/axe-art-tweezers-terror-v1.jpg",
+      "alt": "Огромный эльфийский пинцет торжественно держит один крошечный волосок.",
+      "bytes": 59660,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Skull Helmet",
+      "file": "assets/illustrations/axe-art-skull-helmet-v1.jpg",
+      "alt": "Черепной шлем с клыками стоит на подушке, а паучок выглядывает из глазницы.",
+      "bytes": 68841,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Sword of Slaying Everything Except Squid",
+      "file": "assets/illustrations/axe-art-sword-except-squid-v2.jpg",
+      "alt": "Испуганный меч с цельным клинком отклоняется от самодовольного кальмара.",
+      "bytes": 52097,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Scary False Teeth",
+      "file": "assets/illustrations/axe-art-false-teeth-v1.jpg",
+      "alt": "Вставная челюсть с клыками пугает собственную зубную щётку.",
+      "bytes": 58929,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Familiar",
+      "file": "assets/illustrations/axe-art-familiar-v1.jpg",
+      "alt": "Фиолетовый кот-фамильяр в колпаке заснул на раскрытой книге заклинаний.",
+      "bytes": 69853,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Raincoat",
+      "file": "assets/illustrations/axe-art-raincoat-v1.jpg",
+      "alt": "Жёлтый дождевик на пустых доспехах отражает брызги волшебного зелья.",
+      "bytes": 63635,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Knight Light",
+      "file": "assets/illustrations/axe-art-knight-light-v1.jpg",
+      "alt": "Маленький фонарик на рыцарском шлеме ослепляет самого любопытного мотылька.",
+      "bytes": 62004,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Fake Beard",
+      "file": "assets/illustrations/axe-art-fake-beard-v1.jpg",
+      "alt": "Рыжая накладная борода с роскошными усами маскирует маленький деревянный манекен.",
+      "bytes": 65192,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Bag of Caltrops",
+      "file": "assets/illustrations/axe-art-caltrops-v1.jpg",
+      "alt": "Из потрёпанного мешка высыпались железные шипы, а ботинок опасливо обходит их.",
+      "bytes": 74002,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Barbecue Fork",
+      "file": "assets/illustrations/axe-art-barbecue-fork-v1.jpg",
+      "alt": "Огромная вилка для барбекю с сосиской выглядит как грозное оружие хафлинга.",
+      "bytes": 45340,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Blessed Mallet of St. Eeeeeeuuuuuuuuw",
+      "file": "assets/illustrations/axe-art-holy-mallet-v1.jpg",
+      "alt": "Сияющая святая кувалда заставляет маленького призрака брезгливо зажать нос.",
+      "bytes": 67294,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Boomdagger",
+      "file": "assets/illustrations/axe-art-boomdagger-v1.jpg",
+      "alt": "Серебряный кинжал-бумеранг возвращается к кошельку по дуге.",
+      "bytes": 47774,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Cute Shoulder Dragon",
+      "file": "assets/illustrations/axe-art-shoulder-dragon-v1.jpg",
+      "alt": "Крошечный дракончик на плече доспеха поджаривает зефир своим огоньком.",
+      "bytes": 54189,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Helm of Peripheral Vision",
+      "file": "assets/illustrations/axe-art-peripheral-helm-v1.jpg",
+      "alt": "Рыцарский шлем снабжён двумя нелепыми боковыми зеркальцами.",
+      "bytes": 61979,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Lawn Roller",
+      "file": "assets/illustrations/axe-art-lawn-roller-v1.jpg",
+      "alt": "Тяжёлый газонный каток аккуратно раскатывает крошечный пучок травы в подземелье.",
+      "bytes": 75179,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Spiked Codpiece",
+      "file": "assets/illustrations/axe-art-spiked-codpiece-v1.jpg",
+      "alt": "Шипастая деталь доспеха так грозна, что даже подушка под ней залатана.",
+      "bytes": 73003,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Coat of Arms",
+      "file": "assets/illustrations/axe-art-coat-arms-v1.jpg",
+      "alt": "Пальто с четырьмя рукавами одновременно держит чашку, щётку, меч и щит.",
+      "bytes": 67956,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Siege Engine",
+      "file": "assets/illustrations/axe-art-siege-engine-v1.jpg",
+      "alt": "Крошечная осадная машина приготовилась метнуть нелепо большой камень.",
+      "bytes": 68204,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Tinfoil Hat",
+      "file": "assets/illustrations/axe-art-tinfoil-hat-v1.jpg",
+      "alt": "Смешная шапочка из фольги отражает фиолетовую молнию проклятия.",
+      "bytes": 66383,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Very Holy Book",
+      "file": "assets/illustrations/axe-art-holy-book-v1.jpg",
+      "alt": "Огромная святая книга сияет так ярко, что её закладка надела тёмные очки.",
+      "bytes": 74403,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Potion of Flight",
+      "file": "assets/illustrations/axe-art-potion-flight-v1.jpg",
+      "alt": "Пузатый флакон с крылышками взлетел и оставил пробку на земле.",
+      "bytes": 58636,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Druid Fluid",
+      "file": "assets/illustrations/axe-art-druid-fluid-v1.jpg",
+      "alt": "Лесное зелье прорастает веточками, а его пробка превратилась в жёлудь.",
+      "bytes": 71736,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Lemming Juice",
+      "file": "assets/illustrations/axe-art-lemming-juice-v1.jpg",
+      "alt": "Три крошечных лемминга маршируют к стаканчику рядом с флаконом.",
+      "bytes": 56008,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Baby Oil",
+      "file": "assets/illustrations/axe-art-baby-oil-v1.jpg",
+      "alt": "Флакон масла оставил такую скользкую лужицу, что сапоги уехали в разные стороны.",
+      "bytes": 81146,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Your Shoe's Untied!",
+      "file": "assets/illustrations/axe-art-untied-shoe-v1.jpg",
+      "alt": "Суровый рыцарь растерялся из-за огромного развязанного шнурка.",
+      "bytes": 65971,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Find A Map",
+      "file": "assets/illustrations/axe-art-find-map-v1.jpg",
+      "alt": "Искатель нашёл карту сокровищ, но держит её вверх ногами.",
+      "bytes": 76540,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Garage Sale",
+      "file": "assets/illustrations/axe-art-garage-sale-v1.jpg",
+      "alt": "На прилавке подземелья продаются помятый шлем, треснувший щит и чайник с клыками.",
+      "bytes": 84114,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": ". . . of Doom!",
+      "file": "assets/illustrations/axe-art-of-doom-v1.jpg",
+      "alt": "Обычная деревянная ложка обрела зловещее сияние и пугает мышонка.",
+      "bytes": 70530,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Itching Powder",
+      "file": "assets/illustrations/axe-art-itching-powder-v1.jpg",
+      "alt": "Порошок из баночки заставляет пустую кольчугу чесаться собственной щёткой.",
+      "bytes": 78407,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Potion of Cowardice",
+      "file": "assets/illustrations/axe-art-cowardice-potion-v1.jpg",
+      "alt": "Бутылочка зелья трусости сама прячется за крошечным щитом.",
+      "bytes": 70458,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Potion of Disbelief",
+      "file": "assets/illustrations/axe-art-disbelief-potion-v1.jpg",
+      "alt": "От бирюзового зелья грозный монстр превращается в прозрачный контур.",
+      "bytes": 67846,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Curse! Tiny Hands",
+      "file": "assets/illustrations/axe-art-tiny-hands-v1.jpg",
+      "alt": "Могучий воин с крошечными ладонями безуспешно пытается поднять огромный топор.",
+      "bytes": 70694,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Curse! B.O.",
+      "file": "assets/illustrations/axe-art-bo-curse-v1.jpg",
+      "alt": "Самодовольный искатель отпугнул даже муху облаком зелёного запаха.",
+      "bytes": 64467,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Curse! Big Feet",
+      "file": "assets/illustrations/axe-art-big-feet-v1.jpg",
+      "alt": "Удивлённый искатель вырос из сапог, а огромные ступни заняли почти весь пол.",
+      "bytes": 69590,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Curse! Cursed Thingy",
+      "file": "assets/illustrations/axe-art-cursed-thingy-v1.jpg",
+      "alt": "Проклятый шлем вцепился в деревянный манекен и не желает сниматься.",
+      "bytes": 67221,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Curse! Fool's Gold",
+      "file": "assets/illustrations/axe-art-fools-gold-v1.jpg",
+      "alt": "Сокровище оказалось блестящими фантиками и покрашенными камнями.",
+      "bytes": 77878,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Curse! Generosity",
+      "file": "assets/illustrations/axe-art-generosity-v1.jpg",
+      "alt": "Воин щедро раздаёт своё снаряжение, оставшись в смешном стёганом поддоспешнике.",
+      "bytes": 71033,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Curse! Necrophobia",
+      "file": "assets/illustrations/axe-art-necrophobia-v1.jpg",
+      "alt": "Рыцарь спрятался за щитом от крошечного призрака с ромашкой.",
+      "bytes": 75118,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Curse! New Edition Rules",
+      "file": "assets/illustrations/axe-art-new-edition-v1.jpg",
+      "alt": "Новая книга правил упала на старую, подняв тучу пыли и кубики.",
+      "bytes": 69907,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Contemplate Your Navel (GUAL)",
+      "file": "assets/illustrations/axe-art-navel-v1.jpg",
+      "alt": "Воин так увлёкся созерцанием пупка, что бабочка села ему на нос.",
+      "bytes": 72445,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Promise The GM You'll Stop Telling Him About Your Character (GUAL)",
+      "file": "assets/illustrations/axe-art-gm-promise-v1.jpg",
+      "alt": "Разговорчивый игрок запечатал рот и протягивает мастеру цветок примирения.",
+      "bytes": 68224,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Fold, Spindle, and Mutilate (GUAL)",
+      "file": "assets/illustrations/axe-art-fold-spindle-v1.jpg",
+      "alt": "Грозный молоток и канцелярский штырь расправились с безобидным листом бумаги.",
+      "bytes": 66358,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Pay For The Pizza (GUAL)",
+      "file": "assets/illustrations/axe-art-pizza-v1.jpg",
+      "alt": "Рыцарская перчатка оплачивает пиццу горстью золотых монет.",
+      "bytes": 81127,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Unnecessary Roughness (GUAL)",
+      "file": "assets/illustrations/axe-art-roughness-v1.jpg",
+      "alt": "Варвар расколол орех огромной кувалдой и удивился результату.",
+      "bytes": 69361,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Wash The GM's Car (GUAL)",
+      "file": "assets/illustrations/axe-art-wash-car-v1.jpg",
+      "alt": "Рыцарь старательно моет маленькую машину, всё вокруг в пене.",
+      "bytes": 94709,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Switch Character Sheets (GUAL)",
+      "file": "assets/illustrations/axe-art-switch-sheets-v1.jpg",
+      "alt": "Два свитка с портретами мышонка и дракона тайком меняются местами.",
+      "bytes": 66188,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Trojan Horse",
+      "file": "assets/illustrations/axe-art-trojan-v1.jpg",
+      "alt": "Игрушечный деревянный конь прячет внутри довольного зелёного монстра.",
+      "bytes": 68768,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Annihilation",
+      "file": "assets/illustrations/axe-art-annihilation-v1.jpg",
+      "alt": "Карта исчезает в крошечной чёрной дыре, оставляя только удивлённый уголок.",
+      "bytes": 78908,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Deck Of Too Many Things",
+      "file": "assets/illustrations/axe-art-too-many-v1.jpg",
+      "alt": "Из маленькой колоды вываливаются чайник, сапог, рыба и корона.",
+      "bytes": 67853,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Friendly",
+      "file": "assets/illustrations/axe-art-friendly-v1.jpg",
+      "alt": "Клыкастый монстр дружелюбно предлагает корзинку сокровищ с бантиком.",
+      "bytes": 64747,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Brood",
+      "file": "assets/illustrations/axe-art-brood-v1.jpg",
+      "alt": "Пять маленьких зелёных монстриков выстроились за одним большим печеньем.",
+      "bytes": 76164,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Sleeping",
+      "file": "assets/illustrations/axe-art-sleeping-v1.jpg",
+      "alt": "Огромный монстр спит на мешке сокровищ и обнимает плюшевого рыцаря.",
+      "bytes": 69356,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Undead",
+      "file": "assets/illustrations/axe-art-undead-v1.jpg",
+      "alt": "Монстр-зомби чинит свою отвалившуюся перчатку иголкой и ниткой.",
+      "bytes": 68044,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Dead",
+      "file": "assets/illustrations/axe-art-dead-v1.jpg",
+      "alt": "Монстр театрально лежит лапами кверху, а муха проверяет его нос.",
+      "bytes": 59070,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Dead Broke",
+      "file": "assets/illustrations/axe-art-dead-broke-v1.jpg",
+      "alt": "Огромный монстр вытряхивает пустой кошелёк, откуда выпала только пуговица.",
+      "bytes": 73448,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
+    },
+    {
+      "en": "Mommy",
+      "file": "assets/illustrations/axe-art-mommy-v1.jpg",
+      "alt": "Маленький монстрик позвал огромную маму, которая принесла ему забытый шарфик.",
+      "bytes": 69415,
+      "width": 384,
+      "height": 384,
+      "origin": "Original image generated with built-in imagegen",
+      "date": "2026-10-29"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Учёт сгенерированных иллюстраций
 
-Готово: **171 рисунков**, покрывают **178 определений карт в игре**. Полная очередь по сохранённым спискам издателя и локальным подборкам: **1205 уникальных названий**. Из них **236** уже есть в игре и используют SVG; остальные ещё не импортированы в игровой движок. Объём игровых JPEG: **11298272 байт**.
+Готово: **252 рисунков**, покрывают **273 определений карт в игре**. Полная очередь по сохранённым спискам издателя и локальным подборкам: **1202 уникальных названий**. Из них **234** уже есть в игре и используют SVG; остальные ещё не импортированы в игровой движок. Объём игровых JPEG: **16799753 байт**.
 
 **Текущий приоритет — полный базовый оригинал, затем дополнения.** База: 168 печатных карт с повторами, 147 уникальных названий в [списке издателя](base-publisher-list.json); рисунки готовы для 147, осталось 0. В игровой подборке базы пока 147 определения, с рисунками 147. Завершение иллюстраций локальной подборки не означает завершение всей оригинальной коробки.
 
-Сохранённые официальные списки содержат 1404 записей, включая повторы между наборами. Ранее очередь считалась только по 407 уникальным именам игрового движка; теперь учитываются и отсутствующие в игре названия. Это не заявление о полноте всей франшизы или об игре всеми перечисленными картами.
+Сохранённые официальные списки содержат 1404 записей, включая повторы между наборами. Ранее очередь считалась только по 486 уникальным именам игрового движка; теперь учитываются и отсутствующие в игре названия. Это не заявление о полноте всей франшизы или об игре всеми перечисленными картами.
 
 Это учёт оригинальных генераций, а не сканов издателя. SVG Game-icons в этот счёт не входят. Одна иллюстрация используется для всех карт с одинаковым английским именем.
 
@@ -26,15 +26,15 @@
 | Дикий топор | Unnatural Axe | axe | [v1](../../public/assets/illustrations/axe-v1.jpg) | [PNG](../../reference/art/originals/axe-v1.png) |
 | Рогатый шлем | Horny Helmet | base | [v1](../../public/assets/illustrations/helmet-v1.jpg) | [PNG](../../reference/art/originals/helmet-v1.png) |
 | Башмаки могучего пенделя | Boots of Butt-Kicking | base | [v1](../../public/assets/illustrations/boots-v1.jpg) | [PNG](../../reference/art/originals/boots-v1.png) |
-| Воин | Warrior | base, munchkin-4-the-need-for-steed, munchkin-marked-for-death, munchkin-9-jurassic-snark | [v1](../../public/assets/illustrations/warrior-v1.jpg) | [PNG](../../reference/art/originals/warrior-v1.png) |
-| Волшебник | Wizard | base, munchkin-4-the-need-for-steed, munchkin-9-jurassic-snark | [v1](../../public/assets/illustrations/wizard-v1.jpg) | [PNG](../../reference/art/originals/wizard-v1.png) |
-| Клирик | Cleric | base, munchkin-4-the-need-for-steed, munchkin-9-jurassic-snark | [v1](../../public/assets/illustrations/cleric-class-v1.jpg) | [PNG](../../reference/art/originals/cleric-class-v1.png) |
-| Вор | Thief | base, munchkin-4-the-need-for-steed, munchkin-9-jurassic-snark | [v1](../../public/assets/illustrations/thief-v1.jpg) | [PNG](../../reference/art/originals/thief-v1.png) |
+| Воин | Warrior | base, axe, munchkin-4-the-need-for-steed, munchkin-marked-for-death, munchkin-9-jurassic-snark | [v1](../../public/assets/illustrations/warrior-v1.jpg) | [PNG](../../reference/art/originals/warrior-v1.png) |
+| Волшебник | Wizard | base, axe, munchkin-4-the-need-for-steed, munchkin-9-jurassic-snark | [v1](../../public/assets/illustrations/wizard-v1.jpg) | [PNG](../../reference/art/originals/wizard-v1.png) |
+| Клирик | Cleric | base, axe, munchkin-4-the-need-for-steed, munchkin-9-jurassic-snark | [v1](../../public/assets/illustrations/cleric-class-v1.jpg) | [PNG](../../reference/art/originals/cleric-class-v1.png) |
+| Вор | Thief | base, axe, munchkin-4-the-need-for-steed, munchkin-9-jurassic-snark | [v1](../../public/assets/illustrations/thief-v1.jpg) | [PNG](../../reference/art/originals/thief-v1.png) |
 | Бард | Bard | cleric, munchkin-4-the-need-for-steed, munchkin-9-jurassic-snark | [v1](../../public/assets/illustrations/bard-v1.jpg) | [PNG](../../reference/art/originals/bard-v1.png) |
-| Дварф | Dwarf | base, munchkin-4-the-need-for-steed, munchkin-5-de-ranged, munchkin-9-jurassic-snark | [v1](../../public/assets/illustrations/dwarf-v1.jpg) | [PNG](../../reference/art/originals/dwarf-v1.png) |
-| Эльф | Elf | base, munchkin-4-the-need-for-steed, munchkin-5-de-ranged, munchkin-marked-for-death, munchkin-9-jurassic-snark | [v1](../../public/assets/illustrations/elf-v1.jpg) | [PNG](../../reference/art/originals/elf-v1.png) |
+| Дварф | Dwarf | base, axe, munchkin-4-the-need-for-steed, munchkin-5-de-ranged, munchkin-9-jurassic-snark | [v1](../../public/assets/illustrations/dwarf-v1.jpg) | [PNG](../../reference/art/originals/dwarf-v1.png) |
+| Эльф | Elf | base, axe, munchkin-4-the-need-for-steed, munchkin-5-de-ranged, munchkin-marked-for-death, munchkin-9-jurassic-snark | [v1](../../public/assets/illustrations/elf-v1.jpg) | [PNG](../../reference/art/originals/elf-v1.png) |
 | Гном | Gnome | cleric, munchkin-4-the-need-for-steed, munchkin-5-de-ranged, munchkin-9-jurassic-snark | [v1](../../public/assets/illustrations/gnome-v1.jpg) | [PNG](../../reference/art/originals/gnome-v1.png) |
-| Хафлинг | Halfling | base, munchkin-4-the-need-for-steed, munchkin-5-de-ranged, munchkin-9-jurassic-snark | [v1](../../public/assets/illustrations/halfling-v1.jpg) | [PNG](../../reference/art/originals/halfling-v1.png) |
+| Хафлинг | Halfling | base, axe, munchkin-4-the-need-for-steed, munchkin-5-de-ranged, munchkin-9-jurassic-snark | [v1](../../public/assets/illustrations/halfling-v1.jpg) | [PNG](../../reference/art/originals/halfling-v1.png) |
 | Орк | Orc | axe, munchkin-4-the-need-for-steed, munchkin-5-de-ranged, munchkin-9-jurassic-snark | [v1](../../public/assets/illustrations/orc-v1.jpg) | [PNG](../../reference/art/originals/orc-v1.png) |
 | Драконий скакун | Dragon Steed | munchkin-4-the-need-for-steed | [v1](../../public/assets/illustrations/dragon-steed-v1.jpg) | [PNG](../../reference/art/originals/dragon-steed-v1.png) |
 | Биполярный медведь | Bipolar Bear | munchkin-4-the-need-for-steed | [v1](../../public/assets/illustrations/bipolar-bear-v1.jpg) | [PNG](../../reference/art/originals/bipolar-bear-v1.png) |
@@ -54,8 +54,8 @@
 | Проклятие! Потеря уровня | Lose a Level | base | [v1](../../public/assets/illustrations/curse-v1.jpg) | [PNG](../../reference/art/originals/curse-v1.png) |
 | Получи уровень | Go Up a Level | munchkin-gets-promoted-2, base | [v1](../../public/assets/illustrations/level-v1.jpg) | [PNG](../../reference/art/originals/level-v1.png) |
 | Зелье идиотской храбрости | Potion of Idiotic Bravery | base | [v1](../../public/assets/illustrations/potion-v1.jpg) | [PNG](../../reference/art/originals/potion-v1.png) |
-| Суперманчкин | Super Munchkin | base, munchkin-4-the-need-for-steed, munchkin-5-de-ranged, munchkin-7-cheat-with-both-hands, munchkin-8-half-horse-will-travel, munchkin-9-jurassic-snark | [v1](../../public/assets/illustrations/super-munchkin-v1.jpg) | [PNG](../../reference/art/originals/super-munchkin-v1.png) |
-| Полукровка | Half-Breed | base, munchkin-4-the-need-for-steed, munchkin-5-de-ranged, munchkin-7-cheat-with-both-hands, munchkin-8-half-horse-will-travel, munchkin-9-jurassic-snark | [v1](../../public/assets/illustrations/half-breed-v1.jpg) | [PNG](../../reference/art/originals/half-breed-v1.png) |
+| Суперманчкин | Super Munchkin | base, axe, munchkin-4-the-need-for-steed, munchkin-5-de-ranged, munchkin-7-cheat-with-both-hands, munchkin-8-half-horse-will-travel, munchkin-9-jurassic-snark | [v1](../../public/assets/illustrations/super-munchkin-v1.jpg) | [PNG](../../reference/art/originals/super-munchkin-v1.png) |
+| Полукровка | Half-Breed | base, axe, munchkin-4-the-need-for-steed, munchkin-5-de-ranged, munchkin-7-cheat-with-both-hands, munchkin-8-half-horse-will-travel, munchkin-9-jurassic-snark | [v1](../../public/assets/illustrations/half-breed-v1.jpg) | [PNG](../../reference/art/originals/half-breed-v1.png) |
 | Бродячая тварь | Wandering Monster | base, axe, cleric, munchkin-4-the-need-for-steed, munchkin-5-de-ranged, munchkin-7-cheat-with-both-hands, munchkin-9-jurassic-snark, munchkin-something-fishy | [v1](../../public/assets/illustrations/wandering-base-v1.jpg) | [PNG](../../reference/art/originals/wandering-base-v1.png) |
 | 3872 орка | 3,872 Orcs | base | [v1](../../public/assets/illustrations/base-orc-horde-v1.jpg) | [PNG](../../reference/art/originals/base-orc-horde-v1.png) |
 | Снежный человек | Bigfoot | base | [v1](../../public/assets/illustrations/base-bigfoot-v1.jpg) | [PNG](../../reference/art/originals/base-bigfoot-v1.png) |
@@ -91,7 +91,7 @@
 | Крыса с молотом | Maul Rat | base | [v1](../../public/assets/illustrations/base-maul-rat-v1.jpg) | [PNG](../../reference/art/originals/base-maul-rat-v1.png) |
 | Мистер Кости | Mr. Bones | base | [v1](../../public/assets/illustrations/base-mr-bones-v1.jpg) | [PNG](../../reference/art/originals/base-mr-bones-v1.png) |
 | Волшебная лампа | Magic Lamp | base | [v1](../../public/assets/illustrations/base-magic-lamp-v1.jpg) | [PNG](../../reference/art/originals/base-magic-lamp-v1.png) |
-| Заряженный кубик | Loaded Die | base, munchkin-4-the-need-for-steed, munchkin-5-de-ranged, munchkin-7-cheat-with-both-hands, munchkin-8-half-horse-will-travel, munchkin-9-jurassic-snark | [v1](../../public/assets/illustrations/base-loaded-die-v1.jpg) | [PNG](../../reference/art/originals/base-loaded-die-v1.png) |
+| Заряженный кубик | Loaded Die | base, axe, munchkin-4-the-need-for-steed, munchkin-5-de-ranged, munchkin-7-cheat-with-both-hands, munchkin-8-half-horse-will-travel, munchkin-9-jurassic-snark | [v1](../../public/assets/illustrations/base-loaded-die-v1.jpg) | [PNG](../../reference/art/originals/base-loaded-die-v1.png) |
 | Поющий и пляшущий меч | Singing & Dancing Sword | base | [v1](../../public/assets/illustrations/base-singing-dancing-sword-v1.jpg) | [PNG](../../reference/art/originals/base-singing-dancing-sword-v1.png) |
 | Питбуль | Pit Bull | base | [v1](../../public/assets/illustrations/base-art-pit-bull-v1.jpg) | [PNG](../../reference/art/originals/base-art-pit-bull-v1.png) |
 | Платикор | Platycore | base | [v1](../../public/assets/illustrations/base-art-platycore-v1.jpg) | [PNG](../../reference/art/originals/base-art-platycore-v1.png) |
@@ -140,7 +140,7 @@
 | Сонное зелье | Sleep Potion | base | [v1](../../public/assets/illustrations/base-art-sleep-potion-v1.jpg) | [PNG](../../reference/art/originals/base-art-sleep-potion-v1.png) |
 | Зелье передачи | Transferral Potion | base | [v1](../../public/assets/illustrations/base-art-transferral-potion-v1.jpg) | [PNG](../../reference/art/originals/base-art-transferral-potion-v1.png) |
 | Эльфийская водичка | Yuppie Water | base | [v1](../../public/assets/illustrations/base-art-yuppie-water-v1.jpg) | [PNG](../../reference/art/originals/base-art-yuppie-water-v1.png) |
-| Кольцо желания | Wishing Ring | base, munchkin-4-the-need-for-steed, munchkin-5-de-ranged, munchkin-8-half-horse-will-travel, munchkin-9-jurassic-snark | [v1](../../public/assets/illustrations/base-art-wishing-ring-v1.jpg) | [PNG](../../reference/art/originals/base-art-wishing-ring-v1.png) |
+| Кольцо желания | Wishing Ring | base, axe, munchkin-4-the-need-for-steed, munchkin-5-de-ranged, munchkin-8-half-horse-will-travel, munchkin-9-jurassic-snark | [v1](../../public/assets/illustrations/base-art-wishing-ring-v1.jpg) | [PNG](../../reference/art/originals/base-art-wishing-ring-v1.png) |
 | Лозоходная палочка | Wand of Dowsing | base | [v1](../../public/assets/illustrations/base-art-wand-of-dowsing-v1.jpg) | [PNG](../../reference/art/originals/base-art-wand-of-dowsing-v1.png) |
 | Древний | Ancient | base | [v1](../../public/assets/illustrations/base-art-ancient-v1.jpg) | [PNG](../../reference/art/originals/base-art-ancient-v1.png) |
 | Маленький | Baby | base | [v1](../../public/assets/illustrations/base-art-baby-v1.jpg) | [PNG](../../reference/art/originals/base-art-baby-v1.png) |
@@ -151,7 +151,7 @@
 | Двойник | Doppleganger | base | [v1](../../public/assets/illustrations/base-art-doppleganger-v1.jpg) | [PNG](../../reference/art/originals/base-art-doppleganger-v1.png) |
 | Иллюзия | Illusion | base | [v1](../../public/assets/illustrations/base-art-illusion-v1.jpg) | [PNG](../../reference/art/originals/base-art-illusion-v1.png) |
 | Божественное вмешательство | Divine Intervention | base | [v1](../../public/assets/illustrations/base-art-divine-intervention-v1.jpg) | [PNG](../../reference/art/originals/base-art-divine-intervention-v1.png) |
-| Чит! | Cheat! | base, munchkin-4-the-need-for-steed, munchkin-5-de-ranged, munchkin-7-cheat-with-both-hands, munchkin-8-half-horse-will-travel, munchkin-marked-for-death, munchkin-cheats, munchkin-9-jurassic-snark, munchkin-something-fishy | [v1](../../public/assets/illustrations/base-art-cheat-v1.jpg) | [PNG](../../reference/art/originals/base-art-cheat-v1.png) |
+| Чит! | Cheat! | base, axe, munchkin-4-the-need-for-steed, munchkin-5-de-ranged, munchkin-7-cheat-with-both-hands, munchkin-8-half-horse-will-travel, munchkin-marked-for-death, munchkin-cheats, munchkin-9-jurassic-snark, munchkin-something-fishy | [v1](../../public/assets/illustrations/base-art-cheat-v1.jpg) | [PNG](../../reference/art/originals/base-art-cheat-v1.png) |
 | Помоги чем можешь! | Help Me Out Here! | base | [v1](../../public/assets/illustrations/base-art-help-me-out-here-v1.jpg) | [PNG](../../reference/art/originals/base-art-help-me-out-here-v1.png) |
 | Наёмничек | Hireling | base | [v1](../../public/assets/illustrations/base-art-hireling-v1.jpg) | [PNG](../../reference/art/originals/base-art-hireling-v1.png) |
 | Клад! | Hoard! | base | [v1](../../public/assets/illustrations/base-art-hoard-v1.jpg) | [PNG](../../reference/art/originals/base-art-hoard-v1.png) |
@@ -173,8 +173,8 @@
 | Проклятие! Курица на голове | Curse! Chicken on Your Head | base | [v1](../../public/assets/illustrations/base-art-curse-chicken-on-your-head-v1.jpg) | [PNG](../../reference/art/originals/base-art-curse-chicken-on-your-head-v1.png) |
 | Проклятие! Утка рока | Curse! Duck of Doom | base | [v1](../../public/assets/illustrations/base-art-curse-duck-of-doom-v1.jpg) | [PNG](../../reference/art/originals/base-art-curse-duck-of-doom-v1.png) |
 | Проклятие! Подоходный налог | Curse! Income Tax | base | [v1](../../public/assets/illustrations/base-art-curse-income-tax-v1.jpg) | [PNG](../../reference/art/originals/base-art-curse-income-tax-v1.png) |
-| Проклятие! Потеря большой шмотки | Curse! Lose a Big Item | base | [v1](../../public/assets/illustrations/base-art-curse-lose-a-big-item-v1.jpg) | [PNG](../../reference/art/originals/base-art-curse-lose-a-big-item-v1.png) |
-| Проклятие! Потеря мелкой шмотки | Curse! Lose a Small Item | base | [v1](../../public/assets/illustrations/base-art-curse-lose-a-small-item-v1.jpg) | [PNG](../../reference/art/originals/base-art-curse-lose-a-small-item-v1.png) |
+| Проклятие! Потеря большой шмотки | Curse! Lose a Big Item | base, axe | [v1](../../public/assets/illustrations/base-art-curse-lose-a-big-item-v1.jpg) | [PNG](../../reference/art/originals/base-art-curse-lose-a-big-item-v1.png) |
+| Проклятие! Потеря мелкой шмотки | Curse! Lose a Small Item | base, axe | [v1](../../public/assets/illustrations/base-art-curse-lose-a-small-item-v1.jpg) | [PNG](../../reference/art/originals/base-art-curse-lose-a-small-item-v1.png) |
 | Проклятие! Потеря броника | Curse! Lose the Armor You Are Wearing | base | [v1](../../public/assets/illustrations/base-art-curse-lose-the-armor-you-are-wearing-v1.jpg) | [PNG](../../reference/art/originals/base-art-curse-lose-the-armor-you-are-wearing-v1.png) |
 | Проклятие! Потеря обувки | Curse! Lose the Footgear You Are Wearing | base | [v1](../../public/assets/illustrations/base-art-curse-lose-the-footgear-you-are-wearing-v1.jpg) | [PNG](../../reference/art/originals/base-art-curse-lose-the-footgear-you-are-wearing-v1.png) |
 | Проклятие! Потеря головняка | Curse! Lose the Headgear You Are Wearing | base | [v1](../../public/assets/illustrations/base-art-curse-lose-the-headgear-you-are-wearing-v1.jpg) | [PNG](../../reference/art/originals/base-art-curse-lose-the-headgear-you-are-wearing-v1.png) |
@@ -183,6 +183,87 @@
 | Проклятие! Потеря расы | Curse! Lose Your Race | base | [v1](../../public/assets/illustrations/base-art-curse-lose-your-race-v1.jpg) | [PNG](../../reference/art/originals/base-art-curse-lose-your-race-v1.png) |
 | Проклятие! Коварное зеркало | Curse! Malign Mirror | base | [v1](../../public/assets/illustrations/base-art-curse-malign-mirror-v1.jpg) | [PNG](../../reference/art/originals/base-art-curse-malign-mirror-v1.png) |
 | Неприлично страшное проклятие! | Truly Obnoxious Curse! | base | [v1](../../public/assets/illustrations/base-art-truly-obnoxious-curse-v1.jpg) | [PNG](../../reference/art/originals/base-art-truly-obnoxious-curse-v1.png) |
+| Девушка-кошка | Cat Girl | axe | [v1](../../public/assets/illustrations/axe-art-cat-girl-v1.jpg) | [PNG](../../reference/art/originals/axe-art-cat-girl-v1.png) |
+| Ползучая рука | Crawling Hand | axe | [v1](../../public/assets/illustrations/axe-art-crawling-hand-v1.jpg) | [PNG](../../reference/art/originals/axe-art-crawling-hand-v1.png) |
+| Морозный великан | Frost Giant | axe | [v1](../../public/assets/illustrations/axe-art-frost-giant-v1.jpg) | [PNG](../../reference/art/originals/axe-art-frost-giant-v1.png) |
+| Гриб | Fungus | axe | [v1](../../public/assets/illustrations/axe-art-fungus-v1.jpg) | [PNG](../../reference/art/originals/axe-art-fungus-v1.png) |
+| Гигантский таракан | Giant Cockroach | axe | [v1](../../public/assets/illustrations/axe-art-giant-cockroach-v1.jpg) | [PNG](../../reference/art/originals/axe-art-giant-cockroach-v1.png) |
+| Гигантский скунс | Giant Skunk | axe | [v1](../../public/assets/illustrations/axe-art-giant-skunk-v1.jpg) | [PNG](../../reference/art/originals/axe-art-giant-skunk-v1.png) |
+| Бармаглот | Jabberwock | axe | [v1](../../public/assets/illustrations/axe-art-jabberwock-v1.jpg) | [PNG](../../reference/art/originals/axe-art-jabberwock-v1.png) |
+| Судья Фредд | Judge Fredd | axe | [v1](../../public/assets/illustrations/axe-art-judge-fredd-v1.jpg) | [PNG](../../reference/art/originals/axe-art-judge-fredd-v1.png) |
+| Пустой костюм | M.T. Suit | axe | [v1](../../public/assets/illustrations/axe-art-mt-suit-v1.jpg) | [PNG](../../reference/art/originals/axe-art-mt-suit-v1.png) |
+| Похотливый монстр | Lust Monster | axe | [v1](../../public/assets/illustrations/axe-art-lust-monster-v1.jpg) | [PNG](../../reference/art/originals/axe-art-lust-monster-v1.png) |
+| Монстр, которого придумал мастер | Monster The GM Made Up Himself | axe | [v1](../../public/assets/illustrations/axe-art-gm-monster-v1.jpg) | [PNG](../../reference/art/originals/axe-art-gm-monster-v1.png) |
+| Лунные девы | Moon Maidens | axe | [v1](../../public/assets/illustrations/axe-art-moon-maidens-v1.jpg) | [PNG](../../reference/art/originals/axe-art-moon-maidens-v1.png) |
+| Пиньята | Piñata | axe | [v1](../../public/assets/illustrations/axe-art-pinata-v1.jpg) | [PNG](../../reference/art/originals/axe-art-pinata-v1.png) |
+| Чумные крысы | Plague Rats | axe | [v1](../../public/assets/illustrations/axe-art-plague-rats-v1.jpg) | [PNG](../../reference/art/originals/axe-art-plague-rats-v1.png) |
+| Психованный белк | Psycho Squirrel | axe | [v1](../../public/assets/illustrations/axe-art-psycho-squirrel-v1.jpg) | [PNG](../../reference/art/originals/axe-art-psycho-squirrel-v1.png) |
+| Птеродактиль | Pterodactyl | axe | [v1](../../public/assets/illustrations/axe-art-pterodactyl-v1.jpg) | [PNG](../../reference/art/originals/axe-art-pterodactyl-v1.png) |
+| Санта | Santa | axe | [v1](../../public/assets/illustrations/axe-art-santa-v1.jpg) | [PNG](../../reference/art/originals/axe-art-santa-v1.png) |
+| Страшные клоуны | Scary Clowns | axe | [v1](../../public/assets/illustrations/axe-art-scary-clowns-v1.jpg) | [PNG](../../reference/art/originals/axe-art-scary-clowns-v1.png) |
+| Сопливый элементаль | Snot Elemental | axe | [v1](../../public/assets/illustrations/axe-art-snot-elemental-v1.jpg) | [PNG](../../reference/art/originals/axe-art-snot-elemental-v1.png) |
+| Могучий микроб | The Mighty Germ | axe | [v1](../../public/assets/illustrations/axe-art-mighty-germ-v1.jpg) | [PNG](../../reference/art/originals/axe-art-mighty-germ-v1.png) |
+| Тень Летающего носа | The Shadow Nose | axe | [v1](../../public/assets/illustrations/axe-art-shadow-nose-v1.jpg) | [PNG](../../reference/art/originals/axe-art-shadow-nose-v1.png) |
+| Нечто с названием, которому не хватило места | Thing With A Name So Long There's No Room For A Picture On the Card | axe | [v1](../../public/assets/illustrations/axe-art-long-name-thing-v1.jpg) | [PNG](../../reference/art/originals/axe-art-long-name-thing-v1.png) |
+| Черепаха-оборотень | Were-Turtle | axe | [v1](../../public/assets/illustrations/axe-art-were-turtle-v1.jpg) | [PNG](../../reference/art/originals/axe-art-were-turtle-v1.png) |
+| Странно выглядящий меч | Funny-Looking Sword | axe | [v1](../../public/assets/illustrations/axe-art-funny-looking-sword-v1.jpg) | [PNG](../../reference/art/originals/axe-art-funny-looking-sword-v1.png) |
+| Слизнемёт | Slug Thrower | axe | [v1](../../public/assets/illustrations/axe-art-slug-thrower-v1.jpg) | [PNG](../../reference/art/originals/axe-art-slug-thrower-v1.png) |
+| Пинцет ужаса | Tweezers of Terror | axe | [v1](../../public/assets/illustrations/axe-art-tweezers-terror-v1.jpg) | [PNG](../../reference/art/originals/axe-art-tweezers-terror-v1.png) |
+| Черепной шлем | Skull Helmet | axe | [v1](../../public/assets/illustrations/axe-art-skull-helmet-v1.jpg) | [PNG](../../reference/art/originals/axe-art-skull-helmet-v1.png) |
+| Меч убийства всего, кроме кальмаров | Sword of Slaying Everything Except Squid | axe | [v2](../../public/assets/illustrations/axe-art-sword-except-squid-v2.jpg) | [PNG](../../reference/art/originals/axe-art-sword-except-squid-v2.png) |
+| Жуткие вставные зубы | Scary False Teeth | axe | [v1](../../public/assets/illustrations/axe-art-false-teeth-v1.jpg) | [PNG](../../reference/art/originals/axe-art-false-teeth-v1.png) |
+| Фамильяр | Familiar | axe | [v1](../../public/assets/illustrations/axe-art-familiar-v1.jpg) | [PNG](../../reference/art/originals/axe-art-familiar-v1.png) |
+| Дождевик | Raincoat | axe | [v1](../../public/assets/illustrations/axe-art-raincoat-v1.jpg) | [PNG](../../reference/art/originals/axe-art-raincoat-v1.png) |
+| Рыцарский фонарик | Knight Light | axe | [v1](../../public/assets/illustrations/axe-art-knight-light-v1.jpg) | [PNG](../../reference/art/originals/axe-art-knight-light-v1.png) |
+| Фальшивая борода | Fake Beard | axe | [v1](../../public/assets/illustrations/axe-art-fake-beard-v1.jpg) | [PNG](../../reference/art/originals/axe-art-fake-beard-v1.png) |
+| Мешок с шипами | Bag of Caltrops | axe | [v1](../../public/assets/illustrations/axe-art-caltrops-v1.jpg) | [PNG](../../reference/art/originals/axe-art-caltrops-v1.png) |
+| Вилка для барбекю | Barbecue Fork | axe | [v1](../../public/assets/illustrations/axe-art-barbecue-fork-v1.jpg) | [PNG](../../reference/art/originals/axe-art-barbecue-fork-v1.png) |
+| Кувалда святого Фу-у-у | Blessed Mallet of St. Eeeeeeuuuuuuuuw | axe | [v1](../../public/assets/illustrations/axe-art-holy-mallet-v1.jpg) | [PNG](../../reference/art/originals/axe-art-holy-mallet-v1.png) |
+| Бумеранг-кинжал | Boomdagger | axe | [v1](../../public/assets/illustrations/axe-art-boomdagger-v1.jpg) | [PNG](../../reference/art/originals/axe-art-boomdagger-v1.png) |
+| Симпатичный плечевой дракончик | Cute Shoulder Dragon | axe | [v1](../../public/assets/illustrations/axe-art-shoulder-dragon-v1.jpg) | [PNG](../../reference/art/originals/axe-art-shoulder-dragon-v1.png) |
+| Шлем бокового обзора | Helm of Peripheral Vision | axe | [v1](../../public/assets/illustrations/axe-art-peripheral-helm-v1.jpg) | [PNG](../../reference/art/originals/axe-art-peripheral-helm-v1.png) |
+| Газонный каток | Lawn Roller | axe | [v1](../../public/assets/illustrations/axe-art-lawn-roller-v1.jpg) | [PNG](../../reference/art/originals/axe-art-lawn-roller-v1.png) |
+| Шипастый гульфик | Spiked Codpiece | axe | [v1](../../public/assets/illustrations/axe-art-spiked-codpiece-v1.jpg) | [PNG](../../reference/art/originals/axe-art-spiked-codpiece-v1.png) |
+| Многорук | Coat of Arms | axe | [v1](../../public/assets/illustrations/axe-art-coat-arms-v1.jpg) | [PNG](../../reference/art/originals/axe-art-coat-arms-v1.png) |
+| Осадная машина | Siege Engine | axe | [v1](../../public/assets/illustrations/axe-art-siege-engine-v1.jpg) | [PNG](../../reference/art/originals/axe-art-siege-engine-v1.png) |
+| Шапочка из фольги | Tinfoil Hat | axe | [v1](../../public/assets/illustrations/axe-art-tinfoil-hat-v1.jpg) | [PNG](../../reference/art/originals/axe-art-tinfoil-hat-v1.png) |
+| Очень святая книга | Very Holy Book | axe | [v1](../../public/assets/illustrations/axe-art-holy-book-v1.jpg) | [PNG](../../reference/art/originals/axe-art-holy-book-v1.png) |
+| Зелье полёта | Potion of Flight | axe | [v1](../../public/assets/illustrations/axe-art-potion-flight-v1.jpg) | [PNG](../../reference/art/originals/axe-art-potion-flight-v1.png) |
+| Друидская смесь | Druid Fluid | axe | [v1](../../public/assets/illustrations/axe-art-druid-fluid-v1.jpg) | [PNG](../../reference/art/originals/axe-art-druid-fluid-v1.png) |
+| Лемминговый сок | Lemming Juice | axe | [v1](../../public/assets/illustrations/axe-art-lemming-juice-v1.jpg) | [PNG](../../reference/art/originals/axe-art-lemming-juice-v1.png) |
+| Детское масло | Baby Oil | axe | [v1](../../public/assets/illustrations/axe-art-baby-oil-v1.jpg) | [PNG](../../reference/art/originals/axe-art-baby-oil-v1.png) |
+| А у тебя шнурок развязался! | Your Shoe's Untied! | axe | [v1](../../public/assets/illustrations/axe-art-untied-shoe-v1.jpg) | [PNG](../../reference/art/originals/axe-art-untied-shoe-v1.png) |
+| Найди карту | Find A Map | axe | [v1](../../public/assets/illustrations/axe-art-find-map-v1.jpg) | [PNG](../../reference/art/originals/axe-art-find-map-v1.png) |
+| Распродажа | Garage Sale | axe | [v1](../../public/assets/illustrations/axe-art-garage-sale-v1.jpg) | [PNG](../../reference/art/originals/axe-art-garage-sale-v1.png) |
+| …Ужаса! | . . . of Doom! | axe | [v1](../../public/assets/illustrations/axe-art-of-doom-v1.jpg) | [PNG](../../reference/art/originals/axe-art-of-doom-v1.png) |
+| Порошок зудения | Itching Powder | axe | [v1](../../public/assets/illustrations/axe-art-itching-powder-v1.jpg) | [PNG](../../reference/art/originals/axe-art-itching-powder-v1.png) |
+| Зелье трусости | Potion of Cowardice | axe | [v1](../../public/assets/illustrations/axe-art-cowardice-potion-v1.jpg) | [PNG](../../reference/art/originals/axe-art-cowardice-potion-v1.png) |
+| Зелье неверия | Potion of Disbelief | axe | [v1](../../public/assets/illustrations/axe-art-disbelief-potion-v1.jpg) | [PNG](../../reference/art/originals/axe-art-disbelief-potion-v1.png) |
+| Проклятие! Крошечные ручки | Curse! Tiny Hands | axe | [v1](../../public/assets/illustrations/axe-art-tiny-hands-v1.jpg) | [PNG](../../reference/art/originals/axe-art-tiny-hands-v1.png) |
+| Проклятие! Вонючка | Curse! B.O. | axe | [v1](../../public/assets/illustrations/axe-art-bo-curse-v1.jpg) | [PNG](../../reference/art/originals/axe-art-bo-curse-v1.png) |
+| Проклятие! Большие ноги | Curse! Big Feet | axe | [v1](../../public/assets/illustrations/axe-art-big-feet-v1.jpg) | [PNG](../../reference/art/originals/axe-art-big-feet-v1.png) |
+| Проклятие! Проклятая шмотка | Curse! Cursed Thingy | axe | [v1](../../public/assets/illustrations/axe-art-cursed-thingy-v1.jpg) | [PNG](../../reference/art/originals/axe-art-cursed-thingy-v1.png) |
+| Проклятие! Золото дураков | Curse! Fool's Gold | axe | [v1](../../public/assets/illustrations/axe-art-fools-gold-v1.jpg) | [PNG](../../reference/art/originals/axe-art-fools-gold-v1.png) |
+| Проклятие! Великодушие | Curse! Generosity | axe | [v1](../../public/assets/illustrations/axe-art-generosity-v1.jpg) | [PNG](../../reference/art/originals/axe-art-generosity-v1.png) |
+| Проклятие! Некрофобия | Curse! Necrophobia | axe | [v1](../../public/assets/illustrations/axe-art-necrophobia-v1.jpg) | [PNG](../../reference/art/originals/axe-art-necrophobia-v1.png) |
+| Проклятие! Новая редакция правил | Curse! New Edition Rules | axe | [v1](../../public/assets/illustrations/axe-art-new-edition-v1.jpg) | [PNG](../../reference/art/originals/axe-art-new-edition-v1.png) |
+| Созерцай свой пупок | Contemplate Your Navel (GUAL) | axe | [v1](../../public/assets/illustrations/axe-art-navel-v1.jpg) | [PNG](../../reference/art/originals/axe-art-navel-v1.png) |
+| Обещай мастеру больше не рассказывать о своём персонаже | Promise The GM You'll Stop Telling Him About Your Character (GUAL) | axe | [v1](../../public/assets/illustrations/axe-art-gm-promise-v1.jpg) | [PNG](../../reference/art/originals/axe-art-gm-promise-v1.png) |
+| Приплюсни, проткни и искалечь | Fold, Spindle, and Mutilate (GUAL) | axe | [v1](../../public/assets/illustrations/axe-art-fold-spindle-v1.jpg) | [PNG](../../reference/art/originals/axe-art-fold-spindle-v1.png) |
+| Заплати за пиццу | Pay For The Pizza (GUAL) | axe | [v1](../../public/assets/illustrations/axe-art-pizza-v1.jpg) | [PNG](../../reference/art/originals/axe-art-pizza-v1.png) |
+| Излишняя грубость | Unnecessary Roughness (GUAL) | axe | [v1](../../public/assets/illustrations/axe-art-roughness-v1.jpg) | [PNG](../../reference/art/originals/axe-art-roughness-v1.png) |
+| Помой машину мастера | Wash The GM's Car (GUAL) | axe | [v1](../../public/assets/illustrations/axe-art-wash-car-v1.jpg) | [PNG](../../reference/art/originals/axe-art-wash-car-v1.png) |
+| Подмени лист персонажа | Switch Character Sheets (GUAL) | axe | [v1](../../public/assets/illustrations/axe-art-switch-sheets-v1.jpg) | [PNG](../../reference/art/originals/axe-art-switch-sheets-v1.png) |
+| Троянский конь | Trojan Horse | axe | [v1](../../public/assets/illustrations/axe-art-trojan-v1.jpg) | [PNG](../../reference/art/originals/axe-art-trojan-v1.png) |
+| Аннигиляция | Annihilation | axe | [v1](../../public/assets/illustrations/axe-art-annihilation-v1.jpg) | [PNG](../../reference/art/originals/axe-art-annihilation-v1.png) |
+| Колода чересчур многих вещей | Deck Of Too Many Things | axe | [v1](../../public/assets/illustrations/axe-art-too-many-v1.jpg) | [PNG](../../reference/art/originals/axe-art-too-many-v1.png) |
+| Дружелюбный | Friendly | axe | [v1](../../public/assets/illustrations/axe-art-friendly-v1.jpg) | [PNG](../../reference/art/originals/axe-art-friendly-v1.png) |
+| Выводок | Brood | axe | [v1](../../public/assets/illustrations/axe-art-brood-v1.jpg) | [PNG](../../reference/art/originals/axe-art-brood-v1.png) |
+| Спящий | Sleeping | axe | [v1](../../public/assets/illustrations/axe-art-sleeping-v1.jpg) | [PNG](../../reference/art/originals/axe-art-sleeping-v1.png) |
+| Нежить | Undead | axe, munchkin-7-cheat-with-both-hands | [v1](../../public/assets/illustrations/axe-art-undead-v1.jpg) | [PNG](../../reference/art/originals/axe-art-undead-v1.png) |
+| Сдох | Dead | axe | [v1](../../public/assets/illustrations/axe-art-dead-v1.jpg) | [PNG](../../reference/art/originals/axe-art-dead-v1.png) |
+| Без гроша | Dead Broke | axe | [v1](../../public/assets/illustrations/axe-art-dead-broke-v1.jpg) | [PNG](../../reference/art/originals/axe-art-dead-broke-v1.png) |
+| Мамочка | Mommy | axe | [v1](../../public/assets/illustrations/axe-art-mommy-v1.jpg) | [PNG](../../reference/art/originals/axe-art-mommy-v1.png) |
 
 ## Прогресс по наборам
 
@@ -191,11 +272,11 @@
 | Набор с готовыми рисунками | Готово | Осталось | Область учёта |
 | --- | --- | --- | --- |
 | Классический | 147 | 0 | список издателя |
-| Дикий топор | 7 | 2 | локальная подборка |
+| Дикий топор | 102 | 0 | локальная подборка |
 | Клирические ошибки | 6 | 2 | локальная подборка |
 | Манчкин 4 · Тяга к коняге | 18 | 93 | список издателя |
 | Манчкин 5 · Следопуты | 11 | 94 | список издателя |
-| Манчкин 7 · Двуручный чит | 5 | 76 | список издателя |
+| Манчкин 7 · Двуручный чит | 6 | 75 | список издателя |
 | Манчкин 8 · В хвост и в гриву | 5 | 88 | список издателя |
 | Манчкин 9 · Юрский стёб | 17 | 92 | список издателя |
 | Penny Arcade | 1 | 14 | список издателя |
@@ -219,11 +300,12 @@
 - [prompts.json](prompts.json): исходные записи генераций; [runtime mapping](../../public/generated-card-art.js) определяет активный рисунок в игре.
 - Полный визуальный альбом базы: public/base-art.html (на localhost:4387/base-art.html). Он показывает и иллюстрации для ещё не импортированных игровых карт; счётчик относится ко всем 147 уникальным названиям.
 
-Все 171 оригинальных PNG сохранены внутри проекта. Абсолютные пути в sourceCachePath оставлены для истории: наличие кеша Codex для продолжения не требуется.
+Все 252 оригинальных PNG сохранены внутри проекта. Абсолютные пути в sourceCachePath оставлены для истории: наличие кеша Codex для продолжения не требуется.
 
-Архив дополнительных вариантов: 2. Они не включаются в готовые рисунки или игровую привязку; промпты, причины отклонения и SHA-256 находятся в variants реестра и prompts.json.
+Архив дополнительных вариантов: 3. Они не включаются в готовые рисунки или игровую привязку; промпты, причины отклонения и SHA-256 находятся в variants реестра и prompts.json.
 - Непутёвый гоблин: Лишняя третья рука у персонажа. [PNG](../../reference/art/originals/base-lame-goblin-v1.png)
 - Непутёвый гоблин: Обе оставшиеся руки присоединены с одной стороны, противоположный рукав пустой. [PNG](../../reference/art/originals/base-lame-goblin-fixed-v1.png)
+- Меч убийства всего, кроме кальмаров: Раздвоенный клинок заменён цельным по просьбе пользователя. [PNG](../../reference/art/originals/axe-art-sword-except-squid-v1.png)
 
 ## Порядок следующей серии
 

@@ -1,7 +1,7 @@
 import test from 'node:test';import assert from 'node:assert/strict';
 import {CARDS,makeGame,startCombat,useAbility,abilityOptions,canWin,combatStrength,power,win,endTurn,discard,draw,equip,gearLayout,runAwayInteractive,runAway,upgradeSave,beginReactions,passReaction,interfereWithPotion} from '../public/engine.js';
 let uid=900000;const card=en=>{const c=CARDS.find(c=>c.en===en);assert.ok(c,`Missing ${en}`);return {...c,uid:uid++}};
-const gmake=()=>{const g=makeGame(['A','B','C'],['base','axe','cleric'],'hotseat');delete g.pendingDivine;g.discards={doors:[],treasures:[]};g.treasures=g.treasures.filter(c=>!c.immediate);return g};
+const gmake=()=>{const g=makeGame(['A','B','C'],['base','axe','cleric'],'hotseat');delete g.pendingDivine;g.discards={doors:[],treasures:[]};g.treasures=g.treasures.filter(c=>!c.immediate);g.players.forEach(p=>p.hand=[]);return g};
 const identity=(g,en,i=0)=>g.players[i].equipment.push(card(en));
 const pay=(g,i=0)=>{const c=card('1,000 Gold Pieces (GUAL)');g.players[i].hand.push(c);return c.uid};
 test('every identity in the catalog has a working description and no decorative placeholder',()=>{const identities=CARDS.filter(c=>['class','race'].includes(c.type));assert.equal(new Set(identities.map(c=>c.en)).size,15);assert.ok(identities.every(c=>c.desc&&!c.desc.includes('не действует')))});

@@ -1,0 +1,11 @@
+{
+  "id": "axe-art-gm-monster",
+  "en": "Monster The GM Made Up Himself",
+  "name": "Монстр, которого придумал мастер",
+  "alt": "Нелепый зелёный монстр собран из несовместимых частей и гордится собой.",
+  "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment. Saturated colors, simple chunky forms, strong readable silhouette, minimal scenery, one visual joke. Large centered subject with comfortable margins. No text, letters, numbers, logos, watermark, card frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: A ridiculous homemade fantasy monster: one pear-shaped lime green scaly body, one duck head with orange beak, exactly two short purple tentacle arms and two mismatched legs, one chicken foot and one chunky furry bear foot, a single tiny butterfly wing attached to its back. It proudly poses on a little wooden pedestal, an unfinished pencil sketch lies under one foot, sketch contains only abstract shapes no letters. Coherent readable anatomy of a deliberately silly chimera.",
+  "file": "assets/illustrations/axe-art-gm-monster-v1.jpg",
+  "date": "2026-10-29",
+  "status": "generated",
+  "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-39912c56-c5bd-41d7-82cf-85a50fb04fba.png"
+}

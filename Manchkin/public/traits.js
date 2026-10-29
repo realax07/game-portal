@@ -8,9 +8,11 @@ export function has(p,en){
  return p.equipment.some(c=>c.en===en||c.id===en.toLowerCase());
 }
 export const handLimit=p=>has(p,'Dwarf')?6:5;
-export const emptyHands=p=>Math.max(0,2-p.equipment.filter(c=>c.slot==='hand'&&!c.cheatCard&&!(c.hirelingUid&&p.equipment.some(h=>h.uid===c.hirelingUid))).reduce((n,c)=>n+(c.hands||1),0));
+export const handCapacity=p=>2+p.equipment.reduce((n,c)=>n+(!c.cursedThingy?c.extraHands||0:0),0);
+export function normalizeHands(p){let used=0;const lost=[];p.equipment=p.equipment.filter(c=>{if(c.slot!=='hand'||c.cheatCard||c.hirelingUid)return true;used+=c.hands??1;if(used<=handCapacity(p)||c.cursedThingy)return true;lost.push(c);return false});p.hand.push(...lost);return lost}
+export const emptyHands=p=>Math.max(0,handCapacity(p)-p.equipment.filter(c=>c.slot==='hand'&&!c.cheatCard&&!(c.hirelingUid&&p.equipment.some(h=>h.uid===c.hirelingUid))).reduce((n,c)=>n+(c.hands||1),0));
 export const traitBonus=p=>has(p,'Gnome')?p.equipment.filter(c=>c.type==='item'&&/^[gn]/i.test(c.en||'')).length:0;
-export const escapeBonus=(p,m)=>(m.escapeModifier||0)+p.equipment.reduce((n,c)=>n+(c.runAway||0),0)+(has(p,'Elf')?1:0)+(has(p,'Lizard Guy')?(m.power>=16?2:m.power>=10?1:0):0);
+export const escapeBonus=(p,m)=>(m.escapeModifier||0)+p.equipment.reduce((n,c)=>n+(!c.cursedThingy?c.runAway||0:0),0)+(has(p,'Elf')?1:0)+(has(p,'Lizard Guy')?(m.power>=16?2:m.power>=10?1:0):0);
 export const TRAITS={
  Warrior:'В ничьей побеждает сторона воина. Ярость: сбрось до 3 карт за бой, каждая даёт +1.',
  Cleric:'Против нежити: до 3 сбросов за бой, каждый даёт +3. Воскрешение: вместо открытой двери возьми верхнюю карту сброса дверей, заплатив картой из руки.',

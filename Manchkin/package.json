@@ -11,6 +11,8 @@
     "cards:check": "node scripts/gameplay-audit.mjs --check",
     "art:sync": "node scripts/art-inventory.mjs",
     "art:check": "node scripts/art-inventory.mjs --check",
-    "art:import": "node scripts/import-art-batch.mjs"
+    "art:import": "node scripts/import-art-batch.mjs",
+    "cards:axe": "node scripts/axe-audit.mjs",
+    "cards:axe:check": "node scripts/axe-audit.mjs --check"
   }
 }

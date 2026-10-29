@@ -1,0 +1,11 @@
+{
+  "id": "axe-art-long-name-thing",
+  "en": "Thing With A Name So Long There's No Room For A Picture On the Card",
+  "name": "Нечто с названием, которому не хватило места",
+  "alt": "Огромное мохнатое нечто прячется за бесконечно длинным пустым свитком.",
+  "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms and strong silhouette. Large centered subject, comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, border or card frame. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: A giant shaggy rust-orange fantasy creature almost entirely concealed behind a ridiculous extremely long rolled parchment scroll piled in looping folds. Only two enormous startled eyes peeking above the top, two furry hands gripping its side edges and two big furry feet beneath it are visible. The scroll is COMPLETELY BLANK with no writing, no symbols, no marks. Clear centered funny silhouette, visual joke about paperwork leaving no room for a monster, no frame.",
+  "file": "assets/illustrations/axe-art-long-name-thing-v1.jpg",
+  "date": "2026-10-29",
+  "status": "generated",
+  "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-a26fd1c6-4c40-487e-8b93-13f77ffbe91e.png"
+}

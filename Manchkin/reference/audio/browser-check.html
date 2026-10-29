@@ -1,0 +1,19 @@
+<!doctype html><html lang="ru"><meta charset="utf-8"><title>Проверка звука</title><style>body{font:16px monospace;background:#211b28;color:#eedfc6;padding:30px}button{font:inherit;padding:14px}pre{white-space:pre-wrap}</style><button id="run">Проверить аудиодвижок</button><pre id="result">Ожидает запуска</pre><script type="module">
+import {createTavernAudio} from '/tavern-audio.js';
+const out=document.querySelector('#result'),wait=ms=>new Promise(r=>setTimeout(r,ms));
+document.querySelector('#run').onclick=async()=>{
+ const lines=[],ok=(v,label)=>{if(!v)throw Error(label);lines.push('PASS '+label);out.textContent=lines.join('\n')};let audio;
+ try{
+  let contexts=0;const ctx=new AudioContext(),analyser=ctx.createAnalyser(),silent=ctx.createGain();silent.gain.value=0;analyser.fftSize=2048;analyser.connect(silent);silent.connect(ctx.destination);
+  const rms=()=>{const d=new Float32Array(analyser.fftSize);analyser.getFloatTimeDomainData(d);return Math.sqrt(d.reduce((s,v)=>s+v*v,0)/d.length)};
+  audio=createTavernAudio({storage:{getItem:()=>null,setItem(){}},contextFactory:()=>{contexts++;return new Proxy(ctx,{get(target,key){if(key==='destination')return analyser;const v=target[key];return typeof v==='function'?v.bind(target):v}})}});
+  audio.set({enabled:true,master:.65,music:1,ambient:0,effects:0});await Promise.all([audio.unlock(),audio.unlock(),audio.unlock()]);ok(ctx.state==='running'&&contexts===1,'один контекст при повторном включении');await wait(400);ok(rms()>.0001,'музыка выдаёт ненулевой сигнал');
+  audio.set({music:0,ambient:0,effects:0});await wait(700);ok(rms()<.0001,'нулевые каналы замолкают');
+  audio.set({effects:.7});const sounds=['card','door','coins','dice','equip','magic','curse','monster','clash','escape','level','victory','win'];
+  for(const cue of sounds){audio.effect(cue);await wait(95);const value=rms();ok(Number.isFinite(value)&&value>.00001,'эффект '+cue+' выдаёт сигнал');await wait(450)}
+  audio.set({effects:0,music:0,ambient:1});await wait(700);ok(rms()>.0001,'ambient выдаёт ненулевой сигнал');
+  audio.setHidden(true);await wait(100);ok(ctx.state==='suspended','скрытая вкладка приостанавливает контекст');audio.setHidden(false);await wait(100);ok(ctx.state==='running','возврат во вкладку возобновляет контекст');
+  audio.set({master:0});await wait(100);ok(ctx.state==='suspended','общая громкость 0 приостанавливает звук');audio.set({master:.5});await wait(100);ok(ctx.state==='running','громкость восстанавливается');
+  audio.set({enabled:false});await wait(100);ok(ctx.state==='suspended','общий выключатель останавливает контекст');await audio.dispose();ok(ctx.state==='closed','контекст и таймер освобождаются');out.dataset.result='passed';
+ }catch(e){out.textContent+='\nFAIL '+e.stack;out.dataset.result='failed';await audio?.dispose()}
+};</script></html>

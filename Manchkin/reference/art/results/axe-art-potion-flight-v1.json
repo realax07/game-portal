@@ -1,0 +1,11 @@
+{
+  "id": "axe-art-potion-flight",
+  "en": "Potion of Flight",
+  "name": "Зелье полёта",
+  "alt": "Пузатый флакон с крылышками взлетел и оставил пробку на земле.",
+  "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms, strong readable silhouette. Large centered subject with comfortable margins, minimal scenery and one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, do not copy existing card art. Clear structure and anatomy, no unintended extra parts. Subject: One round glass fantasy potion flask filled with bright sky-blue liquid, two small white feather wings attached symmetrically at the shoulders, fluttering as the bottle hovers above a small stone. Its cork lies on the ground below and a few blue bubbles rise from the open neck. One bottle only, clear comic flying silhouette, no label or text, minimal background, no hands or faces.",
+  "file": "assets/illustrations/axe-art-potion-flight-v1.jpg",
+  "date": "2026-10-29",
+  "status": "generated",
+  "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-4fea44cb-5a8a-495e-accf-51ddccc8c4f1.png"
+}

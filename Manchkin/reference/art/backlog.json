@@ -22,46 +22,6 @@
       "priority": 1
     },
     {
-      "en": "Potion of Flight",
-      "cards": [
-        {
-          "id": "flight",
-          "name": "Зелье полёта",
-          "set": "axe",
-          "type": "escape",
-          "deck": "treasures"
-        }
-      ],
-      "catalogMembership": [],
-      "sets": [
-        "axe"
-      ],
-      "playable": true,
-      "status": "pending",
-      "currentArt": "SVG fallback",
-      "priority": 1
-    },
-    {
-      "en": "Spiked Codpiece",
-      "cards": [
-        {
-          "id": "codpiece",
-          "name": "Шипастый гульфик",
-          "set": "axe",
-          "type": "item",
-          "deck": "treasures"
-        }
-      ],
-      "catalogMembership": [],
-      "sets": [
-        "axe"
-      ],
-      "playable": true,
-      "status": "pending",
-      "currentArt": "SVG fallback",
-      "priority": 1
-    },
-    {
       "en": "Stab-A-Matic",
       "cards": [
         {
@@ -24121,26 +24081,6 @@
         {
           "set": "munchkin-7-cheat-with-both-hands",
           "printedName": "Unbelievably",
-          "section": "Doors (70)",
-          "source": "https://munchkin.game/products/games/munchkin/munchkin-7-cheat-with-both-hands/",
-          "listedCopies": 1
-        }
-      ],
-      "sets": [
-        "munchkin-7-cheat-with-both-hands"
-      ],
-      "playable": false,
-      "status": "pending",
-      "currentArt": "not imported into game",
-      "priority": 2
-    },
-    {
-      "en": "Undead",
-      "cards": [],
-      "catalogMembership": [
-        {
-          "set": "munchkin-7-cheat-with-both-hands",
-          "printedName": "Undead",
           "section": "Doors (70)",
           "source": "https://munchkin.game/products/games/munchkin/munchkin-7-cheat-with-both-hands/",
           "listedCopies": 1

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>Косынка</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>%E2%99%A0%EF%B8%8F</text></svg>">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1><span class="suit">♠</span> Косынка</h1>
+  <div class="controls">
+    <button id="btnNew" title="Перемешать и раздать новую партию">Новая игра</button>
+    <button id="btnRestart" title="Раздать ту же раскладку заново">Заново</button>
+    <button id="btnUndo" title="Отменить ход (Ctrl+Z)">↩ Отменить</button>
+    <button id="btnFinish" hidden title="Автоматически разложить все карты по домам">Завершить ▸</button>
+    <button id="btnDraw" title="Сколько карт открывать из колоды за раз">Открывать: 1</button>
+  </div>
+  <div class="stats">
+    <span>Время: <b id="stTime">0:00</b></span>
+    <span>Ходы: <b id="stMoves">0</b></span>
+    <span>Очки: <b id="stScore">0</b></span>
+  </div>
+</header>
+
+<main id="table"></main>
+
+<canvas id="fx"></canvas>
+
+<div id="overlay" hidden>
+  <div class="panel">
+    <div class="win-emoji">🎉</div>
+    <h2>Победа!</h2>
+    <p id="winStats"></p>
+    <button id="btnAgain" class="primary">Сыграть ещё раз</button>
+  </div>
+</div>
+
+<script src="game.js"></script>
+</body>
+</html>

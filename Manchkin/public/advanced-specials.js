@@ -1,5 +1,6 @@
+import {helperAllowed,canInterfere} from './axe-mechanics.js';
 import {ownedItems,permanentItem,detach} from './item-links.js';
-import {discard,receiveCard} from './decks.js';
+import {discard,discardOverlays,receiveCard} from './decks.js';
 import {equipPlan} from './equipment.js';
 import {itemUsable} from './card-effects.js';
 import {combatStrength} from './abilities.js';
@@ -9,12 +10,12 @@ import {retainCombatCard} from './combat-cards.js';
 import {has} from './traits.js';
 import {finishCombatCurses} from './curses.js';
 const won=g=>combatStrength(g)>monsterPower(g)||combatStrength(g)===monsterPower(g)&&[g.turn,g.helper].filter(i=>i!==null).some(i=>has(g.players[i],'Warrior'));
-export function kneepadTargets(g,actor){if(actor!==g.turn||g.phase!=='combat'||g.helper!==null||g.fleeingDeclared||g.pendingEncounter||won(g)||g.players[actor].level+combatRewards(g).levels+(g.rewardClaims||[]).filter(r=>r.owner===actor).reduce((n,r)=>n+r.levels,0)>=10||combatMonsters(g).some(m=>m.noHelp)||(g.dopplegangers||[]).length)return[];const p=g.players[actor];if(!p.equipment.some(c=>c.forceHelp&&itemUsable(p,c)))return[];return g.players.flatMap((p,i)=>i!==actor&&!p.dead&&p.level>g.players[actor].level?[{uid:i,name:p.name}]:[])}
+export function kneepadTargets(g,actor){if(actor!==g.turn||g.phase!=='combat'||g.helper!==null||g.fleeingDeclared||g.pendingEncounter||won(g)||g.players[actor].level+combatRewards(g).levels+(g.rewardClaims||[]).filter(r=>r.owner===actor).reduce((n,r)=>n+r.levels,0)>=10||combatMonsters(g).some(m=>m.noHelp)||(g.dopplegangers||[]).length)return[];const p=g.players[actor];if(!helperAllowed(g,actor))return[];if(!p.equipment.some(c=>c.forceHelp&&itemUsable(p,c)))return[];return g.players.flatMap((p,i)=>i!==actor&&helperAllowed(g,i)&&!p.dead&&p.level>g.players[actor].level?[{uid:i,name:p.name}]:[])}
 export function forceHelper(g,actor,target){if(!kneepadTargets(g,actor).some(t=>t.uid===target))return{ok:false};g.helper=target;g.helpUsed=true;g.forcedHelper=true;g.combatRevision=(g.combatRevision||0)+1;return{ok:true,text:`${g.players[target].name} вынужден помогать бесплатно.`}}
 function helpTargets(g,actor){
  if(actor!==g.turn||g.phase!=='combat'||g.fleeingDeclared||won(g))return[];const p=g.players[actor],out=[];
  for(let owner=0;owner<g.players.length;owner++)if(owner!==actor&&!g.players[owner].dead)for(const item of [...g.players[owner].equipment,...(g.players[owner].carried||[])].filter(permanentItem)){
-  if(!itemUsable(p,item))continue;
+  if(item.cursedThingy||!itemUsable(p,item))continue;
   const blockers=p.equipment.filter(c=>permanentItem(c)&&!c.cheatCard&&!c.hirelingUid&&(c.slot===item.slot&&c.slot!=='none'||item.big&&c.big));
   let candidate=null;
   for(let mask=0;mask<2**Math.min(12,blockers.length);mask++){
@@ -26,7 +27,7 @@ function helpTargets(g,actor){
  return out;
 }
 export function advancedOptions(g,actor,c){
- const p=g.players[actor],combat=g.phase==='combat'&&!g.fleeingDeclared&&!g.mustRunAway;
+ const p=g.players[actor],combat=g.phase==='combat'&&!g.fleeingDeclared&&!g.forcedEscapeReason;
  if(c.effect==='cheat'&&g.phase!=='combat'&&actor===g.turn)return{targets:ownedItems(p).filter(c=>permanentItem(c)&&!c.cheatCard&&!c.hirelingUid).map(c=>({uid:c.uid,name:c.name})),text:'Прикрепить чит'};
  if(c.effect==='dowsing')return{targets:[...(g.discards?.doors||[]),...(g.discards?.treasures||[])].map(c=>({uid:c.uid,name:c.name})),text:'Взять из сброса'};
  if(c.effect==='illusionSwap'&&combat)return{targets:combatMonsters(g).flatMap(m=>p.hand.filter(c=>c.type==='monster').map(c=>({uid:`${m.uid}:${c.uid}`,targetUid:m.uid,replacementUid:c.uid,name:`${m.name} → ${c.name}`}))),text:'Заменить монстра'};
@@ -49,9 +50,9 @@ export function playAdvanced(g,actor,c,options){
  }else if(c.effect==='killNose'){
   const m=combatMonsters(g).find(m=>m.uid===target.uid);p.hand=p.hand.filter(x=>x.uid!==c.uid);retainCombatCard(g,c);removeCombatMonster(g,m.uid,{treasures:m.reward,levels:m.levels||1,killed:true});
  }else if(c.effect==='helpMe'){
-  const item=detach(g.players[target.owner],target.uid),dropped=p.equipment.filter(c=>target.dropUids.includes(c.uid));p.equipment=p.equipment.filter(c=>!target.dropUids.includes(c.uid));discard(g,dropped);p.hand=p.hand.filter(x=>x.uid!==c.uid);delete item.hirelingUid;p.equipment.push(item);retainCombatCard(g,c);if(target.forced!==null)forceHelper(g,actor,target.forced);
+  const item=detach(g.players[target.owner],target.uid);discardOverlays(g,g.players[target.owner],[target.uid]);const dropped=p.equipment.filter(c=>target.dropUids.includes(c.uid));p.equipment=p.equipment.filter(c=>!target.dropUids.includes(c.uid));discard(g,dropped);p.hand=p.hand.filter(x=>x.uid!==c.uid);delete item.hirelingUid;p.equipment.push(item);retainCombatCard(g,c);if(target.forced!==null)forceHelper(g,actor,target.forced);
  }else return{ok:false};
  g.combatRevision=(g.combatRevision||0)+1;return{ok:true,text:`${p.name}: «${c.name}» → ${target.name}.`};
 }
-export function hirelingOptions(g,actor){const p=g.players[actor];if(g.phase==='combat'||actor!==g.turn)return[];return p.equipment.filter(c=>c.slot==='hireling').flatMap(h=>ownedItems(p).filter(c=>permanentItem(c)&&!c.hirelingUid&&!c.cheatCard).map(c=>({id:`${h.uid}:${c.uid}`,hirelingUid:h.uid,itemUid:c.uid,name:`${h.name} несёт ${c.name}`})))}
+export function hirelingOptions(g,actor){const p=g.players[actor];if(g.phase==='combat'||actor!==g.turn)return[];return p.equipment.filter(c=>c.slot==='hireling').flatMap(h=>ownedItems(p).filter(c=>permanentItem(c)&&!c.cursedThingy&&!c.hirelingUid&&!c.cheatCard).map(c=>({id:`${h.uid}:${c.uid}`,hirelingUid:h.uid,itemUid:c.uid,name:`${h.name} несёт ${c.name}`})))}
 export function assignHireling(g,actor,id){const o=hirelingOptions(g,actor).find(o=>o.id===id);if(!o)return{ok:false};const p=g.players[actor],item=detach(p,o.itemUid),old=p.equipment.filter(c=>c.hirelingUid===o.hirelingUid);p.equipment=p.equipment.filter(c=>!old.includes(c));for(const c of old){delete c.hirelingUid;p.hand.push(c)}item.hirelingUid=o.hirelingUid;p.equipment.push(item);return{ok:true,text:o.name}}

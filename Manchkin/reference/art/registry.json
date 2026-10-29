@@ -17,15 +17,15 @@
     }
   },
   "summary": {
-    "readyImages": 171,
-    "coveredCardDefinitions": 178,
-    "archivedVariants": 2,
-    "pendingUniqueCards": 1205,
-    "totalUniqueCards": 1376,
-    "playableUniqueCards": 407,
-    "pendingPlayableCards": 236,
+    "readyImages": 252,
+    "coveredCardDefinitions": 273,
+    "archivedVariants": 3,
+    "pendingUniqueCards": 1202,
+    "totalUniqueCards": 1454,
+    "playableUniqueCards": 486,
+    "pendingPlayableCards": 234,
     "publishedListRecords": 1404,
-    "runtimeBytes": 11298272
+    "runtimeBytes": 16799753
   },
   "setCoverage": [
     {
@@ -42,11 +42,11 @@
       "id": "axe",
       "name": "Дикий топор",
       "scope": "local-sample",
-      "ready": 7,
-      "pending": 2,
-      "total": 9,
-      "playable": 9,
-      "playableReady": 7
+      "ready": 102,
+      "pending": 0,
+      "total": 102,
+      "playable": 102,
+      "playableReady": 102
     },
     {
       "id": "cleric",
@@ -102,8 +102,8 @@
       "id": "munchkin-7-cheat-with-both-hands",
       "name": "Манчкин 7 · Двуручный чит",
       "scope": "publisher-list",
-      "ready": 5,
-      "pending": 76,
+      "ready": 6,
+      "pending": 75,
       "total": 81,
       "playable": 8,
       "playableReady": 1
@@ -1258,6 +1258,13 @@
           "set": "base",
           "type": "class",
           "deck": "doors"
+        },
+        {
+          "id": "axe-copy-warrior",
+          "name": "Воин",
+          "set": "axe",
+          "type": "class",
+          "deck": "doors"
         }
       ],
       "catalogMembership": [
@@ -1326,6 +1333,13 @@
           "set": "base",
           "type": "class",
           "deck": "doors"
+        },
+        {
+          "id": "axe-copy-wizard",
+          "name": "Волшебник",
+          "set": "axe",
+          "type": "class",
+          "deck": "doors"
         }
       ],
       "catalogMembership": [
@@ -1387,6 +1401,13 @@
           "set": "base",
           "type": "class",
           "deck": "doors"
+        },
+        {
+          "id": "axe-copy-cleric-class",
+          "name": "Клирик",
+          "set": "axe",
+          "type": "class",
+          "deck": "doors"
         }
       ],
       "catalogMembership": [
@@ -1446,6 +1467,13 @@
           "id": "thief",
           "name": "Вор",
           "set": "base",
+          "type": "class",
+          "deck": "doors"
+        },
+        {
+          "id": "axe-copy-thief",
+          "name": "Вор",
+          "set": "axe",
           "type": "class",
           "deck": "doors"
         }
@@ -1563,6 +1591,13 @@
           "set": "base",
           "type": "race",
           "deck": "doors"
+        },
+        {
+          "id": "axe-copy-dwarf",
+          "name": "Дварф",
+          "set": "axe",
+          "type": "race",
+          "deck": "doors"
         }
       ],
       "catalogMembership": [
@@ -1629,6 +1664,13 @@
           "id": "elf",
           "name": "Эльф",
           "set": "base",
+          "type": "race",
+          "deck": "doors"
+        },
+        {
+          "id": "axe-copy-elf",
+          "name": "Эльф",
+          "set": "axe",
           "type": "race",
           "deck": "doors"
         }
@@ -1765,6 +1807,13 @@
           "id": "halfling",
           "name": "Хафлинг",
           "set": "base",
+          "type": "race",
+          "deck": "doors"
+        },
+        {
+          "id": "axe-copy-halfling",
+          "name": "Хафлинг",
+          "set": "axe",
           "type": "race",
           "deck": "doors"
         }
@@ -2726,6 +2775,13 @@
           "set": "base",
           "type": "multiclass",
           "deck": "doors"
+        },
+        {
+          "id": "axe-copy-super-munchkin",
+          "name": "Суперманчкин",
+          "set": "axe",
+          "type": "multiclass",
+          "deck": "doors"
         }
       ],
       "catalogMembership": [
@@ -2806,6 +2862,13 @@
           "id": "half-breed",
           "name": "Полукровка",
           "set": "base",
+          "type": "multirace",
+          "deck": "doors"
+        },
+        {
+          "id": "axe-copy-half-breed",
+          "name": "Полукровка",
+          "set": "axe",
           "type": "multirace",
           "deck": "doors"
         }
@@ -4611,6 +4674,13 @@
           "id": "base-loaded-die",
           "name": "Читёрский кубик",
           "set": "base",
+          "type": "special",
+          "deck": "treasures"
+        },
+        {
+          "id": "axe-copy-base-loaded-die",
+          "name": "Читёрский кубик",
+          "set": "axe",
           "type": "special",
           "deck": "treasures"
         }
@@ -6951,6 +7021,13 @@
           "set": "base",
           "type": "special",
           "deck": "treasures"
+        },
+        {
+          "id": "axe-copy-base-wishing-ring",
+          "name": "Кольцо желания",
+          "set": "axe",
+          "type": "special",
+          "deck": "treasures"
         }
       ],
       "catalogMembership": [
@@ -7494,6 +7571,13 @@
           "id": "base-cheat",
           "name": "Чит!",
           "set": "base",
+          "type": "special",
+          "deck": "doors"
+        },
+        {
+          "id": "axe-copy-base-cheat",
+          "name": "Чит!",
+          "set": "axe",
           "type": "special",
           "deck": "doors"
         }
@@ -8586,6 +8670,13 @@
           "set": "base",
           "type": "curse",
           "deck": "doors"
+        },
+        {
+          "id": "axe-copy-base-curse-lose-a-big-item",
+          "name": "Проклятие! Потеря большой шмотки",
+          "set": "axe",
+          "type": "curse",
+          "deck": "doors"
         }
       ],
       "catalogMembership": [
@@ -8631,6 +8722,13 @@
           "id": "base-curse-lose-a-small-item",
           "name": "Проклятие! Потеря мелкой шмотки",
           "set": "base",
+          "type": "curse",
+          "deck": "doors"
+        },
+        {
+          "id": "axe-copy-base-curse-lose-a-small-item",
+          "name": "Проклятие! Потеря мелкой шмотки",
+          "set": "axe",
           "type": "curse",
           "deck": "doors"
         }
@@ -9042,6 +9140,3174 @@
         "height": 384,
         "quality": 80
       }
+    },
+    {
+      "id": "axe-art-cat-girl",
+      "version": "v1",
+      "status": "ready",
+      "en": "Cat Girl",
+      "name": "Девушка-кошка",
+      "batch": "batch-2026-10-29-axe-01",
+      "cards": [
+        {
+          "id": "axe-cat-girl",
+          "name": "Девушка-кошка",
+          "set": "axe",
+          "type": "monster",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Взрослая рыжая девушка-кошка в зелёном костюме плутовки угрожает смешной метёлкой.",
+      "prompt": "Use case: illustration-story. Asset type: a single square original illustration for a humorous fantasy card game, clear at 384 by 384 pixels. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment. Saturated character colors, simple chunky shapes, a strong readable silhouette and one visual joke. Large centered subject with comfortable margins, minimal scenery. Modest detail appropriate for a small card. No text, letters, numbers, logos, watermark, border, card frame or separate panels. Do not imitate an existing copyrighted card illustration. Clear plausible anatomy, no duplicated limbs. Subject: An adult anthropomorphic ginger cat woman in a green fantasy rogue tunic and tall boots. Exactly two arms and two legs, one curved tail. She poses smugly with one paw resting on her hip and the other paw holding a tiny innocent-looking feather duster as a weapon; a huge playful toothy grin and whiskers. Friendly comic menace, fully clothed, no sexualization.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-1c419258-29bf-4d05-b389-ff5f865a2307.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-cat-girl-v1.png",
+        "bytes": 2780237,
+        "sha256": "1c77d3ff8289ba52b60ed4f734b1510d75d9cf5b3978d81f34d17069701e0dec",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-cat-girl-v1.jpg",
+        "bytes": 58124,
+        "sha256": "3ae7684574eb7728d5517007c723450f9dc6c041ea4e04ff0018028a3df86e7e",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-crawling-hand",
+      "version": "v1",
+      "status": "ready",
+      "en": "Crawling Hand",
+      "name": "Ползучая рука",
+      "batch": "batch-2026-10-29-axe-01",
+      "cards": [
+        {
+          "id": "axe-crawling-hand",
+          "name": "Ползучая рука",
+          "set": "axe",
+          "type": "monster",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Ползучая синеватая рука с пятью пальцами заманивает искателя золотым кольцом.",
+      "prompt": "Use case: illustration-story. Asset type: a single square original illustration for a humorous fantasy card game, clear at 384 by 384 pixels. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment. Saturated character colors, simple chunky shapes, a strong readable silhouette and one visual joke. Large centered subject with comfortable margins, minimal scenery. Modest detail appropriate for a small card. No text, letters, numbers, logos, watermark, border, card frame or separate panels. Do not imitate an existing copyrighted card illustration. Clear plausible anatomy, no duplicated limbs. Subject: A single mischievous blue-gray disembodied undead LEFT hand crawling across a little dusty dungeon flagstone, seen three-quarter dorsal view. Exactly FIVE digits total: four long curled fingers touching the floor and one short opposable thumb on the side. Anatomically recognizable human hand, not a spider. A worn purple cuff closes the wrist cleanly, no exposed wound, no blood. A gold ring dangles like bait from one raised finger, comic sneaky gesture. No other hands, faces or limbs.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-a99a50fb-1100-4da2-ba26-0aaa97b9d72e.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-crawling-hand-v1.png",
+        "bytes": 2884371,
+        "sha256": "9973507fe68653d23a22b676e4b358f86f529b26bc3e925daf08355d9264570c",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-crawling-hand-v1.jpg",
+        "bytes": 67240,
+        "sha256": "57e5590d7424c5cc4d1c08e66ac6d37a670c6f66f7fa9ba238a8f46b2778f56d",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-frost-giant",
+      "version": "v1",
+      "status": "ready",
+      "en": "Frost Giant",
+      "name": "Морозный великан",
+      "batch": "batch-2026-10-29-axe-01",
+      "cards": [
+        {
+          "id": "axe-frost-giant",
+          "name": "Морозный великан",
+          "set": "axe",
+          "type": "monster",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Огромный морозный великан зябко держит крошечную чашку рядом с маленькой свечой.",
+      "prompt": "Use case: illustration-story. Asset type: a single square original illustration for a humorous fantasy card game, clear at 384 by 384 pixels. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment. Saturated character colors, simple chunky shapes, a strong readable silhouette and one visual joke. Large centered subject with comfortable margins, minimal scenery. Modest detail appropriate for a small card. No text, letters, numbers, logos, watermark, border, card frame or separate panels. Do not imitate an existing copyrighted card illustration. Clear plausible anatomy, no duplicated limbs. Subject: A gigantic pale ice-blue bearded fantasy giant in a shaggy cream fur cape, with a lumpy icicle crown, shivering indignantly beside one tiny red candle on a rock. He holds an absurdly tiny teacup delicately with his two enormous mittened hands, little steam swirl above it. Exactly two arms, two legs, one head. Frosty beard, anxious wide eyes and a large round red nose; no human companions.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-aefd1068-5608-4f34-a36e-47e51bd396b9.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-frost-giant-v1.png",
+        "bytes": 3260363,
+        "sha256": "ff1a82b460ae538fb7a9898dfded3e757a567d211966529be3e06055279aefb3",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-frost-giant-v1.jpg",
+        "bytes": 81055,
+        "sha256": "92fbba5e351aeab1cecdc21affc17b955226f1d06bf97aab8eb29c35103e8010",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-fungus",
+      "version": "v1",
+      "status": "ready",
+      "en": "Fungus",
+      "name": "Гриб",
+      "batch": "batch-2026-10-29-axe-01",
+      "cards": [
+        {
+          "id": "axe-fungus",
+          "name": "Гриб",
+          "set": "axe",
+          "type": "monster",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Фиолетовый гриб-богатырь гордо тренируется с нелепо маленькой деревянной гантелью.",
+      "prompt": "Use case: illustration-story. Asset type: a single square original illustration for a humorous fantasy card game, clear at 384 by 384 pixels. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment. Saturated character colors, simple chunky shapes, a strong readable silhouette and one visual joke. Large centered subject with comfortable margins, minimal scenery. Modest detail appropriate for a small card. No text, letters, numbers, logos, watermark, border, card frame or separate panels. Do not imitate an existing copyrighted card illustration. Clear plausible anatomy, no duplicated limbs. Subject: A squat grouchy mushroom monster with one enormous bright purple cap dotted with cream spots, a thick ivory stalk body, exactly two stubby arms and two root-like feet. One hand angrily holds an outrageously small wooden dumbbell, the other rests on its hip. Puffed cheeks and an absurdly proud bodybuilding pose, scattered tiny ordinary mushrooms accentuate its size. No extra limbs, no text.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-994394f4-51b2-42e1-ba19-f53b06ed2482.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-fungus-v1.png",
+        "bytes": 3023089,
+        "sha256": "2a53fec721f3efe0f225d7260bb8ad7e6ef4f16d98fdd567d73725c3c61d54fc",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-fungus-v1.jpg",
+        "bytes": 68695,
+        "sha256": "f3c1c0c1b3bd363aaa8ecc4c16ddedd739f441fede80b631f60c613e9e163b17",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-giant-cockroach",
+      "version": "v1",
+      "status": "ready",
+      "en": "Giant Cockroach",
+      "name": "Гигантский таракан",
+      "batch": "batch-2026-10-29-axe-01",
+      "cards": [
+        {
+          "id": "axe-giant-cockroach",
+          "name": "Гигантский таракан",
+          "set": "axe",
+          "type": "monster",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Гигантский таракан в маленькой каске похитил рыцарский шлем и гордится добычей.",
+      "prompt": "Use case: illustration-story. Asset type: a single square original illustration for a humorous fantasy card game, clear at 384 by 384 pixels. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment. Saturated character colors, simple chunky shapes, a strong readable silhouette and one visual joke. Large centered subject with comfortable margins, minimal scenery. Modest detail appropriate for a small card. No text, letters, numbers, logos, watermark, border, card frame or separate panels. Do not imitate an existing copyrighted card illustration. Clear plausible anatomy, no duplicated limbs. Subject: One gigantic glossy chestnut-brown cockroach as a fantasy monster, three-quarter view, wearing a tiny dented metal helmet that is far too small for its head. Exactly six clearly separated insect legs, two long antennae, folded wing covers, no human arms. Its front pair of legs grip a stolen oversized steel knight helmet like a trophy. Broad mischievous insect grin; two little crumbs on the ground. Comical rather than disgusting.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-70872208-f2fc-4704-a9a7-468931687c95.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-giant-cockroach-v1.png",
+        "bytes": 3103003,
+        "sha256": "ceefffd3b7f8e880627ef72233b5e0df735dd7d65d0fa3b649316ddc2d936fe8",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-giant-cockroach-v1.jpg",
+        "bytes": 69422,
+        "sha256": "5c7e34303610ac388913b75b6fda654ace0546b6709941c2fd4e81bbb5e8478a",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-giant-skunk",
+      "version": "v1",
+      "status": "ready",
+      "en": "Giant Skunk",
+      "name": "Гигантский скунс",
+      "batch": "batch-2026-10-29-axe-01",
+      "cards": [
+        {
+          "id": "axe-giant-skunk",
+          "name": "Гигантский скунс",
+          "set": "axe",
+          "type": "monster",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Пухлый гигантский скунс восседает на брошенных доспехах, разгоняя всех зелёными завитками запаха.",
+      "prompt": "Use case: illustration-story. Asset type: a single square original illustration for a humorous fantasy card game, clear at 384 by 384 pixels. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment. Saturated character colors, simple chunky shapes, a strong readable silhouette and one visual joke. Large centered subject with comfortable margins, minimal scenery. Modest detail appropriate for a small card. No text, letters, numbers, logos, watermark, border, card frame or separate panels. Do not imitate an existing copyrighted card illustration. Clear plausible anatomy, no duplicated limbs. Subject: One gigantic plump black-and-white fantasy skunk with a huge arched fluffy tail, four legs and two tiny ears. It grins proudly while sitting on a little heap of discarded cloth armor and boots. Stylized pale green spirals of odor drift behind its tail; one fly wearing a miniature clothespin on its nose retreats in the distance. No human arms, no extra paws, no realistic filth, no lettering.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-047db32d-b72f-4242-8a8d-58132b61265c.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-giant-skunk-v1.png",
+        "bytes": 3048140,
+        "sha256": "61bc64b89aa24dfd0d8ce261733e298eddc7a6aaebba1e60632a989e0e7b76d2",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-giant-skunk-v1.jpg",
+        "bytes": 67854,
+        "sha256": "561f49d9129c7515bd2c1491a3739f8c3f457047db2550d24deb1fe1ad48d80b",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-jabberwock",
+      "version": "v1",
+      "status": "ready",
+      "en": "Jabberwock",
+      "name": "Бармаглот",
+      "batch": "batch-2026-10-29-axe-01",
+      "cards": [
+        {
+          "id": "axe-jabberwock",
+          "name": "Бармаглот",
+          "set": "axe",
+          "type": "monster",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Бирюзовый зубастый бармаглот в маленькой волшебной шляпе обиженно разглядывает сломанный тренировочный меч.",
+      "prompt": "Use case: illustration-story. Asset type: a single square original illustration for a humorous fantasy card game, clear at 384 by 384 pixels. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment. Saturated character colors, simple chunky shapes, a strong readable silhouette and one visual joke. Large centered subject with comfortable margins, minimal scenery. Modest detail appropriate for a small card. No text, letters, numbers, logos, watermark, border, card frame or separate panels. Do not imitate an existing copyrighted card illustration. Clear plausible anatomy, no duplicated limbs. Subject: An original ridiculous fantasy dragon-beast, with a pear-shaped turquoise body, one long curved neck, huge buck teeth, small bat wings, exactly two forearms and two hind legs, one curling tail. It wears a tiny crooked purple wizard hat and looks deeply offended, holding a splintered wooden practice sword in one claw and scratching its chin with the other. Broad silhouette, expressive bulging eyes, no resemblance to a film character.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-cf6a6e3d-d59a-47d6-aa5c-d10adbe01691.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-jabberwock-v1.png",
+        "bytes": 2752737,
+        "sha256": "34cbc73302c713adfabbed0bb3473fc2567ebbf484cc215b629c057409e7511b",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-jabberwock-v1.jpg",
+        "bytes": 61163,
+        "sha256": "adefe318274e7143a95476f7aef37ef6e31b58412205e021265b773112b0235f",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-judge-fredd",
+      "version": "v1",
+      "status": "ready",
+      "en": "Judge Fredd",
+      "name": "Судья Фредд",
+      "batch": "batch-2026-10-29-axe-01",
+      "cards": [
+        {
+          "id": "axe-judge-fredd",
+          "name": "Судья Фредд",
+          "set": "axe",
+          "type": "monster",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Суровый судья-рыцарь в огромном белом парике несёт молоток и конфискованный сундук.",
+      "prompt": "Use case: illustration-story. Asset type: a single square original illustration for a humorous fantasy card game, clear at 384 by 384 pixels. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment. Saturated character colors, simple chunky shapes, a strong readable silhouette and one visual joke. Large centered subject with comfortable margins, minimal scenery. Modest detail appropriate for a small card. No text, letters, numbers, logos, watermark, border, card frame or separate panels. Do not imitate an existing copyrighted card illustration. Clear plausible anatomy, no duplicated limbs. Subject: An original stern fantasy judge-knight in chunky dark iron armor, a huge exaggerated white powdered judicial wig and a crimson cape. Exactly two arms and two legs. He holds one enormous wooden judge gavel in his right gauntlet and a small confiscated treasure chest tucked beneath his left forearm. Bushy angry eyebrows, comically small spectacles, tiny boots under a broad armored body. No firearms, no logos, no eagle insignia, no resemblance to a comic-book police character.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-2805dfad-8a0f-4f69-937c-790557260478.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-judge-fredd-v1.png",
+        "bytes": 3027300,
+        "sha256": "8c588333b29f961cdc4bb924e3a87141dc63c22061423b736b293f254f533aac",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-judge-fredd-v1.jpg",
+        "bytes": 69881,
+        "sha256": "252c7004ce73d01ddbfca824f8cf0081d31a3019eeb30613148c50f01cb91255",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-mt-suit",
+      "version": "v1",
+      "status": "ready",
+      "en": "M.T. Suit",
+      "name": "Пустой костюм",
+      "batch": "batch-2026-10-29-axe-02",
+      "cards": [
+        {
+          "id": "axe-mt-suit",
+          "name": "Пустой костюм",
+          "set": "axe",
+          "type": "monster",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Пустой деловой костюм шагает сам по себе, а галстук изображает язык.",
+      "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment. Saturated colors, simple chunky forms, strong readable silhouette, minimal scenery, one visual joke. Large centered subject with comfortable margins. No text, letters, numbers, logos, watermark, card frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: An EMPTY plum-purple business suit walking by itself as a dungeon monster: floating jacket, empty cuffs, trousers and exactly two brown shoes; visibly no head, no hands, no person inside. White shirt collar surrounds an empty dark neck hole. Red tie sticks outward like a cheeky tongue. One sleeve raised threateningly, other on hip, little spilled coins underfoot. Entire suit visible.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-5295a825-7643-418c-85d7-05bf2ee841ea.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-mt-suit-v1.png",
+        "bytes": 2879981,
+        "sha256": "850927e7f037d7590e6fcc3db197bc1ab8315e6a8ec51e5bbc8be99816225fa3",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-mt-suit-v1.jpg",
+        "bytes": 66252,
+        "sha256": "6c6f62e16680321570df19c7a7628613cca230fed2c5df8930d549574c4689d1",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-lust-monster",
+      "version": "v1",
+      "status": "ready",
+      "en": "Lust Monster",
+      "name": "Похотливый монстр",
+      "batch": "batch-2026-10-29-axe-02",
+      "cards": [
+        {
+          "id": "axe-lust-monster",
+          "name": "Похотливый монстр",
+          "set": "axe",
+          "type": "monster",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Розовый рогатый монстр обнимает мешок золота и протягивает ему цветок.",
+      "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment. Saturated colors, simple chunky forms, strong readable silhouette, minimal scenery, one visual joke. Large centered subject with comfortable margins. No text, letters, numbers, logos, watermark, card frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: A goofy round pink furry monster with two small curved horns, exactly two arms and two short legs, one tail. Huge dreamy heart-shaped pupils and puckered lips. It hugs a bulging bag of gold with one arm, offering it a tiny daisy with the other hand, absurdly smitten with treasure. Fully nonsexual, no nudity, no human companions, simple clear five-digit mittenlike paws.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-302cae80-e762-45d4-90f4-0f67f0731d94.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-lust-monster-v1.png",
+        "bytes": 3010358,
+        "sha256": "e8111f035a4ada8d7edf2284604cc3c68baa0a4224b9520d7dbf61aca18f45e2",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-lust-monster-v1.jpg",
+        "bytes": 69832,
+        "sha256": "998e2ddc7d85fc506931903b06d57fdadaf478b8e3a8e2bc7a0c5ba0f849ddd0",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-gm-monster",
+      "version": "v1",
+      "status": "ready",
+      "en": "Monster The GM Made Up Himself",
+      "name": "Монстр, которого придумал мастер",
+      "batch": "batch-2026-10-29-axe-02",
+      "cards": [
+        {
+          "id": "axe-monster-the-gm-made-up-himself",
+          "name": "Монстр, которого придумал мастер",
+          "set": "axe",
+          "type": "monster",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Нелепый зелёный монстр собран из несовместимых частей и гордится собой.",
+      "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment. Saturated colors, simple chunky forms, strong readable silhouette, minimal scenery, one visual joke. Large centered subject with comfortable margins. No text, letters, numbers, logos, watermark, card frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: A ridiculous homemade fantasy monster: one pear-shaped lime green scaly body, one duck head with orange beak, exactly two short purple tentacle arms and two mismatched legs, one chicken foot and one chunky furry bear foot, a single tiny butterfly wing attached to its back. It proudly poses on a little wooden pedestal, an unfinished pencil sketch lies under one foot, sketch contains only abstract shapes no letters. Coherent readable anatomy of a deliberately silly chimera.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-39912c56-c5bd-41d7-82cf-85a50fb04fba.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-gm-monster-v1.png",
+        "bytes": 2776876,
+        "sha256": "36f58c4f095028642d32d2d6562f18b600716f513818df8289faf50db82502d1",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-gm-monster-v1.jpg",
+        "bytes": 56910,
+        "sha256": "b42bc7afce7181a657cbf09fc47c07559874e59104712d4a8c4abb16ec1da408",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-moon-maidens",
+      "version": "v1",
+      "status": "ready",
+      "en": "Moon Maidens",
+      "name": "Лунные девы",
+      "batch": "batch-2026-10-29-axe-02",
+      "cards": [
+        {
+          "id": "axe-moon-maidens",
+          "name": "Лунные девы",
+          "set": "axe",
+          "type": "monster",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Две лунные волшебницы в серебристых мантиях сердито чистят месяц метёлками.",
+      "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment. Saturated colors, simple chunky forms, strong readable silhouette, minimal scenery, one visual joke. Large centered subject with comfortable margins. No text, letters, numbers, logos, watermark, card frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: Exactly TWO adult moon sorceresses with pale blue skin, huge silver crescent-shaped hats and flowing opaque navy robes with silver stars. Both stand on a small golden crescent moon, irritatedly sweeping sparkling moon dust with one broom each, as if stuck doing housework. Each has two arms and two legs, hands simplified under sleeves, fully clothed, no sexualization. Strong double silhouette, sparse night-blue watercolor halo on warm parchment, no other figures.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-4cfe379b-89c7-4380-806e-41e10c6c8165.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-moon-maidens-v1.png",
+        "bytes": 3387323,
+        "sha256": "42e3f91a18fe95e70994119aa02ab6477527b77a3b93ed14a8145a254aff69b1",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-moon-maidens-v1.jpg",
+        "bytes": 81772,
+        "sha256": "f7841bbe407114ba9411adaa17f30e183a27f2224e4ba106167ba1e8e4f4cddb",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-pinata",
+      "version": "v1",
+      "status": "ready",
+      "en": "Piñata",
+      "name": "Пиньята",
+      "batch": "batch-2026-10-29-axe-02",
+      "cards": [
+        {
+          "id": "axe-pi-ata",
+          "name": "Пиньята",
+          "set": "axe",
+          "type": "monster",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Радужная пиньята-ослик воинственно размахивает своей палкой, рассыпая конфеты.",
+      "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment. Saturated colors, simple chunky forms, strong readable silhouette, minimal scenery, one visual joke. Large centered subject with comfortable margins. No text, letters, numbers, logos, watermark, card frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: A rainbow tissue-paper donkey piñata as a fantasy monster, exactly four legs and two long ears, one short ribbon tail. Three-quarter view; it defiantly grips a small wooden stick sideways in its mouth, reversed birthday-party joke. Little wrapped sweets spill from a small seam in its belly, no wound or gore. Bright layered magenta turquoise and yellow paper fringe, comically angry paper eyebrows, simple isolated silhouette.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-de0aa447-d3f0-4b45-b3fb-1ec8a2f05d0c.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-pinata-v1.png",
+        "bytes": 2891741,
+        "sha256": "2dc6d4be7aa8cee84e3341557cd6baccec49a2f0abea7b10f88b3c6703dfa4b4",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-pinata-v1.jpg",
+        "bytes": 67987,
+        "sha256": "a453d85f0cb6b310ea201548182d4b882546f65d3c87f48ccaaf1f557d6bd3d4",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-plague-rats",
+      "version": "v1",
+      "status": "ready",
+      "en": "Plague Rats",
+      "name": "Чумные крысы",
+      "batch": "batch-2026-10-29-axe-02",
+      "cards": [
+        {
+          "id": "axe-plague-rats",
+          "name": "Чумные крысы",
+          "set": "axe",
+          "type": "monster",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Три чумные крысы в лоскутных капюшонах торжественно везут зловонный кусок сыра.",
+      "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment. Saturated colors, simple chunky forms, strong readable silhouette, minimal scenery, one visual joke. Large centered subject with comfortable margins. No text, letters, numbers, logos, watermark, card frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: Exactly THREE scruffy fantasy rats clustered around one tiny wooden cart carrying an enormous moldy green cheese wedge. Brown gray and charcoal fur, ragged burgundy hooded cloaks, beady mischievous eyes and long pink tails, each rat anatomically has four paws, some naturally hidden. One rat pulls the cart using its two front paws, two stand behind the cheese looking proud. Pale green stink curls, funny hygiene disaster, no gore, no disease lesions, no extra creatures.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-caf904d2-6a00-40cd-ba16-50cadf0323ee.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-plague-rats-v1.png",
+        "bytes": 3192849,
+        "sha256": "72f95635a24068c23cd8ac2113a660254cc858bc64c0697d75b755926f4caae1",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-plague-rats-v1.jpg",
+        "bytes": 74252,
+        "sha256": "659ae19edb22bb7786c083975f56eaff443007a361578c16942f827f113b9bf3",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-psycho-squirrel",
+      "version": "v1",
+      "status": "ready",
+      "en": "Psycho Squirrel",
+      "name": "Психованный белк",
+      "batch": "batch-2026-10-29-axe-02",
+      "cards": [
+        {
+          "id": "axe-psycho-squirrel",
+          "name": "Психованный белк",
+          "set": "axe",
+          "type": "monster",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Взъерошенная белка в шлеме из скорлупы защищает желудь огромной деревянной ложкой.",
+      "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment. Saturated colors, simple chunky forms, strong readable silhouette, minimal scenery, one visual joke. Large centered subject with comfortable margins. No text, letters, numbers, logos, watermark, card frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: One wild-eyed russet squirrel with a huge zigzag fluffy tail, exactly two front paws and two hind paws, wearing a cracked walnut shell as a tiny battle helmet. Standing upright and brandishing an oversized wooden spoon in both front paws to defend a single acorn on a little rock. Twitchy whiskers, puffed cheeks and hilariously furious expression, no extra limbs, no modern weapons.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-b0aea9e9-26f2-4bed-bd30-d0133786c694.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-psycho-squirrel-v1.png",
+        "bytes": 3426531,
+        "sha256": "f5e29879a506de8592397c3bc3657fe3ff8d1a7b88b9154a8e79784a5c565828",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-psycho-squirrel-v1.jpg",
+        "bytes": 78253,
+        "sha256": "0b6e13c4a27e13a0e8620529a31bf69d3a1cde6234e53077ac3b32a93ef7ab33",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-pterodactyl",
+      "version": "v1",
+      "status": "ready",
+      "en": "Pterodactyl",
+      "name": "Птеродактиль",
+      "batch": "batch-2026-10-29-axe-02",
+      "cards": [
+        {
+          "id": "axe-pterodactyl",
+          "name": "Птеродактиль",
+          "set": "axe",
+          "type": "monster",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Бирюзовый птеродактиль в лётных очках запутался клювом в носке.",
+      "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment. Saturated colors, simple chunky forms, strong readable silhouette, minimal scenery, one visual joke. Large centered subject with comfortable margins. No text, letters, numbers, logos, watermark, card frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: A lanky turquoise pterodactyl with orange head crest and old-fashioned brown aviator goggles, exactly two membranous wings and two small hind feet, no separate arms. Wings spread in a broad upward V, crouching on a stone. Its long toothless beak is caught inside one stolen striped purple sock, eyes crossed in puzzled indignation. Clear simple pterosaur anatomy, cheerful original cartoon, entire wings within square frame.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-ad8e6292-0fd5-419f-a387-4e44c4c8626a.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-pterodactyl-v1.png",
+        "bytes": 2844659,
+        "sha256": "8edcca06b1fece2f76379136f10abb66d207227208c723f4229e20acc8ce3d0a",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-pterodactyl-v1.jpg",
+        "bytes": 65306,
+        "sha256": "f04fe4beff41be6d1ee7765062168fca3e73d32ba3da0b4fb3996c907c9fc707",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-santa",
+      "version": "v1",
+      "status": "ready",
+      "en": "Santa",
+      "name": "Санта",
+      "batch": "batch-2026-10-29-axe-03",
+      "cards": [
+        {
+          "id": "axe-santa",
+          "name": "Санта",
+          "set": "axe",
+          "type": "monster",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Сердитый Санта в красной шубе проверяет пустой мешок и выставляет уголь вместо подарков.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms and strong silhouette. Large centered subject, comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, border or card frame. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: A stocky grumpy Santa with a huge white beard, red fur-trimmed coat, red hat and black boots. Exactly two arms and two legs. One mitten holds an upside-down empty gift sack, the other points accusingly at one tiny lump of coal on a fancy silver tray on the floor. Raised angry eyebrow, absurdly stern gift inspector, entire figure visible.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-bf43d8a9-a97a-426f-9a05-4b4dc7498971.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-santa-v1.png",
+        "bytes": 2936195,
+        "sha256": "1dc599f158573c86292fc8414ea33ef91b0d65914d7dd4ca226220f59027d1dd",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-santa-v1.jpg",
+        "bytes": 62567,
+        "sha256": "232c3aa0f761d0c166c3ec43283cc4fe7e77816e268c7cdf641f791a86a812db",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-scary-clowns",
+      "version": "v1",
+      "status": "ready",
+      "en": "Scary Clowns",
+      "name": "Страшные клоуны",
+      "batch": "batch-2026-10-29-axe-03",
+      "cards": [
+        {
+          "id": "axe-scary-clowns",
+          "name": "Страшные клоуны",
+          "set": "axe",
+          "type": "monster",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Два клоуна-скелета с нелепыми причёсками и пищащим резиновым цыплёнком.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms and strong silhouette. Large centered subject, comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, border or card frame. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: Exactly TWO goofy undead skeleton clowns in ragged colorful circus suits, one tall and skinny in turquoise stripes, one squat in purple polka dots. White bony faces, red ball noses, silly orange and blue wigs. Tall clown holds a limp yellow rubber chicken, short clown offers a drooping balloon shaped like a skull. Each has exactly two arms and two legs. Funny spooky, no blood or gore, no realistic horror, no resemblance to movie clowns.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-239985bb-48ff-4484-9027-d4799829a898.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-scary-clowns-v1.png",
+        "bytes": 3149522,
+        "sha256": "cb80ac9de222dd4bde6a743a00bb6f2b2af900619b1c8b55ef1e056f5aecdf74",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-scary-clowns-v1.jpg",
+        "bytes": 72643,
+        "sha256": "cb67a50f780873233d2957c9e612bae7d092d950488376c8009d1d7c67d68384",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-snot-elemental",
+      "version": "v1",
+      "status": "ready",
+      "en": "Snot Elemental",
+      "name": "Сопливый элементаль",
+      "batch": "batch-2026-10-29-axe-03",
+      "cards": [
+        {
+          "id": "axe-snot-elemental",
+          "name": "Сопливый элементаль",
+          "set": "axe",
+          "type": "monster",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Зелёный сопливый элементаль сморкается в крошечный платочек.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms and strong silhouette. Large centered subject, comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, border or card frame. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: One huge translucent lime-green mucus elemental, a rounded gelatinous body with exactly two blobby arms and two short stubby feet, one lumpy face with an enormous runny nose. It blows its nose into an absurdly tiny white handkerchief held in both hands; puffed cheeks and embarrassed watery eyes. Little glossy drips, comical rather than disgusting, no gore, no detailed filth. Minimal stone floor.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-c06f002b-1515-4216-8982-b9a040311511.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-snot-elemental-v1.png",
+        "bytes": 2980668,
+        "sha256": "5547597b53407435b0b10441064df4784ba20e084a190842b3082a38c57b4a39",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-snot-elemental-v1.jpg",
+        "bytes": 64017,
+        "sha256": "fba6f2d4e89f0c2df2904ea6d155576e45bc8c40c86941235c5498e4c3e35794",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-mighty-germ",
+      "version": "v1",
+      "status": "ready",
+      "en": "The Mighty Germ",
+      "name": "Могучий микроб",
+      "batch": "batch-2026-10-29-axe-03",
+      "cards": [
+        {
+          "id": "axe-the-mighty-germ",
+          "name": "Могучий микроб",
+          "set": "axe",
+          "type": "monster",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Крошечный усатый микроб в плаще силача поднимает пуговицу как штангу.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms and strong silhouette. Large centered subject, comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, border or card frame. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: One tiny teal oval cartoon germ covered in short soft cilia, with exactly two muscular little arms and two tiny feet, extravagant curled black mustache and a red superhero cape. Proudly raises a single ordinary shirt button above its head with both hands as if it were a massive weight, a giant dropped sewing needle lies nearby to show its small size. Simple legible face, friendly absurd menace, no text or insignia.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-48f74b8a-0421-4dd9-abef-1864bdec8e4f.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-mighty-germ-v1.png",
+        "bytes": 3011650,
+        "sha256": "6dce828dab2226f61c2fbfd987ad7cf1d5a935e955d9f30877bcfc47dbc59fe5",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-mighty-germ-v1.jpg",
+        "bytes": 63733,
+        "sha256": "4257900b973b386c3c01dcba22f9551aa4edcc733067a04912c7475bf3af3f2b",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-shadow-nose",
+      "version": "v1",
+      "status": "ready",
+      "en": "The Shadow Nose",
+      "name": "Тень Летающего носа",
+      "batch": "batch-2026-10-29-axe-03",
+      "cards": [
+        {
+          "id": "axe-the-shadow-nose",
+          "name": "Тень Летающего носа",
+          "set": "axe",
+          "type": "monster",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Призрачный фиолетовый летающий нос со светящимися глазами преследует монету.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms and strong silhouette. Large centered subject, comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, border or card frame. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: One oversized floating ghostly human nose made of smoky dark violet shadow, with two small spectral bat wings and a tapering vapor trail, no arms or legs. Two mischievous glowing pale eyes hover just above the nose bridge as part of the same ghostly form. It ominously sniffs at a gold coin on a stone, giving it a disdainful expression. Strong distinctive nose silhouette, humorous haunted dungeon mood, not realistic horror.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-cc94cbcb-9b72-468c-abe8-bba3fb604796.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-shadow-nose-v1.png",
+        "bytes": 2891249,
+        "sha256": "739f53f14f2158ae3b47eae377a820f7dac2d9ebe92bf7577851afc32ba7fac3",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-shadow-nose-v1.jpg",
+        "bytes": 68460,
+        "sha256": "18dcd4f2fcd01a2cb2d0f8cc6b81262a7e98a9be43a03db87b8ecd4f2f40738b",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-long-name-thing",
+      "version": "v1",
+      "status": "ready",
+      "en": "Thing With A Name So Long There's No Room For A Picture On the Card",
+      "name": "Нечто с названием, которому не хватило места",
+      "batch": "batch-2026-10-29-axe-03",
+      "cards": [
+        {
+          "id": "axe-thing-with-a-name-so-long-there-s-no-room-for-a-picture-on-the-card",
+          "name": "Нечто с названием, которому не хватило места",
+          "set": "axe",
+          "type": "monster",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Огромное мохнатое нечто прячется за бесконечно длинным пустым свитком.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms and strong silhouette. Large centered subject, comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, border or card frame. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: A giant shaggy rust-orange fantasy creature almost entirely concealed behind a ridiculous extremely long rolled parchment scroll piled in looping folds. Only two enormous startled eyes peeking above the top, two furry hands gripping its side edges and two big furry feet beneath it are visible. The scroll is COMPLETELY BLANK with no writing, no symbols, no marks. Clear centered funny silhouette, visual joke about paperwork leaving no room for a monster, no frame.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-a26fd1c6-4c40-487e-8b93-13f77ffbe91e.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-long-name-thing-v1.png",
+        "bytes": 2868373,
+        "sha256": "1b4132a3a00b2c277972aaa3becfcb4bc5c4130a926c7b6ecf8994423ab638c5",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-long-name-thing-v1.jpg",
+        "bytes": 55414,
+        "sha256": "7d2355b30aff950c24934b0dff752c260ebda49e170428514c0f0a5623de6ae7",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-were-turtle",
+      "version": "v1",
+      "status": "ready",
+      "en": "Were-Turtle",
+      "name": "Черепаха-оборотень",
+      "batch": "batch-2026-10-29-axe-03",
+      "cards": [
+        {
+          "id": "axe-were-turtle",
+          "name": "Черепаха-оборотень",
+          "set": "axe",
+          "type": "monster",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Черепаха-оборотень с клыками и пушистыми бакенбардами воет на крошечную луну.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms and strong silhouette. Large centered subject, comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, border or card frame. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: One squat upright turtle-werewolf hybrid with a big olive green turtle shell, green scaly body, shaggy gray cheek whiskers and two tiny canine fangs. Exactly two forearms with small clawed hands and two short hind legs. It howls dramatically at a tiny pale full moon above one shoulder, despite being painfully slow; torn purple trousers, one fallen leaf rests on its head. Entire body visible, original humorous fantasy creature, no blood.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-e0b6043c-7c06-406a-9fb1-f944ce57c8bd.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-were-turtle-v1.png",
+        "bytes": 3018597,
+        "sha256": "4b2d573a6e442e695a328cd3d2024b0836c8f3414c1fe246253900de9b5e9af5",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-were-turtle-v1.jpg",
+        "bytes": 64390,
+        "sha256": "6e2ec2db0c3c4232c50fdb36c81c4432b246ce50709f695658501bde5414ea53",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-funny-looking-sword",
+      "version": "v1",
+      "status": "ready",
+      "en": "Funny-Looking Sword",
+      "name": "Странно выглядящий меч",
+      "batch": "batch-2026-10-29-axe-03",
+      "cards": [
+        {
+          "id": "axe-funny-looking-sword",
+          "name": "Странно выглядящий меч",
+          "set": "axe",
+          "type": "item",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Нелепый орочий меч с кривым волнистым клинком и смешным набалдашником.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms and strong silhouette. Large centered subject, comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, border or card frame. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: A single ridiculous orcish fantasy sword displayed diagonally on warm parchment: broad steel blade bent into a wildly impractical zigzag, asymmetric brass crossguard resembling droopy ears, thick red leather grip, big round pommel with a goofy carved wooden face. Small polishing cloth on ground emphasizes that someone takes this absurd weapon seriously. One sword only, no hands or figures, strong simple item silhouette, steel gray red and brass palette.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-96a138b9-4e5d-4ab1-834a-64cb34a38c1d.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-funny-looking-sword-v1.png",
+        "bytes": 2995904,
+        "sha256": "0a2d95f771446af971e6438fa0081fe6b9e480251a56f38f3cff94660f3dde14",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-funny-looking-sword-v1.jpg",
+        "bytes": 55355,
+        "sha256": "c0ca77d98057b5e76175be270cd4d9a26e1b8aab2936e853b2b2b7137a3924ab",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-slug-thrower",
+      "version": "v1",
+      "status": "ready",
+      "en": "Slug Thrower",
+      "name": "Слизнемёт",
+      "batch": "batch-2026-10-29-axe-04",
+      "cards": [
+        {
+          "id": "axe-slug-thrower",
+          "name": "Слизнемёт",
+          "set": "axe",
+          "type": "item",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Деревянный слизнемёт выпускает довольного слизня в кожаном лётном шлеме.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms, strong silhouette. Large centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, border, card frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: One absurd chunky medieval wooden slug-launching contraption, a crossbow-like shoulder weapon with a brass funnel muzzle, two wooden grips, leather sling and a little crank. One plump orange garden slug with two eye stalks flies out in a short arc, wearing a tiny leather aviator cap and grinning; a second slug waits in a small open hopper. Clearly a fantasy slug launcher, not a modern firearm. No people or hands, full object visible.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-adf3ebdb-b142-4f94-b19c-a6d6e1559ec9.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-slug-thrower-v1.png",
+        "bytes": 2720675,
+        "sha256": "09e43e8739c75a6d813f4dd418f51138237750d5dbd770677e0ed3b70e3a99b3",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-slug-thrower-v1.jpg",
+        "bytes": 53502,
+        "sha256": "a01784e9dc26b31ffb4597474ea68b45ba063b704b72e28381901ca527d15f35",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-tweezers-terror",
+      "version": "v1",
+      "status": "ready",
+      "en": "Tweezers of Terror",
+      "name": "Пинцет ужаса",
+      "batch": "batch-2026-10-29-axe-04",
+      "cards": [
+        {
+          "id": "axe-tweezers-of-terror",
+          "name": "Пинцет ужаса",
+          "set": "axe",
+          "type": "item",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Огромный эльфийский пинцет торжественно держит один крошечный волосок.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms, strong silhouette. Large centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, border, card frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: One enormous elegant silver pair of tweezers with emerald green leaf ornaments, menacingly curved tips delicately gripping one absurdly tiny black hair. Resting diagonally on a little dark green velvet cushion. Two connected metal arms only, clearly recognizable precision tweezers, oversized and ridiculously dramatic. Tiny frightened dust bunny on the floor beside it, no people, no text.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-653bc39f-7b03-479a-a6e1-9195c5286115.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-tweezers-terror-v1.png",
+        "bytes": 2974780,
+        "sha256": "ebfd50a28914fd5c4a5d2832c2f69a429964d8a7c732f63304273d306517e4ee",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-tweezers-terror-v1.jpg",
+        "bytes": 59660,
+        "sha256": "7e595961ff0fad99548907e009e3216a8e8cfe2961e7f8e2131a812ed2507e5e",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-skull-helmet",
+      "version": "v1",
+      "status": "ready",
+      "en": "Skull Helmet",
+      "name": "Черепной шлем",
+      "batch": "batch-2026-10-29-axe-04",
+      "cards": [
+        {
+          "id": "axe-skull-helmet",
+          "name": "Черепной шлем",
+          "set": "axe",
+          "type": "item",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Черепной шлем с клыками стоит на подушке, а паучок выглядывает из глазницы.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms, strong silhouette. Large centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, border, card frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: A chunky wearable fantasy helmet made from a single oversized ivory monster skull, two short upward horns, broad eye sockets, lower rim with two exaggerated tusks and a brown leather chin strap. It sits proudly on a faded crimson cushion; one tiny purple cartoon spider peeks out of one eye socket looking like the helmet's tenant. Clearly a hollow helmet, no human head, no gore, full object visible.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-9795d304-1669-44a2-b267-b155c3525758.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-skull-helmet-v1.png",
+        "bytes": 2987292,
+        "sha256": "7f6d6f09904a49d409f019832bdafc1a08c45efa5f4f45c1082ecdb72a0c22dc",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-skull-helmet-v1.jpg",
+        "bytes": 68841,
+        "sha256": "911a9ede3f98c23fbb4a12dc9eafc04737d9d0ff1c486e62840f2ad2cad7ba4e",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-sword-except-squid",
+      "version": "v2",
+      "status": "ready",
+      "en": "Sword of Slaying Everything Except Squid",
+      "name": "Меч убийства всего, кроме кальмаров",
+      "batch": "batch-2026-10-29-axe-sword-fix",
+      "cards": [
+        {
+          "id": "axe-sword-of-slaying-everything-except-squid",
+          "name": "Меч убийства всего, кроме кальмаров",
+          "set": "axe",
+          "type": "item",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Испуганный меч с цельным клинком отклоняется от самодовольного кальмара.",
+      "prompt": "Use case: precise-object-edit. Edit the supplied humorous fantasy card illustration. Keep the lavender squid in the lower right, its expression, warm parchment background, ink and watercolor style, blue sword grip, golden crossguard and scared face. REPLACE THE ENTIRE MALFORMED FORKED BLADE. The sword must have exactly ONE normal solid narrow steel blade extending directly from the center of the crossguard DOWNWARD to ONE pointed tip near the lower left. A recognizable conventional medieval sword, with two continuous cutting edges that converge at that single tip. Only a gentle sideways bow of the whole blade toward the LEFT, away from the squid; the tip still points down. Remove completely the second rising branch and the hooked arch on the upper right, replacing that area with plain parchment. No split, no branch, no U shape, no hook, no second tip, no detached metal. The visual joke is a mildly leaning frightened sword, not rubber anatomy. Preserve the rest of the composition, no text or frame.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-9667cfae-9b55-4861-8b16-064843f05d61.png",
+      "editReference": "reference/art/originals/axe-art-sword-except-squid-v1.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-sword-except-squid-v2.png",
+        "bytes": 2611188,
+        "sha256": "ff9bd1319a59a8e0f2fc2d1c9dce6fedb075d5234a58858083148566ddf4dd47",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-sword-except-squid-v2.jpg",
+        "bytes": 52097,
+        "sha256": "7d28bd861a7fd01686f3398671ccd8e969c80db7b1d1733e890b6dc62c4af3e2",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-false-teeth",
+      "version": "v1",
+      "status": "ready",
+      "en": "Scary False Teeth",
+      "name": "Жуткие вставные зубы",
+      "batch": "batch-2026-10-29-axe-04",
+      "cards": [
+        {
+          "id": "axe-scary-false-teeth",
+          "name": "Жуткие вставные зубы",
+          "set": "axe",
+          "type": "item",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Вставная челюсть с клыками пугает собственную зубную щётку.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms, strong silhouette. Large centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, border, card frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: A single chattering set of removable dentures, two pink gum arches with big ivory teeth and two exaggerated canine fangs, hinged wide open in a wicked grin on a small wooden bathroom shelf. A tiny ordinary blue toothbrush leans away as if frightened, bristles standing on end, no face on the toothbrush. Dentures only, no head, no eyes, no tongue, no blood. Clear funny object silhouette.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-a8fba948-4d7a-41d8-95e6-f2904db4b93a.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-false-teeth-v1.png",
+        "bytes": 2675479,
+        "sha256": "1f08a21617a55e50b7e06bdc3ad4d62bb2b675d8bcc3860ef521db418cbc12a5",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-false-teeth-v1.jpg",
+        "bytes": 58929,
+        "sha256": "65a4cc24b7bc604c9abe91c16fd231de4d7963a9d4991f3034a87532c55bfe29",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-familiar",
+      "version": "v1",
+      "status": "ready",
+      "en": "Familiar",
+      "name": "Фамильяр",
+      "batch": "batch-2026-10-29-axe-04",
+      "cards": [
+        {
+          "id": "axe-familiar",
+          "name": "Фамильяр",
+          "set": "axe",
+          "type": "item",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Фиолетовый кот-фамильяр в колпаке заснул на раскрытой книге заклинаний.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms, strong silhouette. Large centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, border, card frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: One round deep-purple wizard's cat familiar with exactly four paws, two ears and one curled tail, wearing a tiny crooked turquoise wizard hat. It has fallen asleep belly-down on an oversized open spellbook, hugging one glowing crystal ball with its two front paws. Book pages show ONLY abstract swirls and star doodles, no letters or runes. A sleepy little magical sparkle floats over its nose, warm comic scene, minimal backdrop.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-60d11b0c-1abe-4b29-a38e-496e88553e98.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-familiar-v1.png",
+        "bytes": 3033688,
+        "sha256": "e67c1a4c2e0db234f64f417d537f22d74fe131f5730de773d5a772a556cf487f",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-familiar-v1.jpg",
+        "bytes": 69853,
+        "sha256": "5e1c0406b8029b4a924ad8082bda7432a366cabbbd55cfd5fa71f670c8fb6df2",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-raincoat",
+      "version": "v1",
+      "status": "ready",
+      "en": "Raincoat",
+      "name": "Дождевик",
+      "batch": "batch-2026-10-29-axe-04",
+      "cards": [
+        {
+          "id": "axe-raincoat",
+          "name": "Дождевик",
+          "set": "axe",
+          "type": "item",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Жёлтый дождевик на пустых доспехах отражает брызги волшебного зелья.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms, strong silhouette. Large centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, border, card frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: A bright yellow hooded raincoat worn over an EMPTY squat steel breastplate on a simple wooden display stand. Sleeves hang at the sides, hood empty, no person inside. A small uncorked purple potion vial tips in midair beside it, purple droplets bouncing harmlessly from the waxy yellow fabric in clear curved arcs. Whole raincoat and stand visible, big readable silhouette, no hands or human figures.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-8b29e686-f638-4361-96cf-a0638c7d2e33.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-raincoat-v1.png",
+        "bytes": 2749815,
+        "sha256": "45c31e355473dae1eaf28cadaae2086ced08d1ebaabdcf23e7f94ca064d08c05",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-raincoat-v1.jpg",
+        "bytes": 63635,
+        "sha256": "595697a977a7aab2dbc3001be90066629565a5b088c186e91033675734649fbb",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-knight-light",
+      "version": "v1",
+      "status": "ready",
+      "en": "Knight Light",
+      "name": "Рыцарский фонарик",
+      "batch": "batch-2026-10-29-axe-04",
+      "cards": [
+        {
+          "id": "axe-knight-light",
+          "name": "Рыцарский фонарик",
+          "set": "axe",
+          "type": "item",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Маленький фонарик на рыцарском шлеме ослепляет самого любопытного мотылька.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms, strong silhouette. Large centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, border, card frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: One battered steel medieval knight helmet with a small warm glowing brass lantern cleverly strapped on top by a brown leather band. Lantern has a little pointed knightly visor like a tiny helmet, lit yellow glass inside; the main helmet's eye slit lies below it. One tiny cross-eyed moth with two antennae hovers in the glow, comically dazzled. Helmet sits on a plain stone, no human head or body, no modern electronics.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-492ef814-ee74-437e-89d6-6e78257f34b3.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-knight-light-v1.png",
+        "bytes": 2919646,
+        "sha256": "b74cd4e42d6e6145fe8e68e7dba91aae84fcdd2d6c3504bc8e4d0a56e1589b31",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-knight-light-v1.jpg",
+        "bytes": 62004,
+        "sha256": "4da04cd7a8310383be675bc29b395fa88e540341b8ffe599ac280d65f5830df4",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-fake-beard",
+      "version": "v1",
+      "status": "ready",
+      "en": "Fake Beard",
+      "name": "Фальшивая борода",
+      "batch": "batch-2026-10-29-axe-05",
+      "cards": [
+        {
+          "id": "axe-fake-beard",
+          "name": "Фальшивая борода",
+          "set": "axe",
+          "type": "item",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Рыжая накладная борода с роскошными усами маскирует маленький деревянный манекен.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple shapes, strong readable silhouette. Large centered subject with comfortable margins and minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, card frame, border or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated parts. Subject: A magnificent obviously FAKE ginger dwarf beard with long braided strands, brass beard rings and extravagant curled mustache, attached by a clearly visible thin elastic loop around a tiny plain wooden display head. The wooden head looks comically overwhelmed by the much larger beard, two simple carved startled eyes, no body. A little loose bottle of glue sits beside the stand. Rich orange hair, simple clear object silhouette.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-ce75c1c8-8dc4-44e8-be25-306214009e1f.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-fake-beard-v1.png",
+        "bytes": 2936559,
+        "sha256": "23ea97607c6262d9bfdbb7994d906b6d588d2540e6b38a4b9f0e9c764b2296ea",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-fake-beard-v1.jpg",
+        "bytes": 65192,
+        "sha256": "ce474ce11e9dfa75115b762a68c71eee83b07f1e45d20c48e8865f40c81c358c",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-caltrops",
+      "version": "v1",
+      "status": "ready",
+      "en": "Bag of Caltrops",
+      "name": "Мешок с шипами",
+      "batch": "batch-2026-10-29-axe-05",
+      "cards": [
+        {
+          "id": "axe-bag-of-caltrops",
+          "name": "Мешок с шипами",
+          "set": "axe",
+          "type": "item",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Из потрёпанного мешка высыпались железные шипы, а ботинок опасливо обходит их.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple shapes, strong readable silhouette. Large centered subject with comfortable margins and minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, card frame, border or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated parts. Subject: One battered open dark green cloth drawstring pouch tipped over, spilling exactly five chunky iron caltrops onto a small dungeon flagstone. Each caltrop is a simple four-pointed metal jack with one point upward. A single empty oversized brown adventurer boot nearby is tipped onto its toe as if anxiously avoiding the spikes, no foot or person inside. Comical dangerous floor clutter, readable simple composition.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-13810065-2336-4d8a-9574-24e64063aa6a.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-caltrops-v1.png",
+        "bytes": 3156133,
+        "sha256": "629617d20ddc7e257c37e86e06236c046c82d36fa1803540e57e9b3d3c6ff45e",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-caltrops-v1.jpg",
+        "bytes": 74002,
+        "sha256": "b557f58adf5cc42d42cde781943daab19f88fca6f0c54e41d24dd1aff489315f",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-barbecue-fork",
+      "version": "v1",
+      "status": "ready",
+      "en": "Barbecue Fork",
+      "name": "Вилка для барбекю",
+      "batch": "batch-2026-10-29-axe-05",
+      "cards": [
+        {
+          "id": "axe-barbecue-fork",
+          "name": "Вилка для барбекю",
+          "set": "axe",
+          "type": "item",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Огромная вилка для барбекю с сосиской выглядит как грозное оружие хафлинга.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple shapes, strong readable silhouette. Large centered subject with comfortable margins and minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, card frame, border or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated parts. Subject: One oversized fantasy barbecue fork displayed diagonally: exactly two long straight parallel steel tines joined to one shaft, sturdy reddish wooden handle wrapped in leather, brass butt cap. A single small grilled sausage is impaled neatly across both tips, absurdly tiny compared with the weapon, one wisp of steam. One mustard pot on the ground, no text or label. No hands or human figures, no extra tines, strong item silhouette.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-0feb47da-ec7f-4065-bfca-b2552fb46411.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-barbecue-fork-v1.png",
+        "bytes": 2433717,
+        "sha256": "f5e2621c0201a0005ab24f18d1523bb153591a2f83855c5df3b350af79626b05",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-barbecue-fork-v1.jpg",
+        "bytes": 45340,
+        "sha256": "5041348f416fc6355637cb1a196fc079fc244ed12916f09aef687b552c5e6817",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-holy-mallet",
+      "version": "v1",
+      "status": "ready",
+      "en": "Blessed Mallet of St. Eeeeeeuuuuuuuuw",
+      "name": "Кувалда святого Фу-у-у",
+      "batch": "batch-2026-10-29-axe-05",
+      "cards": [
+        {
+          "id": "axe-blessed-mallet-of-st-eeeeeeuuuuuuuuw",
+          "name": "Кувалда святого Фу-у-у",
+          "set": "axe",
+          "type": "item",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Сияющая святая кувалда заставляет маленького призрака брезгливо зажать нос.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple shapes, strong readable silhouette. Large centered subject with comfortable margins and minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, card frame, border or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated parts. Subject: One huge chunky blessed fantasy mallet, single rectangular ivory stone hammer head with gold sunburst ornament and a long blue leather-wrapped wooden shaft, leaning diagonally against a plain rock. A tiny pale lavender ghost with exactly two little arms hovers beside it, pinching its tiny nose and looking offended by the excessive holy glow. Warm golden halo around hammer, no letters or religious text, one weapon, comic rather than horror.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-9190573b-021d-4d82-91d4-7e6d3dd6faf5.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-holy-mallet-v1.png",
+        "bytes": 2826207,
+        "sha256": "31c7e7ca805b0370effb4227b471f4a9d04b3d1022ecf9f29cab05e29a970e88",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-holy-mallet-v1.jpg",
+        "bytes": 67294,
+        "sha256": "bae39c62bbbb0dc74b41a4192545d66e704a7e9a75888089fb7fdd424cac554a",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-boomdagger",
+      "version": "v1",
+      "status": "ready",
+      "en": "Boomdagger",
+      "name": "Бумеранг-кинжал",
+      "batch": "batch-2026-10-29-axe-05",
+      "cards": [
+        {
+          "id": "axe-boomdagger",
+          "name": "Бумеранг-кинжал",
+          "set": "axe",
+          "type": "item",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Серебряный кинжал-бумеранг возвращается к кошельку по дуге.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple shapes, strong readable silhouette. Large centered subject with comfortable margins and minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, card frame, border or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated parts. Subject: One single recognizable fantasy dagger bent into a broad shallow boomerang angle, with ONE continuous silver blade, one sharp tip at the left end, one short dark leather grip at the right end and one small brass guard between grip and blade. It flies above a small closed purple thief's coin purse with a clear curved dotted motion trail implying it always returns to its owner. Simple unambiguous silhouette, no forked or doubled blade, no hands, no other weapons.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-ae0c23fe-a378-4011-be6e-f97fd790e492.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-boomdagger-v1.png",
+        "bytes": 2679142,
+        "sha256": "1fe376b8684b29f17d3fe32d32c83a949a7e58d39b8b2e0a646b87522766a596",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-boomdagger-v1.jpg",
+        "bytes": 47774,
+        "sha256": "2243a27248d5b0bb4d5ae22f819af1e72816faa2092e3ecdc856a6b437866987",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-shoulder-dragon",
+      "version": "v1",
+      "status": "ready",
+      "en": "Cute Shoulder Dragon",
+      "name": "Симпатичный плечевой дракончик",
+      "batch": "batch-2026-10-29-axe-05",
+      "cards": [
+        {
+          "id": "axe-cute-shoulder-dragon",
+          "name": "Симпатичный плечевой дракончик",
+          "set": "axe",
+          "type": "item",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Крошечный дракончик на плече доспеха поджаривает зефир своим огоньком.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple shapes, strong readable silhouette. Large centered subject with comfortable margins and minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, card frame, border or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated parts. Subject: One adorable tiny coral-red dragon perched on a single empty steel shoulder pauldron displayed on a wooden stand. The dragon has exactly two forelegs, two hindlegs, two small bat wings, two little horns and one long curling tail. Its front paws hold a tiny wooden skewer with one marshmallow, which it toasts with a minuscule orange puff of flame from its snout. Huge pleased eyes, cute confident grin, entire silhouette visible, no human figure.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-f1084e15-40cd-4acf-a185-71a1378449ad.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-shoulder-dragon-v1.png",
+        "bytes": 2767490,
+        "sha256": "096e3ad0f9b84ae00f8d46d21700665b67c0e66617799c204fa547ce89efd902",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-shoulder-dragon-v1.jpg",
+        "bytes": 54189,
+        "sha256": "f51a8a87c60bf3b3f3b88d594d875143676045b625e9166269f6736024703cc4",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-peripheral-helm",
+      "version": "v1",
+      "status": "ready",
+      "en": "Helm of Peripheral Vision",
+      "name": "Шлем бокового обзора",
+      "batch": "batch-2026-10-29-axe-05",
+      "cards": [
+        {
+          "id": "axe-helm-of-peripheral-vision",
+          "name": "Шлем бокового обзора",
+          "set": "axe",
+          "type": "item",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Рыцарский шлем снабжён двумя нелепыми боковыми зеркальцами.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple shapes, strong readable silhouette. Large centered subject with comfortable margins and minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, card frame, border or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated parts. Subject: One squat steel knight helmet with a dark horizontal eye slit and TWO little round rear-view mirrors on short brass stalks attached at the sides, like comically vigilant ears. One mirror reflects a tiny purple thief glove sneaking from the side, only the glove visible, no arm or person. Helmet rests on a square wooden stand, steel gray and brass with bright blue reflection, original funny medieval equipment, no modern lettering.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-87a598cb-74bd-4478-93f3-4e5af2cabb6f.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-peripheral-helm-v1.png",
+        "bytes": 2792607,
+        "sha256": "74fe54d426e7e96f8db070a657c061da8cce161c56249dc9a781a5e16367a91e",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-peripheral-helm-v1.jpg",
+        "bytes": 61979,
+        "sha256": "85685dcbb3968dd6523348aad42e522194b41aad10e2efbbed457a52c678d36f",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-lawn-roller",
+      "version": "v1",
+      "status": "ready",
+      "en": "Lawn Roller",
+      "name": "Газонный каток",
+      "batch": "batch-2026-10-29-axe-05",
+      "cards": [
+        {
+          "id": "axe-lawn-roller",
+          "name": "Газонный каток",
+          "set": "axe",
+          "type": "item",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Тяжёлый газонный каток аккуратно раскатывает крошечный пучок травы в подземелье.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple shapes, strong readable silhouette. Large centered subject with comfortable margins and minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, card frame, border or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated parts. Subject: One absurdly massive medieval lawn roller with a single heavy granite cylinder, rusty iron axle frame and one sturdy long wooden U-shaped handle, shown three-quarter view. It is carefully rolling a ridiculously small tuft of bright green grass growing between dungeon flagstones, leaving a neat flat green strip behind it. A single tiny flower leans sideways at the edge, no faces or human figures, readable chunky tool silhouette.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-a794c77e-8d58-4d69-b95a-da7874afa031.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-lawn-roller-v1.png",
+        "bytes": 3345214,
+        "sha256": "103fc348463f57c9bf2a0d7adba992590c4915e13ea27a4277011298376053b2",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-lawn-roller-v1.jpg",
+        "bytes": 75179,
+        "sha256": "46352569284de10b9e09ecdb8b4a1e28b62bb747a82c0d95b1f962b81bd6e675",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-spiked-codpiece",
+      "version": "v1",
+      "status": "ready",
+      "en": "Spiked Codpiece",
+      "name": "Шипастый гульфик",
+      "batch": "batch-2026-10-29-axe-06",
+      "cards": [
+        {
+          "id": "codpiece",
+          "name": "Шипастый гульфик",
+          "set": "axe",
+          "type": "item",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Шипастая деталь доспеха так грозна, что даже подушка под ней залатана.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms, strong readable silhouette. Large centered subject with comfortable margins, minimal scenery and one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, do not copy existing card art. Clear structure and anatomy, no unintended extra parts. Subject: A single detached medieval armor codpiece displayed as an absurdly overengineered steel protective cup, with brass rivets, three short conical spikes and a brown leather waist belt laid behind it. It sits on a small patched crimson velvet display cushion with visible repair stitches and a loose feather escaping a puncture. Clearly an unworn armor equipment still life, no human body, no anatomy, no nudity or sexualization. Strong silver red and brass silhouette.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-148cdecc-4fc1-4522-9f1f-f5b5cd7a7d53.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-spiked-codpiece-v1.png",
+        "bytes": 3043903,
+        "sha256": "de60ddb9f6f4070dc7437228acb432bc4b2bb46baabf7f52500a63c61d762867",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-spiked-codpiece-v1.jpg",
+        "bytes": 73003,
+        "sha256": "86a0523d63635cb1b4829c54547ae5cefae908f0299a691d58d1bc79e13a76ea",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-coat-arms",
+      "version": "v1",
+      "status": "ready",
+      "en": "Coat of Arms",
+      "name": "Многорук",
+      "batch": "batch-2026-10-29-axe-06",
+      "cards": [
+        {
+          "id": "axe-coat-of-arms",
+          "name": "Многорук",
+          "set": "axe",
+          "type": "item",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Пальто с четырьмя рукавами одновременно держит чашку, щётку, меч и щит.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms, strong readable silhouette. Large centered subject with comfortable margins, minimal scenery and one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, do not copy existing card art. Clear structure and anatomy, no unintended extra parts. Subject: One magical teal long coat on a plain wooden tailor's stand, open empty collar, no head or torso inside. Exactly FOUR separate sleeves, two attached on each side in two clear rows, each ends in one cream glove. The upper pair holds a small teacup and a wooden practice sword; the lower pair holds a cleaning brush and a little round wooden shield. Exactly four sleeves and four gloves total, no additional arms. Funny multitasking coat, simple readable separated objects.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-3ceff00e-17a1-4740-84df-3403dc740760.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-coat-arms-v1.png",
+        "bytes": 2992834,
+        "sha256": "1846817cab54ebee54fe461bb5b2f1b7c11a2d8d4ebb2c262270e4b2bfdcd276",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-coat-arms-v1.jpg",
+        "bytes": 67956,
+        "sha256": "4b999c6b3d5754441d4b518c46c72066e17602ab1f14c803b219d545a0a4d988",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-siege-engine",
+      "version": "v1",
+      "status": "ready",
+      "en": "Siege Engine",
+      "name": "Осадная машина",
+      "batch": "batch-2026-10-29-axe-06",
+      "cards": [
+        {
+          "id": "axe-siege-engine",
+          "name": "Осадная машина",
+          "set": "axe",
+          "type": "item",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Крошечная осадная машина приготовилась метнуть нелепо большой камень.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms, strong readable silhouette. Large centered subject with comfortable margins, minimal scenery and one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, do not copy existing card art. Clear structure and anatomy, no unintended extra parts. Subject: One squat wooden medieval catapult on four chunky little wheels, sturdy brass brackets and a single clearly connected throwing arm with a bowl. An absurdly oversized round stone rests in the bowl, making the small catapult sag visibly under its weight. One little counterweight sack at the opposite end. Three-quarter view, entire machine visible, coherent simple construction, no figures, no extra arms or loose floating parts.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-71e64b1c-1771-4606-8a68-57ec872ca9a6.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-siege-engine-v1.png",
+        "bytes": 3010681,
+        "sha256": "549dbbe7890aefddf56cf66205d85bdb92f7f70d51fce723a23e4d6ba86ed55d",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-siege-engine-v1.jpg",
+        "bytes": 68204,
+        "sha256": "8e70993be0c8d7c9ff41dce7528004f179da8505d8689842e380ebb0c7f9e2ff",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-tinfoil-hat",
+      "version": "v1",
+      "status": "ready",
+      "en": "Tinfoil Hat",
+      "name": "Шапочка из фольги",
+      "batch": "batch-2026-10-29-axe-06",
+      "cards": [
+        {
+          "id": "axe-tinfoil-hat",
+          "name": "Шапочка из фольги",
+          "set": "axe",
+          "type": "item",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Смешная шапочка из фольги отражает фиолетовую молнию проклятия.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms, strong readable silhouette. Large centered subject with comfortable margins, minimal scenery and one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, do not copy existing card art. Clear structure and anatomy, no unintended extra parts. Subject: One comically tall crumpled silver tinfoil hat folded into a crooked pointed cone, with a broad uneven brim, resting on a plain round wooden hat stand. One stylized purple magical zigzag spark strikes the foil and bounces back in a clean curved arc. A tiny folded foil antenna on the peak, clear shiny creases, whimsical protective equipment, no head or human body, no text or symbols.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-b00472e7-4a04-4265-bda7-40badbcb4c89.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-tinfoil-hat-v1.png",
+        "bytes": 2984021,
+        "sha256": "a1d540c68aa4600a26c8fc7b9af8286bce24752da50e97fb67f1b1f172a645ad",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-tinfoil-hat-v1.jpg",
+        "bytes": 66383,
+        "sha256": "fefd547b5acd4963cf286fd73aeb107558e6b9378230ee4e84d93782dc7fcb8c",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-holy-book",
+      "version": "v1",
+      "status": "ready",
+      "en": "Very Holy Book",
+      "name": "Очень святая книга",
+      "batch": "batch-2026-10-29-axe-06",
+      "cards": [
+        {
+          "id": "axe-very-holy-book",
+          "name": "Очень святая книга",
+          "set": "axe",
+          "type": "item",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Огромная святая книга сияет так ярко, что её закладка надела тёмные очки.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms, strong readable silhouette. Large centered subject with comfortable margins, minimal scenery and one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, do not copy existing card art. Clear structure and anatomy, no unintended extra parts. Subject: One enormous thick closed ivory-and-gold fantasy holy book, bright golden halo behind it, cover embossed with a large simple radiant sun motif without letters. It stands upright on a little wooden lectern; a single long crimson ribbon bookmark draped down the side has tiny dark sunglasses perched on its tip as if dazzled by the book. Chunky pages and heavy brass clasps, obvious funny scale, no religious text, no runes.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-e435970a-b04f-49aa-a3d6-a22ebce1b5be.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-holy-book-v1.png",
+        "bytes": 2983893,
+        "sha256": "f2bbc73a1a5a3cc9a51f9e6cc5b2c949451a01d72af168ec7d3d91d0468622de",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-holy-book-v1.jpg",
+        "bytes": 74403,
+        "sha256": "d8567c2a6bd7cd2a4ed9679d49bd1a7139b57081dd506560eeda3a68a321506c",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-potion-flight",
+      "version": "v1",
+      "status": "ready",
+      "en": "Potion of Flight",
+      "name": "Зелье полёта",
+      "batch": "batch-2026-10-29-axe-06",
+      "cards": [
+        {
+          "id": "flight",
+          "name": "Зелье полёта",
+          "set": "axe",
+          "type": "potion",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Пузатый флакон с крылышками взлетел и оставил пробку на земле.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms, strong readable silhouette. Large centered subject with comfortable margins, minimal scenery and one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, do not copy existing card art. Clear structure and anatomy, no unintended extra parts. Subject: One round glass fantasy potion flask filled with bright sky-blue liquid, two small white feather wings attached symmetrically at the shoulders, fluttering as the bottle hovers above a small stone. Its cork lies on the ground below and a few blue bubbles rise from the open neck. One bottle only, clear comic flying silhouette, no label or text, minimal background, no hands or faces.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-4fea44cb-5a8a-495e-accf-51ddccc8c4f1.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-potion-flight-v1.png",
+        "bytes": 2653552,
+        "sha256": "8786ea722616ff59b75b53bb6609f58bcc424ae508cb6f4d6c1533a83c4e339d",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-potion-flight-v1.jpg",
+        "bytes": 58636,
+        "sha256": "fe01043f175570a782782bf9b79ba353f4e431c86e2e0c572e3384bac402aee5",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-druid-fluid",
+      "version": "v1",
+      "status": "ready",
+      "en": "Druid Fluid",
+      "name": "Друидская смесь",
+      "batch": "batch-2026-10-29-axe-06",
+      "cards": [
+        {
+          "id": "axe-druid-fluid",
+          "name": "Друидская смесь",
+          "set": "axe",
+          "type": "potion",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Лесное зелье прорастает веточками, а его пробка превратилась в жёлудь.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms, strong readable silhouette. Large centered subject with comfortable margins, minimal scenery and one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, do not copy existing card art. Clear structure and anatomy, no unintended extra parts. Subject: One squat round emerald glass potion bottle holding bright green swirling liquid, entwined in a few thin living vines and oak leaves. Its stopper is one large acorn with a tiny sprout growing from it, a small wooden stirring spoon leans against the bottle. A single puzzled ladybug sits on the leaf, clear forest-brew visual joke. No text, labels, runes, people or human hands, distinct green and amber palette.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-3e556427-36ea-408e-83bd-8c448a60057c.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-druid-fluid-v1.png",
+        "bytes": 2940864,
+        "sha256": "2ca7abdb32c10450b600859abc75c0a24a0392f442f881a5c560ad248ad8ff07",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-druid-fluid-v1.jpg",
+        "bytes": 71736,
+        "sha256": "cc888063aede76e47efccf24b624c0949771560fdef7f38fa8e8379b004af2d2",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-lemming-juice",
+      "version": "v1",
+      "status": "ready",
+      "en": "Lemming Juice",
+      "name": "Лемминговый сок",
+      "batch": "batch-2026-10-29-axe-06",
+      "cards": [
+        {
+          "id": "axe-lemming-juice",
+          "name": "Лемминговый сок",
+          "set": "axe",
+          "type": "potion",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Три крошечных лемминга маршируют к стаканчику рядом с флаконом.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms, strong readable silhouette. Large centered subject with comfortable margins, minimal scenery and one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, do not copy existing card art. Clear structure and anatomy, no unintended extra parts. Subject: One pear-shaped glass potion bottle filled with vivid orange liquid, corked, sitting beside a tiny empty wooden drinking cup. Exactly three tiny round tan lemmings with cream bellies, small ears, four short paws each and stub tails march single file around the bottle toward the cup, absurdly determined expressions. They are alive and cheerful, no harm or cliffs, simple readable silhouettes, no fruit labels or text, warm orange and brown palette.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-ee064486-24b5-457a-90c7-0b19367a4aaa.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-lemming-juice-v1.png",
+        "bytes": 2706457,
+        "sha256": "ede094bd4103404adc96ca8748cc542851f33d3b9728041e1edac475394d62ce",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-lemming-juice-v1.jpg",
+        "bytes": 56008,
+        "sha256": "3413f7438337813992baa751ae69cc9a57b9e8389e9c5917f76b707b1636d3bb",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-baby-oil",
+      "version": "v1",
+      "status": "ready",
+      "en": "Baby Oil",
+      "name": "Детское масло",
+      "batch": "batch-2026-10-29-axe-07",
+      "cards": [
+        {
+          "id": "axe-baby-oil",
+          "name": "Детское масло",
+          "set": "axe",
+          "type": "escape",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Флакон масла оставил такую скользкую лужицу, что сапоги уехали в разные стороны.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms and strong readable silhouette. Large centered subject with comfortable margins, minimal scenery, one clear visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs or malformed objects. Subject: One squat clear glass flask filled with golden oil, tipped beside a small shiny oil puddle on dungeon flagstones. A cork with a tiny pastel blue bow lies nearby. Exactly two EMPTY brown adventurer boots are sliding apart across the puddle, soles visibly slipping, little motion arcs. No person or baby, no label, no text. Simple readable golden blue and brown composition, visual joke of effortless escape.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-d28a682b-cb3b-4cf3-9e9d-8b9185b33fa8.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-baby-oil-v1.png",
+        "bytes": 3153109,
+        "sha256": "98f4ce12896ea658660b7461719b1f65f84ee4eb8f668e0c7e575d528e16deef",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-baby-oil-v1.jpg",
+        "bytes": 81146,
+        "sha256": "62b6f98e9a7df4dbfe5fd3feaae68f0b18e01c31bbd145d98ab3a7a0a2e3047f",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-untied-shoe",
+      "version": "v1",
+      "status": "ready",
+      "en": "Your Shoe's Untied!",
+      "name": "А у тебя шнурок развязался!",
+      "batch": "batch-2026-10-29-axe-07",
+      "cards": [
+        {
+          "id": "axe-your-shoe-s-untied",
+          "name": "А у тебя шнурок развязался!",
+          "set": "axe",
+          "type": "potion",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Суровый рыцарь растерялся из-за огромного развязанного шнурка.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms and strong readable silhouette. Large centered subject with comfortable margins, minimal scenery, one clear visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs or malformed objects. Subject: One stocky adult fantasy knight in chunky steel armor and a crimson cape looks down in horror at ONE comically oversized brown lace-up boot with its long shoelace completely untied and looping loosely on the floor. Exactly two arms and two legs; one gauntlet points at the lace, other rests on hip. Helmet visor raised revealing puzzled eyebrows and mustache. Full figure, simple clear anatomy, no other figures.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-085e5a68-ec00-4d36-b556-1131a4a3f692.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-untied-shoe-v1.png",
+        "bytes": 2914828,
+        "sha256": "2358dd2a76096816ca89b2d90e1e6199e63524817bce4c0eb5232800f8f95130",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-untied-shoe-v1.jpg",
+        "bytes": 65971,
+        "sha256": "8462a097cf973aead48452c2240fb6358bae0c3121139158eec5e76413f4c708",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-find-map",
+      "version": "v1",
+      "status": "ready",
+      "en": "Find A Map",
+      "name": "Найди карту",
+      "batch": "batch-2026-10-29-axe-07",
+      "cards": [
+        {
+          "id": "axe-find-map",
+          "name": "Найди карту",
+          "set": "axe",
+          "type": "special",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Искатель нашёл карту сокровищ, но держит её вверх ногами.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms and strong readable silhouette. Large centered subject with comfortable margins, minimal scenery, one clear visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs or malformed objects. Subject: One adult green-cloaked fantasy explorer with a huge round nose and tiny spectacles proudly holds a small parchment treasure map UPSIDE DOWN in exactly two hands. Map shows a winding dotted path and one large red X only, no writing or letters. A large compass beside his boot points the opposite way from his confident gaze. Exactly two arms and two legs, full figure, simple boots and leather hat, comic misplaced confidence.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-15ae8465-3b5c-489d-aad4-ab512bb8b03d.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-find-map-v1.png",
+        "bytes": 3323800,
+        "sha256": "3dbf968f8f8f1f7a84d54d76731316cca4cae5fc9ce3f7a048a7b9654504ef8d",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-find-map-v1.jpg",
+        "bytes": 76540,
+        "sha256": "182f1b194da2429321d2117cd163faaa0063c472a93b55e3f0b79c9e682955ec",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-garage-sale",
+      "version": "v1",
+      "status": "ready",
+      "en": "Garage Sale",
+      "name": "Распродажа",
+      "batch": "batch-2026-10-29-axe-07",
+      "cards": [
+        {
+          "id": "axe-garage-sale",
+          "name": "Распродажа",
+          "set": "axe",
+          "type": "special",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "На прилавке подземелья продаются помятый шлем, треснувший щит и чайник с клыками.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms and strong readable silhouette. Large centered subject with comfortable margins, minimal scenery, one clear visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs or malformed objects. Subject: A small rickety wooden market stall inside a dungeon, packed with exactly three absurd second-hand fantasy bargains: one dented steel helmet containing a bird nest, one cracked round wooden shield patched with a kitchen spoon, and one tiny purple teapot with harmless vampire fangs on its spout. Three blank dangling price tags, absolutely no text or digits. A few gold coins on counter, no people, clear separate chunky objects, funny flea-market atmosphere.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-d9d53d92-f014-424f-aef4-b7c66b1888e8.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-garage-sale-v1.png",
+        "bytes": 3124326,
+        "sha256": "fe19b11cf5614ab66e0c33796d6bbcbf1e4ecacdbcbe0d976aa2d4072b87cc5b",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-garage-sale-v1.jpg",
+        "bytes": 84114,
+        "sha256": "b33f2a08acd4ee53c3c58d1d5f32a4f3d70f610fa84c034daebd6d45d6ac1b01",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-of-doom",
+      "version": "v1",
+      "status": "ready",
+      "en": ". . . of Doom!",
+      "name": "…Ужаса!",
+      "batch": "batch-2026-10-29-axe-07",
+      "cards": [
+        {
+          "id": "axe--of-doom",
+          "name": "…Ужаса!",
+          "set": "axe",
+          "type": "special",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Обычная деревянная ложка обрела зловещее сияние и пугает мышонка.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms and strong readable silhouette. Large centered subject with comfortable margins, minimal scenery, one clear visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs or malformed objects. Subject: One ordinary oversized wooden soup spoon floating upright in a ridiculously dramatic halo of dark violet magic, with two tiny glowing red eyes appearing in the bowl of the spoon. A small loose black ribbon with skull bead tied around its handle. One tiny gray mouse below clutches a crumb and stares in comic alarm. Clear wooden spoon silhouette, no other weapons or utensils, one mouse with four paws and one tail. Warm parchment, humorous enchanted-item enhancement.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-3a6a5aa7-51ad-406e-854e-27605ed41f34.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-of-doom-v1.png",
+        "bytes": 3137751,
+        "sha256": "56c368afb6bed8625f9d42f0a96f6d010c1d2593bf69ba566545bf6dc27e71ab",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-of-doom-v1.jpg",
+        "bytes": 70530,
+        "sha256": "3343c236bf13f89773e99d2fd1c94ac8f99544a38dd677bdd1b8152a78ff4498",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-itching-powder",
+      "version": "v1",
+      "status": "ready",
+      "en": "Itching Powder",
+      "name": "Порошок зудения",
+      "batch": "batch-2026-10-29-axe-07",
+      "cards": [
+        {
+          "id": "axe-itching-powder",
+          "name": "Порошок зудения",
+          "set": "axe",
+          "type": "special",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Порошок из баночки заставляет пустую кольчугу чесаться собственной щёткой.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms and strong readable silhouette. Large centered subject with comfortable margins, minimal scenery, one clear visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs or malformed objects. Subject: One small open terracotta powder jar spills sparkling magenta powder toward an EMPTY chainmail shirt on a wooden armor stand. The shirt's TWO hanging sleeves comically curl inward, each ending in one leather glove; one glove holds a small scratching brush against the shirt's side, the other scratches its shoulder. Empty collar, no person inside. One jar, two sleeves, two gloves, clear separation, funny itchy equipment scene.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-42c130f0-e002-4fd3-9115-ffbf64fdb30b.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-itching-powder-v1.png",
+        "bytes": 3291313,
+        "sha256": "9b163c81e55afc06047b78ea01c35ae303fe75284c45f0feaade4cc5744f1662",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-itching-powder-v1.jpg",
+        "bytes": 78407,
+        "sha256": "21cc9cf75349c469974f7beb8ab789b523fec1a3d04fb733bb4a7156f950a63a",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-cowardice-potion",
+      "version": "v1",
+      "status": "ready",
+      "en": "Potion of Cowardice",
+      "name": "Зелье трусости",
+      "batch": "batch-2026-10-29-axe-07",
+      "cards": [
+        {
+          "id": "axe-potion-of-cowardice",
+          "name": "Зелье трусости",
+          "set": "axe",
+          "type": "special",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Бутылочка зелья трусости сама прячется за крошечным щитом.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms and strong readable silhouette. Large centered subject with comfortable margins, minimal scenery, one clear visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs or malformed objects. Subject: One round pale yellow glass potion bottle containing lemon-yellow liquid, corked and wrapped in a small purple cloth cape. A simple terrified cartoon face visible as magical condensation on its front. It hides behind a comically tiny round wooden buckler propped against it; a small harmless ladybug on a stone nearby is what scares it. No arms or legs on bottle, one bottle only, no label or text, readable item silhouette.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-40202657-e5d1-4127-8937-fed82d40897c.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-cowardice-potion-v1.png",
+        "bytes": 2788661,
+        "sha256": "4867330a6f6ba74ec3b072752cc0950fe70fa9b8f1762a87bb81759c82daf90d",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-cowardice-potion-v1.jpg",
+        "bytes": 70458,
+        "sha256": "7f023659c35bee667013f4fead761ed271990ddfd8977a541ac7741873b1acb7",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-disbelief-potion",
+      "version": "v1",
+      "status": "ready",
+      "en": "Potion of Disbelief",
+      "name": "Зелье неверия",
+      "batch": "batch-2026-10-29-axe-07",
+      "cards": [
+        {
+          "id": "axe-potion-of-disbelief",
+          "name": "Зелье неверия",
+          "set": "axe",
+          "type": "special",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "От бирюзового зелья грозный монстр превращается в прозрачный контур.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms and strong readable silhouette. Large centered subject with comfortable margins, minimal scenery, one clear visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs or malformed objects. Subject: One open angular turquoise glass potion bottle on a dungeon stone, emitting a thin cyan magical vapor that reaches a small purple horned monster beside it. The monster is comically surprised, with exactly two arms and two legs, its left half solid watercolor and its right half fading into a simple pale transparent outline and harmless sparkles. No wound or gore, funny disappearing trick, large clear bottle and small full monster, no text.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-4b9740c1-542f-43f3-a344-657eae025147.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-disbelief-potion-v1.png",
+        "bytes": 3042715,
+        "sha256": "d7913bb6bd2d603ddb9d47033322eede9a5c8bad41cf3d811fa39d2bf5188cc2",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-disbelief-potion-v1.jpg",
+        "bytes": 67846,
+        "sha256": "42ba419132c87854a19ff0a79d0a27384870c252d78eb0c35d7a0e3ee100983e",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-tiny-hands",
+      "version": "v1",
+      "status": "ready",
+      "en": "Curse! Tiny Hands",
+      "name": "Проклятие! Крошечные ручки",
+      "batch": "batch-2026-10-29-axe-08",
+      "cards": [
+        {
+          "id": "axe-tiny-hands",
+          "name": "Проклятие! Крошечные ручки",
+          "set": "axe",
+          "type": "curse",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Могучий воин с крошечными ладонями безуспешно пытается поднять огромный топор.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One burly adult fantasy warrior in orange tunic and steel shoulder armor, exactly two normal-length arms ending in absurdly TINY hands, exactly two legs. He stares helplessly at an enormous two-handed axe lying on the ground; both tiny palms open above it. Full body, big worried eyebrows, no extra arms or detached hands.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-50b647bb-496c-46a3-9dc7-607f856cb5fa.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-tiny-hands-v1.png",
+        "bytes": 3033852,
+        "sha256": "1e4d3455aca13b34aae3fd545858cf755d511404b175cce36b937a3a5b81d6e4",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-tiny-hands-v1.jpg",
+        "bytes": 70694,
+        "sha256": "87e0dae2d12b639070b4227d845367eec5d5bd4ee23105be4c72341878c09e02",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-bo-curse",
+      "version": "v1",
+      "status": "ready",
+      "en": "Curse! B.O.",
+      "name": "Проклятие! Вонючка",
+      "batch": "batch-2026-10-29-axe-08",
+      "cards": [
+        {
+          "id": "axe-curse-b-o",
+          "name": "Проклятие! Вонючка",
+          "set": "axe",
+          "type": "curse",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Самодовольный искатель отпугнул даже муху облаком зелёного запаха.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One stocky adult adventurer in purple tunic, exactly two arms and two legs, proudly hands on hips. Pale green comic odor spirals rise from his clothes; one little fly retreats wearing a miniature clothespin on its nose. No filth or gore. Entire figure, curly mustache, oblivious grin, clear broad silhouette.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-e389ba8c-4b8a-4287-80e6-bf7cc3308b57.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-bo-curse-v1.png",
+        "bytes": 2904932,
+        "sha256": "96cdb75be43c15a1f537e530bfe26078ecc5c60ec54a32f20f5597cbe2c77c40",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-bo-curse-v1.jpg",
+        "bytes": 64467,
+        "sha256": "a0b2b6c56cfbc35a1f959a972419330aa508e364fdd0c1bca1f86e348453875b",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-big-feet",
+      "version": "v1",
+      "status": "ready",
+      "en": "Curse! Big Feet",
+      "name": "Проклятие! Большие ноги",
+      "batch": "batch-2026-10-29-axe-08",
+      "cards": [
+        {
+          "id": "axe-curse-big-feet",
+          "name": "Проклятие! Большие ноги",
+          "set": "axe",
+          "type": "curse",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Удивлённый искатель вырос из сапог, а огромные ступни заняли почти весь пол.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One small adult fantasy explorer in green tunic with exactly two arms and two legs ending in TWO enormous bare feet, feet comically larger than his torso. He looks down in astonishment; two tiny split empty boots lie beside him. Five simple toes per foot, clear readable forms, no additional feet, full figure.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-e1ad292e-16b9-4417-8439-c5b03fbf567e.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-big-feet-v1.png",
+        "bytes": 3025771,
+        "sha256": "c2fca9bddc2773d52bf34b2375adb5c8616866d95fc28af7b744aca5047bddf6",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-big-feet-v1.jpg",
+        "bytes": 69590,
+        "sha256": "730423e4c7e0cefe13ba35ee8a60f33de6f6ab6790af2e7e70a45c9130713eff",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-cursed-thingy",
+      "version": "v1",
+      "status": "ready",
+      "en": "Curse! Cursed Thingy",
+      "name": "Проклятие! Проклятая шмотка",
+      "batch": "batch-2026-10-29-axe-08",
+      "cards": [
+        {
+          "id": "axe-curse-cursed-thingy",
+          "name": "Проклятие! Проклятая шмотка",
+          "set": "axe",
+          "type": "curse",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Проклятый шлем вцепился в деревянный манекен и не желает сниматься.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One purple steel helmet covered in a few harmless curled black magical tendrils, firmly stuck on a plain wooden display head. Two gloved hands on two slender wooden mannequin arms try unsuccessfully to lift the helmet by its sides, head itself has a comically unhappy carved face. Clear connected display bust, no other limbs. Violet sparks and a tiny ghostly padlock hovering above helmet convey magical locking.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-c01db5e2-3548-4746-ba4e-c8ac8072e431.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-cursed-thingy-v1.png",
+        "bytes": 3061001,
+        "sha256": "9aff3581840791251db4e33c1cf758f5e5171e60f1c1b94474093a38b7a9a29a",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-cursed-thingy-v1.jpg",
+        "bytes": 67221,
+        "sha256": "ce96d0269d2f59c97cc1b79e321c02a4387a71eb298656705ca74bbce2222374",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-fools-gold",
+      "version": "v1",
+      "status": "ready",
+      "en": "Curse! Fool's Gold",
+      "name": "Проклятие! Золото дураков",
+      "batch": "batch-2026-10-29-axe-08",
+      "cards": [
+        {
+          "id": "axe-curse-fool-s-gold",
+          "name": "Проклятие! Золото дураков",
+          "set": "axe",
+          "type": "curse",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Сокровище оказалось блестящими фантиками и покрашенными камнями.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One open wooden treasure chest full of shiny gold-painted pebbles and crumpled yellow wrappers, one peeled gold foil revealing an ordinary gray rock. A tiny gray mouse holds a magnifying glass toward the fake treasure with a skeptical raised brow. Mouse two front paws two hind paws one tail. No coins with letters, no text, simple clear chest and bright false riches.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-ee48726d-74ad-40d7-ae1c-5165cc7f55bd.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-fools-gold-v1.png",
+        "bytes": 3174987,
+        "sha256": "d94ec1290c8a8252ad7ef853156412110779569147453d4cee0c8c62e8c9289e",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-fools-gold-v1.jpg",
+        "bytes": 77878,
+        "sha256": "6258c65a1f7d929b7446a82a7277945ca5050e1b6c93447c1e0fff7fb9d58c85",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-generosity",
+      "version": "v1",
+      "status": "ready",
+      "en": "Curse! Generosity",
+      "name": "Проклятие! Великодушие",
+      "batch": "batch-2026-10-29-axe-08",
+      "cards": [
+        {
+          "id": "axe-curse-generosity",
+          "name": "Проклятие! Великодушие",
+          "set": "axe",
+          "type": "curse",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Воин щедро раздаёт своё снаряжение, оставшись в смешном стёганом поддоспешнике.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One cheerful adult warrior in quilted cream gambeson and striped socks, exactly two arms and two legs, giving away his last steel helmet with both hands toward two empty open leather gift sacks. His sword and boots already sit inside the sacks. Proudly generous grin while his belt purse hangs inside-out empty, fully clothed, no nudity, no other people or hands.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-c6d12671-c5e3-4d7f-bcd6-730f0f06289e.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-generosity-v1.png",
+        "bytes": 2918756,
+        "sha256": "551b8c273aea234b779df480d119452e0195adb070f40c32b93823659ba35504",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-generosity-v1.jpg",
+        "bytes": 71033,
+        "sha256": "6b47604334ff927f1284489e03d3fb5e10e9a82852183b73b65d8f45a2bc41df",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-necrophobia",
+      "version": "v1",
+      "status": "ready",
+      "en": "Curse! Necrophobia",
+      "name": "Проклятие! Некрофобия",
+      "batch": "batch-2026-10-29-axe-08",
+      "cards": [
+        {
+          "id": "axe-curse-necrophobia",
+          "name": "Проклятие! Некрофобия",
+          "set": "axe",
+          "type": "curse",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Рыцарь спрятался за щитом от крошечного призрака с ромашкой.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One large trembling adult knight in steel armor and blue cape, exactly two arms and two legs, crouching behind one tiny wooden shield held in both gauntlets. In front hovers one very small friendly lavender ghost offering a daisy, ghost has two short arms and a wispy tail. Knight's raised visor shows panicked eyes and chattering teeth, comic fear no realistic horror.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-c130e75e-defd-4d4d-be10-fadb5c458d69.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-necrophobia-v1.png",
+        "bytes": 3208299,
+        "sha256": "ab00c38ed34e32eed00738be648cbadcdb5801a0e7b9d8da01ca24e7009a0e6f",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-necrophobia-v1.jpg",
+        "bytes": 75118,
+        "sha256": "71fc959c09e1473d3674c4b24e7c334839ef65214aa2a557f6f12bbf7bce0bb8",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-new-edition",
+      "version": "v1",
+      "status": "ready",
+      "en": "Curse! New Edition Rules",
+      "name": "Проклятие! Новая редакция правил",
+      "batch": "batch-2026-10-29-axe-08",
+      "cards": [
+        {
+          "id": "axe-curse-new-edition-rules",
+          "name": "Проклятие! Новая редакция правил",
+          "set": "axe",
+          "type": "curse",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Новая книга правил упала на старую, подняв тучу пыли и кубики.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One enormous bright crimson hardback rulebook slams onto a tiny battered blue rulebook on a wooden gaming table, sending two simple white dice and a few blank parchment slips bouncing upward. Both covers are entirely blank except simple geometric gold corner ornaments, pages without writing. Huge weight difference, comic impact puff, no characters, no text or digits on dice, use round pips.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-6572ac13-0b96-42cb-8d3b-715120731ad2.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-new-edition-v1.png",
+        "bytes": 2858176,
+        "sha256": "130bf70357af3f1d8c30a4be826f74879945bf0393e2746f4012657850ed841b",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-new-edition-v1.jpg",
+        "bytes": 69907,
+        "sha256": "0df35b2196c7ca511a2a6c91414bb4411d25cf88f9534637e7dbf91336f847f6",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-navel",
+      "version": "v1",
+      "status": "ready",
+      "en": "Contemplate Your Navel (GUAL)",
+      "name": "Созерцай свой пупок",
+      "batch": "batch-2026-10-29-axe-09",
+      "cards": [
+        {
+          "id": "axe-contemplate-navel",
+          "name": "Созерцай свой пупок",
+          "set": "axe",
+          "type": "level",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Воин так увлёкся созерцанием пупка, что бабочка села ему на нос.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One stocky adult fantasy warrior seated cross-legged on a little cushion, lifting the lower edge of his orange tunic with exactly two hands to gaze solemnly at his own round belly button. Fully covered trousers, modest harmless exposed belly only. Exactly two arms and two legs. Tiny butterfly rests unnoticed on his large nose, absurd meditation, no sexualization.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-4a4a2245-8aa1-488b-8605-858dc4d24355.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-navel-v1.png",
+        "bytes": 2957841,
+        "sha256": "ee3b8ea785c39947442fa5f2ec05a651f11b0c8e8f624bb41926aa309343d89b",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-navel-v1.jpg",
+        "bytes": 72445,
+        "sha256": "2e2655149ef2a67a88f84a789fb9a680ee15dd4c6c9e301c6f60684251507304",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-gm-promise",
+      "version": "v1",
+      "status": "ready",
+      "en": "Promise The GM You'll Stop Telling Him About Your Character (GUAL)",
+      "name": "Обещай мастеру больше не рассказывать о своём персонаже",
+      "batch": "batch-2026-10-29-axe-09",
+      "cards": [
+        {
+          "id": "axe-promise-gm",
+          "name": "Обещай мастеру больше не рассказывать о своём персонаже",
+          "set": "axe",
+          "type": "level",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Разговорчивый игрок запечатал рот и протягивает мастеру цветок примирения.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One adult fantasy bard in a flamboyant purple hat sits at a gaming table with a ridiculously long rolled blank character parchment beside him. His mouth is covered by a neat little strip of cream tape, and he offers one daisy with one hand; other hand raised in a solemn promise. Exactly two arms, simple full upper body. Behind a plain game-master screen, only one relieved face with glasses visible, no extra hands, no text.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-c3e6eb5a-087a-4965-a439-b7b920622e8f.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-gm-promise-v1.png",
+        "bytes": 2936345,
+        "sha256": "b169753f806e08875a265c7ab3eb36002e3daf1e4b994ddb9e255c98db21c1f4",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-gm-promise-v1.jpg",
+        "bytes": 68224,
+        "sha256": "c47678d9666b78965ac3c9bc4a4078c6f7285d387502001f4609f856ada7690a",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-fold-spindle",
+      "version": "v1",
+      "status": "ready",
+      "en": "Fold, Spindle, and Mutilate (GUAL)",
+      "name": "Приплюсни, проткни и искалечь",
+      "batch": "batch-2026-10-29-axe-09",
+      "cards": [
+        {
+          "id": "axe-fold-spindle-and-mutilate-gual",
+          "name": "Приплюсни, проткни и искалечь",
+          "set": "axe",
+          "type": "level",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Грозный молоток и канцелярский штырь расправились с безобидным листом бумаги.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: An absurdly dramatic desktop battle scene: one crumpled BLANK parchment sheet folded like an accordion, pierced by one normal brass desk paper spike, next to one chunky wooden mallet and a tiny pair of blunt scissors. No bodies, no gore. Paper curls form a comically shocked little face with only two simple eyes and mouth, no writing. Distinct separate objects, clear still life.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-22abf79b-f87f-40f7-aba1-fa660288c66b.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-fold-spindle-v1.png",
+        "bytes": 2893616,
+        "sha256": "d4a953b30170e2a0cbe754358be062ea24cc658152efb3ea840e482c4361b8af",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-fold-spindle-v1.jpg",
+        "bytes": 66358,
+        "sha256": "22a57fe8e65f4531e1ddd2dd763c1749cee8feafd9bb08de2d669d3c1ff725f6",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-pizza",
+      "version": "v1",
+      "status": "ready",
+      "en": "Pay For The Pizza (GUAL)",
+      "name": "Заплати за пиццу",
+      "batch": "batch-2026-10-29-axe-09",
+      "cards": [
+        {
+          "id": "axe-pay-for-the-pizza-gual",
+          "name": "Заплати за пиццу",
+          "set": "axe",
+          "type": "level",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Рыцарская перчатка оплачивает пиццу горстью золотых монет.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One open simple cardboard pizza box on a fantasy gaming table with a round cheesy mushroom pizza missing one slice. Exactly one armored gauntlet attached to a short visible sleeve enters from left, offering three gold coins beside the box, no other hands or figures. One tiny red dragon at far right steals the missing slice, four paws two wings one tail. No logo, labels or text, humorous medieval takeout.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-8a1bb146-75fe-4cfa-b90e-79677ab76577.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-pizza-v1.png",
+        "bytes": 3132373,
+        "sha256": "e5223a892969c2dd1e41551bf1502e25aebfcd3286bde3390237bd19837f5455",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-pizza-v1.jpg",
+        "bytes": 81127,
+        "sha256": "a39990a049f2e66b02d63cea71e093c180008f04c241ef8364f9eb03b89896ff",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-roughness",
+      "version": "v1",
+      "status": "ready",
+      "en": "Unnecessary Roughness (GUAL)",
+      "name": "Излишняя грубость",
+      "batch": "batch-2026-10-29-axe-09",
+      "cards": [
+        {
+          "id": "axe-unnecessary-roughness-gual",
+          "name": "Излишняя грубость",
+          "set": "axe",
+          "type": "level",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Варвар расколол орех огромной кувалдой и удивился результату.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One broad adult barbarian in green tunic and fur boots with exactly two arms and two legs, holding ONE enormous wooden mallet with both hands after striking a tiny walnut on a stone. Scattered walnut shells and a cartoon dust puff, no harm to creatures. Sheepish surprised face at the ludicrous overkill, clear tool construction and full figure.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-172be554-7c40-45b0-8d2f-2169a50a9d00.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-roughness-v1.png",
+        "bytes": 3062330,
+        "sha256": "8bdc14af70597d7bcde50ca6b73515353ceb2f0c8f4817adc2194fccc419026d",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-roughness-v1.jpg",
+        "bytes": 69361,
+        "sha256": "8848e991fa0107f5e4472ff6ac274776baa987bd56ec7fee0234befb41b06464",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-wash-car",
+      "version": "v1",
+      "status": "ready",
+      "en": "Wash The GM's Car (GUAL)",
+      "name": "Помой машину мастера",
+      "batch": "batch-2026-10-29-axe-09",
+      "cards": [
+        {
+          "id": "axe-wash-the-gm-s-car-gual",
+          "name": "Помой машину мастера",
+          "set": "axe",
+          "type": "level",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Рыцарь старательно моет маленькую машину, всё вокруг в пене.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One adult knight in steel armor and yellow rubber apron, exactly two arms and two legs, scrubbing a tiny generic rounded red car with one big sponge while holding a bucket in the other hand. Car parked beside dungeon stone wall, big soap bubbles and foam beard on knight's visor. Entire simple car, no badges, logos, license digits, brand styling or text, funny fantasy-meets-car chore.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-6d038696-78e2-458d-bb4b-6a4d1be334be.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-wash-car-v1.png",
+        "bytes": 3585433,
+        "sha256": "e9376c93bc65f45f2bba61647842ce6b52595ec1f9f50dd2a785fcc278864d90",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-wash-car-v1.jpg",
+        "bytes": 94709,
+        "sha256": "6d614660c4b5251e71160e2267fad0072d9b1b5f70118e71150b3799042ded5d",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-switch-sheets",
+      "version": "v1",
+      "status": "ready",
+      "en": "Switch Character Sheets (GUAL)",
+      "name": "Подмени лист персонажа",
+      "batch": "batch-2026-10-29-axe-09",
+      "cards": [
+        {
+          "id": "axe-switch-character-sheets-gual",
+          "name": "Подмени лист персонажа",
+          "set": "axe",
+          "type": "level",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Два свитка с портретами мышонка и дракона тайком меняются местами.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: Two blank character sheets on a wooden gaming table, one bearing ONLY a tiny cartoon mouse portrait and one bearing ONLY a huge dragon portrait, no writing, numbers or letters. Exactly two leather-gloved hands attached to two visible purple sleeves cross over to swap the sheets. One suspicious small white die with round pips nearby, clear trickster tabletop composition, no other hands.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-eb76c473-b398-4d6e-945e-18a86b32c482.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-switch-sheets-v1.png",
+        "bytes": 2737455,
+        "sha256": "22609d235a16cd88a0b1f1428fdf55b204220c72587247c79d03417fdef989be",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-switch-sheets-v1.jpg",
+        "bytes": 66188,
+        "sha256": "11f819c8764da131c7718bd0738439dca7d371f385b50080126c71f5eceafe70",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-trojan",
+      "version": "v1",
+      "status": "ready",
+      "en": "Trojan Horse",
+      "name": "Троянский конь",
+      "batch": "batch-2026-10-29-axe-09",
+      "cards": [
+        {
+          "id": "axe-trojan-horse",
+          "name": "Троянский конь",
+          "set": "axe",
+          "type": "special",
+          "deck": "treasures"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Игрушечный деревянный конь прячет внутри довольного зелёного монстра.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One squat wooden Trojan horse on exactly four little wheels, four wooden legs, a carved smiling horse head and a short rope mane and tail. A little hinged hatch in its round wooden belly is open, revealing ONE mischievous green monster's face and two small paws peeking out. Coherent toy construction, simple brass hinges, no human soldiers, entire horse visible, funny surprise delivery.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-bcae87af-65f2-422b-8dab-5be8948b92c9.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-trojan-v1.png",
+        "bytes": 2836639,
+        "sha256": "c774885cbdfdd2412cb671a976b50a2102310318fc7c30f81ad8a47b6d17e271",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-trojan-v1.jpg",
+        "bytes": 68768,
+        "sha256": "6bc5074c67f5c861e602b02d58b690447c1b4b0bf4e4f53c5e3c414d51ed11c0",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-annihilation",
+      "version": "v1",
+      "status": "ready",
+      "en": "Annihilation",
+      "name": "Аннигиляция",
+      "batch": "batch-2026-10-29-axe-10",
+      "cards": [
+        {
+          "id": "axe-annihilation",
+          "name": "Аннигиляция",
+          "set": "axe",
+          "type": "special",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Карта исчезает в крошечной чёрной дыре, оставляя только удивлённый уголок.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One blank parchment playing card being sucked into a small deep-violet magical vortex floating above a wooden gaming table. Half the card dissolves into harmless golden dust; remaining corner bears a tiny surprised cartoon face only, no text or other symbols. One empty card-shaped dust outline on the table, clear readable motion and comical cosmic overkill, no characters or violence.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-3c150b52-ebed-4747-bdcf-94297edab714.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-annihilation-v1.png",
+        "bytes": 2849083,
+        "sha256": "1cec65bb4da575c7bad54f463456918e8d61f716b0d5a17f01363a7dfe4542aa",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-annihilation-v1.jpg",
+        "bytes": 78908,
+        "sha256": "13cbf3208c07ac52450567d921f3deb147e6edb98b9b1b8db6d3a95ea434efc6",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-too-many",
+      "version": "v1",
+      "status": "ready",
+      "en": "Deck Of Too Many Things",
+      "name": "Колода чересчур многих вещей",
+      "batch": "batch-2026-10-29-axe-10",
+      "cards": [
+        {
+          "id": "axe-deck-of-too-many-things",
+          "name": "Колода чересчур многих вещей",
+          "set": "axe",
+          "type": "special",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Из маленькой колоды вываливаются чайник, сапог, рыба и корона.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One small stack of plain cream-backed fantasy playing cards tied with a loose blue ribbon, overflowing magically with exactly four absurd chunky objects: one red teapot, one brown boot, one bewildered silver fish and one little gold crown. Objects float in a simple short arc over stack, no people or hands, no text or card faces, readable silly abundance.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-bb010777-4741-4900-a694-e34250e93842.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-too-many-v1.png",
+        "bytes": 3088526,
+        "sha256": "90614ba8524804300f993379a5a3fe5ff909694ec0f2e8afb55eb0b38ad51859",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-too-many-v1.jpg",
+        "bytes": 67853,
+        "sha256": "6c50aa3f8e24ce8e14c77194f997d42032f0347aa78191c218524358b1b9e162",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-friendly",
+      "version": "v1",
+      "status": "ready",
+      "en": "Friendly",
+      "name": "Дружелюбный",
+      "batch": "batch-2026-10-29-axe-10",
+      "cards": [
+        {
+          "id": "axe-friendly",
+          "name": "Дружелюбный",
+          "set": "axe",
+          "type": "special",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Клыкастый монстр дружелюбно предлагает корзинку сокровищ с бантиком.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One big orange furry horned monster with exactly two arms and two short legs, one curved tail, enormous harmless fangs and a bashful toothy smile. It offers one wicker basket of gold coins tied with a pink ribbon in both hands, tiny daisy tucked behind one ear. Broad welcoming silhouette, no other figures, full body, no text.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-7e14d97d-fbd7-4532-909f-6ae1dd4c9588.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-friendly-v1.png",
+        "bytes": 2907039,
+        "sha256": "c568cad27b1fc8c1cf921b76be0ed2f57f484318f0324f49ba66a1c226dea662",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-friendly-v1.jpg",
+        "bytes": 64747,
+        "sha256": "41df47ad1ab0c50ceb1122354f5a5a01022becba8ef69be9235d4990a1b6914a",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-brood",
+      "version": "v1",
+      "status": "ready",
+      "en": "Brood",
+      "name": "Выводок",
+      "batch": "batch-2026-10-29-axe-10",
+      "cards": [
+        {
+          "id": "axe-brood",
+          "name": "Выводок",
+          "set": "axe",
+          "type": "enhancer",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Пять маленьких зелёных монстриков выстроились за одним большим печеньем.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: Exactly FIVE small round green baby fantasy monsters, each with two tiny arms two feet and one pair of stubby horns, clustered eagerly around one giant cookie on a stone. Different silly faces, one sitting atop cookie, others neatly separated around it. Clear count and silhouettes, no extra heads or limbs, warm comic menace, no text.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-c12b2c00-4832-425a-90c5-766f68089b62.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-brood-v1.png",
+        "bytes": 3096611,
+        "sha256": "0d58a8110fd17747f5856180d2134f51ec664c151899e230f8d83386864d7609",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-brood-v1.jpg",
+        "bytes": 76164,
+        "sha256": "d24ca3f6069d1c576ebee65d1d8a0f3d5733e508e54454e06d8ea18ae45339d3",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-sleeping",
+      "version": "v1",
+      "status": "ready",
+      "en": "Sleeping",
+      "name": "Спящий",
+      "batch": "batch-2026-10-29-axe-10",
+      "cards": [
+        {
+          "id": "axe-sleeping",
+          "name": "Спящий",
+          "set": "axe",
+          "type": "enhancer",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Огромный монстр спит на мешке сокровищ и обнимает плюшевого рыцаря.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One huge round blue furry monster with exactly two arms two legs and one short tail, curled asleep on a small treasure sack, hugging one tiny plush knight doll. Drooping purple nightcap and a big translucent sleep bubble from its nose, completely closed eyes, peaceful snoring expression. Entire character readable, no written snoring letters, no extra limbs.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-024599fd-1341-4359-b604-06c3e7caa33e.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-sleeping-v1.png",
+        "bytes": 3153108,
+        "sha256": "6b86f982b43f6a82cdee076be048b0bc190c235b8a1c475da333bbb846693165",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-sleeping-v1.jpg",
+        "bytes": 69356,
+        "sha256": "07155ff815beaf7633db76b9cf3ad140d441b8d3a6b3a3a62e0f0bfc6be31e82",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-undead",
+      "version": "v1",
+      "status": "ready",
+      "en": "Undead",
+      "name": "Нежить",
+      "batch": "batch-2026-10-29-axe-10",
+      "cards": [
+        {
+          "id": "axe-undead",
+          "name": "Нежить",
+          "set": "axe",
+          "type": "enhancer",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [
+        {
+          "set": "munchkin-7-cheat-with-both-hands",
+          "printedName": "Undead",
+          "section": "Doors (70)",
+          "source": "https://munchkin.game/products/games/munchkin/munchkin-7-cheat-with-both-hands/",
+          "listedCopies": 1
+        }
+      ],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Монстр-зомби чинит свою отвалившуюся перчатку иголкой и ниткой.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One goofy mint-green zombie fantasy monster in a ragged burgundy coat, exactly two attached arms and two legs. It concentrates on sewing a loose brown glove with one needle and thread held in its two hands, glove lies separately on its lap and is clearly EMPTY, not an extra hand. One small bandage on forehead, a few visible cartoon stitches, no gore or exposed wounds. Seated on stone, friendly spooky humor.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-90d154c5-d683-49fd-80f1-e92e8bb2b681.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-undead-v1.png",
+        "bytes": 2866281,
+        "sha256": "db5a46b89df15505e8cfa2c5f82e75638d4eb436568fecf458f4fffd31de0398",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-undead-v1.jpg",
+        "bytes": 68044,
+        "sha256": "bfee251b74b933b77bbc2d46c75f8bb8f13527b7ada7f2c5ea1d5590360ca0e1",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-dead",
+      "version": "v1",
+      "status": "ready",
+      "en": "Dead",
+      "name": "Сдох",
+      "batch": "batch-2026-10-29-axe-10",
+      "cards": [
+        {
+          "id": "axe-dead",
+          "name": "Сдох",
+          "set": "axe",
+          "type": "special",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Монстр театрально лежит лапами кверху, а муха проверяет его нос.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One silly pear-shaped purple fantasy monster lying flat on its back with exactly two arms and two legs pointing upward, tongue flopping from mouth and two cartoon X-shaped eyes. A tiny fly on its nose holds a small magnifying glass. Comic board-game defeat, no wounds or blood, soft harmless stylization, clear whole silhouette, no writing.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-5c363945-25cd-4eaa-af68-59d06ac93772.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-dead-v1.png",
+        "bytes": 2815352,
+        "sha256": "91275430f47b1cf66235ead7c9c698c535bdb3fd7dc0558725fe37d83d478bfb",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-dead-v1.jpg",
+        "bytes": 59070,
+        "sha256": "c857c598140f68727d712e4aeda4073c8b30454da15e45db8ef49c8ba43c209c",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-dead-broke",
+      "version": "v1",
+      "status": "ready",
+      "en": "Dead Broke",
+      "name": "Без гроша",
+      "batch": "batch-2026-10-29-axe-10",
+      "cards": [
+        {
+          "id": "axe-dead-broke",
+          "name": "Без гроша",
+          "set": "axe",
+          "type": "enhancer",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Огромный монстр вытряхивает пустой кошелёк, откуда выпала только пуговица.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One large muscular ochre fantasy monster with two short horns, exactly two arms and two legs, sheepishly turning a tiny empty leather coin purse upside down with both hands. Only one little shirt button falls out, no gold at all. Its impressive armor is patched with simple cloth and its belt pocket hangs inside out, full body, absurd contrast strength versus poverty, no text.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-a7487331-97d2-4fdd-a962-87f7a7df9f25.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-dead-broke-v1.png",
+        "bytes": 3044289,
+        "sha256": "82cbfb44577510894355b2183c0775da3b00f3897af2bade74c7fd2811de5df8",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-dead-broke-v1.jpg",
+        "bytes": 73448,
+        "sha256": "5adfe2719f3383316113a29ad3054b6ee57e38613057f3b9b9f249931a7ddb67",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
+    },
+    {
+      "id": "axe-art-mommy",
+      "version": "v1",
+      "status": "ready",
+      "en": "Mommy",
+      "name": "Мамочка",
+      "batch": "batch-2026-10-29-axe-11",
+      "cards": [
+        {
+          "id": "axe-mommy",
+          "name": "Мамочка",
+          "set": "axe",
+          "type": "special",
+          "deck": "doors"
+        }
+      ],
+      "catalogMembership": [],
+      "generatedAt": "2026-10-29",
+      "tool": "image_gen.imagegen (built-in)",
+      "alt": "Маленький монстрик позвал огромную маму, которая принесла ему забытый шарфик.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: Exactly TWO matching teal furry fantasy monsters: one tiny worried child in front with two arms and two legs, and one enormous mother behind it with two arms and two legs, same two short horns and round ears. Mother has a red polka-dot headscarf, stern raised eyebrow, and holds the child's tiny forgotten yellow scarf in both hands. The child points timidly offscreen with one hand while other rests on chest. Entire two figures visible, clear family resemblance and size joke, no additional monsters or limbs.",
+      "sourceCachePath": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-941ed41c-cc34-4934-ae7a-610bf8710c61.png",
+      "original": {
+        "path": "reference/art/originals/axe-art-mommy-v1.png",
+        "bytes": 3136140,
+        "sha256": "51c0f9624aa3bdfd548ab693ea19860da194307cccf5d8ed3f9b566ad04d826d",
+        "width": 1254,
+        "height": 1254
+      },
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-mommy-v1.jpg",
+        "bytes": 69415,
+        "sha256": "0df03eacba01f0be7c33810d767703520ef00f7ef4deb48a754a9465b7934a88",
+        "format": "JPEG",
+        "width": 384,
+        "height": 384,
+        "quality": 80
+      }
     }
   ],
   "variants": [
@@ -9082,6 +12348,29 @@
         "bytes": 62513
       },
       "bytes": 2761412
+    },
+    {
+      "id": "axe-art-sword-except-squid",
+      "en": "Sword of Slaying Everything Except Squid",
+      "name": "Меч убийства всего, кроме кальмаров",
+      "alt": "Грозный меч бессильно гнётся рядом с самодовольным маленьким кальмаром.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms, strong silhouette. Large centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, border, card frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: One magnificent broad silver fantasy sword with a blue leather grip and golden crossguard, displayed diagonally. The steel tip bends away comically like soft rubber from a small smug lavender squid sitting beside it; the squid has two large eyes, eight short arms and two longer tentacles naturally clustered under its body. Visual joke that a mighty sword is scared of a harmless squid. No human figures, no text, no extra weapons.",
+      "file": "assets/illustrations/axe-art-sword-except-squid-v1.jpg",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-e1a23843-3d32-49dc-9b4a-cad3c247d69a.png",
+      "archivedOriginal": "reference/art/originals/axe-art-sword-except-squid-v1.png",
+      "date": "2026-10-29",
+      "batch": "batch-2026-10-29-axe-04",
+      "version": "v1",
+      "status": "superseded",
+      "reason": "Раздвоенный клинок заменён цельным по просьбе пользователя",
+      "tool": "image_gen.imagegen (built-in)",
+      "sha256": "1e549323bd81710a19d4c7d952cf2a4ed8c714d69bc7a995208d48a7a5a94423",
+      "runtime": {
+        "path": "public/assets/illustrations/axe-art-sword-except-squid-v1.jpg",
+        "sha256": "df5e36318c4a75f51fe1dc0322518ccb48a4fce4810f99694c59d72d69864723",
+        "bytes": 60251
+      },
+      "bytes": 2963727
     }
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "id": "axe-art-crawling-hand",
+  "en": "Crawling Hand",
+  "name": "Ползучая рука",
+  "alt": "Ползучая синеватая рука с пятью пальцами заманивает искателя золотым кольцом.",
+  "prompt": "Use case: illustration-story. Asset type: a single square original illustration for a humorous fantasy card game, clear at 384 by 384 pixels. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment. Saturated character colors, simple chunky shapes, a strong readable silhouette and one visual joke. Large centered subject with comfortable margins, minimal scenery. Modest detail appropriate for a small card. No text, letters, numbers, logos, watermark, border, card frame or separate panels. Do not imitate an existing copyrighted card illustration. Clear plausible anatomy, no duplicated limbs. Subject: A single mischievous blue-gray disembodied undead LEFT hand crawling across a little dusty dungeon flagstone, seen three-quarter dorsal view. Exactly FIVE digits total: four long curled fingers touching the floor and one short opposable thumb on the side. Anatomically recognizable human hand, not a spider. A worn purple cuff closes the wrist cleanly, no exposed wound, no blood. A gold ring dangles like bait from one raised finger, comic sneaky gesture. No other hands, faces or limbs.",
+  "file": "assets/illustrations/axe-art-crawling-hand-v1.jpg",
+  "date": "2026-10-29",
+  "status": "generated",
+  "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-a99a50fb-1100-4da2-ba26-0aaa97b9d72e.png"
+}

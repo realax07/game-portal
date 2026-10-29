@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-29",
+  "status": "completed",
+  "tool": "image_gen.imagegen (built-in)",
+  "scope": "Fifth Unnatural Axe artwork batch: eight equipment illustrations.",
+  "jobs": [
+    {
+      "id": "axe-art-fake-beard",
+      "en": "Fake Beard",
+      "name": "Фальшивая борода",
+      "alt": "Рыжая накладная борода с роскошными усами маскирует маленький деревянный манекен.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple shapes, strong readable silhouette. Large centered subject with comfortable margins and minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, card frame, border or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated parts. Subject: A magnificent obviously FAKE ginger dwarf beard with long braided strands, brass beard rings and extravagant curled mustache, attached by a clearly visible thin elastic loop around a tiny plain wooden display head. The wooden head looks comically overwhelmed by the much larger beard, two simple carved startled eyes, no body. A little loose bottle of glue sits beside the stand. Rich orange hair, simple clear object silhouette.",
+      "file": "assets/illustrations/axe-art-fake-beard-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-ce75c1c8-8dc4-44e8-be25-306214009e1f.png"
+    },
+    {
+      "id": "axe-art-caltrops",
+      "en": "Bag of Caltrops",
+      "name": "Мешок с шипами",
+      "alt": "Из потрёпанного мешка высыпались железные шипы, а ботинок опасливо обходит их.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple shapes, strong readable silhouette. Large centered subject with comfortable margins and minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, card frame, border or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated parts. Subject: One battered open dark green cloth drawstring pouch tipped over, spilling exactly five chunky iron caltrops onto a small dungeon flagstone. Each caltrop is a simple four-pointed metal jack with one point upward. A single empty oversized brown adventurer boot nearby is tipped onto its toe as if anxiously avoiding the spikes, no foot or person inside. Comical dangerous floor clutter, readable simple composition.",
+      "file": "assets/illustrations/axe-art-caltrops-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-13810065-2336-4d8a-9574-24e64063aa6a.png"
+    },
+    {
+      "id": "axe-art-barbecue-fork",
+      "en": "Barbecue Fork",
+      "name": "Вилка для барбекю",
+      "alt": "Огромная вилка для барбекю с сосиской выглядит как грозное оружие хафлинга.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple shapes, strong readable silhouette. Large centered subject with comfortable margins and minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, card frame, border or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated parts. Subject: One oversized fantasy barbecue fork displayed diagonally: exactly two long straight parallel steel tines joined to one shaft, sturdy reddish wooden handle wrapped in leather, brass butt cap. A single small grilled sausage is impaled neatly across both tips, absurdly tiny compared with the weapon, one wisp of steam. One mustard pot on the ground, no text or label. No hands or human figures, no extra tines, strong item silhouette.",
+      "file": "assets/illustrations/axe-art-barbecue-fork-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-0feb47da-ec7f-4065-bfca-b2552fb46411.png"
+    },
+    {
+      "id": "axe-art-holy-mallet",
+      "en": "Blessed Mallet of St. Eeeeeeuuuuuuuuw",
+      "name": "Кувалда святого Фу-у-у",
+      "alt": "Сияющая святая кувалда заставляет маленького призрака брезгливо зажать нос.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple shapes, strong readable silhouette. Large centered subject with comfortable margins and minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, card frame, border or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated parts. Subject: One huge chunky blessed fantasy mallet, single rectangular ivory stone hammer head with gold sunburst ornament and a long blue leather-wrapped wooden shaft, leaning diagonally against a plain rock. A tiny pale lavender ghost with exactly two little arms hovers beside it, pinching its tiny nose and looking offended by the excessive holy glow. Warm golden halo around hammer, no letters or religious text, one weapon, comic rather than horror.",
+      "file": "assets/illustrations/axe-art-holy-mallet-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-9190573b-021d-4d82-91d4-7e6d3dd6faf5.png"
+    },
+    {
+      "id": "axe-art-boomdagger",
+      "en": "Boomdagger",
+      "name": "Бумеранг-кинжал",
+      "alt": "Серебряный кинжал-бумеранг возвращается к кошельку по дуге.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple shapes, strong readable silhouette. Large centered subject with comfortable margins and minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, card frame, border or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated parts. Subject: One single recognizable fantasy dagger bent into a broad shallow boomerang angle, with ONE continuous silver blade, one sharp tip at the left end, one short dark leather grip at the right end and one small brass guard between grip and blade. It flies above a small closed purple thief's coin purse with a clear curved dotted motion trail implying it always returns to its owner. Simple unambiguous silhouette, no forked or doubled blade, no hands, no other weapons.",
+      "file": "assets/illustrations/axe-art-boomdagger-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-ae0c23fe-a378-4011-be6e-f97fd790e492.png"
+    },
+    {
+      "id": "axe-art-shoulder-dragon",
+      "en": "Cute Shoulder Dragon",
+      "name": "Симпатичный плечевой дракончик",
+      "alt": "Крошечный дракончик на плече доспеха поджаривает зефир своим огоньком.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple shapes, strong readable silhouette. Large centered subject with comfortable margins and minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, card frame, border or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated parts. Subject: One adorable tiny coral-red dragon perched on a single empty steel shoulder pauldron displayed on a wooden stand. The dragon has exactly two forelegs, two hindlegs, two small bat wings, two little horns and one long curling tail. Its front paws hold a tiny wooden skewer with one marshmallow, which it toasts with a minuscule orange puff of flame from its snout. Huge pleased eyes, cute confident grin, entire silhouette visible, no human figure.",
+      "file": "assets/illustrations/axe-art-shoulder-dragon-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-f1084e15-40cd-4acf-a185-71a1378449ad.png"
+    },
+    {
+      "id": "axe-art-peripheral-helm",
+      "en": "Helm of Peripheral Vision",
+      "name": "Шлем бокового обзора",
+      "alt": "Рыцарский шлем снабжён двумя нелепыми боковыми зеркальцами.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple shapes, strong readable silhouette. Large centered subject with comfortable margins and minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, card frame, border or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated parts. Subject: One squat steel knight helmet with a dark horizontal eye slit and TWO little round rear-view mirrors on short brass stalks attached at the sides, like comically vigilant ears. One mirror reflects a tiny purple thief glove sneaking from the side, only the glove visible, no arm or person. Helmet rests on a square wooden stand, steel gray and brass with bright blue reflection, original funny medieval equipment, no modern lettering.",
+      "file": "assets/illustrations/axe-art-peripheral-helm-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-87a598cb-74bd-4478-93f3-4e5af2cabb6f.png"
+    },
+    {
+      "id": "axe-art-lawn-roller",
+      "en": "Lawn Roller",
+      "name": "Газонный каток",
+      "alt": "Тяжёлый газонный каток аккуратно раскатывает крошечный пучок травы в подземелье.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple shapes, strong readable silhouette. Large centered subject with comfortable margins and minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, card frame, border or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated parts. Subject: One absurdly massive medieval lawn roller with a single heavy granite cylinder, rusty iron axle frame and one sturdy long wooden U-shaped handle, shown three-quarter view. It is carefully rolling a ridiculously small tuft of bright green grass growing between dungeon flagstones, leaving a neat flat green strip behind it. A single tiny flower leans sideways at the edge, no faces or human figures, readable chunky tool silhouette.",
+      "file": "assets/illustrations/axe-art-lawn-roller-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-a794c77e-8d58-4d69-b95a-da7874afa031.png"
+    }
+  ]
+}

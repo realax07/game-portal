@@ -1,0 +1,11 @@
+{
+  "id": "axe-art-siege-engine",
+  "en": "Siege Engine",
+  "name": "Осадная машина",
+  "alt": "Крошечная осадная машина приготовилась метнуть нелепо большой камень.",
+  "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms, strong readable silhouette. Large centered subject with comfortable margins, minimal scenery and one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, do not copy existing card art. Clear structure and anatomy, no unintended extra parts. Subject: One squat wooden medieval catapult on four chunky little wheels, sturdy brass brackets and a single clearly connected throwing arm with a bowl. An absurdly oversized round stone rests in the bowl, making the small catapult sag visibly under its weight. One little counterweight sack at the opposite end. Three-quarter view, entire machine visible, coherent simple construction, no figures, no extra arms or loose floating parts.",
+  "file": "assets/illustrations/axe-art-siege-engine-v1.jpg",
+  "date": "2026-10-29",
+  "status": "generated",
+  "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-71e64b1c-1771-4606-8a68-57ec872ca9a6.png"
+}

@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-29",
+  "status": "completed",
+  "tool": "image_gen.imagegen (built-in)",
+  "scope": "Sixth Unnatural Axe artwork batch: final five equipment cards and three potions.",
+  "jobs": [
+    {
+      "id": "axe-art-spiked-codpiece",
+      "en": "Spiked Codpiece",
+      "name": "Шипастый гульфик",
+      "alt": "Шипастая деталь доспеха так грозна, что даже подушка под ней залатана.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms, strong readable silhouette. Large centered subject with comfortable margins, minimal scenery and one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, do not copy existing card art. Clear structure and anatomy, no unintended extra parts. Subject: A single detached medieval armor codpiece displayed as an absurdly overengineered steel protective cup, with brass rivets, three short conical spikes and a brown leather waist belt laid behind it. It sits on a small patched crimson velvet display cushion with visible repair stitches and a loose feather escaping a puncture. Clearly an unworn armor equipment still life, no human body, no anatomy, no nudity or sexualization. Strong silver red and brass silhouette.",
+      "file": "assets/illustrations/axe-art-spiked-codpiece-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-148cdecc-4fc1-4522-9f1f-f5b5cd7a7d53.png"
+    },
+    {
+      "id": "axe-art-coat-arms",
+      "en": "Coat of Arms",
+      "name": "Многорук",
+      "alt": "Пальто с четырьмя рукавами одновременно держит чашку, щётку, меч и щит.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms, strong readable silhouette. Large centered subject with comfortable margins, minimal scenery and one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, do not copy existing card art. Clear structure and anatomy, no unintended extra parts. Subject: One magical teal long coat on a plain wooden tailor's stand, open empty collar, no head or torso inside. Exactly FOUR separate sleeves, two attached on each side in two clear rows, each ends in one cream glove. The upper pair holds a small teacup and a wooden practice sword; the lower pair holds a cleaning brush and a little round wooden shield. Exactly four sleeves and four gloves total, no additional arms. Funny multitasking coat, simple readable separated objects.",
+      "file": "assets/illustrations/axe-art-coat-arms-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-3ceff00e-17a1-4740-84df-3403dc740760.png"
+    },
+    {
+      "id": "axe-art-siege-engine",
+      "en": "Siege Engine",
+      "name": "Осадная машина",
+      "alt": "Крошечная осадная машина приготовилась метнуть нелепо большой камень.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms, strong readable silhouette. Large centered subject with comfortable margins, minimal scenery and one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, do not copy existing card art. Clear structure and anatomy, no unintended extra parts. Subject: One squat wooden medieval catapult on four chunky little wheels, sturdy brass brackets and a single clearly connected throwing arm with a bowl. An absurdly oversized round stone rests in the bowl, making the small catapult sag visibly under its weight. One little counterweight sack at the opposite end. Three-quarter view, entire machine visible, coherent simple construction, no figures, no extra arms or loose floating parts.",
+      "file": "assets/illustrations/axe-art-siege-engine-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-71e64b1c-1771-4606-8a68-57ec872ca9a6.png"
+    },
+    {
+      "id": "axe-art-tinfoil-hat",
+      "en": "Tinfoil Hat",
+      "name": "Шапочка из фольги",
+      "alt": "Смешная шапочка из фольги отражает фиолетовую молнию проклятия.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms, strong readable silhouette. Large centered subject with comfortable margins, minimal scenery and one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, do not copy existing card art. Clear structure and anatomy, no unintended extra parts. Subject: One comically tall crumpled silver tinfoil hat folded into a crooked pointed cone, with a broad uneven brim, resting on a plain round wooden hat stand. One stylized purple magical zigzag spark strikes the foil and bounces back in a clean curved arc. A tiny folded foil antenna on the peak, clear shiny creases, whimsical protective equipment, no head or human body, no text or symbols.",
+      "file": "assets/illustrations/axe-art-tinfoil-hat-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-b00472e7-4a04-4265-bda7-40badbcb4c89.png"
+    },
+    {
+      "id": "axe-art-holy-book",
+      "en": "Very Holy Book",
+      "name": "Очень святая книга",
+      "alt": "Огромная святая книга сияет так ярко, что её закладка надела тёмные очки.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms, strong readable silhouette. Large centered subject with comfortable margins, minimal scenery and one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, do not copy existing card art. Clear structure and anatomy, no unintended extra parts. Subject: One enormous thick closed ivory-and-gold fantasy holy book, bright golden halo behind it, cover embossed with a large simple radiant sun motif without letters. It stands upright on a little wooden lectern; a single long crimson ribbon bookmark draped down the side has tiny dark sunglasses perched on its tip as if dazzled by the book. Chunky pages and heavy brass clasps, obvious funny scale, no religious text, no runes.",
+      "file": "assets/illustrations/axe-art-holy-book-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-e435970a-b04f-49aa-a3d6-a22ebce1b5be.png"
+    },
+    {
+      "id": "axe-art-potion-flight",
+      "en": "Potion of Flight",
+      "name": "Зелье полёта",
+      "alt": "Пузатый флакон с крылышками взлетел и оставил пробку на земле.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms, strong readable silhouette. Large centered subject with comfortable margins, minimal scenery and one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, do not copy existing card art. Clear structure and anatomy, no unintended extra parts. Subject: One round glass fantasy potion flask filled with bright sky-blue liquid, two small white feather wings attached symmetrically at the shoulders, fluttering as the bottle hovers above a small stone. Its cork lies on the ground below and a few blue bubbles rise from the open neck. One bottle only, clear comic flying silhouette, no label or text, minimal background, no hands or faces.",
+      "file": "assets/illustrations/axe-art-potion-flight-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-4fea44cb-5a8a-495e-accf-51ddccc8c4f1.png"
+    },
+    {
+      "id": "axe-art-druid-fluid",
+      "en": "Druid Fluid",
+      "name": "Друидская смесь",
+      "alt": "Лесное зелье прорастает веточками, а его пробка превратилась в жёлудь.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms, strong readable silhouette. Large centered subject with comfortable margins, minimal scenery and one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, do not copy existing card art. Clear structure and anatomy, no unintended extra parts. Subject: One squat round emerald glass potion bottle holding bright green swirling liquid, entwined in a few thin living vines and oak leaves. Its stopper is one large acorn with a tiny sprout growing from it, a small wooden stirring spoon leans against the bottle. A single puzzled ladybug sits on the leaf, clear forest-brew visual joke. No text, labels, runes, people or human hands, distinct green and amber palette.",
+      "file": "assets/illustrations/axe-art-druid-fluid-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-3e556427-36ea-408e-83bd-8c448a60057c.png"
+    },
+    {
+      "id": "axe-art-lemming-juice",
+      "en": "Lemming Juice",
+      "name": "Лемминговый сок",
+      "alt": "Три крошечных лемминга маршируют к стаканчику рядом с флаконом.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms, strong readable silhouette. Large centered subject with comfortable margins, minimal scenery and one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, do not copy existing card art. Clear structure and anatomy, no unintended extra parts. Subject: One pear-shaped glass potion bottle filled with vivid orange liquid, corked, sitting beside a tiny empty wooden drinking cup. Exactly three tiny round tan lemmings with cream bellies, small ears, four short paws each and stub tails march single file around the bottle toward the cup, absurdly determined expressions. They are alive and cheerful, no harm or cliffs, simple readable silhouettes, no fruit labels or text, warm orange and brown palette.",
+      "file": "assets/illustrations/axe-art-lemming-juice-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-ee064486-24b5-457a-90c7-0b19367a4aaa.png"
+    }
+  ]
+}

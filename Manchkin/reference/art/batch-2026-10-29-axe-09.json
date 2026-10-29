@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-29",
+  "status": "completed",
+  "tool": "image_gen.imagegen (built-in)",
+  "scope": "Complete remaining Unnatural Axe illustrations, batch 09",
+  "jobs": [
+    {
+      "id": "axe-art-navel",
+      "en": "Contemplate Your Navel (GUAL)",
+      "name": "Созерцай свой пупок",
+      "alt": "Воин так увлёкся созерцанием пупка, что бабочка села ему на нос.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One stocky adult fantasy warrior seated cross-legged on a little cushion, lifting the lower edge of his orange tunic with exactly two hands to gaze solemnly at his own round belly button. Fully covered trousers, modest harmless exposed belly only. Exactly two arms and two legs. Tiny butterfly rests unnoticed on his large nose, absurd meditation, no sexualization.",
+      "file": "assets/illustrations/axe-art-navel-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-4a4a2245-8aa1-488b-8605-858dc4d24355.png"
+    },
+    {
+      "id": "axe-art-gm-promise",
+      "en": "Promise The GM You'll Stop Telling Him About Your Character (GUAL)",
+      "name": "Обещай мастеру больше не рассказывать о своём персонаже",
+      "alt": "Разговорчивый игрок запечатал рот и протягивает мастеру цветок примирения.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One adult fantasy bard in a flamboyant purple hat sits at a gaming table with a ridiculously long rolled blank character parchment beside him. His mouth is covered by a neat little strip of cream tape, and he offers one daisy with one hand; other hand raised in a solemn promise. Exactly two arms, simple full upper body. Behind a plain game-master screen, only one relieved face with glasses visible, no extra hands, no text.",
+      "file": "assets/illustrations/axe-art-gm-promise-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-c3e6eb5a-087a-4965-a439-b7b920622e8f.png"
+    },
+    {
+      "id": "axe-art-fold-spindle",
+      "en": "Fold, Spindle, and Mutilate (GUAL)",
+      "name": "Приплюсни, проткни и искалечь",
+      "alt": "Грозный молоток и канцелярский штырь расправились с безобидным листом бумаги.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: An absurdly dramatic desktop battle scene: one crumpled BLANK parchment sheet folded like an accordion, pierced by one normal brass desk paper spike, next to one chunky wooden mallet and a tiny pair of blunt scissors. No bodies, no gore. Paper curls form a comically shocked little face with only two simple eyes and mouth, no writing. Distinct separate objects, clear still life.",
+      "file": "assets/illustrations/axe-art-fold-spindle-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-22abf79b-f87f-40f7-aba1-fa660288c66b.png"
+    },
+    {
+      "id": "axe-art-pizza",
+      "en": "Pay For The Pizza (GUAL)",
+      "name": "Заплати за пиццу",
+      "alt": "Рыцарская перчатка оплачивает пиццу горстью золотых монет.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One open simple cardboard pizza box on a fantasy gaming table with a round cheesy mushroom pizza missing one slice. Exactly one armored gauntlet attached to a short visible sleeve enters from left, offering three gold coins beside the box, no other hands or figures. One tiny red dragon at far right steals the missing slice, four paws two wings one tail. No logo, labels or text, humorous medieval takeout.",
+      "file": "assets/illustrations/axe-art-pizza-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-8a1bb146-75fe-4cfa-b90e-79677ab76577.png"
+    },
+    {
+      "id": "axe-art-roughness",
+      "en": "Unnecessary Roughness (GUAL)",
+      "name": "Излишняя грубость",
+      "alt": "Варвар расколол орех огромной кувалдой и удивился результату.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One broad adult barbarian in green tunic and fur boots with exactly two arms and two legs, holding ONE enormous wooden mallet with both hands after striking a tiny walnut on a stone. Scattered walnut shells and a cartoon dust puff, no harm to creatures. Sheepish surprised face at the ludicrous overkill, clear tool construction and full figure.",
+      "file": "assets/illustrations/axe-art-roughness-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-172be554-7c40-45b0-8d2f-2169a50a9d00.png"
+    },
+    {
+      "id": "axe-art-wash-car",
+      "en": "Wash The GM's Car (GUAL)",
+      "name": "Помой машину мастера",
+      "alt": "Рыцарь старательно моет маленькую машину, всё вокруг в пене.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One adult knight in steel armor and yellow rubber apron, exactly two arms and two legs, scrubbing a tiny generic rounded red car with one big sponge while holding a bucket in the other hand. Car parked beside dungeon stone wall, big soap bubbles and foam beard on knight's visor. Entire simple car, no badges, logos, license digits, brand styling or text, funny fantasy-meets-car chore.",
+      "file": "assets/illustrations/axe-art-wash-car-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-6d038696-78e2-458d-bb4b-6a4d1be334be.png"
+    },
+    {
+      "id": "axe-art-switch-sheets",
+      "en": "Switch Character Sheets (GUAL)",
+      "name": "Подмени лист персонажа",
+      "alt": "Два свитка с портретами мышонка и дракона тайком меняются местами.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: Two blank character sheets on a wooden gaming table, one bearing ONLY a tiny cartoon mouse portrait and one bearing ONLY a huge dragon portrait, no writing, numbers or letters. Exactly two leather-gloved hands attached to two visible purple sleeves cross over to swap the sheets. One suspicious small white die with round pips nearby, clear trickster tabletop composition, no other hands.",
+      "file": "assets/illustrations/axe-art-switch-sheets-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-eb76c473-b398-4d6e-945e-18a86b32c482.png"
+    },
+    {
+      "id": "axe-art-trojan",
+      "en": "Trojan Horse",
+      "name": "Троянский конь",
+      "alt": "Игрушечный деревянный конь прячет внутри довольного зелёного монстра.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One squat wooden Trojan horse on exactly four little wheels, four wooden legs, a carved smiling horse head and a short rope mane and tail. A little hinged hatch in its round wooden belly is open, revealing ONE mischievous green monster's face and two small paws peeking out. Coherent toy construction, simple brass hinges, no human soldiers, entire horse visible, funny surprise delivery.",
+      "file": "assets/illustrations/axe-art-trojan-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-bcae87af-65f2-422b-8dab-5be8948b92c9.png"
+    }
+  ]
+}

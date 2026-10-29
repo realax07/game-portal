@@ -40,3 +40,4 @@
 .network-box [hidden]{display:none!important}
 
 .network-back{display:inline-flex;align-items:center;margin:0 0 24px;padding:12px 18px;font-size:12px}
+.map-preview{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin:20px 0}.map-preview article{min-width:0}.map-preview article>b{display:block;color:#e8bd80;margin:0 0 8px}.map-preview .card{min-height:240px}.map-preview .card h3{font-size:11px}.map-preview .card-illustration{height:110px}.navel-choice{display:flex;align-items:flex-start;gap:10px;text-align:left;padding:14px;margin:16px 0;border:1px solid #b6946844;border-radius:10px;color:#cdb7d7;font-size:12px;line-height:1.65}.navel-choice input{flex:0 0 auto;margin-top:4px}@media(max-width:550px){.map-preview{overflow-x:auto;grid-template-columns:repeat(3,150px)}}

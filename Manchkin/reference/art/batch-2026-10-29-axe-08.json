@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-29",
+  "status": "completed",
+  "tool": "image_gen.imagegen (built-in)",
+  "scope": "Complete remaining Unnatural Axe illustrations, batch 08",
+  "jobs": [
+    {
+      "id": "axe-art-tiny-hands",
+      "en": "Curse! Tiny Hands",
+      "name": "Проклятие! Крошечные ручки",
+      "alt": "Могучий воин с крошечными ладонями безуспешно пытается поднять огромный топор.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One burly adult fantasy warrior in orange tunic and steel shoulder armor, exactly two normal-length arms ending in absurdly TINY hands, exactly two legs. He stares helplessly at an enormous two-handed axe lying on the ground; both tiny palms open above it. Full body, big worried eyebrows, no extra arms or detached hands.",
+      "file": "assets/illustrations/axe-art-tiny-hands-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-50b647bb-496c-46a3-9dc7-607f856cb5fa.png"
+    },
+    {
+      "id": "axe-art-bo-curse",
+      "en": "Curse! B.O.",
+      "name": "Проклятие! Вонючка",
+      "alt": "Самодовольный искатель отпугнул даже муху облаком зелёного запаха.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One stocky adult adventurer in purple tunic, exactly two arms and two legs, proudly hands on hips. Pale green comic odor spirals rise from his clothes; one little fly retreats wearing a miniature clothespin on its nose. No filth or gore. Entire figure, curly mustache, oblivious grin, clear broad silhouette.",
+      "file": "assets/illustrations/axe-art-bo-curse-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-e389ba8c-4b8a-4287-80e6-bf7cc3308b57.png"
+    },
+    {
+      "id": "axe-art-big-feet",
+      "en": "Curse! Big Feet",
+      "name": "Проклятие! Большие ноги",
+      "alt": "Удивлённый искатель вырос из сапог, а огромные ступни заняли почти весь пол.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One small adult fantasy explorer in green tunic with exactly two arms and two legs ending in TWO enormous bare feet, feet comically larger than his torso. He looks down in astonishment; two tiny split empty boots lie beside him. Five simple toes per foot, clear readable forms, no additional feet, full figure.",
+      "file": "assets/illustrations/axe-art-big-feet-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-e1ad292e-16b9-4417-8439-c5b03fbf567e.png"
+    },
+    {
+      "id": "axe-art-cursed-thingy",
+      "en": "Curse! Cursed Thingy",
+      "name": "Проклятие! Проклятая шмотка",
+      "alt": "Проклятый шлем вцепился в деревянный манекен и не желает сниматься.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One purple steel helmet covered in a few harmless curled black magical tendrils, firmly stuck on a plain wooden display head. Two gloved hands on two slender wooden mannequin arms try unsuccessfully to lift the helmet by its sides, head itself has a comically unhappy carved face. Clear connected display bust, no other limbs. Violet sparks and a tiny ghostly padlock hovering above helmet convey magical locking.",
+      "file": "assets/illustrations/axe-art-cursed-thingy-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-c01db5e2-3548-4746-ba4e-c8ac8072e431.png"
+    },
+    {
+      "id": "axe-art-fools-gold",
+      "en": "Curse! Fool's Gold",
+      "name": "Проклятие! Золото дураков",
+      "alt": "Сокровище оказалось блестящими фантиками и покрашенными камнями.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One open wooden treasure chest full of shiny gold-painted pebbles and crumpled yellow wrappers, one peeled gold foil revealing an ordinary gray rock. A tiny gray mouse holds a magnifying glass toward the fake treasure with a skeptical raised brow. Mouse two front paws two hind paws one tail. No coins with letters, no text, simple clear chest and bright false riches.",
+      "file": "assets/illustrations/axe-art-fools-gold-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-ee48726d-74ad-40d7-ae1c-5165cc7f55bd.png"
+    },
+    {
+      "id": "axe-art-generosity",
+      "en": "Curse! Generosity",
+      "name": "Проклятие! Великодушие",
+      "alt": "Воин щедро раздаёт своё снаряжение, оставшись в смешном стёганом поддоспешнике.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One cheerful adult warrior in quilted cream gambeson and striped socks, exactly two arms and two legs, giving away his last steel helmet with both hands toward two empty open leather gift sacks. His sword and boots already sit inside the sacks. Proudly generous grin while his belt purse hangs inside-out empty, fully clothed, no nudity, no other people or hands.",
+      "file": "assets/illustrations/axe-art-generosity-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-c6d12671-c5e3-4d7f-bcd6-730f0f06289e.png"
+    },
+    {
+      "id": "axe-art-necrophobia",
+      "en": "Curse! Necrophobia",
+      "name": "Проклятие! Некрофобия",
+      "alt": "Рыцарь спрятался за щитом от крошечного призрака с ромашкой.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One large trembling adult knight in steel armor and blue cape, exactly two arms and two legs, crouching behind one tiny wooden shield held in both gauntlets. In front hovers one very small friendly lavender ghost offering a daisy, ghost has two short arms and a wispy tail. Knight's raised visor shows panicked eyes and chattering teeth, comic fear no realistic horror.",
+      "file": "assets/illustrations/axe-art-necrophobia-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-c130e75e-defd-4d4d-be10-fadb5c458d69.png"
+    },
+    {
+      "id": "axe-art-new-edition",
+      "en": "Curse! New Edition Rules",
+      "name": "Проклятие! Новая редакция правил",
+      "alt": "Новая книга правил упала на старую, подняв тучу пыли и кубики.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One enormous bright crimson hardback rulebook slams onto a tiny battered blue rulebook on a wooden gaming table, sending two simple white dice and a few blank parchment slips bouncing upward. Both covers are entirely blank except simple geometric gold corner ornaments, pages without writing. Huge weight difference, comic impact puff, no characters, no text or digits on dice, use round pips.",
+      "file": "assets/illustrations/axe-art-new-edition-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-6572ac13-0b96-42cb-8d3b-715120731ad2.png"
+    }
+  ]
+}

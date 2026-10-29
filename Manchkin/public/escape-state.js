@@ -1,2 +1,2 @@
-export const hasEscapeGuarantee=(g,actor,monster)=>!monster.noEscape&&!!g.escapeGuarantees?.[actor]?.includes(monster.uid);
-export function guaranteeEscape(g,actor,monsters){g.escapeGuarantees??={};g.escapeGuarantees[actor]=[...new Set([...(g.escapeGuarantees[actor]||[]),...monsters.filter(m=>!m.noEscape).map(m=>m.uid)])];g.mustRunAway=true;g.fleeingDeclared=true}
+export const hasEscapeGuarantee=(g,actor,monster)=>!!g.unconditionalEscapes?.[actor]?.includes(monster.uid)||!monster.noEscape&&!!g.escapeGuarantees?.[actor]?.includes(monster.uid);
+export function guaranteeEscape(g,actor,monsters,{ignoreNoEscape=false}={}){if(ignoreNoEscape){g.unconditionalEscapes??={};g.unconditionalEscapes[actor]=[...new Set([...(g.unconditionalEscapes[actor]||[]),...monsters.map(m=>m.uid)])]}g.escapeGuarantees??={};g.escapeGuarantees[actor]=[...new Set([...(g.escapeGuarantees[actor]||[]),...monsters.filter(m=>!m.noEscape).map(m=>m.uid)])];g.mustRunAway=true;g.fleeingDeclared=true}

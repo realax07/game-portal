@@ -22,4 +22,4 @@ export function respondDivine(g,actor,{clericUid=null,replaceUid=null}={}){
  if(clericUid!==null){const c=p.hand.find(c=>c.uid===clericUid&&c.en==='Cleric');if(!c)return{ok:false};const current=p.equipment.filter(c=>c.type==='class'),limit=p.equipment.find(c=>c.type==='multiclass')?.limit||1;if(current.length>=limit){const old=current.find(c=>c.uid===replaceUid)||current[0];p.equipment=p.equipment.filter(c=>c.uid!==old.uid);discard(g,old)}p.hand=p.hand.filter(x=>x.uid!==c.uid);p.equipment.push(c)}
  d.index++;settleDivine(g);return{ok:true};
 }
-export function physicalCards(g){return [...g.doors,...g.treasures,...(g.discards?.doors||[]),...(g.discards?.treasures||[]),...g.players.flatMap(p=>[...p.hand,...p.equipment,...(p.carried||[]),...(p.curses||[])]),...(g.pendingDivine?.cards||[])]}
+export function physicalCards(g){return [...g.doors,...g.treasures,...(g.discards?.doors||[]),...(g.discards?.treasures||[]),...g.players.flatMap(p=>[...p.hand,...p.equipment,...(p.carried||[]),...(p.curses||[])]),...(g.pendingDivine?.cards||[]),...(g.removedCards||[])].filter(c=>!c.virtual)}

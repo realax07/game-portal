@@ -46,6 +46,9 @@ async function serve(service){
   const stop=()=>{server.close();server.closeAllConnections()};process.on('SIGTERM',stop);process.on('SIGINT',stop);
 }
 async function control(){
+  const selected=process.argv[3];
+  const managed=selected?services.filter(service=>service.id===selected):services;
+  if(!managed.length)throw Error(`Неизвестный сервис: ${selected}`);
   await mkdir(runtime,{recursive:true,mode:0o700});
   try{await mkdir(lock)}catch(e){
     if(e.code!=='EEXIST')throw e;
@@ -58,7 +61,7 @@ async function control(){
     const state=await load();
     if(action==='stop'){
       let failures=0;
-      for(const service of [...services].reverse()){
+      for(const service of [...managed].reverse()){
         const record=state[service.id];
         try{const running=owned(record);await terminate(record);delete state[service.id];await save(state);console.log(`${running?'Остановлен':'Уже выключен'}: ${service.title}`)}catch(e){failures++;console.error(e.message)}
       }
@@ -66,14 +69,14 @@ async function control(){
       return;
     }
     const major=Number(process.versions.node.split('.')[0]);if(major<22)throw Error('Для Эволюции нужен Node.js 22 или новее.');
-    for(const service of services){
+    for(const service of managed){
       await access(path.join(base,service.folder,service.static?'index.html':service.entry));
       if(owned(state[service.id])){if(!await healthy(service))throw Error(`${service.title} запущен, но не отвечает. Сначала остановите сервисы и повторите запуск.`)}
       else await freePort(service);
     }
     const launched=[];
     try{
-      for(const service of services){
+      for(const service of managed){
         if(owned(state[service.id])){console.log(`Уже работает: ${service.title} — http://localhost:${service.port}`);continue}
         const log=path.join(runtime,service.id+'.log'),fd=openSync(log,'a',0o600);
         let child;
@@ -87,7 +90,7 @@ async function control(){
         if(!ready)throw Error(`${service.title}: не удалось дождаться запуска. Журнал: ${log}`);
         console.log(`Запущен: ${service.title} — http://localhost:${service.port}`);
       }
-      console.log(`\nХаб готов: http://localhost:8080\nЖурналы: ${runtime}`);
+      console.log(`\n${selected?'Сервис готов.':'Хаб готов: http://localhost:8080'}\nЖурналы: ${runtime}`);
     }catch(e){
       for(const record of launched.reverse()){await terminate(record);delete state[record.id];await save(state)}
       throw e;
@@ -98,5 +101,5 @@ try{
   if(action==='serve'){
     const service=services.find(s=>s.id===process.argv[3]);if(!service)throw Error('Неизвестный сервис.');await serve(service);
   }else if(['start','stop'].includes(action))await control();
-  else throw Error('Использование: node services.mjs start|stop');
+  else throw Error('Использование: node services.mjs start|stop [сервис]');
 }catch(e){console.error(e.message);process.exitCode=1}

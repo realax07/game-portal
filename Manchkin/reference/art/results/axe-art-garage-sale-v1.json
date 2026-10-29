@@ -1,0 +1,11 @@
+{
+  "id": "axe-art-garage-sale",
+  "en": "Garage Sale",
+  "name": "Распродажа",
+  "alt": "На прилавке подземелья продаются помятый шлем, треснувший щит и чайник с клыками.",
+  "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms and strong readable silhouette. Large centered subject with comfortable margins, minimal scenery, one clear visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs or malformed objects. Subject: A small rickety wooden market stall inside a dungeon, packed with exactly three absurd second-hand fantasy bargains: one dented steel helmet containing a bird nest, one cracked round wooden shield patched with a kitchen spoon, and one tiny purple teapot with harmless vampire fangs on its spout. Three blank dangling price tags, absolutely no text or digits. A few gold coins on counter, no people, clear separate chunky objects, funny flea-market atmosphere.",
+  "file": "assets/illustrations/axe-art-garage-sale-v1.jpg",
+  "date": "2026-10-29",
+  "status": "generated",
+  "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-d9d53d92-f014-424f-aef4-b7c66b1888e8.png"
+}

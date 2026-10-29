@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-29",
+  "status": "completed",
+  "tool": "image_gen.imagegen (built-in)",
+  "scope": "Fourth Unnatural Axe artwork batch: eight equipment illustrations.",
+  "jobs": [
+    {
+      "id": "axe-art-slug-thrower",
+      "en": "Slug Thrower",
+      "name": "Слизнемёт",
+      "alt": "Деревянный слизнемёт выпускает довольного слизня в кожаном лётном шлеме.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms, strong silhouette. Large centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, border, card frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: One absurd chunky medieval wooden slug-launching contraption, a crossbow-like shoulder weapon with a brass funnel muzzle, two wooden grips, leather sling and a little crank. One plump orange garden slug with two eye stalks flies out in a short arc, wearing a tiny leather aviator cap and grinning; a second slug waits in a small open hopper. Clearly a fantasy slug launcher, not a modern firearm. No people or hands, full object visible.",
+      "file": "assets/illustrations/axe-art-slug-thrower-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-adf3ebdb-b142-4f94-b19c-a6d6e1559ec9.png"
+    },
+    {
+      "id": "axe-art-tweezers-terror",
+      "en": "Tweezers of Terror",
+      "name": "Пинцет ужаса",
+      "alt": "Огромный эльфийский пинцет торжественно держит один крошечный волосок.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms, strong silhouette. Large centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, border, card frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: One enormous elegant silver pair of tweezers with emerald green leaf ornaments, menacingly curved tips delicately gripping one absurdly tiny black hair. Resting diagonally on a little dark green velvet cushion. Two connected metal arms only, clearly recognizable precision tweezers, oversized and ridiculously dramatic. Tiny frightened dust bunny on the floor beside it, no people, no text.",
+      "file": "assets/illustrations/axe-art-tweezers-terror-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-653bc39f-7b03-479a-a6e1-9195c5286115.png"
+    },
+    {
+      "id": "axe-art-skull-helmet",
+      "en": "Skull Helmet",
+      "name": "Черепной шлем",
+      "alt": "Черепной шлем с клыками стоит на подушке, а паучок выглядывает из глазницы.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms, strong silhouette. Large centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, border, card frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: A chunky wearable fantasy helmet made from a single oversized ivory monster skull, two short upward horns, broad eye sockets, lower rim with two exaggerated tusks and a brown leather chin strap. It sits proudly on a faded crimson cushion; one tiny purple cartoon spider peeks out of one eye socket looking like the helmet's tenant. Clearly a hollow helmet, no human head, no gore, full object visible.",
+      "file": "assets/illustrations/axe-art-skull-helmet-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-9795d304-1669-44a2-b267-b155c3525758.png"
+    },
+    {
+      "id": "axe-art-sword-except-squid",
+      "en": "Sword of Slaying Everything Except Squid",
+      "name": "Меч убийства всего, кроме кальмаров",
+      "alt": "Грозный меч бессильно гнётся рядом с самодовольным маленьким кальмаром.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms, strong silhouette. Large centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, border, card frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: One magnificent broad silver fantasy sword with a blue leather grip and golden crossguard, displayed diagonally. The steel tip bends away comically like soft rubber from a small smug lavender squid sitting beside it; the squid has two large eyes, eight short arms and two longer tentacles naturally clustered under its body. Visual joke that a mighty sword is scared of a harmless squid. No human figures, no text, no extra weapons.",
+      "file": "assets/illustrations/axe-art-sword-except-squid-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-e1a23843-3d32-49dc-9b4a-cad3c247d69a.png"
+    },
+    {
+      "id": "axe-art-false-teeth",
+      "en": "Scary False Teeth",
+      "name": "Жуткие вставные зубы",
+      "alt": "Вставная челюсть с клыками пугает собственную зубную щётку.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms, strong silhouette. Large centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, border, card frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: A single chattering set of removable dentures, two pink gum arches with big ivory teeth and two exaggerated canine fangs, hinged wide open in a wicked grin on a small wooden bathroom shelf. A tiny ordinary blue toothbrush leans away as if frightened, bristles standing on end, no face on the toothbrush. Dentures only, no head, no eyes, no tongue, no blood. Clear funny object silhouette.",
+      "file": "assets/illustrations/axe-art-false-teeth-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-a8fba948-4d7a-41d8-95e6-f2904db4b93a.png"
+    },
+    {
+      "id": "axe-art-familiar",
+      "en": "Familiar",
+      "name": "Фамильяр",
+      "alt": "Фиолетовый кот-фамильяр в колпаке заснул на раскрытой книге заклинаний.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms, strong silhouette. Large centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, border, card frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: One round deep-purple wizard's cat familiar with exactly four paws, two ears and one curled tail, wearing a tiny crooked turquoise wizard hat. It has fallen asleep belly-down on an oversized open spellbook, hugging one glowing crystal ball with its two front paws. Book pages show ONLY abstract swirls and star doodles, no letters or runes. A sleepy little magical sparkle floats over its nose, warm comic scene, minimal backdrop.",
+      "file": "assets/illustrations/axe-art-familiar-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-60d11b0c-1abe-4b29-a38e-496e88553e98.png"
+    },
+    {
+      "id": "axe-art-raincoat",
+      "en": "Raincoat",
+      "name": "Дождевик",
+      "alt": "Жёлтый дождевик на пустых доспехах отражает брызги волшебного зелья.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms, strong silhouette. Large centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, border, card frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: A bright yellow hooded raincoat worn over an EMPTY squat steel breastplate on a simple wooden display stand. Sleeves hang at the sides, hood empty, no person inside. A small uncorked purple potion vial tips in midair beside it, purple droplets bouncing harmlessly from the waxy yellow fabric in clear curved arcs. Whole raincoat and stand visible, big readable silhouette, no hands or human figures.",
+      "file": "assets/illustrations/axe-art-raincoat-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-8b29e686-f638-4361-96cf-a0638c7d2e33.png"
+    },
+    {
+      "id": "axe-art-knight-light",
+      "en": "Knight Light",
+      "name": "Рыцарский фонарик",
+      "alt": "Маленький фонарик на рыцарском шлеме ослепляет самого любопытного мотылька.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms, strong silhouette. Large centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, border, card frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: One battered steel medieval knight helmet with a small warm glowing brass lantern cleverly strapped on top by a brown leather band. Lantern has a little pointed knightly visor like a tiny helmet, lit yellow glass inside; the main helmet's eye slit lies below it. One tiny cross-eyed moth with two antennae hovers in the glow, comically dazzled. Helmet sits on a plain stone, no human head or body, no modern electronics.",
+      "file": "assets/illustrations/axe-art-knight-light-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-492ef814-ee74-437e-89d6-6e78257f34b3.png"
+    }
+  ]
+}

@@ -1,15 +1,21 @@
-import {targetsIdentity} from './card-effects.js';
+import {refreshAxeCombat,afflicted} from './axe-mechanics.js';
+import {targetsIdentity,itemUsable,monsterIdentity} from './card-effects.js';
 import {has} from './traits.js';
 import {ownedItems,detach} from './item-links.js';
 import {discard,deckOf,takeTreasure} from './decks.js';
-import {removeCombatMonster} from './combat-outcomes.js';
+import {removeCombatMonster,finishWithoutKill} from './combat-outcomes.js';
 import {guaranteeEscape} from './escape-state.js';
 export function syncPeacefulMonsters(g){
  if(g.phase!=='combat'||g.fleeingDeclared||g.pendingEncounter)return;
+ refreshAxeCombat(g);if(g.pendingAxe)return;
  const fighters=[g.turn,...(g.helper===null?[]:[g.helper])];
+ const forced=(g.monsters||[]).find(m=>fighters.some(i=>g.players[i].equipment.some(c=>c.forceRunFrom&&c.forceRunFrom===m.en&&itemUsable(g.players[i],c))));
+ if(forced){g.mustRunAway=true;g.fleeingDeclared=true;g.forcedEscapeReason=`Меч требует немедленно смыться от ${forced.name}.`;return}
  for(const m of [...(g.monsters||[])]){
-  if(m.peacefulSex&&fighters.some(i=>g.players[i].sex===m.peacefulSex)){g.log?.unshift({text:`${m.name} не дерётся и оставляет одно сокровище.`,kind:'gold'});removeCombatMonster(g,m.uid,{treasures:m.peacefulTreasure||0})}
-  else if(m.peacefulIdentity&&fighters.some(i=>has(g.players[i],m.peacefulIdentity))){const actor=fighters.find(i=>has(g.players[i],m.peacefulIdentity));const cards=[...g.players[actor].hand,...g.players[actor].equipment,...(g.players[actor].carried||[])].filter(c=>deckOf(c)==='treasures');if(cards.length>=2)g.pendingEncounter={kind:'lawyers',actor,monster:m};removeCombatMonster(g,m.uid);}
+  if(afflicted(g.players[g.turn],'bo')&&m.nose){removeCombatMonster(g,m.uid,{treasures:m.reward})}
+  else if(m.peacefulSex&&fighters.some(i=>g.players[i].sex===m.peacefulSex)||m.peacefulItem&&fighters.some(i=>g.players[i].equipment.some(c=>c.en===m.peacefulItem&&itemUsable(g.players[i],c)))){g.log?.unshift({text:`${m.name} не дерётся и оставляет одно сокровище.`,kind:'gold'});removeCombatMonster(g,m.uid,{treasures:m.peacefulTreasure||0})}
+  else if(m.peacefulIdentity&&m.peacefulTreasure&&fighters.some(i=>monsterIdentity(g.players[i],m.peacefulIdentity))){removeCombatMonster(g,m.uid,{treasures:m.reward})}
+  else if(m.peacefulIdentity&&fighters.some(i=>monsterIdentity(g.players[i],m.peacefulIdentity))){const actor=fighters.find(i=>monsterIdentity(g.players[i],m.peacefulIdentity));const cards=[...g.players[actor].hand,...g.players[actor].equipment,...(g.players[actor].carried||[])].filter(c=>deckOf(c)==='treasures');if(cards.length>=2)g.pendingEncounter={kind:'lawyers',actor,monster:m};removeCombatMonster(g,m.uid);}
  }
 }
 export function encounterPrompt(g){const e=g.pendingEncounter;if(!e)return null;const p=g.players[e.actor];const cards=e.kind==='lawyers'?[...p.hand,...p.equipment,...(p.carried||[])].filter(c=>deckOf(c)==='treasures'):ownedItems(p);if(e.kind!=='lawyers'&&!cards.length){delete g.pendingEncounter;return null}return{...e,cards,count:e.kind==='lawyers'?2:1,optional:e.kind==='lawyers'}}
@@ -18,12 +24,14 @@ export function monsterActions(g,actor){
  if(g.phase!=='combat'||g.pendingEncounter||g.pendingDivine||g.mustRunAway||g.fleeingDeclared||![g.turn,g.helper].includes(actor))return[];
  const p=g.players[actor],fighters=[g.turn,...(g.helper===null?[]:[g.helper])],out=[];
  for(const m of g.monsters||[]){
+  if(m.ringAlly)for(const c of p.hand.filter(c=>c.effect==='wishingRing'))out.push({id:`ringAlly:${m.uid}:${c.uid}`,key:'ringAlly',monster:m,card:c,name:`Подружиться с рукой за ${c.name}`});
+  if(m.halflingStomp&&has(p,'Halfling'))out.push({id:`stomp:${m.uid}`,key:'stomp',monster:m,name:'Раздавить микроба: сокровище без уровня'});
   if(m.mayIgnore&&!fighters.some(i=>targetsIdentity(g.players[i],m.mustFightIdentity)))out.push({id:`ignore:${m.uid}`,key:'ignore',monster:m,name:`Пройти мимо: ${m.name}`});
   if(m.clericDismiss&&has(p,'Cleric'))out.push({id:`cleric:${m.uid}`,key:'cleric',monster:m,name:`Прогнать: ${m.name}`});
   if(m.bribeGold)for(const c of ownedItems(p).filter(c=>(c.gold??0)>=m.bribeGold))out.push({id:`bribe:${m.uid}:${c.uid}`,key:'bribe',monster:m,card:c,name:`Откупиться от ${m.name}: ${c.name}`});
  }
  return out;
 }
-export function playMonsterAction(g,actor,id){const a=monsterActions(g,actor).find(a=>a.id===id);if(!a)return{ok:false};if(a.card)discard(g,detach(g.players[actor],a.card.uid));removeCombatMonster(g,a.monster.uid,{treasures:a.key==='cleric'?a.monster.reward:0});return{ok:true,text:`${g.players[actor].name}: ${a.name}. Без уровня.`}}
+export function playMonsterAction(g,actor,id){const a=monsterActions(g,actor).find(a=>a.id===id);if(!a)return{ok:false};if(a.card)discard(g,detach(g.players[actor],a.card.uid));if(a.key==='ringAlly'){const m=a.monster;g.players[actor].equipment.push({...m,type:'ally',slot:'none',bonus:3,discardAs:structuredClone(m),name:'Союзник: '+m.name,desc:'+3 к силе. Дружба, купленная кольцом.'});g.monsters=g.monsters.filter(x=>x.uid!==m.uid);g.monster=g.monsters[0]||null;if(!g.monsters.length)finishWithoutKill(g);return{ok:true,text:'Ползучая рука стала союзником +3.'}}removeCombatMonster(g,a.monster.uid,{treasures:['cleric','stomp'].includes(a.key)?a.monster.reward:0});return{ok:true,text:`${g.players[actor].name}: ${a.name}. Без уровня.`}}
 export function poleEscapeOptions(g,actor,m){return m.discardPoleEscape?ownedItems(g.players[actor]).filter(c=>/wand|pole|staff/i.test(c.en||'')):[]}
 export function tossPole(g,actor,m,uid){const c=poleEscapeOptions(g,actor,m).find(c=>c.uid===uid);if(!c)return{ok:false};discard(g,detach(g.players[actor],uid));guaranteeEscape(g,actor,[m]);return{ok:true}}

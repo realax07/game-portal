@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-29",
+  "status": "completed",
+  "tool": "image_gen.imagegen (built-in)",
+  "scope": "Seventh Unnatural Axe art batch: consumables and special cards.",
+  "jobs": [
+    {
+      "id": "axe-art-baby-oil",
+      "en": "Baby Oil",
+      "name": "Детское масло",
+      "alt": "Флакон масла оставил такую скользкую лужицу, что сапоги уехали в разные стороны.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms and strong readable silhouette. Large centered subject with comfortable margins, minimal scenery, one clear visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs or malformed objects. Subject: One squat clear glass flask filled with golden oil, tipped beside a small shiny oil puddle on dungeon flagstones. A cork with a tiny pastel blue bow lies nearby. Exactly two EMPTY brown adventurer boots are sliding apart across the puddle, soles visibly slipping, little motion arcs. No person or baby, no label, no text. Simple readable golden blue and brown composition, visual joke of effortless escape.",
+      "file": "assets/illustrations/axe-art-baby-oil-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-d28a682b-cb3b-4cf3-9e9d-8b9185b33fa8.png"
+    },
+    {
+      "id": "axe-art-untied-shoe",
+      "en": "Your Shoe's Untied!",
+      "name": "А у тебя шнурок развязался!",
+      "alt": "Суровый рыцарь растерялся из-за огромного развязанного шнурка.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms and strong readable silhouette. Large centered subject with comfortable margins, minimal scenery, one clear visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs or malformed objects. Subject: One stocky adult fantasy knight in chunky steel armor and a crimson cape looks down in horror at ONE comically oversized brown lace-up boot with its long shoelace completely untied and looping loosely on the floor. Exactly two arms and two legs; one gauntlet points at the lace, other rests on hip. Helmet visor raised revealing puzzled eyebrows and mustache. Full figure, simple clear anatomy, no other figures.",
+      "file": "assets/illustrations/axe-art-untied-shoe-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-085e5a68-ec00-4d36-b556-1131a4a3f692.png"
+    },
+    {
+      "id": "axe-art-find-map",
+      "en": "Find A Map",
+      "name": "Найди карту",
+      "alt": "Искатель нашёл карту сокровищ, но держит её вверх ногами.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms and strong readable silhouette. Large centered subject with comfortable margins, minimal scenery, one clear visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs or malformed objects. Subject: One adult green-cloaked fantasy explorer with a huge round nose and tiny spectacles proudly holds a small parchment treasure map UPSIDE DOWN in exactly two hands. Map shows a winding dotted path and one large red X only, no writing or letters. A large compass beside his boot points the opposite way from his confident gaze. Exactly two arms and two legs, full figure, simple boots and leather hat, comic misplaced confidence.",
+      "file": "assets/illustrations/axe-art-find-map-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-15ae8465-3b5c-489d-aad4-ab512bb8b03d.png"
+    },
+    {
+      "id": "axe-art-garage-sale",
+      "en": "Garage Sale",
+      "name": "Распродажа",
+      "alt": "На прилавке подземелья продаются помятый шлем, треснувший щит и чайник с клыками.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms and strong readable silhouette. Large centered subject with comfortable margins, minimal scenery, one clear visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs or malformed objects. Subject: A small rickety wooden market stall inside a dungeon, packed with exactly three absurd second-hand fantasy bargains: one dented steel helmet containing a bird nest, one cracked round wooden shield patched with a kitchen spoon, and one tiny purple teapot with harmless vampire fangs on its spout. Three blank dangling price tags, absolutely no text or digits. A few gold coins on counter, no people, clear separate chunky objects, funny flea-market atmosphere.",
+      "file": "assets/illustrations/axe-art-garage-sale-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-d9d53d92-f014-424f-aef4-b7c66b1888e8.png"
+    },
+    {
+      "id": "axe-art-of-doom",
+      "en": ". . . of Doom!",
+      "name": "…Ужаса!",
+      "alt": "Обычная деревянная ложка обрела зловещее сияние и пугает мышонка.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms and strong readable silhouette. Large centered subject with comfortable margins, minimal scenery, one clear visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs or malformed objects. Subject: One ordinary oversized wooden soup spoon floating upright in a ridiculously dramatic halo of dark violet magic, with two tiny glowing red eyes appearing in the bowl of the spoon. A small loose black ribbon with skull bead tied around its handle. One tiny gray mouse below clutches a crumb and stares in comic alarm. Clear wooden spoon silhouette, no other weapons or utensils, one mouse with four paws and one tail. Warm parchment, humorous enchanted-item enhancement.",
+      "file": "assets/illustrations/axe-art-of-doom-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-3a6a5aa7-51ad-406e-854e-27605ed41f34.png"
+    },
+    {
+      "id": "axe-art-itching-powder",
+      "en": "Itching Powder",
+      "name": "Порошок зудения",
+      "alt": "Порошок из баночки заставляет пустую кольчугу чесаться собственной щёткой.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms and strong readable silhouette. Large centered subject with comfortable margins, minimal scenery, one clear visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs or malformed objects. Subject: One small open terracotta powder jar spills sparkling magenta powder toward an EMPTY chainmail shirt on a wooden armor stand. The shirt's TWO hanging sleeves comically curl inward, each ending in one leather glove; one glove holds a small scratching brush against the shirt's side, the other scratches its shoulder. Empty collar, no person inside. One jar, two sleeves, two gloves, clear separation, funny itchy equipment scene.",
+      "file": "assets/illustrations/axe-art-itching-powder-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-42c130f0-e002-4fd3-9115-ffbf64fdb30b.png"
+    },
+    {
+      "id": "axe-art-cowardice-potion",
+      "en": "Potion of Cowardice",
+      "name": "Зелье трусости",
+      "alt": "Бутылочка зелья трусости сама прячется за крошечным щитом.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms and strong readable silhouette. Large centered subject with comfortable margins, minimal scenery, one clear visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs or malformed objects. Subject: One round pale yellow glass potion bottle containing lemon-yellow liquid, corked and wrapped in a small purple cloth cape. A simple terrified cartoon face visible as magical condensation on its front. It hides behind a comically tiny round wooden buckler propped against it; a small harmless ladybug on a stone nearby is what scares it. No arms or legs on bottle, one bottle only, no label or text, readable item silhouette.",
+      "file": "assets/illustrations/axe-art-cowardice-potion-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-40202657-e5d1-4127-8937-fed82d40897c.png"
+    },
+    {
+      "id": "axe-art-disbelief-potion",
+      "en": "Potion of Disbelief",
+      "name": "Зелье неверия",
+      "alt": "От бирюзового зелья грозный монстр превращается в прозрачный контур.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms and strong readable silhouette. Large centered subject with comfortable margins, minimal scenery, one clear visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs or malformed objects. Subject: One open angular turquoise glass potion bottle on a dungeon stone, emitting a thin cyan magical vapor that reaches a small purple horned monster beside it. The monster is comically surprised, with exactly two arms and two legs, its left half solid watercolor and its right half fading into a simple pale transparent outline and harmless sparkles. No wound or gore, funny disappearing trick, large clear bottle and small full monster, no text.",
+      "file": "assets/illustrations/axe-art-disbelief-potion-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-4b9740c1-542f-43f3-a344-657eae025147.png"
+    }
+  ]
+}

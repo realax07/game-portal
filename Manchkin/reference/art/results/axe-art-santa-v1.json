@@ -1,0 +1,11 @@
+{
+  "id": "axe-art-santa",
+  "en": "Santa",
+  "name": "Санта",
+  "alt": "Сердитый Санта в красной шубе проверяет пустой мешок и выставляет уголь вместо подарков.",
+  "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms and strong silhouette. Large centered subject, comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, border or card frame. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: A stocky grumpy Santa with a huge white beard, red fur-trimmed coat, red hat and black boots. Exactly two arms and two legs. One mitten holds an upside-down empty gift sack, the other points accusingly at one tiny lump of coal on a fancy silver tray on the floor. Raised angry eyebrow, absurdly stern gift inspector, entire figure visible.",
+  "file": "assets/illustrations/axe-art-santa-v1.jpg",
+  "date": "2026-10-29",
+  "status": "generated",
+  "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-bf43d8a9-a97a-426f-9a05-4b4dc7498971.png"
+}

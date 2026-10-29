@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-29",
+  "status": "completed",
+  "tool": "image_gen.imagegen (built-in)",
+  "scope": "Complete remaining Unnatural Axe illustrations, batch 11",
+  "jobs": [
+    {
+      "id": "axe-art-mommy",
+      "en": "Mommy",
+      "name": "Мамочка",
+      "alt": "Маленький монстрик позвал огромную маму, которая принесла ему забытый шарфик.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: Exactly TWO matching teal furry fantasy monsters: one tiny worried child in front with two arms and two legs, and one enormous mother behind it with two arms and two legs, same two short horns and round ears. Mother has a red polka-dot headscarf, stern raised eyebrow, and holds the child's tiny forgotten yellow scarf in both hands. The child points timidly offscreen with one hand while other rests on chest. Entire two figures visible, clear family resemblance and size joke, no additional monsters or limbs.",
+      "file": "assets/illustrations/axe-art-mommy-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-941ed41c-cc34-4934-ae7a-610bf8710c61.png"
+    }
+  ]
+}

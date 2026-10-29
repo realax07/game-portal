@@ -1,0 +1,14 @@
+{
+  "id": "axe-art-sword-except-squid",
+  "en": "Sword of Slaying Everything Except Squid",
+  "name": "Меч убийства всего, кроме кальмаров",
+  "alt": "Испуганный меч с цельным клинком отклоняется от самодовольного кальмара.",
+  "prompt": "Use case: precise-object-edit. Edit the supplied humorous fantasy card illustration. Keep the lavender squid in the lower right, its expression, warm parchment background, ink and watercolor style, blue sword grip, golden crossguard and scared face. REPLACE THE ENTIRE MALFORMED FORKED BLADE. The sword must have exactly ONE normal solid narrow steel blade extending directly from the center of the crossguard DOWNWARD to ONE pointed tip near the lower left. A recognizable conventional medieval sword, with two continuous cutting edges that converge at that single tip. Only a gentle sideways bow of the whole blade toward the LEFT, away from the squid; the tip still points down. Remove completely the second rising branch and the hooked arch on the upper right, replacing that area with plain parchment. No split, no branch, no U shape, no hook, no second tip, no detached metal. The visual joke is a mildly leaning frightened sword, not rubber anatomy. Preserve the rest of the composition, no text or frame.",
+  "file": "assets/illustrations/axe-art-sword-except-squid-v2.jpg",
+  "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-9667cfae-9b55-4861-8b16-064843f05d61.png",
+  "archivedOriginal": "reference/art/originals/axe-art-sword-except-squid-v2.png",
+  "editReference": "reference/art/originals/axe-art-sword-except-squid-v1.png",
+  "date": "2026-10-29",
+  "batch": "batch-2026-10-29-axe-sword-fix",
+  "status": "ready"
+}

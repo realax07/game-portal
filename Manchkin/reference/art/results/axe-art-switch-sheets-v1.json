@@ -1,0 +1,11 @@
+{
+  "id": "axe-art-switch-sheets",
+  "en": "Switch Character Sheets (GUAL)",
+  "name": "Подмени лист персонажа",
+  "alt": "Два свитка с портретами мышонка и дракона тайком меняются местами.",
+  "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: Two blank character sheets on a wooden gaming table, one bearing ONLY a tiny cartoon mouse portrait and one bearing ONLY a huge dragon portrait, no writing, numbers or letters. Exactly two leather-gloved hands attached to two visible purple sleeves cross over to swap the sheets. One suspicious small white die with round pips nearby, clear trickster tabletop composition, no other hands.",
+  "file": "assets/illustrations/axe-art-switch-sheets-v1.jpg",
+  "date": "2026-10-29",
+  "status": "generated",
+  "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-eb76c473-b398-4d6e-945e-18a86b32c482.png"
+}

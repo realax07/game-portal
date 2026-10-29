@@ -39,8 +39,9 @@ test('publisher coverage requires an actual definition in the corresponding set'
  assert.equal(cleric.printedCopies,3,'printed duplicates must survive source ingestion');
  const other=a.memberships.find(m=>m.set==='munchkin-4-the-need-for-steed');
  assert.equal(other.printedCopies,null,'deduplicated legacy lists cannot prove physical copy counts');
- assert.equal(a.summary.missingMemberships,a.memberships.filter(m=>!m.present).length);
- assert.equal(a.summary.publisherUniqueNames,new Set(a.memberships.map(m=>m.en)).size);
+ const axe=a.sets.find(s=>s.id==='axe');assert.equal(axe.customizationCopies,4);assert.equal(axe.publisherUniqueNames,102);assert.equal(axe.listedUniqueEntries,103);assert.ok(!axe.missingNames.includes('(Blank)'));
+ assert.equal(a.summary.missingMemberships,a.memberships.filter(m=>!m.customizationOnly&&!m.present).length);
+ assert.equal(a.summary.publisherUniqueNames,new Set(a.memberships.filter(m=>!m.customizationOnly).map(m=>m.en)).size);
 });
 
 test('audit distinguishes implemented definitions, unknown effects and printed deck instances',async()=>{

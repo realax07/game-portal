@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-29",
+  "status": "completed",
+  "tool": "image_gen.imagegen (built-in)",
+  "scope": "Third Unnatural Axe art batch: final seven monsters and Funny-Looking Sword.",
+  "jobs": [
+    {
+      "id": "axe-art-santa",
+      "en": "Santa",
+      "name": "Санта",
+      "alt": "Сердитый Санта в красной шубе проверяет пустой мешок и выставляет уголь вместо подарков.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms and strong silhouette. Large centered subject, comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, border or card frame. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: A stocky grumpy Santa with a huge white beard, red fur-trimmed coat, red hat and black boots. Exactly two arms and two legs. One mitten holds an upside-down empty gift sack, the other points accusingly at one tiny lump of coal on a fancy silver tray on the floor. Raised angry eyebrow, absurdly stern gift inspector, entire figure visible.",
+      "file": "assets/illustrations/axe-art-santa-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-bf43d8a9-a97a-426f-9a05-4b4dc7498971.png"
+    },
+    {
+      "id": "axe-art-scary-clowns",
+      "en": "Scary Clowns",
+      "name": "Страшные клоуны",
+      "alt": "Два клоуна-скелета с нелепыми причёсками и пищащим резиновым цыплёнком.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms and strong silhouette. Large centered subject, comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, border or card frame. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: Exactly TWO goofy undead skeleton clowns in ragged colorful circus suits, one tall and skinny in turquoise stripes, one squat in purple polka dots. White bony faces, red ball noses, silly orange and blue wigs. Tall clown holds a limp yellow rubber chicken, short clown offers a drooping balloon shaped like a skull. Each has exactly two arms and two legs. Funny spooky, no blood or gore, no realistic horror, no resemblance to movie clowns.",
+      "file": "assets/illustrations/axe-art-scary-clowns-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-239985bb-48ff-4484-9027-d4799829a898.png"
+    },
+    {
+      "id": "axe-art-snot-elemental",
+      "en": "Snot Elemental",
+      "name": "Сопливый элементаль",
+      "alt": "Зелёный сопливый элементаль сморкается в крошечный платочек.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms and strong silhouette. Large centered subject, comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, border or card frame. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: One huge translucent lime-green mucus elemental, a rounded gelatinous body with exactly two blobby arms and two short stubby feet, one lumpy face with an enormous runny nose. It blows its nose into an absurdly tiny white handkerchief held in both hands; puffed cheeks and embarrassed watery eyes. Little glossy drips, comical rather than disgusting, no gore, no detailed filth. Minimal stone floor.",
+      "file": "assets/illustrations/axe-art-snot-elemental-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-c06f002b-1515-4216-8982-b9a040311511.png"
+    },
+    {
+      "id": "axe-art-mighty-germ",
+      "en": "The Mighty Germ",
+      "name": "Могучий микроб",
+      "alt": "Крошечный усатый микроб в плаще силача поднимает пуговицу как штангу.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms and strong silhouette. Large centered subject, comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, border or card frame. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: One tiny teal oval cartoon germ covered in short soft cilia, with exactly two muscular little arms and two tiny feet, extravagant curled black mustache and a red superhero cape. Proudly raises a single ordinary shirt button above its head with both hands as if it were a massive weight, a giant dropped sewing needle lies nearby to show its small size. Simple legible face, friendly absurd menace, no text or insignia.",
+      "file": "assets/illustrations/axe-art-mighty-germ-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-48f74b8a-0421-4dd9-abef-1864bdec8e4f.png"
+    },
+    {
+      "id": "axe-art-shadow-nose",
+      "en": "The Shadow Nose",
+      "name": "Тень Летающего носа",
+      "alt": "Призрачный фиолетовый летающий нос со светящимися глазами преследует монету.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms and strong silhouette. Large centered subject, comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, border or card frame. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: One oversized floating ghostly human nose made of smoky dark violet shadow, with two small spectral bat wings and a tapering vapor trail, no arms or legs. Two mischievous glowing pale eyes hover just above the nose bridge as part of the same ghostly form. It ominously sniffs at a gold coin on a stone, giving it a disdainful expression. Strong distinctive nose silhouette, humorous haunted dungeon mood, not realistic horror.",
+      "file": "assets/illustrations/axe-art-shadow-nose-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-cc94cbcb-9b72-468c-abe8-bba3fb604796.png"
+    },
+    {
+      "id": "axe-art-long-name-thing",
+      "en": "Thing With A Name So Long There's No Room For A Picture On the Card",
+      "name": "Нечто с названием, которому не хватило места",
+      "alt": "Огромное мохнатое нечто прячется за бесконечно длинным пустым свитком.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms and strong silhouette. Large centered subject, comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, border or card frame. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: A giant shaggy rust-orange fantasy creature almost entirely concealed behind a ridiculous extremely long rolled parchment scroll piled in looping folds. Only two enormous startled eyes peeking above the top, two furry hands gripping its side edges and two big furry feet beneath it are visible. The scroll is COMPLETELY BLANK with no writing, no symbols, no marks. Clear centered funny silhouette, visual joke about paperwork leaving no room for a monster, no frame.",
+      "file": "assets/illustrations/axe-art-long-name-thing-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-a26fd1c6-4c40-487e-8b93-13f77ffbe91e.png"
+    },
+    {
+      "id": "axe-art-were-turtle",
+      "en": "Were-Turtle",
+      "name": "Черепаха-оборотень",
+      "alt": "Черепаха-оборотень с клыками и пушистыми бакенбардами воет на крошечную луну.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms and strong silhouette. Large centered subject, comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, border or card frame. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: One squat upright turtle-werewolf hybrid with a big olive green turtle shell, green scaly body, shaggy gray cheek whiskers and two tiny canine fangs. Exactly two forearms with small clawed hands and two short hind legs. It howls dramatically at a tiny pale full moon above one shoulder, despite being painfully slow; torn purple trousers, one fallen leaf rests on its head. Entire body visible, original humorous fantasy creature, no blood.",
+      "file": "assets/illustrations/axe-art-were-turtle-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-e0b6043c-7c06-406a-9fb1-f944ce57c8bd.png"
+    },
+    {
+      "id": "axe-art-funny-looking-sword",
+      "en": "Funny-Looking Sword",
+      "name": "Странно выглядящий меч",
+      "alt": "Нелепый орочий меч с кривым волнистым клинком и смешным набалдашником.",
+      "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms and strong silhouette. Large centered subject, comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, border or card frame. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: A single ridiculous orcish fantasy sword displayed diagonally on warm parchment: broad steel blade bent into a wildly impractical zigzag, asymmetric brass crossguard resembling droopy ears, thick red leather grip, big round pommel with a goofy carved wooden face. Small polishing cloth on ground emphasizes that someone takes this absurd weapon seriously. One sword only, no hands or figures, strong simple item silhouette, steel gray red and brass palette.",
+      "file": "assets/illustrations/axe-art-funny-looking-sword-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-96a138b9-4e5d-4ab1-834a-64cb34a38c1d.png"
+    }
+  ]
+}

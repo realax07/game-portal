@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-29",
+  "status": "completed",
+  "tool": "image_gen.imagegen (built-in)",
+  "scope": "Complete remaining Unnatural Axe illustrations, batch 10",
+  "jobs": [
+    {
+      "id": "axe-art-annihilation",
+      "en": "Annihilation",
+      "name": "Аннигиляция",
+      "alt": "Карта исчезает в крошечной чёрной дыре, оставляя только удивлённый уголок.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One blank parchment playing card being sucked into a small deep-violet magical vortex floating above a wooden gaming table. Half the card dissolves into harmless golden dust; remaining corner bears a tiny surprised cartoon face only, no text or other symbols. One empty card-shaped dust outline on the table, clear readable motion and comical cosmic overkill, no characters or violence.",
+      "file": "assets/illustrations/axe-art-annihilation-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-3c150b52-ebed-4747-bdcf-94297edab714.png"
+    },
+    {
+      "id": "axe-art-too-many",
+      "en": "Deck Of Too Many Things",
+      "name": "Колода чересчур многих вещей",
+      "alt": "Из маленькой колоды вываливаются чайник, сапог, рыба и корона.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One small stack of plain cream-backed fantasy playing cards tied with a loose blue ribbon, overflowing magically with exactly four absurd chunky objects: one red teapot, one brown boot, one bewildered silver fish and one little gold crown. Objects float in a simple short arc over stack, no people or hands, no text or card faces, readable silly abundance.",
+      "file": "assets/illustrations/axe-art-too-many-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-bb010777-4741-4900-a694-e34250e93842.png"
+    },
+    {
+      "id": "axe-art-friendly",
+      "en": "Friendly",
+      "name": "Дружелюбный",
+      "alt": "Клыкастый монстр дружелюбно предлагает корзинку сокровищ с бантиком.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One big orange furry horned monster with exactly two arms and two short legs, one curved tail, enormous harmless fangs and a bashful toothy smile. It offers one wicker basket of gold coins tied with a pink ribbon in both hands, tiny daisy tucked behind one ear. Broad welcoming silhouette, no other figures, full body, no text.",
+      "file": "assets/illustrations/axe-art-friendly-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-7e14d97d-fbd7-4532-909f-6ae1dd4c9588.png"
+    },
+    {
+      "id": "axe-art-brood",
+      "en": "Brood",
+      "name": "Выводок",
+      "alt": "Пять маленьких зелёных монстриков выстроились за одним большим печеньем.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: Exactly FIVE small round green baby fantasy monsters, each with two tiny arms two feet and one pair of stubby horns, clustered eagerly around one giant cookie on a stone. Different silly faces, one sitting atop cookie, others neatly separated around it. Clear count and silhouettes, no extra heads or limbs, warm comic menace, no text.",
+      "file": "assets/illustrations/axe-art-brood-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-c12b2c00-4832-425a-90c5-766f68089b62.png"
+    },
+    {
+      "id": "axe-art-sleeping",
+      "en": "Sleeping",
+      "name": "Спящий",
+      "alt": "Огромный монстр спит на мешке сокровищ и обнимает плюшевого рыцаря.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One huge round blue furry monster with exactly two arms two legs and one short tail, curled asleep on a small treasure sack, hugging one tiny plush knight doll. Drooping purple nightcap and a big translucent sleep bubble from its nose, completely closed eyes, peaceful snoring expression. Entire character readable, no written snoring letters, no extra limbs.",
+      "file": "assets/illustrations/axe-art-sleeping-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-024599fd-1341-4359-b604-06c3e7caa33e.png"
+    },
+    {
+      "id": "axe-art-undead",
+      "en": "Undead",
+      "name": "Нежить",
+      "alt": "Монстр-зомби чинит свою отвалившуюся перчатку иголкой и ниткой.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One goofy mint-green zombie fantasy monster in a ragged burgundy coat, exactly two attached arms and two legs. It concentrates on sewing a loose brown glove with one needle and thread held in its two hands, glove lies separately on its lap and is clearly EMPTY, not an extra hand. One small bandage on forehead, a few visible cartoon stitches, no gore or exposed wounds. Seated on stone, friendly spooky humor.",
+      "file": "assets/illustrations/axe-art-undead-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-90d154c5-d683-49fd-80f1-e92e8bb2b681.png"
+    },
+    {
+      "id": "axe-art-dead",
+      "en": "Dead",
+      "name": "Сдох",
+      "alt": "Монстр театрально лежит лапами кверху, а муха проверяет его нос.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One silly pear-shaped purple fantasy monster lying flat on its back with exactly two arms and two legs pointing upward, tongue flopping from mouth and two cartoon X-shaped eyes. A tiny fly on its nose holds a small magnifying glass. Comic board-game defeat, no wounds or blood, soft harmless stylization, clear whole silhouette, no writing.",
+      "file": "assets/illustrations/axe-art-dead-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-5c363945-25cd-4eaa-af68-59d06ac93772.png"
+    },
+    {
+      "id": "axe-art-dead-broke",
+      "en": "Dead Broke",
+      "name": "Без гроша",
+      "alt": "Огромный монстр вытряхивает пустой кошелёк, откуда выпала только пуговица.",
+      "prompt": "Use case: illustration-story. One square original illustration for a humorous fantasy card game, clear at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm mottled parchment, saturated colors, chunky forms, strong silhouette. Centered subject with comfortable margins, minimal scenery, one visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, not copied card art. Clear plausible anatomy, no unintended extra limbs. Subject: One large muscular ochre fantasy monster with two short horns, exactly two arms and two legs, sheepishly turning a tiny empty leather coin purse upside down with both hands. Only one little shirt button falls out, no gold at all. Its impressive armor is patched with simple cloth and its belt pocket hangs inside out, full body, absurd contrast strength versus poverty, no text.",
+      "file": "assets/illustrations/axe-art-dead-broke-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-a7487331-97d2-4fdd-a962-87f7a7df9f25.png"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "axe-art-find-map",
+  "en": "Find A Map",
+  "name": "Найди карту",
+  "alt": "Искатель нашёл карту сокровищ, но держит её вверх ногами.",
+  "prompt": "Use case: illustration-story. Asset: one square original illustration for a humorous fantasy card game, legible at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment, saturated colors, chunky simple forms and strong readable silhouette. Large centered subject with comfortable margins, minimal scenery, one clear visual joke. No text, letters, numbers, logos, watermark, frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs or malformed objects. Subject: One adult green-cloaked fantasy explorer with a huge round nose and tiny spectacles proudly holds a small parchment treasure map UPSIDE DOWN in exactly two hands. Map shows a winding dotted path and one large red X only, no writing or letters. A large compass beside his boot points the opposite way from his confident gaze. Exactly two arms and two legs, full figure, simple boots and leather hat, comic misplaced confidence.",
+  "file": "assets/illustrations/axe-art-find-map-v1.jpg",
+  "date": "2026-10-29",
+  "status": "generated",
+  "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-15ae8465-3b5c-489d-aad4-ab512bb8b03d.png"
+}

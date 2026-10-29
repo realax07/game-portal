@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-29",
+  "status": "completed",
+  "tool": "image_gen.imagegen (built-in)",
+  "scope": "First Unnatural Axe artwork batch after complete mechanics; eight original monster illustrations.",
+  "jobs": [
+    {
+      "id": "axe-art-cat-girl",
+      "en": "Cat Girl",
+      "name": "Девушка-кошка",
+      "alt": "Взрослая рыжая девушка-кошка в зелёном костюме плутовки угрожает смешной метёлкой.",
+      "prompt": "Use case: illustration-story. Asset type: a single square original illustration for a humorous fantasy card game, clear at 384 by 384 pixels. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment. Saturated character colors, simple chunky shapes, a strong readable silhouette and one visual joke. Large centered subject with comfortable margins, minimal scenery. Modest detail appropriate for a small card. No text, letters, numbers, logos, watermark, border, card frame or separate panels. Do not imitate an existing copyrighted card illustration. Clear plausible anatomy, no duplicated limbs. Subject: An adult anthropomorphic ginger cat woman in a green fantasy rogue tunic and tall boots. Exactly two arms and two legs, one curved tail. She poses smugly with one paw resting on her hip and the other paw holding a tiny innocent-looking feather duster as a weapon; a huge playful toothy grin and whiskers. Friendly comic menace, fully clothed, no sexualization.",
+      "file": "assets/illustrations/axe-art-cat-girl-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-1c419258-29bf-4d05-b389-ff5f865a2307.png"
+    },
+    {
+      "id": "axe-art-crawling-hand",
+      "en": "Crawling Hand",
+      "name": "Ползучая рука",
+      "alt": "Ползучая синеватая рука с пятью пальцами заманивает искателя золотым кольцом.",
+      "prompt": "Use case: illustration-story. Asset type: a single square original illustration for a humorous fantasy card game, clear at 384 by 384 pixels. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment. Saturated character colors, simple chunky shapes, a strong readable silhouette and one visual joke. Large centered subject with comfortable margins, minimal scenery. Modest detail appropriate for a small card. No text, letters, numbers, logos, watermark, border, card frame or separate panels. Do not imitate an existing copyrighted card illustration. Clear plausible anatomy, no duplicated limbs. Subject: A single mischievous blue-gray disembodied undead LEFT hand crawling across a little dusty dungeon flagstone, seen three-quarter dorsal view. Exactly FIVE digits total: four long curled fingers touching the floor and one short opposable thumb on the side. Anatomically recognizable human hand, not a spider. A worn purple cuff closes the wrist cleanly, no exposed wound, no blood. A gold ring dangles like bait from one raised finger, comic sneaky gesture. No other hands, faces or limbs.",
+      "file": "assets/illustrations/axe-art-crawling-hand-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-a99a50fb-1100-4da2-ba26-0aaa97b9d72e.png"
+    },
+    {
+      "id": "axe-art-frost-giant",
+      "en": "Frost Giant",
+      "name": "Морозный великан",
+      "alt": "Огромный морозный великан зябко держит крошечную чашку рядом с маленькой свечой.",
+      "prompt": "Use case: illustration-story. Asset type: a single square original illustration for a humorous fantasy card game, clear at 384 by 384 pixels. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment. Saturated character colors, simple chunky shapes, a strong readable silhouette and one visual joke. Large centered subject with comfortable margins, minimal scenery. Modest detail appropriate for a small card. No text, letters, numbers, logos, watermark, border, card frame or separate panels. Do not imitate an existing copyrighted card illustration. Clear plausible anatomy, no duplicated limbs. Subject: A gigantic pale ice-blue bearded fantasy giant in a shaggy cream fur cape, with a lumpy icicle crown, shivering indignantly beside one tiny red candle on a rock. He holds an absurdly tiny teacup delicately with his two enormous mittened hands, little steam swirl above it. Exactly two arms, two legs, one head. Frosty beard, anxious wide eyes and a large round red nose; no human companions.",
+      "file": "assets/illustrations/axe-art-frost-giant-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-aefd1068-5608-4f34-a36e-47e51bd396b9.png"
+    },
+    {
+      "id": "axe-art-fungus",
+      "en": "Fungus",
+      "name": "Гриб",
+      "alt": "Фиолетовый гриб-богатырь гордо тренируется с нелепо маленькой деревянной гантелью.",
+      "prompt": "Use case: illustration-story. Asset type: a single square original illustration for a humorous fantasy card game, clear at 384 by 384 pixels. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment. Saturated character colors, simple chunky shapes, a strong readable silhouette and one visual joke. Large centered subject with comfortable margins, minimal scenery. Modest detail appropriate for a small card. No text, letters, numbers, logos, watermark, border, card frame or separate panels. Do not imitate an existing copyrighted card illustration. Clear plausible anatomy, no duplicated limbs. Subject: A squat grouchy mushroom monster with one enormous bright purple cap dotted with cream spots, a thick ivory stalk body, exactly two stubby arms and two root-like feet. One hand angrily holds an outrageously small wooden dumbbell, the other rests on its hip. Puffed cheeks and an absurdly proud bodybuilding pose, scattered tiny ordinary mushrooms accentuate its size. No extra limbs, no text.",
+      "file": "assets/illustrations/axe-art-fungus-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-994394f4-51b2-42e1-ba19-f53b06ed2482.png"
+    },
+    {
+      "id": "axe-art-giant-cockroach",
+      "en": "Giant Cockroach",
+      "name": "Гигантский таракан",
+      "alt": "Гигантский таракан в маленькой каске похитил рыцарский шлем и гордится добычей.",
+      "prompt": "Use case: illustration-story. Asset type: a single square original illustration for a humorous fantasy card game, clear at 384 by 384 pixels. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment. Saturated character colors, simple chunky shapes, a strong readable silhouette and one visual joke. Large centered subject with comfortable margins, minimal scenery. Modest detail appropriate for a small card. No text, letters, numbers, logos, watermark, border, card frame or separate panels. Do not imitate an existing copyrighted card illustration. Clear plausible anatomy, no duplicated limbs. Subject: One gigantic glossy chestnut-brown cockroach as a fantasy monster, three-quarter view, wearing a tiny dented metal helmet that is far too small for its head. Exactly six clearly separated insect legs, two long antennae, folded wing covers, no human arms. Its front pair of legs grip a stolen oversized steel knight helmet like a trophy. Broad mischievous insect grin; two little crumbs on the ground. Comical rather than disgusting.",
+      "file": "assets/illustrations/axe-art-giant-cockroach-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-70872208-f2fc-4704-a9a7-468931687c95.png"
+    },
+    {
+      "id": "axe-art-giant-skunk",
+      "en": "Giant Skunk",
+      "name": "Гигантский скунс",
+      "alt": "Пухлый гигантский скунс восседает на брошенных доспехах, разгоняя всех зелёными завитками запаха.",
+      "prompt": "Use case: illustration-story. Asset type: a single square original illustration for a humorous fantasy card game, clear at 384 by 384 pixels. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment. Saturated character colors, simple chunky shapes, a strong readable silhouette and one visual joke. Large centered subject with comfortable margins, minimal scenery. Modest detail appropriate for a small card. No text, letters, numbers, logos, watermark, border, card frame or separate panels. Do not imitate an existing copyrighted card illustration. Clear plausible anatomy, no duplicated limbs. Subject: One gigantic plump black-and-white fantasy skunk with a huge arched fluffy tail, four legs and two tiny ears. It grins proudly while sitting on a little heap of discarded cloth armor and boots. Stylized pale green spirals of odor drift behind its tail; one fly wearing a miniature clothespin on its nose retreats in the distance. No human arms, no extra paws, no realistic filth, no lettering.",
+      "file": "assets/illustrations/axe-art-giant-skunk-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-047db32d-b72f-4242-8a8d-58132b61265c.png"
+    },
+    {
+      "id": "axe-art-jabberwock",
+      "en": "Jabberwock",
+      "name": "Бармаглот",
+      "alt": "Бирюзовый зубастый бармаглот в маленькой волшебной шляпе обиженно разглядывает сломанный тренировочный меч.",
+      "prompt": "Use case: illustration-story. Asset type: a single square original illustration for a humorous fantasy card game, clear at 384 by 384 pixels. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment. Saturated character colors, simple chunky shapes, a strong readable silhouette and one visual joke. Large centered subject with comfortable margins, minimal scenery. Modest detail appropriate for a small card. No text, letters, numbers, logos, watermark, border, card frame or separate panels. Do not imitate an existing copyrighted card illustration. Clear plausible anatomy, no duplicated limbs. Subject: An original ridiculous fantasy dragon-beast, with a pear-shaped turquoise body, one long curved neck, huge buck teeth, small bat wings, exactly two forearms and two hind legs, one curling tail. It wears a tiny crooked purple wizard hat and looks deeply offended, holding a splintered wooden practice sword in one claw and scratching its chin with the other. Broad silhouette, expressive bulging eyes, no resemblance to a film character.",
+      "file": "assets/illustrations/axe-art-jabberwock-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-cf6a6e3d-d59a-47d6-aa5c-d10adbe01691.png"
+    },
+    {
+      "id": "axe-art-judge-fredd",
+      "en": "Judge Fredd",
+      "name": "Судья Фредд",
+      "alt": "Суровый судья-рыцарь в огромном белом парике несёт молоток и конфискованный сундук.",
+      "prompt": "Use case: illustration-story. Asset type: a single square original illustration for a humorous fantasy card game, clear at 384 by 384 pixels. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment. Saturated character colors, simple chunky shapes, a strong readable silhouette and one visual joke. Large centered subject with comfortable margins, minimal scenery. Modest detail appropriate for a small card. No text, letters, numbers, logos, watermark, border, card frame or separate panels. Do not imitate an existing copyrighted card illustration. Clear plausible anatomy, no duplicated limbs. Subject: An original stern fantasy judge-knight in chunky dark iron armor, a huge exaggerated white powdered judicial wig and a crimson cape. Exactly two arms and two legs. He holds one enormous wooden judge gavel in his right gauntlet and a small confiscated treasure chest tucked beneath his left forearm. Bushy angry eyebrows, comically small spectacles, tiny boots under a broad armored body. No firearms, no logos, no eagle insignia, no resemblance to a comic-book police character.",
+      "file": "assets/illustrations/axe-art-judge-fredd-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-2805dfad-8a0f-4f69-937c-790557260478.png"
+    }
+  ]
+}

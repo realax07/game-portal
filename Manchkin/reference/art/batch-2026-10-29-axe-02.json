@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-29",
+  "status": "completed",
+  "tool": "image_gen.imagegen (built-in)",
+  "scope": "Second Unnatural Axe artwork batch: eight original monster illustrations.",
+  "jobs": [
+    {
+      "id": "axe-art-mt-suit",
+      "en": "M.T. Suit",
+      "name": "Пустой костюм",
+      "alt": "Пустой деловой костюм шагает сам по себе, а галстук изображает язык.",
+      "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment. Saturated colors, simple chunky forms, strong readable silhouette, minimal scenery, one visual joke. Large centered subject with comfortable margins. No text, letters, numbers, logos, watermark, card frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: An EMPTY plum-purple business suit walking by itself as a dungeon monster: floating jacket, empty cuffs, trousers and exactly two brown shoes; visibly no head, no hands, no person inside. White shirt collar surrounds an empty dark neck hole. Red tie sticks outward like a cheeky tongue. One sleeve raised threateningly, other on hip, little spilled coins underfoot. Entire suit visible.",
+      "file": "assets/illustrations/axe-art-mt-suit-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-5295a825-7643-418c-85d7-05bf2ee841ea.png"
+    },
+    {
+      "id": "axe-art-lust-monster",
+      "en": "Lust Monster",
+      "name": "Похотливый монстр",
+      "alt": "Розовый рогатый монстр обнимает мешок золота и протягивает ему цветок.",
+      "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment. Saturated colors, simple chunky forms, strong readable silhouette, minimal scenery, one visual joke. Large centered subject with comfortable margins. No text, letters, numbers, logos, watermark, card frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: A goofy round pink furry monster with two small curved horns, exactly two arms and two short legs, one tail. Huge dreamy heart-shaped pupils and puckered lips. It hugs a bulging bag of gold with one arm, offering it a tiny daisy with the other hand, absurdly smitten with treasure. Fully nonsexual, no nudity, no human companions, simple clear five-digit mittenlike paws.",
+      "file": "assets/illustrations/axe-art-lust-monster-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-302cae80-e762-45d4-90f4-0f67f0731d94.png"
+    },
+    {
+      "id": "axe-art-gm-monster",
+      "en": "Monster The GM Made Up Himself",
+      "name": "Монстр, которого придумал мастер",
+      "alt": "Нелепый зелёный монстр собран из несовместимых частей и гордится собой.",
+      "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment. Saturated colors, simple chunky forms, strong readable silhouette, minimal scenery, one visual joke. Large centered subject with comfortable margins. No text, letters, numbers, logos, watermark, card frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: A ridiculous homemade fantasy monster: one pear-shaped lime green scaly body, one duck head with orange beak, exactly two short purple tentacle arms and two mismatched legs, one chicken foot and one chunky furry bear foot, a single tiny butterfly wing attached to its back. It proudly poses on a little wooden pedestal, an unfinished pencil sketch lies under one foot, sketch contains only abstract shapes no letters. Coherent readable anatomy of a deliberately silly chimera.",
+      "file": "assets/illustrations/axe-art-gm-monster-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-39912c56-c5bd-41d7-82cf-85a50fb04fba.png"
+    },
+    {
+      "id": "axe-art-moon-maidens",
+      "en": "Moon Maidens",
+      "name": "Лунные девы",
+      "alt": "Две лунные волшебницы в серебристых мантиях сердито чистят месяц метёлками.",
+      "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment. Saturated colors, simple chunky forms, strong readable silhouette, minimal scenery, one visual joke. Large centered subject with comfortable margins. No text, letters, numbers, logos, watermark, card frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: Exactly TWO adult moon sorceresses with pale blue skin, huge silver crescent-shaped hats and flowing opaque navy robes with silver stars. Both stand on a small golden crescent moon, irritatedly sweeping sparkling moon dust with one broom each, as if stuck doing housework. Each has two arms and two legs, hands simplified under sleeves, fully clothed, no sexualization. Strong double silhouette, sparse night-blue watercolor halo on warm parchment, no other figures.",
+      "file": "assets/illustrations/axe-art-moon-maidens-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-4cfe379b-89c7-4380-806e-41e10c6c8165.png"
+    },
+    {
+      "id": "axe-art-pinata",
+      "en": "Piñata",
+      "name": "Пиньята",
+      "alt": "Радужная пиньята-ослик воинственно размахивает своей палкой, рассыпая конфеты.",
+      "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment. Saturated colors, simple chunky forms, strong readable silhouette, minimal scenery, one visual joke. Large centered subject with comfortable margins. No text, letters, numbers, logos, watermark, card frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: A rainbow tissue-paper donkey piñata as a fantasy monster, exactly four legs and two long ears, one short ribbon tail. Three-quarter view; it defiantly grips a small wooden stick sideways in its mouth, reversed birthday-party joke. Little wrapped sweets spill from a small seam in its belly, no wound or gore. Bright layered magenta turquoise and yellow paper fringe, comically angry paper eyebrows, simple isolated silhouette.",
+      "file": "assets/illustrations/axe-art-pinata-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-de0aa447-d3f0-4b45-b3fb-1ec8a2f05d0c.png"
+    },
+    {
+      "id": "axe-art-plague-rats",
+      "en": "Plague Rats",
+      "name": "Чумные крысы",
+      "alt": "Три чумные крысы в лоскутных капюшонах торжественно везут зловонный кусок сыра.",
+      "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment. Saturated colors, simple chunky forms, strong readable silhouette, minimal scenery, one visual joke. Large centered subject with comfortable margins. No text, letters, numbers, logos, watermark, card frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: Exactly THREE scruffy fantasy rats clustered around one tiny wooden cart carrying an enormous moldy green cheese wedge. Brown gray and charcoal fur, ragged burgundy hooded cloaks, beady mischievous eyes and long pink tails, each rat anatomically has four paws, some naturally hidden. One rat pulls the cart using its two front paws, two stand behind the cheese looking proud. Pale green stink curls, funny hygiene disaster, no gore, no disease lesions, no extra creatures.",
+      "file": "assets/illustrations/axe-art-plague-rats-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-caf904d2-6a00-40cd-ba16-50cadf0323ee.png"
+    },
+    {
+      "id": "axe-art-psycho-squirrel",
+      "en": "Psycho Squirrel",
+      "name": "Психованный белк",
+      "alt": "Взъерошенная белка в шлеме из скорлупы защищает желудь огромной деревянной ложкой.",
+      "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment. Saturated colors, simple chunky forms, strong readable silhouette, minimal scenery, one visual joke. Large centered subject with comfortable margins. No text, letters, numbers, logos, watermark, card frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: One wild-eyed russet squirrel with a huge zigzag fluffy tail, exactly two front paws and two hind paws, wearing a cracked walnut shell as a tiny battle helmet. Standing upright and brandishing an oversized wooden spoon in both front paws to defend a single acorn on a little rock. Twitchy whiskers, puffed cheeks and hilariously furious expression, no extra limbs, no modern weapons.",
+      "file": "assets/illustrations/axe-art-psycho-squirrel-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-b0aea9e9-26f2-4bed-bd30-d0133786c694.png"
+    },
+    {
+      "id": "axe-art-pterodactyl",
+      "en": "Pterodactyl",
+      "name": "Птеродактиль",
+      "alt": "Бирюзовый птеродактиль в лётных очках запутался клювом в носке.",
+      "prompt": "Use case: illustration-story. Asset type: one square original illustration for a humorous fantasy card game, readable at 384x384. Funny expressive caricature, bold clean ink contours, loose watercolor and gouache on warm lightly mottled parchment. Saturated colors, simple chunky forms, strong readable silhouette, minimal scenery, one visual joke. Large centered subject with comfortable margins. No text, letters, numbers, logos, watermark, card frame or panels. Original composition, do not copy existing card art. Clear anatomy, no duplicated limbs. Subject: A lanky turquoise pterodactyl with orange head crest and old-fashioned brown aviator goggles, exactly two membranous wings and two small hind feet, no separate arms. Wings spread in a broad upward V, crouching on a stone. Its long toothless beak is caught inside one stolen striped purple sock, eyes crossed in puzzled indignation. Clear simple pterosaur anatomy, cheerful original cartoon, entire wings within square frame.",
+      "file": "assets/illustrations/axe-art-pterodactyl-v1.jpg",
+      "date": "2026-10-29",
+      "status": "ready",
+      "source": "/Users/ekotov/.codex/generated_images/01a1635a-ac10-74f2-af2f-83f9b3873185/exec-ad8e6292-0fd5-419f-a387-4e44c4c8626a.png"
+    }
+  ]
+}

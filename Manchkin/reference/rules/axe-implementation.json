@@ -1,0 +1,2522 @@
+{
+  "updated": "2026-10-28",
+  "set": "axe",
+  "edition": "Classic first edition; saved publisher list with 2010+ corrections. Not the 2026 second edition.",
+  "membershipSource": "https://munchkin.game/products/games/munchkin/munchkin-2-unnatural-axe/",
+  "stage": "mechanics-complete",
+  "sourceReview": "Older printed images and official 2010+ corrections; full current-English edition comparison remains separate.",
+  "expectedUnique": 102,
+  "expectedPlayableCopies": 108,
+  "printedCopies": 112,
+  "customizationBlanks": [
+    {
+      "deck": "doors",
+      "copies": 2
+    },
+    {
+      "deck": "treasures",
+      "copies": 2
+    }
+  ],
+  "implementedDefinitions": 102,
+  "implementedCopies": 108,
+  "missing": [],
+  "rows": [
+    {
+      "en": "Annihilation",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-annihilation",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "Удали одну карту в игре из партии. Только что сыгранную соперником карту можно отменить. Удаление открытого монстра не даёт ни наград, ни новой двери.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "special",
+        "effect": "annihilation",
+        "deck": "doors",
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Brood",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-brood",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "+10 к силе одного монстра, +2 к его сокровищам.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "enhancer",
+        "deck": "doors",
+        "delta": 10,
+        "treasureDelta": 2,
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Cat Girl",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-cat-girl",
+      "rulesStatus": "partial",
+      "rulesSource": "https://bdm.unb.br/bitstream/10483/6723/6/2011_JuliaCamposMMaia.pdf",
+      "sharedRuleFrom": null,
+      "description": "+5 против орков. Непотребство: брось кубик и сбрось столько карт из руки на свой выбор; если карт меньше, сбрось всю руку.",
+      "note": "Эффект реализован по доступному печатному изображению или прямой транскрипции; сверка актуального издания остаётся в очереди.",
+      "mechanics": {
+        "type": "monster",
+        "power": 9,
+        "reward": 3,
+        "levels": 1,
+        "against": [
+          {
+            "identity": "Orc",
+            "bonus": 5
+          }
+        ],
+        "badStuff": [
+          {
+            "type": "loseCardsByDie",
+            "handOnly": true
+          }
+        ],
+        "deck": "doors",
+        "undead": false,
+        "copies": 1,
+        "printedPower": 9,
+        "printedReward": 3
+      }
+    },
+    {
+      "en": "Cheat!",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-copy-base-cheat",
+      "rulesStatus": "partial",
+      "rulesSource": "https://munchkin.game/gameplay/faq/",
+      "sharedRuleFrom": "base-cheat",
+      "description": "Вне своего боя прикрепи к одной своей шмотке. Для неё игнорируются ограничения расы, класса, пола, рук, размера и слота. Чит сбрасывается вместе со шмоткой.",
+      "note": "Реализованы отдельный эффект и проверки взаимодействий. Различия редакций и непроверенные тексты отмечены в reference/rules/base-progress.md.",
+      "mechanics": {
+        "type": "special",
+        "effect": "cheat",
+        "deck": "doors",
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Cleric",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-copy-cleric-class",
+      "rulesStatus": "not-classified",
+      "rulesSource": null,
+      "sharedRuleFrom": "cleric-class",
+      "description": "Против нежити: до 3 сбросов за бой, каждый даёт +3. Воскрешение: вместо открытой двери возьми верхнюю карту сброса дверей, заплатив картой из руки.",
+      "note": null,
+      "mechanics": {
+        "type": "class",
+        "slot": "class",
+        "bonus": 0,
+        "undead": false,
+        "deck": "doors",
+        "copies": 1
+      }
+    },
+    {
+      "en": "Crawling Hand",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-crawling-hand",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "Нежить. Отдай кольцо желания: вместо боя рука станет союзником +3. Непотребство: −2 уровня.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "monster",
+        "power": 5,
+        "reward": 2,
+        "levels": 1,
+        "deck": "doors",
+        "undead": true,
+        "ringAlly": true,
+        "badStuff": [
+          {
+            "type": "levels",
+            "amount": 2
+          }
+        ],
+        "copies": 1,
+        "printedPower": 5,
+        "printedReward": 2
+      }
+    },
+    {
+      "en": "Curse! B.O.",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-curse-b-o",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "В текущем или следующем бою тебе не помогают; нынешний помощник уходит без штрафа. Летающий нос и его Тень убегают, оставляя сокровища.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "curse",
+        "axeCurse": "bo",
+        "deck": "doors",
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Curse! Big Feet",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-curse-big-feet",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "Сбрось обувку. Пока проклятие не снято, обувку носить нельзя.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "curse",
+        "axeCurse": "bigFeet",
+        "deck": "doors",
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Curse! Cursed Thingy",
+      "deck": "doors",
+      "printedCopies": 2,
+      "present": true,
+      "id": "axe-curse-cursed-thingy",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "Одна твоя используемая шмотка теряет все способности, но продолжает занимать слот: её нельзя снять, отдать или сбросить добровольно. Непотребство её не отнимает. Другое проклятие или кольцо могут избавить от неё.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "curse",
+        "axeCurse": "thingy",
+        "deck": "doors",
+        "undead": false,
+        "copies": 2
+      }
+    },
+    {
+      "en": "Curse! Fool's Gold",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-curse-fool-s-gold",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "В текущем или следующем бою не получишь сокровищ.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "curse",
+        "axeCurse": "foolsGold",
+        "deck": "doors",
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Curse! Generosity",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-curse-generosity",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "Выбери, с кого начать: каждому другому игроку отдай по надетой шмотке. Кому не хватило шмотки — по две карты из руки, пока они есть.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "curse",
+        "axeCurse": "generosity",
+        "deck": "doors",
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Curse! Lose a Big Item",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-copy-base-curse-lose-a-big-item",
+      "rulesStatus": "partial",
+      "rulesSource": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1",
+      "sharedRuleFrom": "base-curse-lose-a-big-item",
+      "description": "Сбрось одну большую шмотку из игры на свой выбор.",
+      "note": "Механика реализована по доступным транскрипциям. Полная сверка печатного текста ещё требуется.",
+      "mechanics": {
+        "type": "curse",
+        "undead": false,
+        "deck": "doors",
+        "copies": 1
+      }
+    },
+    {
+      "en": "Curse! Lose a Small Item",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-copy-base-curse-lose-a-small-item",
+      "rulesStatus": "partial",
+      "rulesSource": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1",
+      "sharedRuleFrom": "base-curse-lose-a-small-item",
+      "description": "Сбрось одну небольшую шмотку из игры на свой выбор.",
+      "note": "Механика реализована по доступным транскрипциям. Полная сверка печатного текста ещё требуется.",
+      "mechanics": {
+        "type": "curse",
+        "undead": false,
+        "deck": "doors",
+        "copies": 1
+      }
+    },
+    {
+      "en": "Curse! Necrophobia",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-curse-necrophobia",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "Не можешь помогать против нежити; при её появлении покидаешь чужой бой. В своём бою с нежитью не можешь победить, никто не может помочь: нужно смываться.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "curse",
+        "axeCurse": "necrophobia",
+        "deck": "doors",
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Curse! New Edition Rules",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-curse-new-edition-rules",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "Все теряют по уровню. Кольцом можно отменить всё проклятие или только свою потерю. Орк может отменить свою потерю, заплатив уровнем.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "curse",
+        "axeCurse": "newEdition",
+        "deck": "doors",
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Curse! Tiny Hands",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-tiny-hands",
+      "rulesStatus": "verified",
+      "rulesSource": "https://munchkin.game/products/games/munchkin/munchkin-2-unnatural-axe/",
+      "sharedRuleFrom": null,
+      "description": "Нельзя носить шмотки, требующие больше одной руки. Такие вещи из игры сбрасываются. Чит или прикрепление к наёмнику сохраняют исключение. Действует до снятия проклятия.",
+      "note": "Эффект реализован по доступному печатному изображению или прямой транскрипции; сверка актуального издания остаётся в очереди.",
+      "mechanics": {
+        "type": "curse",
+        "deck": "doors",
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Dead",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-dead",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "Один монстр умирает сам: его сокровища можно получить после победы над остальными, уровня за него нет.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "special",
+        "effect": "deadMonster",
+        "deck": "doors",
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Dead Broke",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-dead-broke",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "Один монстр не приносит сокровищ. Его сила и награда уровнями сохраняются.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "enhancer",
+        "deck": "doors",
+        "delta": 0,
+        "treasureDelta": 0,
+        "noTreasure": true,
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Deck Of Too Many Things",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-deck-of-too-many-things",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "В свой ход сбрось любое число остальных карт руки и возьми столько же закрытых карт из выбранных колод.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "special",
+        "effect": "exchangeHand",
+        "deck": "doors",
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Dwarf",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-copy-dwarf",
+      "rulesStatus": "not-classified",
+      "rulesSource": null,
+      "sharedRuleFrom": "dwarf",
+      "description": "Можно оставить 6 карт в руке в конце хода. Ограничения на большие шмотки сняты.",
+      "note": null,
+      "mechanics": {
+        "type": "race",
+        "slot": "race",
+        "bonus": 0,
+        "undead": false,
+        "deck": "doors",
+        "copies": 1
+      }
+    },
+    {
+      "en": "Elf",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-copy-elf",
+      "rulesStatus": "not-classified",
+      "rulesSource": null,
+      "sharedRuleFrom": "elf",
+      "description": "+1 к смывке. За помощь получает по уровню за каждого убитого монстра; так можно победить!",
+      "note": null,
+      "mechanics": {
+        "type": "race",
+        "bonus": 0,
+        "slot": "race",
+        "undead": false,
+        "deck": "doors",
+        "copies": 1
+      }
+    },
+    {
+      "en": "Find A Map",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-find-map",
+      "rulesStatus": "partial",
+      "rulesSource": "https://www.woap.info/games_tournament/games_tournaments/Games/Munchkin/Munchkin%20Card%20Summary.pdf",
+      "sharedRuleFrom": null,
+      "description": "Посмотри три верхние карты колоды дверей и верни в выбранном порядке. Карты не берутся в руку и их эффекты не разыгрываются.",
+      "note": "Порядок трёх дверей сверён по исследовательской таблице. Вид колоды подтверждён официальной поправкой 2010 года; фотография полного печатного текста ещё нужна.",
+      "mechanics": {
+        "type": "special",
+        "deck": "doors",
+        "effect": "peekDoors",
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Friendly",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-friendly",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "Монстры отдают сокровища без боя и уровней. Или продолжи бой: брось два кубика и прибавь сумму каждому монстру. Нельзя сочетать с яростью и сном.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "special",
+        "effect": "friendly",
+        "deck": "doors",
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Frost Giant",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-frost-giant",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "Бонусы огненных и пламенных шмоток удваиваются. Непотребство: потеря всех огненных вещей.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "monster",
+        "power": 15,
+        "reward": 4,
+        "levels": 2,
+        "deck": "doors",
+        "doubleFire": true,
+        "badStuff": [
+          {
+            "type": "loseFire"
+          }
+        ],
+        "undead": false,
+        "copies": 1,
+        "printedPower": 15,
+        "printedReward": 4
+      }
+    },
+    {
+      "en": "Fungus",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-fungus",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "«Громадный» добавляет ему +25 вместо +10. Непотребство: эльфу −2 уровня, остальным −1; с «Громадным» потеря удваивается.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "monster",
+        "power": 5,
+        "reward": 2,
+        "levels": 1,
+        "deck": "doors",
+        "fungus": true,
+        "badStuff": [
+          {
+            "type": "fungus"
+          }
+        ],
+        "undead": false,
+        "copies": 1,
+        "printedPower": 5,
+        "printedReward": 2
+      }
+    },
+    {
+      "en": "Giant Cockroach",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-giant-cockroach",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "+5 против эльфа или человека, однократно. Непотребство: потеря головняка.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "monster",
+        "power": 7,
+        "reward": 2,
+        "levels": 1,
+        "deck": "doors",
+        "againstAny": [
+          {
+            "identities": [
+              "Elf",
+              "Human"
+            ],
+            "bonus": 5
+          }
+        ],
+        "badStuff": [
+          {
+            "type": "loseGear",
+            "slots": [
+              "head"
+            ]
+          }
+        ],
+        "undead": false,
+        "copies": 1,
+        "printedPower": 7,
+        "printedReward": 2
+      }
+    },
+    {
+      "en": "Giant Skunk",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-giant-skunk",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "Нельзя помогать, подрезать, играть карты за или против бойцов, кроме подбрасывания монстров и их усилителей. Непотребство: никто не помогает, пока не избавишься от всей нынешней одежды; цена этих вещей вдвое ниже.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "monster",
+        "power": 9,
+        "reward": 3,
+        "levels": 1,
+        "deck": "doors",
+        "noHelp": true,
+        "skunk": true,
+        "badStuff": [
+          {
+            "type": "skunk"
+          }
+        ],
+        "undead": false,
+        "copies": 1,
+        "printedPower": 9,
+        "printedReward": 3
+      }
+    },
+    {
+      "en": "Grassy Gnoll",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "gnoll",
+      "rulesStatus": "verified",
+      "rulesSource": "https://bdm.unb.br/bitstream/10483/6723/6/2011_JuliaCamposMMaia.pdf",
+      "sharedRuleFrom": null,
+      "description": "+5 против людей. Непотребство: −3 уровня; можно уменьшить потерю на 1 за каждое сброшенное зелье.",
+      "note": null,
+      "mechanics": {
+        "type": "monster",
+        "power": 7,
+        "reward": 2,
+        "joke": "Газон косит тебя.",
+        "undead": false,
+        "levels": 1,
+        "against": [
+          {
+            "identity": "Human",
+            "bonus": 5
+          }
+        ],
+        "badStuff": [
+          {
+            "type": "levels",
+            "amount": 3,
+            "potionsReduce": true
+          }
+        ],
+        "source": "https://bdm.unb.br/bitstream/10483/6723/6/2011_JuliaCamposMMaia.pdf",
+        "printedPower": 7,
+        "deck": "doors",
+        "copies": 1,
+        "printedReward": 2
+      }
+    },
+    {
+      "en": "Half-Breed",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-copy-half-breed",
+      "rulesStatus": "not-classified",
+      "rulesSource": null,
+      "sharedRuleFrom": "half-breed",
+      "description": "Можно иметь две разные расы. Сначала нужна хотя бы одна раса.",
+      "note": null,
+      "mechanics": {
+        "type": "multirace",
+        "slot": "race-mod",
+        "limit": 2,
+        "undead": false,
+        "deck": "doors",
+        "copies": 1
+      }
+    },
+    {
+      "en": "Halfling",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-copy-halfling",
+      "rulesStatus": "not-classified",
+      "rulesSource": null,
+      "sharedRuleFrom": "halfling",
+      "description": "Первую выбранную шмотку за ход можно продать вдвое дороже. После неудачной смывки можно сбросить карту и перебросить кубик.",
+      "note": null,
+      "mechanics": {
+        "type": "race",
+        "slot": "race",
+        "bonus": 0,
+        "undead": false,
+        "deck": "doors",
+        "copies": 1
+      }
+    },
+    {
+      "en": "Hydrant",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "hyd",
+      "rulesStatus": "verified",
+      "rulesSource": "https://bdm.unb.br/bitstream/10483/6723/6/2011_JuliaCamposMMaia.pdf",
+      "sharedRuleFrom": null,
+      "description": "+5, если дерёшься без помощника. Не преследует 1–2 уровень. Непотребство: потеря уровней по кубику.",
+      "note": null,
+      "mechanics": {
+        "type": "monster",
+        "power": 15,
+        "reward": 4,
+        "joke": "Пожарной безопасности тут не рады.",
+        "undead": false,
+        "levels": 2,
+        "soloBonus": 5,
+        "noPursuitBelow": 2,
+        "badStuff": [
+          {
+            "type": "levels",
+            "die": true
+          }
+        ],
+        "source": "https://bdm.unb.br/bitstream/10483/6723/6/2011_JuliaCamposMMaia.pdf",
+        "printedPower": 15,
+        "deck": "doors",
+        "copies": 1,
+        "printedReward": 4
+      }
+    },
+    {
+      "en": "Jabberwock",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-jabberwock",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "+3 против дварфа и +3 против волшебника. Не преследует 1–4 уровень. Непотребство: выбери — стать 1 уровня или потерять все шмотки.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "monster",
+        "power": 17,
+        "reward": 4,
+        "levels": 2,
+        "deck": "doors",
+        "noPursuitBelow": 4,
+        "against": [
+          {
+            "identity": "Dwarf",
+            "bonus": 3
+          },
+          {
+            "identity": "Wizard",
+            "bonus": 3
+          }
+        ],
+        "badStuff": [
+          {
+            "type": "levelOneOrItems"
+          }
+        ],
+        "undead": false,
+        "copies": 1,
+        "printedPower": 17,
+        "printedReward": 4
+      }
+    },
+    {
+      "en": "Judge Fredd",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-judge-fredd",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "+5 против вора. Непотребство: смерть, вещи конфискованы, разграбления тела нет.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "monster",
+        "power": 17,
+        "reward": 4,
+        "levels": 2,
+        "deck": "doors",
+        "against": [
+          {
+            "identity": "Thief",
+            "bonus": 5
+          }
+        ],
+        "badStuff": [
+          {
+            "type": "death",
+            "noLoot": true
+          }
+        ],
+        "undead": false,
+        "copies": 1,
+        "printedPower": 17,
+        "printedReward": 4
+      }
+    },
+    {
+      "en": "Lust Monster",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-lust-monster",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "Для победы нужен помощник другого пола; иначе смывайся или убери монстра картой. Непотребство: −1 уровень, следующий бой без бонусов оружия.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "monster",
+        "power": 13,
+        "reward": 3,
+        "levels": 1,
+        "deck": "doors",
+        "lust": true,
+        "badStuff": [
+          {
+            "type": "levels",
+            "amount": 1
+          },
+          {
+            "type": "noWeaponsNext"
+          }
+        ],
+        "undead": false,
+        "copies": 1,
+        "printedPower": 13,
+        "printedReward": 3
+      }
+    },
+    {
+      "en": "M.T. Suit",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-mt-suit",
+      "rulesStatus": "partial",
+      "rulesSource": "https://forum.mafiascum.net/viewtopic.php?sid=64bac7b43c04706c5305c390d3185db7&t=12480",
+      "sharedRuleFrom": null,
+      "description": "Нежить. +5 против воина или вора, однократно. Непотребство: потеряй 3 уровня.",
+      "note": "Эффект реализован по доступному печатному изображению или прямой транскрипции; сверка актуального издания остаётся в очереди.",
+      "mechanics": {
+        "type": "monster",
+        "power": 11,
+        "reward": 3,
+        "levels": 1,
+        "undead": true,
+        "againstAny": [
+          {
+            "identities": [
+              "Warrior",
+              "Thief"
+            ],
+            "bonus": 5
+          }
+        ],
+        "badStuff": [
+          {
+            "type": "levels",
+            "amount": 3
+          }
+        ],
+        "deck": "doors",
+        "copies": 1,
+        "printedPower": 11,
+        "printedReward": 3
+      }
+    },
+    {
+      "en": "Mommy",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-mommy",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "К монстру уровня 5 или ниже либо с усилителем «Детёныш» добавляется мама: тот же монстр на 10 уровней выше, с теми же усилителями кроме «Детёныша». На одно сокровище и один уровень больше.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "special",
+        "effect": "mommy",
+        "deck": "doors",
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Monster The GM Made Up Himself",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-monster-the-gm-made-up-himself",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "+4 против дварфа, +2 против женщины, −3 против волшебника, −2 по субботам. Непотребство зависит от расы и пола: хафлинг −1, эльф −2, мужчина дополнительно −1 и сброс карты; прочие сбрасывают две.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "monster",
+        "power": 7,
+        "reward": 2,
+        "levels": 1,
+        "deck": "doors",
+        "gmMonster": true,
+        "against": [
+          {
+            "identity": "Dwarf",
+            "bonus": 4
+          },
+          {
+            "identity": "Wizard",
+            "bonus": -3
+          }
+        ],
+        "againstSex": {
+          "sex": "female",
+          "bonus": 2
+        },
+        "badStuff": [
+          {
+            "type": "gmMonster"
+          }
+        ],
+        "undead": false,
+        "copies": 1,
+        "printedPower": 7,
+        "printedReward": 2
+      }
+    },
+    {
+      "en": "Moon Maidens",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-moon-maidens",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "В этом бою оружие не даёт никаких преимуществ. Непотребство: покажи руку; каждый другой игрок берёт из неё одну карту.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "monster",
+        "power": 7,
+        "reward": 2,
+        "levels": 1,
+        "deck": "doors",
+        "noWeapons": true,
+        "badStuff": [
+          {
+            "type": "othersTakeHand",
+            "keepRemainder": true
+          }
+        ],
+        "undead": false,
+        "copies": 1,
+        "printedPower": 7,
+        "printedReward": 2
+      }
+    },
+    {
+      "en": "Orc",
+      "deck": "doors",
+      "printedCopies": 4,
+      "present": true,
+      "id": "orc",
+      "rulesStatus": "not-classified",
+      "rulesSource": null,
+      "sharedRuleFrom": null,
+      "description": "Может отменить направленное на него проклятие потерей 1 уровня, кроме первого. Если побеждает без помощника с перевесом больше 10, получает дополнительный уровень.",
+      "note": null,
+      "mechanics": {
+        "type": "race",
+        "bonus": 0,
+        "slot": "race",
+        "undead": false,
+        "deck": "doors",
+        "copies": 4
+      }
+    },
+    {
+      "en": "Piñata",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-pi-ata",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "После убийства остальные игроки тоже могут взять по открытому сокровищу. Непотребство: сосед слева выбирает твою шмотку для сброса.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "monster",
+        "power": 3,
+        "reward": 1,
+        "levels": 1,
+        "deck": "doors",
+        "pinata": true,
+        "badStuff": [
+          {
+            "type": "leftDiscardItem"
+          }
+        ],
+        "undead": false,
+        "copies": 1,
+        "printedPower": 3,
+        "printedReward": 1
+      }
+    },
+    {
+      "en": "Plague Rats",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-plague-rats",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "Бегут от орка, оставляя сокровища, без уровня. −1 к смывке остальных. Непотребство: −2 уровня.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "monster",
+        "power": 5,
+        "reward": 2,
+        "levels": 1,
+        "deck": "doors",
+        "peacefulIdentity": "Orc",
+        "peacefulTreasure": 2,
+        "escapeModifier": -1,
+        "badStuff": [
+          {
+            "type": "levels",
+            "amount": 2
+          }
+        ],
+        "undead": false,
+        "copies": 1,
+        "printedPower": 5,
+        "printedReward": 2
+      }
+    },
+    {
+      "en": "Psycho Squirrel",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-psycho-squirrel",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "Не атакует женщин и владельцев надетого шипастого гульфика. Непотребство: −1 уровень; до следующего хода говори пискляво.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "monster",
+        "power": 3,
+        "reward": 1,
+        "levels": 1,
+        "deck": "doors",
+        "peacefulSex": "female",
+        "peacefulItem": "Spiked Codpiece",
+        "badStuff": [
+          {
+            "type": "levels",
+            "amount": 1
+          },
+          {
+            "type": "squeak"
+          }
+        ],
+        "undead": false,
+        "copies": 1,
+        "printedPower": 3,
+        "printedReward": 1
+      }
+    },
+    {
+      "en": "Pterodactyl",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-pterodactyl",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "+5 против хафлинга. Непотребство: выбери — потерять всю руку или все небольшие шмотки.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "monster",
+        "power": 11,
+        "reward": 3,
+        "levels": 1,
+        "deck": "doors",
+        "against": [
+          {
+            "identity": "Halfling",
+            "bonus": 5
+          }
+        ],
+        "badStuff": [
+          {
+            "type": "handOrSmallItems"
+          }
+        ],
+        "undead": false,
+        "copies": 1,
+        "printedPower": 11,
+        "printedReward": 3
+      }
+    },
+    {
+      "en": "Santa",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-santa",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "−5 против эльфа. Непотребство: до следующей самостоятельной победы не получаешь сокровищ ни из колоды, ни от игроков.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "monster",
+        "power": 9,
+        "reward": 3,
+        "levels": 1,
+        "deck": "doors",
+        "against": [
+          {
+            "identity": "Elf",
+            "bonus": -5
+          }
+        ],
+        "badStuff": [
+          {
+            "type": "naughty"
+          }
+        ],
+        "undead": false,
+        "copies": 1,
+        "printedPower": 9,
+        "printedReward": 3
+      }
+    },
+    {
+      "en": "Scary Clowns",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-scary-clowns",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "Нежить. +5 против хафлинга. Непотребство: −3 уровня.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "monster",
+        "power": 9,
+        "reward": 3,
+        "levels": 1,
+        "deck": "doors",
+        "undead": true,
+        "against": [
+          {
+            "identity": "Halfling",
+            "bonus": 5
+          }
+        ],
+        "badStuff": [
+          {
+            "type": "levels",
+            "amount": 3
+          }
+        ],
+        "copies": 1,
+        "printedPower": 9,
+        "printedReward": 3
+      }
+    },
+    {
+      "en": "Sleeping",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-sleeping",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "-5 к силе одного монстра, -1 к его сокровищам.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "enhancer",
+        "deck": "doors",
+        "delta": -5,
+        "treasureDelta": -1,
+        "incompatible": [
+          "Enraged",
+          "Friendly"
+        ],
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Snot Elemental",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-snot-elemental",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "+4 против эльфа. В одном бою с Летающим носом или Тенью оба получают ещё +6. Непотребство: потеря вещей, дающих бонусы твоим расам.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "monster",
+        "power": 13,
+        "reward": 3,
+        "levels": 1,
+        "deck": "doors",
+        "against": [
+          {
+            "identity": "Elf",
+            "bonus": 4
+          }
+        ],
+        "snot": true,
+        "badStuff": [
+          {
+            "type": "loseRestricted",
+            "kind": "race"
+          }
+        ],
+        "undead": false,
+        "copies": 1,
+        "printedPower": 13,
+        "printedReward": 3
+      }
+    },
+    {
+      "en": "Super Munchkin",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-copy-super-munchkin",
+      "rulesStatus": "not-classified",
+      "rulesSource": null,
+      "sharedRuleFrom": "super-munchkin",
+      "description": "Можно иметь два разных класса. Сначала нужен хотя бы один класс.",
+      "note": null,
+      "mechanics": {
+        "type": "multiclass",
+        "slot": "class-mod",
+        "limit": 2,
+        "undead": false,
+        "deck": "doors",
+        "copies": 1
+      }
+    },
+    {
+      "en": "Teddy Bear",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "bear",
+      "rulesStatus": "verified",
+      "rulesSource": "https://munchkin.game/site-munchkin/assets/files/1320/munchkin_2_rules_30p.pdf",
+      "sharedRuleFrom": null,
+      "description": "+5 против орков. Непотребство: сброс всей руки; если карт было больше одной, возьми 1 сокровище.",
+      "note": null,
+      "mechanics": {
+        "type": "monster",
+        "power": 5,
+        "reward": 2,
+        "joke": "В детстве он казался поменьше.",
+        "undead": false,
+        "levels": 1,
+        "against": [
+          {
+            "identity": "Orc",
+            "bonus": 5
+          }
+        ],
+        "badStuff": [
+          {
+            "type": "discardHand",
+            "drawIfMoreThanOne": 1
+          }
+        ],
+        "source": "https://munchkin.game/site-munchkin/assets/files/1320/munchkin_2_rules_30p.pdf",
+        "printedPower": 5,
+        "deck": "doors",
+        "copies": 1,
+        "printedReward": 2
+      }
+    },
+    {
+      "en": "Tentacle Demon",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "tent",
+      "rulesStatus": "verified",
+      "rulesSource": "https://www.tradeinn.com/f/13979/139790548_2/edge-studio-juego-de-cartas-munchkin-2%3A-hacha-descomunal.webp",
+      "sharedRuleFrom": null,
+      "description": "+5 против клириков. Не преследует 1–3 уровень. Непотребство: смерть. За убийство 2 уровня.",
+      "note": null,
+      "mechanics": {
+        "type": "monster",
+        "power": 15,
+        "reward": 4,
+        "joke": "Объятия бесплатные. Терапия — нет.",
+        "undead": false,
+        "levels": 2,
+        "against": [
+          {
+            "identity": "Cleric",
+            "bonus": 5
+          }
+        ],
+        "noPursuitBelow": 3,
+        "death": true,
+        "badStuff": [
+          {
+            "type": "death"
+          }
+        ],
+        "source": "https://www.tradeinn.com/f/13979/139790548_2/edge-studio-juego-de-cartas-munchkin-2%3A-hacha-descomunal.webp",
+        "printedPower": 15,
+        "deck": "doors",
+        "copies": 1,
+        "printedReward": 4
+      }
+    },
+    {
+      "en": "The Mighty Germ",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-the-mighty-germ",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "Хафлинг может автоматически раздавить его: сокровище без уровня. Непотребство: сбрось две карты из руки.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "monster",
+        "power": 3,
+        "reward": 1,
+        "levels": 1,
+        "deck": "doors",
+        "halflingStomp": true,
+        "badStuff": [
+          {
+            "type": "discardHand",
+            "count": 2
+          }
+        ],
+        "undead": false,
+        "copies": 1,
+        "printedPower": 3,
+        "printedReward": 1
+      }
+    },
+    {
+      "en": "The Shadow Nose",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-the-shadow-nose",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "Нежить. Как Летающий нос, но не берёт взяток: обычная смывка невозможна. Непотребство: −3 уровня.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "monster",
+        "power": 11,
+        "reward": 3,
+        "levels": 1,
+        "deck": "doors",
+        "undead": true,
+        "nose": true,
+        "noEscape": true,
+        "badStuff": [
+          {
+            "type": "levels",
+            "amount": 3
+          }
+        ],
+        "copies": 1,
+        "printedPower": 11,
+        "printedReward": 3
+      }
+    },
+    {
+      "en": "Thief",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-copy-thief",
+      "rulesStatus": "not-classified",
+      "rulesSource": null,
+      "sharedRuleFrom": "thief",
+      "description": "Подрезка: сбрось карту, чтобы дать −2 чужой стороне в бою, один раз на каждого бойца. Воровство вне боя: сбрось карту, брось 4–6 и укради небольшую шмотку; иначе −1 уровень.",
+      "note": null,
+      "mechanics": {
+        "type": "class",
+        "slot": "class",
+        "bonus": 0,
+        "undead": false,
+        "deck": "doors",
+        "copies": 1
+      }
+    },
+    {
+      "en": "Thing With A Name So Long There's No Room For A Picture On the Card",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-thing-with-a-name-so-long-there-s-no-room-for-a-picture-on-the-card",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "+5 против воина. Непотребство: потеря вещей с бонусами для твоих классов.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "monster",
+        "power": 13,
+        "reward": 3,
+        "levels": 1,
+        "deck": "doors",
+        "against": [
+          {
+            "identity": "Warrior",
+            "bonus": 5
+          }
+        ],
+        "badStuff": [
+          {
+            "type": "loseRestricted",
+            "kind": "class"
+          }
+        ],
+        "undead": false,
+        "copies": 1,
+        "printedPower": 13,
+        "printedReward": 3
+      }
+    },
+    {
+      "en": "Undead",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-undead",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "+5 к силе одного монстра, +2 к его сокровищам. Делает монстра нежитью; уже к нежити неприменима.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "enhancer",
+        "deck": "doors",
+        "delta": 5,
+        "treasureDelta": 2,
+        "makeUndead": true,
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Wandering Monster",
+      "deck": "doors",
+      "printedCopies": 2,
+      "present": true,
+      "id": "wandering-axe",
+      "rulesStatus": "not-classified",
+      "rulesSource": null,
+      "sharedRuleFrom": null,
+      "description": "В любой бой: сыграй вместе с одним монстром из своей руки. Его сила и награды добавятся к остальным монстрам.",
+      "note": null,
+      "mechanics": {
+        "type": "wandering",
+        "undead": false,
+        "deck": "doors",
+        "copies": 2
+      }
+    },
+    {
+      "en": "Warrior",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-copy-warrior",
+      "rulesStatus": "not-classified",
+      "rulesSource": null,
+      "sharedRuleFrom": "warrior",
+      "description": "В ничьей побеждает сторона воина. Ярость: сбрось до 3 карт за бой, каждая даёт +1.",
+      "note": null,
+      "mechanics": {
+        "type": "class",
+        "bonus": 0,
+        "slot": "class",
+        "undead": false,
+        "deck": "doors",
+        "copies": 1
+      }
+    },
+    {
+      "en": "Were-Turtle",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-were-turtle",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "+2 к смывке. Непотребство: потеря одной расы на выбор, человек ничего не теряет.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "monster",
+        "power": 3,
+        "reward": 1,
+        "levels": 1,
+        "deck": "doors",
+        "escapeModifier": 2,
+        "badStuff": [
+          {
+            "type": "loseOneRace"
+          }
+        ],
+        "undead": false,
+        "copies": 1,
+        "printedPower": 3,
+        "printedReward": 1
+      }
+    },
+    {
+      "en": "Wizard",
+      "deck": "doors",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-copy-wizard",
+      "rulesStatus": "not-classified",
+      "rulesSource": null,
+      "sharedRuleFrom": "wizard",
+      "description": "Зачарование: сбрось всю руку (минимум 3 карты), убери одного монстра и получи его сокровища после победы над остальными. Уровня за него нет. Полёт: после неудачной смывки до 3 сброшенных карт дают по +1 к броску.",
+      "note": null,
+      "mechanics": {
+        "type": "class",
+        "slot": "class",
+        "bonus": 0,
+        "undead": false,
+        "deck": "doors",
+        "copies": 1
+      }
+    },
+    {
+      "en": "Baby Oil",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-baby-oil",
+      "rulesStatus": "partial",
+      "rulesSource": "https://forum.mafiascum.net/viewtopic.php?f=63&start=375&t=11317",
+      "sharedRuleFrom": null,
+      "description": "Автоматическая смывка одного или двух бойцов от всех монстров, даже если обычная смывка невозможна. За второго бойца — с его согласия. Одноразовое. 300 золотых.",
+      "note": "Эффект реализован по доступному печатному изображению или прямой транскрипции; сверка актуального издания остаётся в очереди.",
+      "mechanics": {
+        "type": "escape",
+        "isItem": true,
+        "gold": 300,
+        "action": "babyOil",
+        "deck": "treasures",
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Bag of Caltrops",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-bag-of-caltrops",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "+1 к смывке. Постоянная шмотка без слота.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "item",
+        "bonus": 0,
+        "slot": "none",
+        "gold": 200,
+        "deck": "treasures",
+        "runAway": 1,
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Barbecue Fork",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-barbecue-fork",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "+3, одна рука. Только хафлингу.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "item",
+        "bonus": 3,
+        "slot": "hand",
+        "gold": 400,
+        "deck": "treasures",
+        "hands": 1,
+        "requires": [
+          "Halfling"
+        ],
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Blessed Mallet of St. Eeeeeeuuuuuuuuw",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-blessed-mallet-of-st-eeeeeeuuuuuuuuw",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "+4, две руки, большая. Позволяет изгонять нежить как клирик: до 3 сбросов по +3 за бой. С умением клирика лимит общий.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "item",
+        "bonus": 4,
+        "slot": "hand",
+        "gold": 1200,
+        "deck": "treasures",
+        "hands": 2,
+        "big": true,
+        "grantsTurn": true,
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Boomdagger",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-boomdagger",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "+1, рук не занимает. Только вору. После кражи, проклятия или продажи возвращается владельцу в начале следующего хода. Передача меняет хозяина; смерть и непотребство лишают его навсегда.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "item",
+        "bonus": 1,
+        "slot": "none",
+        "gold": 100,
+        "deck": "treasures",
+        "requires": [
+          "Thief"
+        ],
+        "boomdagger": true,
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Coat of Arms",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-coat-of-arms",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "Даёт ещё две руки для снаряжения.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "item",
+        "bonus": 0,
+        "slot": "none",
+        "gold": 500,
+        "deck": "treasures",
+        "extraHands": 2,
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Contemplate Your Navel (GUAL)",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-contemplate-navel",
+      "rulesStatus": "verified",
+      "rulesSource": "https://munchkin.game/gameplay/faq/changelog.html/",
+      "sharedRuleFrom": null,
+      "description": "Дай 1 уровень. Можно вместо этого сбросить всю оставшуюся руку (минимум 3 карты), чтобы дать 2 уровня. Победный уровень не даёт.",
+      "note": "Эффект реализован по доступному печатному изображению или прямой транскрипции; сверка актуального издания остаётся в очереди.",
+      "mechanics": {
+        "type": "level",
+        "deck": "treasures",
+        "levelCondition": "navel",
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Cute Shoulder Dragon",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-cute-shoulder-dragon",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "+2 мужчине, +4 женщине. Слот не занимает.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "item",
+        "bonus": 2,
+        "slot": "none",
+        "gold": 600,
+        "deck": "treasures",
+        "sexBonuses": [
+          {
+            "sex": "female",
+            "bonus": 2
+          }
+        ],
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Druid Fluid",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-druid-fluid",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "+3 любой стороне одного боя. Одноразовая шмотка.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "potion",
+        "bonus": 3,
+        "isPotion": true,
+        "isItem": true,
+        "gold": 100,
+        "deck": "treasures",
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Fake Beard",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-fake-beard",
+      "rulesStatus": "partial",
+      "rulesSource": "https://forum.mafiascum.net/viewtopic.php?sid=64bac7b43c04706c5305c390d3185db7&t=12480",
+      "sharedRuleFrom": null,
+      "description": "Позволяет пользоваться вещами только для дварфов. Монстры реагируют на тебя как на дварфа. Не даёт других способностей дварфа. 100 золотых.",
+      "note": "Эффект реализован по доступному печатному изображению или прямой транскрипции; сверка актуального издания остаётся в очереди.",
+      "mechanics": {
+        "type": "item",
+        "bonus": 0,
+        "slot": "none",
+        "gold": 100,
+        "itemIdentity": "Dwarf",
+        "deck": "treasures",
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Familiar",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-familiar",
+      "rulesStatus": "partial",
+      "rulesSource": "https://forum.mafiascum.net/viewtopic.php?sid=64bac7b43c04706c5305c390d3185db7&t=12480",
+      "sharedRuleFrom": null,
+      "description": "+3 к силе. Только волшебнику. Не занимает слот снаряжения. 400 золотых.",
+      "note": "Эффект реализован по доступному печатному изображению или прямой транскрипции; сверка актуального издания остаётся в очереди.",
+      "mechanics": {
+        "type": "item",
+        "bonus": 3,
+        "slot": "none",
+        "gold": 400,
+        "requires": [
+          "Wizard"
+        ],
+        "deck": "treasures",
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Fold, Spindle, and Mutilate (GUAL)",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-fold-spindle-and-mutilate-gual",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "Дай 1 уровень любому игроку. Победный уровень не даёт.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "level",
+        "deck": "treasures",
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Funny-Looking Sword",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-funny-looking-sword",
+      "rulesStatus": "partial",
+      "rulesSource": "https://forum.mafiascum.net/viewtopic.php?sid=4ac6ecca575cbb05e5efa12e02393831&t=11317",
+      "sharedRuleFrom": null,
+      "description": "+4 к силе. Одна рука. Только орку. 600 золотых.",
+      "note": "Параметры и особенности реализованы по прямой транскрипции старого издания; сверка фотографии актуальной карты ещё требуется.",
+      "mechanics": {
+        "type": "item",
+        "deck": "treasures",
+        "bonus": 4,
+        "slot": "hand",
+        "hands": 1,
+        "gold": 600,
+        "requires": [
+          "Orc"
+        ],
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Garage Sale",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-garage-sale",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "В свой ход сбрось шмотку, затем возьми из сбросов до двух шмоток: цена каждой не выше цены сброшенной.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "special",
+        "effect": "garageSale",
+        "deck": "treasures",
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Helm of Peripheral Vision",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-helm-of-peripheral-vision",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "+2. Головняк. Защищает от кражи и подрезки вора.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "item",
+        "bonus": 2,
+        "slot": "head",
+        "gold": 600,
+        "deck": "treasures",
+        "protectThief": true,
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Itching Powder",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-itching-powder",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "В бою выбранный игрок сбрасывает одну надетую одежду или броню на твой выбор; оружие и щиты не подходят. Одноразовая шмотка.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "special",
+        "effect": "itching",
+        "deck": "treasures",
+        "isItem": true,
+        "gold": 200,
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Knight Light",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-knight-light",
+      "rulesStatus": "partial",
+      "rulesSource": "https://forum.mafiascum.net/viewtopic.php?f=63&start=375&t=11317",
+      "sharedRuleFrom": null,
+      "description": "+2 к силе. Можно носить поверх другого головняка. Если теряешь основной головняк, фонарик тоже теряется. 400 золотых.",
+      "note": "Эффект реализован по доступному печатному изображению или прямой транскрипции; сверка актуального издания остаётся в очереди.",
+      "mechanics": {
+        "type": "item",
+        "bonus": 2,
+        "slot": "head",
+        "gold": 400,
+        "overSlot": true,
+        "deck": "treasures",
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Lawn Roller",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-lawn-roller",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "+4, одна рука, большая шмотка. Только дварфу.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "item",
+        "bonus": 4,
+        "slot": "hand",
+        "gold": 400,
+        "deck": "treasures",
+        "requires": [
+          "Dwarf"
+        ],
+        "hands": 1,
+        "big": true,
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Lemming Juice",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-lemming-juice",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "+3 любой стороне одного боя. Одноразовая шмотка.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "potion",
+        "bonus": 3,
+        "isPotion": true,
+        "isItem": true,
+        "gold": 100,
+        "deck": "treasures",
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Loaded Die",
+      "deck": "treasures",
+      "printedCopies": 2,
+      "present": true,
+      "id": "axe-copy-base-loaded-die",
+      "rulesStatus": "partial",
+      "rulesSource": "https://munchkin.game/gameplay/errata/",
+      "sharedRuleFrom": "base-loaded-die",
+      "description": "После своего броска замени выпавшее число любым от 1 до 6. Чужой бросок менять нельзя. Одноразовая шмотка.",
+      "note": "Механика реализована по доступным транскрипциям. Полная сверка печатного текста ещё требуется.",
+      "mechanics": {
+        "type": "special",
+        "action": "loadedDie",
+        "isItem": true,
+        "gold": 300,
+        "undead": false,
+        "deck": "treasures",
+        "copies": 2
+      }
+    },
+    {
+      "en": ". . . of Doom!",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe--of-doom",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "Прикрепи к своей шмотке с боевым бонусом: ещё +2. Усилитель остаётся с ней и теряется вместе с ней.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "special",
+        "effect": "ofDoom",
+        "deck": "treasures",
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Pay For The Pizza (GUAL)",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-pay-for-the-pizza-gual",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "Дай 1 уровень любому игроку. Победный уровень не даёт.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "level",
+        "deck": "treasures",
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Potion of Cowardice",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-potion-of-cowardice",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "Заставь бойцов немедленно смываться, даже если они могли победить. Одноразовая шмотка.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "special",
+        "effect": "cowardice",
+        "deck": "treasures",
+        "isItem": true,
+        "gold": 300,
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Potion of Disbelief",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-potion-of-disbelief",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "Убери одного монстра без уровня. Его сокровища достанутся бойцам после победы над оставшимися монстрами.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "special",
+        "effect": "disbelief",
+        "deck": "treasures",
+        "isItem": true,
+        "gold": 1000,
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Potion of Flight",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "flight",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "+5 любой стороне боя. Одноразовая шмотка; автоматической смывки не даёт.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "potion",
+        "bonus": 5,
+        "isItem": true,
+        "gold": 300,
+        "deck": "treasures",
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Promise The GM You'll Stop Telling Him About Your Character (GUAL)",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-promise-gm",
+      "rulesStatus": "partial",
+      "rulesSource": "https://forum.mafiascum.net/viewtopic.php?sid=64bac7b43c04706c5305c390d3185db7&t=12480",
+      "sharedRuleFrom": null,
+      "description": "Дай 1 уровень любому игроку. Победный уровень не даёт.",
+      "note": "Эффект реализован по доступному печатному изображению или прямой транскрипции; сверка актуального издания остаётся в очереди.",
+      "mechanics": {
+        "type": "level",
+        "deck": "treasures",
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Raincoat",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-raincoat",
+      "rulesStatus": "partial",
+      "rulesSource": "https://forum.mafiascum.net/viewtopic.php?sid=4ac6ecca575cbb05e5efa12e02393831&t=11317",
+      "sharedRuleFrom": null,
+      "description": "Можно носить поверх другой брони. Посторонние не могут применять зелья в твоём бою; бойцы могут применять их на любую сторону. При потере основной брони теряется и дождевик. 100 золотых.",
+      "note": "Эффект реализован по доступному печатному изображению или прямой транскрипции; сверка актуального издания остаётся в очереди.",
+      "mechanics": {
+        "type": "item",
+        "bonus": 0,
+        "slot": "body",
+        "gold": 100,
+        "overSlot": true,
+        "blockOutsidePotions": true,
+        "deck": "treasures",
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Scary False Teeth",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-scary-false-teeth",
+      "rulesStatus": "partial",
+      "rulesSource": "https://forum.mafiascum.net/viewtopic.php?f=63&start=375&t=11317",
+      "sharedRuleFrom": null,
+      "description": "+1 к силе. Не занимают слот снаряжения. 200 золотых.",
+      "note": "Эффект реализован по доступному печатному изображению или прямой транскрипции; сверка актуального издания остаётся в очереди.",
+      "mechanics": {
+        "type": "item",
+        "bonus": 1,
+        "slot": "none",
+        "gold": 200,
+        "deck": "treasures",
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Siege Engine",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-siege-engine",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "Две руки, большая, не учитывается в лимите больших вещей. В начале каждого боя выбери: +4 к силе и −1 к смывке либо не использовать в этом бою.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "item",
+        "bonus": 4,
+        "slot": "hand",
+        "gold": 700,
+        "deck": "treasures",
+        "hands": 2,
+        "big": true,
+        "ignoreBigLimit": true,
+        "siege": true,
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Skull Helmet",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-skull-helmet",
+      "rulesStatus": "partial",
+      "rulesSource": "https://forum.mafiascum.net/viewtopic.php?f=63&start=375&t=11317",
+      "sharedRuleFrom": null,
+      "description": "+2 к силе. Головняк. Для орка бонус +4. 400 золотых.",
+      "note": "Параметры и особенности реализованы по прямой транскрипции старого издания; сверка фотографии актуальной карты ещё требуется.",
+      "mechanics": {
+        "type": "item",
+        "deck": "treasures",
+        "bonus": 2,
+        "slot": "head",
+        "gold": 400,
+        "identityBonuses": [
+          {
+            "identity": "Orc",
+            "bonus": 2
+          }
+        ],
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Slug Thrower",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-slug-thrower",
+      "rulesStatus": "partial",
+      "rulesSource": "https://forum.mafiascum.net/viewtopic.php?f=63&t=14085",
+      "sharedRuleFrom": null,
+      "description": "+5 к силе. Две руки. Только орку. 800 золотых.",
+      "note": "Параметры и особенности реализованы по прямой транскрипции старого издания; сверка фотографии актуальной карты ещё требуется.",
+      "mechanics": {
+        "type": "item",
+        "deck": "treasures",
+        "bonus": 5,
+        "slot": "hand",
+        "hands": 2,
+        "gold": 800,
+        "requires": [
+          "Orc"
+        ],
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Spiked Codpiece",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "codpiece",
+      "rulesStatus": "partial",
+      "rulesSource": "https://forum.mafiascum.net/viewtopic.php?sid=4ac6ecca575cbb05e5efa12e02393831&t=11317",
+      "sharedRuleFrom": null,
+      "description": "+2 к силе; мужчине +4. Не занимает слот брони. 600 золотых. Текст сверён по транскрипциям карты.",
+      "note": null,
+      "mechanics": {
+        "type": "item",
+        "bonus": 2,
+        "slot": "none",
+        "undead": false,
+        "gold": 600,
+        "sexBonuses": [
+          {
+            "sex": "male",
+            "bonus": 2
+          }
+        ],
+        "source": "https://forum.mafiascum.net/viewtopic.php?sid=4ac6ecca575cbb05e5efa12e02393831&t=11317",
+        "deck": "treasures",
+        "copies": 1
+      }
+    },
+    {
+      "en": "Switch Character Sheets (GUAL)",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-switch-character-sheets-gual",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "Дай уровень игроку, который не делит наивысший уровень за столом. Не даёт победный уровень.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "level",
+        "deck": "treasures",
+        "levelCondition": "notHighest",
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Sword of Slaying Everything Except Squid",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-sword-of-slaying-everything-except-squid",
+      "rulesStatus": "partial",
+      "rulesSource": "https://forum.mafiascum.net/viewtopic.php?sid=4ac6ecca575cbb05e5efa12e02393831&t=11317",
+      "sharedRuleFrom": null,
+      "description": "+4 к силе. Одна рука. Против Кальмадзиллы бонус не действует; при его появлении сразу нужно смываться. 800 золотых.",
+      "note": "Параметры и особенности реализованы по прямой транскрипции старого издания; сверка фотографии актуальной карты ещё требуется.",
+      "mechanics": {
+        "type": "item",
+        "deck": "treasures",
+        "bonus": 4,
+        "slot": "hand",
+        "hands": 1,
+        "gold": 800,
+        "forceRunFrom": "Squidzilla",
+        "noBonusAgainst": "Squidzilla",
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Tinfoil Hat",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-tinfoil-hat",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "Головняк. Отменяет направленные на тебя проклятия других игроков. От открытой двери не защищает.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "item",
+        "bonus": 0,
+        "slot": "head",
+        "gold": 800,
+        "deck": "treasures",
+        "protectPlayerCurses": true,
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Trojan Horse",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-trojan-horse",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "Перед получением сокровищ отмени их. Можно одновременно подбросить монстра из руки: начинается новый бой. Уже полученные уровни сохраняются.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "special",
+        "effect": "trojan",
+        "deck": "treasures",
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Tweezers of Terror",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-tweezers-of-terror",
+      "rulesStatus": "partial",
+      "rulesSource": "https://forum.mafiascum.net/viewtopic.php?f=63&start=375&t=11317",
+      "sharedRuleFrom": null,
+      "description": "+3 к силе. Одна рука. Только эльфу. 400 золотых.",
+      "note": "Параметры и особенности реализованы по прямой транскрипции старого издания; сверка фотографии актуальной карты ещё требуется.",
+      "mechanics": {
+        "type": "item",
+        "deck": "treasures",
+        "bonus": 3,
+        "slot": "hand",
+        "hands": 1,
+        "gold": 400,
+        "requires": [
+          "Elf"
+        ],
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Unnatural Axe",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe",
+      "rulesStatus": "verified",
+      "rulesSource": "https://munchkin.game/site-munchkin/assets/files/1320/munchkin2_backbox.jpg",
+      "sharedRuleFrom": null,
+      "description": "+5, только воину. Одна рука, большая шмотка. 800 золотых.",
+      "note": null,
+      "mechanics": {
+        "type": "item",
+        "bonus": 5,
+        "slot": "hand",
+        "undead": false,
+        "hands": 1,
+        "requires": [
+          "Warrior"
+        ],
+        "big": true,
+        "gold": 800,
+        "source": "https://munchkin.game/site-munchkin/assets/files/1320/munchkin2_backbox.jpg",
+        "deck": "treasures",
+        "copies": 1
+      }
+    },
+    {
+      "en": "Unnecessary Roughness (GUAL)",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-unnecessary-roughness-gual",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "Дай 1 уровень любому игроку. Победный уровень не даёт.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "level",
+        "deck": "treasures",
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Very Holy Book",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-very-holy-book",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "+3, большая, без слота. Только клирику.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "item",
+        "bonus": 3,
+        "slot": "none",
+        "gold": 400,
+        "deck": "treasures",
+        "requires": [
+          "Cleric"
+        ],
+        "big": true,
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Wash The GM's Car (GUAL)",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-wash-the-gm-s-car-gual",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "Дай 1 уровень любому игроку. Победный уровень не даёт.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "level",
+        "deck": "treasures",
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Wishing Ring",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-copy-base-wishing-ring",
+      "rulesStatus": "partial",
+      "rulesSource": "https://github.com/ionagamed/munchkin/tree/master/logic/packs/pack1",
+      "sharedRuleFrom": "base-wishing-ring",
+      "description": "Отмени одно проклятие до его разрешения или сними одно продолжающееся проклятие с любого игрока. Одноразовая шмотка.",
+      "note": "Механика реализована по доступным транскрипциям. Полная сверка печатного текста ещё требуется.",
+      "mechanics": {
+        "type": "special",
+        "effect": "wishingRing",
+        "gold": 500,
+        "isItem": true,
+        "deck": "treasures",
+        "undead": false,
+        "copies": 1
+      }
+    },
+    {
+      "en": "Your Shoe's Untied!",
+      "deck": "treasures",
+      "printedCopies": 1,
+      "present": true,
+      "id": "axe-your-shoe-s-untied",
+      "rulesStatus": "partial",
+      "rulesSource": "https://slotobzor.com/wp-content/uploads/2017/11/Nastolnaya-igra-Manchkin-2-Dikij-Topor.pdf",
+      "sharedRuleFrom": null,
+      "description": "+3 любой стороне одного боя. Одноразовая шмотка.",
+      "note": "Параметры и эффект сверены по изображению старой карты. Применены известные поправки 2010+; актуальная английская редакция требует отдельной сверки.",
+      "mechanics": {
+        "type": "potion",
+        "bonus": 3,
+        "isPotion": false,
+        "isItem": true,
+        "gold": 100,
+        "deck": "treasures",
+        "undead": false,
+        "copies": 1
+      }
+    }
+  ]
+}
